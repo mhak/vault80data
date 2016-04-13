@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:45.3325785Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "35e410b133fbdbb8ad5760415cb43ac0ae7a5844",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Infrastructure",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting/Infrastructure",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{382F5C22-978D-4D62-A274-D2C8A4907D2E}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:45.3479517Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting/Infrastructure",
     "commandType": "Item"
   }
