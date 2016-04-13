@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:05.8010268Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0fb9b8a06a552ccd7c0f9094172aca2a83031ac0",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ReplaceValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{F1ABC4B0-1A5F-4100-A60A-2129DB8F79AD}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:05.8325146Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "値の置換",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Formatting/ReplaceValue",
     "commandType": "Item"
   }
