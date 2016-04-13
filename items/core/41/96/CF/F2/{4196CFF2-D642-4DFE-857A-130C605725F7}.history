@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "98f7b3b3a76b16228007d3f621998c943ffcb003",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DataLabels",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Most Active Authors/PageSettings/Lists/ActiveAuthors/DataLabels",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{4196CFF2-D642-4DFE-857A-130C605725F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.5666691Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "98f7b3b3a76b16228007d3f621998c943ffcb003",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DataLabels",
+    "itemPath": "[orphan]/DataLabels",
+    "commandType": "Item"
   }
 ]
