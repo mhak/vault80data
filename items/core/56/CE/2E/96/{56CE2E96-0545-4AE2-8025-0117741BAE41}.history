@@ -140,13 +140,28 @@
     "itemId": "{56CE2E96-0545-4AE2-8025-0117741BAE41}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:23:37.8637820Z",
+    "timestamp": "2016-04-13T18:23:37.863782Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "219253e2f2b148e234067c58929cc344cc297dbc",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "書式と値の追加",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Formatting/AddFormattedValue",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{56CE2E96-0545-4AE2-8025-0117741BAE41}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5198341Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AddFormattedValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Formatting/AddFormattedValue",
+    "commandType": "Label"
   }
 ]
