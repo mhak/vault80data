@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9f5694307744fea06cd4300c833e403d21d630f3",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "HasPaging",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/State/HasPaging",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{0959F9DF-4E28-4584-B09D-E2A0CBD90E66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:36.7857735Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "9f5694307744fea06cd4300c833e403d21d630f3",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HasPaging",
+    "itemPath": "[orphan]/HasPaging",
+    "commandType": "Item"
   }
 ]

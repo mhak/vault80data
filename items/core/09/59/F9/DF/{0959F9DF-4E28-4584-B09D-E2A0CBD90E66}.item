@@ -1,0 +1,25 @@
+----item----
+version: 1
+id: {0959F9DF-4E28-4584-B09D-E2A0CBD90E66}
+database: core
+path: /HasPaging
+parent: {00000000-0000-0000-0000-000000000000}
+name: HasPaging
+master: {00000000-0000-0000-0000-000000000000}
+template: {455A3E98-A627-4B40-8035-E683A0331AC7}
+templatekey: Template field
+
+----field----
+field: {AB162CC0-DC80-4ABF-8871-998EE5D7BA32}
+name: Type
+key: type
+content-length: 8
+
+Checkbox
+----field----
+field: {1EB8AE32-E190-44A6-968D-ED904C794EBF}
+name: Source
+key: source
+content-length: 13
+
+bindmode=read
