@@ -112,10 +112,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:17.6448897Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6d1e69b0690e67feb7934673e20dfe4df7e00024",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Updated Author",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Updated Author",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "master",
+    "itemId": "{F6D573E9-F537-42E0-9765-5EBC73802E84}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:25:17.6760724Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "郵便番号条件",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Updated Author",
     "commandType": "Item"
   }
