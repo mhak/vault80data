@@ -95,13 +95,28 @@
     "itemId": "{E2804F78-D67F-4317-9D91-9A695A92938A}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-08T22:08:51.7764650Z",
+    "timestamp": "2016-04-08T22:08:51.776465Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5f749c4eabc3f885c1fa324f602db54a1c710a31",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{E2804F78-D67F-4317-9D91-9A695A92938A}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:29.0677155Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetteProviderTyp",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data/FacetProviderType",
+    "commandType": "Item"
   }
 ]
