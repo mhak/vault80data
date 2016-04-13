@@ -217,11 +217,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5f4e9c19ccf6e5a384a4c3ef8b46ff6e92418d5c",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ツール",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{E9DCB2B5-5FA8-42FA-8AB5-F041E41E9877}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:38.5825941Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "5f4e9c19ccf6e5a384a4c3ef8b46ff6e92418d5c",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Database Utility",
+    "itemPath": "[orphan]/Database Utility",
+    "commandType": "Item"
   }
 ]
