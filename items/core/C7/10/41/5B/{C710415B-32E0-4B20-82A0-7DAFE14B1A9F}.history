@@ -157,10 +157,25 @@
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.5198341Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "08568e83d73f8d0bdd267d906d4e032a354e7145",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Feltnavn",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Facet/Data/FieldName",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C710415B-32E0-4B20-82A0-7DAFE14B1A9F}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:34.5198341Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feldname",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Facet/Data/FieldName",
     "commandType": "Label"
   }
