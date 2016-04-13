@@ -112,11 +112,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7606761Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "30cf6fa5cb23697efc6361a544862513ca44e831",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Activity",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{E8E879AA-702A-4D3B-98F8-D6CD5F41F4B5}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:13.7385209Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Analytics",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Activity",
+    "commandType": "Item"
   }
 ]
