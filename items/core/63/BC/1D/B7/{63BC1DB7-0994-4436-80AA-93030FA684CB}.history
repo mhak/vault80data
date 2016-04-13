@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:23.2232121Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7b14657a05887ef773eea701781bf94ea5e047fd",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "EnableFacets",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/Search/Data/EnableFacets",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{63BC1DB7-0994-4436-80AA-93030FA684CB}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:23.2541369Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ファセット有効",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/Search/Data/EnableFacets",
     "commandType": "Item"
   }
