@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2a851bcf17ee7b6a0d5354012e1b55ce6dedc323",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rollback Accordian",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Rollback Accordian",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{7935A24C-7027-4453-A14A-3CFAD73A8ECC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:38.1604085Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "2a851bcf17ee7b6a0d5354012e1b55ce6dedc323",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rollback Accordian",
+    "itemPath": "[orphan]/Rollback Accordian",
+    "commandType": "Item"
   }
 ]
