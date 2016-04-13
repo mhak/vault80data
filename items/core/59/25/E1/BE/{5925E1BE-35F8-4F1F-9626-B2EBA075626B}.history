@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:04.7545025Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "52babfe52657a513c1952f2091d0dd9c714aa193",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Feldname",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet/Data/FieldName",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{5925E1BE-35F8-4F1F-9626-B2EBA075626B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:04.7699559Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FieldName",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet/Data/FieldName",
     "commandType": "Item"
   }
