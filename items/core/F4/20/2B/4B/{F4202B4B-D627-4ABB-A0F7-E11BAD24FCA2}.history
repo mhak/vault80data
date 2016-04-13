@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0fb23d5d90c63724b9c26c808160f59721815f59",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アクション コントロール パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{F4202B4B-D627-4ABB-A0F7-E11BAD24FCA2}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:46.2386540Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmentierung Aktionssteuerung Parameter",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters",
+    "commandType": "Item"
   }
 ]
