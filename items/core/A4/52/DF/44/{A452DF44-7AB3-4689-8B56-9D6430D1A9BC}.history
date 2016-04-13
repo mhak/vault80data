@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1e7db4b8a44fc7e2be9ef6ca6ede19989a709a17",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Statistics",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Statistics",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{A452DF44-7AB3-4689-8B56-9D6430D1A9BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.3166502Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "1e7db4b8a44fc7e2be9ef6ca6ede19989a709a17",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Statistics",
+    "itemPath": "[orphan]/Statistics",
+    "commandType": "Item"
   }
 ]
