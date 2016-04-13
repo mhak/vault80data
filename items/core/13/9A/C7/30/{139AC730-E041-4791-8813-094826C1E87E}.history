@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:58.5510085Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2c9bcb949771a6a1c4eabef89c4852ccc2610b4a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rules ActionGroup",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters/Rules ActionColumn/Rules ActionGroup",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{139AC730-E041-4791-8813-094826C1E87E}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:58.5669664Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "セグメント化アクション グループ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters/Rules ActionColumn/Rules ActionGroup",
     "commandType": "Item"
   }
