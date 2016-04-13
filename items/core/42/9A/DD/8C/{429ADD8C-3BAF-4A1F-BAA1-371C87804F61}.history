@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7ad107f4100f44dccac9a821086ea7fb74a6e882",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault StyleSheet",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Statistics/PageSettings/Vault StyleSheet",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{429ADD8C-3BAF-4A1F-BAA1-371C87804F61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.1761890Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "7ad107f4100f44dccac9a821086ea7fb74a6e882",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault StyleSheet",
+    "itemPath": "[orphan]/Vault StyleSheet",
+    "commandType": "Item"
   }
 ]

@@ -1,0 +1,18 @@
+----item----
+version: 1
+id: {429ADD8C-3BAF-4A1F-BAA1-371C87804F61}
+database: core
+path: /Vault StyleSheet
+parent: {00000000-0000-0000-0000-000000000000}
+name: Vault StyleSheet
+master: {00000000-0000-0000-0000-000000000000}
+template: {27C78269-CEF0-483F-9E7A-AF27ED04CE5D}
+templatekey: Page-Stylesheet-File
+
+----field----
+field: {834B2406-24A9-4376-9350-CBE6DA96C51A}
+name: Stylesheet
+key: stylesheet
+content-length: 43
+
+/sitecore modules/Vault/css/Vault.SPEAK.css
