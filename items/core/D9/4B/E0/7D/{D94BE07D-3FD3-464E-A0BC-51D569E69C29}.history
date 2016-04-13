@@ -187,10 +187,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5824468Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f85dd6f673a0e379b3d71ff9ff3ece71707e908b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "AddFormattedValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/AddFormattedValue",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D94BE07D-3FD3-464E-A0BC-51D569E69C29}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:25:34.5824468Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "書式と値の追加",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/AddFormattedValue",
     "commandType": "Label"
   }
