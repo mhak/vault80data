@@ -157,10 +157,25 @@
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.5824468Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "52c34dfc0dc47d5eec66735e324132451a33fac5",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "SearchDataSource",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3DD32F5C-3248-44C2-A907-31D96ACA5737}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:34.5824468Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SucheDatenquelle",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource",
     "commandType": "Label"
   }
