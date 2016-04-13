@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:14.6920395Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4853e09a46e6ed6f0312248ea75d9a90c8703e09",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0CE4F30F-64BE-40AB-BFA2-7765A69DA145}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.6449327Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
+    "commandType": "Label"
   }
 ]
