@@ -185,12 +185,27 @@
     "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
     "version": 1,
     "language": "en",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "bbe5ca2dd683115ef0f7dd40ed8a3f7724c57ba5",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultListControl Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
+    "version": 1,
+    "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "VaultListControl Parameters",
+    "itemName": "リスト コントロール パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
     "commandType": "Label"
   }
