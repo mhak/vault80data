@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1fca715b64b45d0dddef12fd79bf732c7f8a8c95",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Restored",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Most Active Authors/PageSettings/Lists/ActiveAuthors/Restored",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{23890DD0-83CB-41A3-AD26-7E58CF35B6D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.4885254Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "1fca715b64b45d0dddef12fd79bf732c7f8a8c95",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Restored",
+    "itemPath": "[orphan]/Restored",
+    "commandType": "Item"
   }
 ]
