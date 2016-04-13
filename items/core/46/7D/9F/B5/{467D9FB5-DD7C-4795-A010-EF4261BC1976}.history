@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bd78e3c753f2318c6d3c5bd1762a6eb9eef6ab2e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ツリー ビュー パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{467D9FB5-DD7C-4795-A010-EF4261BC1976}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:23:51.8325068Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemTreeAnsicht Parameter",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters",
+    "commandType": "Item"
   }
 ]
