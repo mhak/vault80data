@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:05.5201112Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "24ee495602b0c03eda8a2d2bfcec2aea622b0ac2",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sorting",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Sorting",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{F5B6F13D-BA43-4E69-9300-0711ED2509C8}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:25:05.5514345Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "並べ替え",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Sorting",
     "commandType": "Item"
   }
