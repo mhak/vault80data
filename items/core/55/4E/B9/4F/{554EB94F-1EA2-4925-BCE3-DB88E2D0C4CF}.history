@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b4d73ac3d77a6184fd267fb3b52e6834fab00609",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Verify Rollback",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Rollback Accordian/Rollback ActionControl Parameters/Rollback ActionColumn/Rollback ActionGroup/Verify Rollback",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{554EB94F-1EA2-4925-BCE3-DB88E2D0C4CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:37.8952251Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "b4d73ac3d77a6184fd267fb3b52e6834fab00609",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Verify Rollback",
+    "itemPath": "[orphan]/Verify Rollback",
+    "commandType": "Item"
   }
 ]

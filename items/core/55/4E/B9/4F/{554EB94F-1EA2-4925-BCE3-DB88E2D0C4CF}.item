@@ -1,0 +1,25 @@
+----item----
+version: 1
+id: {554EB94F-1EA2-4925-BCE3-DB88E2D0C4CF}
+database: core
+path: /Verify Rollback
+parent: {00000000-0000-0000-0000-000000000000}
+name: Verify Rollback
+master: {00000000-0000-0000-0000-000000000000}
+template: {5EE9A69B-BC29-452E-B2D0-AD421A04E7BF}
+templatekey: Action
+
+----field----
+field: {377BCA4B-8687-4A89-B0D7-CC56765AD81B}
+name: Click
+key: click
+content-length: 45
+
+javascript:app.processRollbackPageFromList();
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
