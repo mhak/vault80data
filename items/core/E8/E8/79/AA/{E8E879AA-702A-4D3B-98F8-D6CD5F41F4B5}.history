@@ -172,10 +172,25 @@
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b45273708e5e46f00e6ba0cf0a09f1069f8702bd",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Engagement-analytics",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Activity",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{E8E879AA-702A-4D3B-98F8-D6CD5F41F4B5}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:34.5683855Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Analytics",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Activity",
     "commandType": "Label"
   }
