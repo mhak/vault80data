@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:53.4104037Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5dba12ad7e5c6e0292922a8e9aacff521cbbf8cb",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Facette",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{B6708993-C073-4690-B896-0498A0E701BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:53.4418600Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facet",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet",
     "commandType": "Item"
   }
