@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:23:52.1610279Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "630718d56b1c59fed170a42c322984945729a538",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Behavior",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{6E3CCF7E-C44D-4657-B737-FA4CFE4668D9}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:23:52.1920584Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "挙動",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior",
     "commandType": "Item"
   }
