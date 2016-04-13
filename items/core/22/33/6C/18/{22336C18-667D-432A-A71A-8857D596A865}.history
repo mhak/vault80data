@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "790b88f2d1b8e7f8a7602f75270aa7bdc73bd8c1",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Warning Accordian Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/Execute Rollback/PageSettings/Warning Accordian/Warning Accordian Parameters",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{22336C18-667D-432A-A71A-8857D596A865}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.6291905Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Warning Accordian Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Warning Accordian/Warning Accordian Parameters",
     "commandType": "Label"
   }
 ]
