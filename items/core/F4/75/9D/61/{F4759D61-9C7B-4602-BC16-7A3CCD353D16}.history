@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:56.2229073Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bb09ae8ffd4595dcd6c163d0eb0cf73effb4f5b0",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "EnableFacets",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Search/Data/EnableFacets",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{F4759D61-9C7B-4602-BC16-7A3CCD353D16}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:56.2387761Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ファセット有効",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Search/Data/EnableFacets",
     "commandType": "Item"
   }
