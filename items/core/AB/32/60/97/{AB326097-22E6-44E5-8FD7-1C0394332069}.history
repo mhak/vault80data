@@ -155,12 +155,27 @@
     "itemId": "{AB326097-22E6-44E5-8FD7-1C0394332069}",
     "version": 1,
     "language": "da",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "f16e3138b5d1569783e39a9815d200a7950c51dc",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Knapper",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{AB326097-22E6-44E5-8FD7-1C0394332069}",
+    "version": 1,
+    "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Knapper",
+    "itemName": "Buttons",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons",
     "commandType": "Label"
   }
