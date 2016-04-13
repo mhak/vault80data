@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:20.4416401Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6fc84b298b989182bdef5c05ff280625ea9764e8",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Facette",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/Facet",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{7F108F92-20D5-4809-8931-DDD47DF33C4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:20.4885170Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facet",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/Facet",
     "commandType": "Item"
   }
