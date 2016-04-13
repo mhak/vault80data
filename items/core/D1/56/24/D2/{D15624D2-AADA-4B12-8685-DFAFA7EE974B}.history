@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:23:54.4417225Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ce2d65ed1f3c31849e40abe805de0dbb847649a8",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "データ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Data",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D15624D2-AADA-4B12-8685-DFAFA7EE974B}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5511317Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Data",
+    "commandType": "Label"
   }
 ]
