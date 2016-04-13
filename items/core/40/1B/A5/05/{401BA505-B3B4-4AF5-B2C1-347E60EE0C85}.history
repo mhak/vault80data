@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "979e20dd60eda0ac12a071e8a95b2809dfa76ae0",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{401BA505-B3B4-4AF5-B2C1-347E60EE0C85}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:37.5197755Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "979e20dd60eda0ac12a071e8a95b2809dfa76ae0",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "[orphan]/Data",
+    "commandType": "Item"
   }
 ]
