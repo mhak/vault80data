@@ -187,10 +187,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "31b29d1b86287b85101bb345a62b78c9c17d2248",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tools",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{E9DCB2B5-5FA8-42FA-8AB5-F041E41E9877}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.5683855Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Database Utility",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility",
     "commandType": "Label"
   }
