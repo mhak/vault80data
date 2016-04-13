@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fd6ae5d9532f3aca7c2a58c0ac9f9579211565f6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "データ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Search/Data",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{1A6E2D7C-B99E-458A-B741-2FCDFF4F9427}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:55.9104011Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Daten",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Search/Data",
+    "commandType": "Item"
   }
 ]
