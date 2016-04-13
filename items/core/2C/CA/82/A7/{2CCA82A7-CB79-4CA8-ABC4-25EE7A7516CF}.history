@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:07.8951332Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6c6d9cf427b88d8ed28be535355f3e42ab7f70e2",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Data/Items",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{2CCA82A7-CB79-4CA8-ABC4-25EE7A7516CF}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:07.9261978Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "アイテム",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Data/Items",
     "commandType": "Item"
   }
