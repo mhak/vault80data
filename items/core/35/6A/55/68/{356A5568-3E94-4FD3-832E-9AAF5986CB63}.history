@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-08T22:07:07.4149777Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c1eb727438e6bbd636779e84fcf1b11687c694b5",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultButtons",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{356A5568-3E94-4FD3-832E-9AAF5986CB63}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:38.6140223Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "c1eb727438e6bbd636779e84fcf1b11687c694b5",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultButtons",
+    "itemPath": "[orphan]/VaultButtons",
     "commandType": "Item"
   }
 ]
