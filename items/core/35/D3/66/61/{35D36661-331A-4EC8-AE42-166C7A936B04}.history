@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:09.3954672Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e6eeab96d7eadf11c3ec42ab6e43e3fe991c4f38",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{35D36661-331A-4EC8-AE42-166C7A936B04}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:25:09.4263180Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Item"
   }
