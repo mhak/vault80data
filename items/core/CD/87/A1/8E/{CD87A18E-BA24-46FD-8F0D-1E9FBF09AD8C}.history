@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5f18070b5a74be219cec81fb0811116ef56991fd",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "選択モード",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/SelectMode",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{CD87A18E-BA24-46FD-8F0D-1E9FBF09AD8C}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:23:53.1760365Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ModusAuswählen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/SelectMode",
+    "commandType": "Item"
   }
 ]
