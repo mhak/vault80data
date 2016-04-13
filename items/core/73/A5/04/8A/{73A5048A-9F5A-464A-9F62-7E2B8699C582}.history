@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "91536d65032f5f3c5921f4cdebd6782a2c0f2775",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ビジー状態",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State/IsBusy",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{73A5048A-9F5A-464A-9F62-7E2B8699C582}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:52.9885658Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "istBeschäftigt",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State/IsBusy",
+    "commandType": "Item"
   }
 ]
