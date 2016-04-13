@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:45.3016097Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "95a4aee5ad05046659a04b544b2025f9c58255c6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sitecore Analytics",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting/Infrastructure",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{382F5C22-978D-4D62-A274-D2C8A4907D2E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:45.3325785Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Infrastructure",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting/Infrastructure",
     "commandType": "Item"
   }
