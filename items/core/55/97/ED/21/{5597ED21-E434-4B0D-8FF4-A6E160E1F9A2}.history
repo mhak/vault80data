@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:38.1136853Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cb88da4132937aa76e603fb39664cca4632d6cd4",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "WertErsetzen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Formatting/ReplaceValue",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{5597ED21-E434-4B0D-8FF4-A6E160E1F9A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:38.1292415Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReplaceValue",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Formatting/ReplaceValue",
     "commandType": "Item"
   }
