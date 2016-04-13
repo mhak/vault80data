@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "36fa09b10f0d21e78c85269a2d339feb6f866e45",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rollback Border Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Rollback Accordian/Rollback Border Parameters",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{823E12E2-248E-44B3-8B4A-D13D0FE36A5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:38.1139700Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "36fa09b10f0d21e78c85269a2d339feb6f866e45",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rollback Border Parameters",
+    "itemPath": "[orphan]/Rollback Border Parameters",
+    "commandType": "Item"
   }
 ]

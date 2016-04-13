@@ -1,0 +1,32 @@
+----item----
+version: 1
+id: {823E12E2-248E-44B3-8B4A-D13D0FE36A5E}
+database: core
+path: /Rollback Border Parameters
+parent: {00000000-0000-0000-0000-000000000000}
+name: Rollback Border Parameters
+master: {00000000-0000-0000-0000-000000000000}
+template: {CD936D55-EDEA-4F4E-8EEC-4D297258A09B}
+templatekey: Border Parameters
+
+----field----
+field: {0DA96568-CC92-4B4C-9B16-BC9CBEBDD6B8}
+name: ContentAlignment
+key: contentalignment
+content-length: 5
+
+Right
+----field----
+field: {11A5B621-725E-4729-BD58-C36B2A8BF474}
+name: ShowBorder
+key: showborder
+content-length: 1
+
+1
+----field----
+field: {A791F095-2521-4B4D-BEF9-21DDA221F608}
+name: __Style
+key: __style
+content-length: 21
+
+dct-deploylist-header
