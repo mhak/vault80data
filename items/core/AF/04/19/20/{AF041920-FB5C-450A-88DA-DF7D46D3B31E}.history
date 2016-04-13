@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d5e075549906aafe96fa0e564682680309c283ff",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rollback ActionControl Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/PageSettings/Rollback Accordian/Rollback ActionControl Parameters",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{AF041920-FB5C-450A-88DA-DF7D46D3B31E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.5683855Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rollback ActionControl Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Rollback Accordian/Rollback ActionControl Parameters",
     "commandType": "Label"
   }
 ]
