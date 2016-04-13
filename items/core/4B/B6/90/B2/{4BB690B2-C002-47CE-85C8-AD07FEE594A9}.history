@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4d744578ae20aa77564c897f87c77771e6194150",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rollback",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Moved",
+    "database": "core",
+    "itemId": "{4BB690B2-C002-47CE-85C8-AD07FEE594A9}",
+    "version": 1,
+    "language": "",
+    "timestamp": "2016-04-13T18:24:02.8013786Z",
+    "label": "Moved from unknown to old",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rollback",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback",
+    "commandType": "Item"
   }
 ]
