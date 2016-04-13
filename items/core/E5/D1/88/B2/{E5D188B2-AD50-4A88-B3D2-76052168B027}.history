@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "727d2b71bd315218fc754c2eff5ddb0c8fb07d94",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット有効",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data/EnableFacets",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{E5D188B2-AD50-4A88-B3D2-76052168B027}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:41.2387883Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacettenAktiviert",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data/EnableFacets",
+    "commandType": "Item"
   }
 ]
