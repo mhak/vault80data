@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:21.8011126Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b22c1bb5428dc501122f51ae5e4a4df38485f4d",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatting",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/Formatting",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{5827DE05-B85D-4AC4-B826-F7821AD93E94}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:21.8168199Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "書式設定",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/Formatting",
     "commandType": "Item"
   }
