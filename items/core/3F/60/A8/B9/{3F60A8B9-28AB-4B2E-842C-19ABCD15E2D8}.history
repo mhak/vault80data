@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:39.0980185Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "281018afe1504a5f7347908cbdcaa8f0b7d04883",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacettenAktiviert",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Search/Data/EnableFacets",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{3F60A8B9-28AB-4B2E-842C-19ABCD15E2D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:39.1140568Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EnableFacets",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Search/Data/EnableFacets",
     "commandType": "Item"
   }
