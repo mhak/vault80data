@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:58.2228969Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1d722984a292935cd39f8edf95f1118e9c52b4af",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アクション列",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters/Rules ActionColumn",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B45631BF-59C5-465F-8E4D-6DE36B6C050F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.6136558Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmenterings-ActionColumn",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters/Rules ActionColumn",
+    "commandType": "Label"
   }
 ]
