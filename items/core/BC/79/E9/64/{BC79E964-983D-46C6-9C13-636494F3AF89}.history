@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:47.4575022Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f8179d7a5933caa27fc4f2ae96d7dcf557c0805a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung AktionSpalte",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Selected Filter ActionControl Parameters/Selected ActionColumn",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{BC79E964-983D-46C6-9C13-636494F3AF89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:47.5044327Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Selected ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Selected Filter ActionControl Parameters/Selected ActionColumn",
     "commandType": "Item"
   }
