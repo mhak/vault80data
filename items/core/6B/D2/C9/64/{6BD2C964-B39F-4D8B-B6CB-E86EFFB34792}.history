@@ -185,12 +185,27 @@
     "itemId": "{6BD2C964-B39F-4D8B-B6CB-E86EFFB34792}",
     "version": 1,
     "language": "en",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "b6c1a172b92fa7157f589a51a59529f35bfb901f",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ShowIconImage",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ShowIconImage",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6BD2C964-B39F-4D8B-B6CB-E86EFFB34792}",
+    "version": 1,
+    "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "ShowIconImage",
+    "itemName": "アイコン画像を表示",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ShowIconImage",
     "commandType": "Label"
   }
