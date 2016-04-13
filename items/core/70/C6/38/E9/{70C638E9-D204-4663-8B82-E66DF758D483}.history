@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d406d871ce1a2f50b1ce3eac8e22c30accf575b6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Buttons",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Buttons",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{70C638E9-D204-4663-8B82-E66DF758D483}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.9886018Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "d406d871ce1a2f50b1ce3eac8e22c30accf575b6",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Buttons",
+    "itemPath": "[orphan]/Buttons",
+    "commandType": "Item"
   }
 ]
