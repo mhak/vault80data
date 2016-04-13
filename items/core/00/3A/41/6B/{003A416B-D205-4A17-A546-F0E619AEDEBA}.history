@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "dcb4467cee7ddd33e584659eef11da89ffc11354",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageSettings",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Most Active Authors/PageSettings",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{003A416B-D205-4A17-A546-F0E619AEDEBA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.8010366Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "dcb4467cee7ddd33e584659eef11da89ffc11354",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageSettings",
+    "itemPath": "[orphan]/PageSettings",
+    "commandType": "Item"
   }
 ]
