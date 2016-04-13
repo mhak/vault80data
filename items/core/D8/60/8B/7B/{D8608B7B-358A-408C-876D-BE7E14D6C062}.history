@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:23:35.1449977Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f6942633596aa3c8d8587ea0f7c553adbcb4e7b0",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "状態",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/State",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D8608B7B-358A-408C-876D-BE7E14D6C062}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5198341Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fase",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/State",
+    "commandType": "Label"
   }
 ]
