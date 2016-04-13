@@ -170,12 +170,27 @@
     "itemId": "{70350E43-15F2-461C-BD7A-1F123107C658}",
     "version": 1,
     "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "27a5c03f95e1e0008db5bd6b3b8e98601844372a",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sortierung",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/Appearance/Sorting",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{70350E43-15F2-461C-BD7A-1F123107C658}",
+    "version": 1,
+    "language": "en",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Sortierung",
+    "itemName": "Sorting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/Appearance/Sorting",
     "commandType": "Label"
   }
