@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:23:52.5357649Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "645143d66097fce38b93405d720bd41e05959eec",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "クリック フォルダー モード",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ClickFolderMode",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{130E121B-0554-490D-8D73-8B9CD7BABF11}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5354300Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ClickFolderMode",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ClickFolderMode",
+    "commandType": "Label"
   }
 ]
