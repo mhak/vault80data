@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ad0b157ca83abcb1106870d59a64da935dc897a7",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rollback",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{4BB690B2-C002-47CE-85C8-AD07FEE594A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:38.3325369Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "ad0b157ca83abcb1106870d59a64da935dc897a7",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rollback",
+    "itemPath": "[orphan]/Rollback",
+    "commandType": "Item"
   }
 ]

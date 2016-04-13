@@ -2,8 +2,8 @@
 version: 1
 id: {4BB690B2-C002-47CE-85C8-AD07FEE594A9}
 database: core
-path: /sitecore/client/Your Apps/Vault/old/Rollback
-parent: {EA783ED6-8BED-40B2-8E64-71E3C2222A3A}
+path: /Rollback
+parent: {00000000-0000-0000-0000-000000000000}
 name: Rollback
 master: {00000000-0000-0000-0000-000000000000}
 template: {B11AFCCD-C286-4384-B694-4465D6C605DE}
@@ -61,43 +61,3 @@ key: __security
 content-length: 0
 
 
-----version----
-language: en
-version: 1
-revision: 1bbeb903-c717-4ead-9167-87cabca505ed
-
-----field----
-field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
-name: BrowserTitle
-key: browsertitle
-content-length: 15
-
-Vault: Rollback
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160105T193900Z
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-1bbeb903-c717-4ead-9167-87cabca505ed
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160226T190834Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 14
-
-sitecore\admin
