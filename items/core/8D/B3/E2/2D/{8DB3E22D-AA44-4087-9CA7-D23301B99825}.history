@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da3b29a213246edf05e3a9cca419686195361176",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "アピアランス（外観および動作）",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Appearance",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{8DB3E22D-AA44-4087-9CA7-D23301B99825}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:06.4104345Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aussehen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Appearance",
+    "commandType": "Item"
   }
 ]
