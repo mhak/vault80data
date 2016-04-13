@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "18f3c414e073959b7136da1ec69cdfce8db45519",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Lists",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Most Active Authors/PageSettings/Lists",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{6BAE40F0-B07D-4FDA-86A0-E61515A033D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.7385449Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "18f3c414e073959b7136da1ec69cdfce8db45519",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lists",
+    "itemPath": "[orphan]/Lists",
+    "commandType": "Item"
   }
 ]
