@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:23:52.8791457Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8f52b057bb895a4a71fade4479975b7928dc631d",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "チェックボックスの有効化",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/IsCheckboxEnabled",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{79A013E6-EAA9-4F6F-BD3F-04EF1FB9D16B}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5354300Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsCheckboxEnabled",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/IsCheckboxEnabled",
+    "commandType": "Label"
   }
 ]
