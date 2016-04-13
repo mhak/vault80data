@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c81164ddbc71a90da600dfe6fc4f831d99623d60",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Next Button",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/PageSettings/Buttons/Next Button",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4F40937D-0B6F-439E-8097-9E7B042D6268}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.5511317Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Next Button",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Buttons/Next Button",
     "commandType": "Label"
   }
 ]
