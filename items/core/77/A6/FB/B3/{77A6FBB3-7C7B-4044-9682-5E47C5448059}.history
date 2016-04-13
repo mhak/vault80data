@@ -185,12 +185,27 @@
     "itemId": "{77A6FBB3-7C7B-4044-9682-5E47C5448059}",
     "version": 1,
     "language": "en",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "6140fe74319391d5044e6912abbbd3e2e19521ce",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultItemTreeView",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{77A6FBB3-7C7B-4044-9682-5E47C5448059}",
+    "version": 1,
+    "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "VaultItemTreeView",
+    "itemName": "ツリー ビュー",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView",
     "commandType": "Label"
   }
