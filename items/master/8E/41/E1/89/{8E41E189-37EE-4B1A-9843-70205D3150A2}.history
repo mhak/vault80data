@@ -127,10 +127,25 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:16.9890731Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "100494fc5fb16d17a9b10c55aaa7c459172b7e3b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "デフォルト",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Tags/Default",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "master",
+    "itemId": "{8E41E189-37EE-4B1A-9843-70205D3150A2}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:17.0045519Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Tags/Default",
     "commandType": "Item"
   }
