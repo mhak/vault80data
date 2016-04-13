@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:51.8323068Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "86a157e62dfd3216c0ba85bb70934f0e8ad33659",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "HatMehrItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State/HasMoreItems",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{C7CD5ECF-F065-42D8-8709-1316CDFD9794}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:51.8635233Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HasMoreItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State/HasMoreItems",
     "commandType": "Item"
   }
