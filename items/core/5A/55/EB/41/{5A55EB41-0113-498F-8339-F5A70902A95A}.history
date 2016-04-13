@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:32.0979118Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7b5847f15eeab4c5e231b31199016b76a9da2729",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Verhalten",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Behavior",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{5A55EB41-0113-498F-8339-F5A70902A95A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:32.1447901Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Behavior",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Behavior",
     "commandType": "Item"
   }
