@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bbc8073612fbd1124164070c5f0654ad414bf190",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rollback ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Rollback Accordian/Rollback ActionControl Parameters/Rollback ActionColumn",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{2C7A12A3-2D14-48FB-8F44-A284AEE2057F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:37.9889021Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "bbc8073612fbd1124164070c5f0654ad414bf190",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rollback ActionColumn",
+    "itemPath": "[orphan]/Rollback ActionColumn",
+    "commandType": "Item"
   }
 ]
