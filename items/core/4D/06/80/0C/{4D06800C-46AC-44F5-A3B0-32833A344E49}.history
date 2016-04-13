@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bab996676f6f0d69fe74c6b60b520586b02f3b26",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "アピアランス（外観および動作）",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{4D06800C-46AC-44F5-A3B0-32833A344E49}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:48.8947960Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Aussehen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance",
+    "commandType": "Item"
   }
 ]
