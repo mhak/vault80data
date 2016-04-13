@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:55.5979706Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "dc638bf877a87089d2ff3c01a12c6ff51006e2ea",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Suche",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Search",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{4CA38691-D8F2-4C47-BE2C-F4A97CC885B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:55.6135295Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Search",
     "commandType": "Item"
   }
