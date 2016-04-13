@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:34.7541463Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9950851a6071b601b64f572faf5a6d2a966840bd",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "URL",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/Url",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{BF408507-2E21-420D-A1B3-D0BE368AC1C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:34.7854838Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Url",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/Url",
     "commandType": "Item"
   }
