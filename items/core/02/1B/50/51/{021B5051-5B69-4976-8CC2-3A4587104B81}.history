@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:10.2857605Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2f356bbd1a3efcf65c35dcebf44b63ed94b44d02",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "AddFormattedValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Formatting/AddFormattedValue",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{021B5051-5B69-4976-8CC2-3A4587104B81}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:25:10.3167916Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "書式と値の追加",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Formatting/AddFormattedValue",
     "commandType": "Item"
   }
