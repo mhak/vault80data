@@ -172,10 +172,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.5824468Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9dbff5eec095abf1b7f3d52e27f528b4f038e0fa",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "SucheDatenquelle",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D574CE47-EDB1-4429-8E8F-31F7D6BE191E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.5824468Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeletedItemsDataSource Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters",
     "commandType": "Label"
   }
