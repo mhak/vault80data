@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:13.4572689Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "20cd9256019903ceb0382511c181f1f20bc5a852",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Database",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility/Label Database",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{868C148F-8652-4ECA-9256-C42048ABA6D5}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:13.4728935Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility/Label Database",
     "commandType": "Item"
   }
