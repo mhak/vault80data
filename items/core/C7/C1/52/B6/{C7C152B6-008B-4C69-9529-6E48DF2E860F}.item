@@ -1,0 +1,25 @@
+----item----
+version: 1
+id: {C7C152B6-008B-4C69-9529-6E48DF2E860F}
+database: core
+path: /Vault Enhancement
+parent: {00000000-0000-0000-0000-000000000000}
+name: Vault Enhancement
+master: {00000000-0000-0000-0000-000000000000}
+template: {27C78269-CEF0-483F-9E7A-AF27ED04CE5D}
+templatekey: Page-Stylesheet-File
+
+----field----
+field: {834B2406-24A9-4376-9350-CBE6DA96C51A}
+name: Stylesheet
+key: stylesheet
+content-length: 53
+
+/sitecore modules/Vault/css/Vault.QuickDeployment.css
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
