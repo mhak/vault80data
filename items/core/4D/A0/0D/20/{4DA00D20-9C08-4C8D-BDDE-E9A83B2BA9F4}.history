@@ -155,12 +155,27 @@
     "itemId": "{4DA00D20-9C08-4C8D-BDDE-E9A83B2BA9F4}",
     "version": 1,
     "language": "da",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "fb80d43094509f71f3c98e6a7cdeff382e45bdc7",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Søg",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4DA00D20-9C08-4C8D-BDDE-E9A83B2BA9F4}",
+    "version": 1,
+    "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Søg",
+    "itemName": "Suche",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search",
     "commandType": "Label"
   }
