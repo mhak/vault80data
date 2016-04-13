@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:16.4572764Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "98e4d96ee218e149f89ab371447ba41f44f314e1",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatierung",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/Appearance/Formatting",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{5B15EB2E-CC62-45C5-92F8-8395AF9E10CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:16.4887335Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Formatting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/Appearance/Formatting",
     "commandType": "Item"
   }
