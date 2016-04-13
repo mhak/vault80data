@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3bc6b5c0f4cecacc442bbf57a5ed92d16442e8cb",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "コンテンツの編集",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{4E0F28AA-3584-43D6-A554-33B5107FBAAA}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:45.0201111Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ContentBearbeitung",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
+    "commandType": "Item"
   }
 ]
