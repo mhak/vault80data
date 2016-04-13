@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:23:45.9420755Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c78e3cfaa8968659fa56ebfeb72a22b3623fc8ca",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ExcludedItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters/Data Bindings/ExcludedItems",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{1C99FEB9-5529-4541-9E53-D4623E9EB477}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:23:45.9729713Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "アイテム",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters/Data Bindings/ExcludedItems",
     "commandType": "Item"
   }
