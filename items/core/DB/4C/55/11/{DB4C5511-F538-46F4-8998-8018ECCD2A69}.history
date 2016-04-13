@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:10.5043391Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "da1d0b884e1753c9ef42dc2815c137df055c67dc",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "IsBusy",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/State/IsBusy",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{DB4C5511-F538-46F4-8998-8018ECCD2A69}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:10.5353975Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ビジー状態",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/State/IsBusy",
     "commandType": "Item"
   }
