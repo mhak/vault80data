@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:03.8010101Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e0334d8cce8e71190f4ed0c408999fb53b4c38c3",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Facet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{4045FF12-E51D-48A4-8A5A-1111F41E9013}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:03.8322889Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ファセット",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet",
     "commandType": "Item"
   }
