@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:52.8322775Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "081c36f8745e638d1cca35d43dd9c06e9e696f31",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "IstCheckboxAktiviert",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/IsCheckboxEnabled",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{79A013E6-EAA9-4F6F-BD3F-04EF1FB9D16B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:52.8637253Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsCheckboxEnabled",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/IsCheckboxEnabled",
     "commandType": "Item"
   }
