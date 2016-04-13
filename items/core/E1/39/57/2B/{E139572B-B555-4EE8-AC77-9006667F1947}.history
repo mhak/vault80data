@@ -95,13 +95,28 @@
     "itemId": "{E139572B-B555-4EE8-AC77-9006667F1947}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-08T22:08:51.7764650Z",
+    "timestamp": "2016-04-08T22:08:51.776465Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a92bbb2a6c937508331b88a94dfa2fd170db6820",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化 リスト マネージメント アコーディオン パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Expander/ListManagementAccordion Parameters",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{E139572B-B555-4EE8-AC77-9006667F1947}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:32.0199340Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmentierung ListeManagementAccordion Parameter",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Expander/ListManagementAccordion Parameters",
+    "commandType": "Item"
   }
 ]
