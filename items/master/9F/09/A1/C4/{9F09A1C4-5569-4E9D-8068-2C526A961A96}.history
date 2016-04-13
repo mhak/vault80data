@@ -157,10 +157,25 @@
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4d114c04b10bf72c175966b05584059f03d620ee",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Betingelse for postnummer",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Created Date",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9F09A1C4-5569-4E9D-8068-2C526A961A96}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:34.6449327Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Postleitzahl Bedingungen",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Created Date",
     "commandType": "Label"
   }
