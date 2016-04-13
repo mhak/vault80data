@@ -155,12 +155,27 @@
     "itemId": "{C9D810BB-9E4D-4426-AA9B-2B2F07DDAC1F}",
     "version": 1,
     "language": "da",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "434fd9cdff5fb25e4e93a2b66ca3ed6be2cac86f",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feltnavn",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data/FieldName",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C9D810BB-9E4D-4426-AA9B-2B2F07DDAC1F}",
+    "version": 1,
+    "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Feltnavn",
+    "itemName": "Feldname",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data/FieldName",
     "commandType": "Label"
   }
