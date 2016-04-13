@@ -155,12 +155,27 @@
     "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
     "version": 1,
     "language": "da",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "26688e75ed0edc8105138540064dabae077e8e71",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ListControl-parametre",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
+    "version": 1,
+    "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "ListControl-parametre",
+    "itemName": "Listensteuerung Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
     "commandType": "Label"
   }
