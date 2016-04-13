@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:53.9266344Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b6c6f4e117d500eb1a6d3d9c09a09246a59cd7f",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "SitecoreIconsAnzeigen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ShowSitecoreIcons",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{CA701CCE-B7CB-49CB-A8AD-41CB96FC050D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:53.9732241Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ShowSitecoreIcons",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ShowSitecoreIcons",
     "commandType": "Item"
   }
