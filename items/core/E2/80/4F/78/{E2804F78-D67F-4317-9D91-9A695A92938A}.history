@@ -187,10 +187,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5824468Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bb584d9ac9f92abb0e0b685ff7ce99c80e9fff06",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data/FacetProviderType",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{E2804F78-D67F-4317-9D91-9A695A92938A}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:25:34.5824468Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Label"
   }
