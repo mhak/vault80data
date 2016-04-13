@@ -172,10 +172,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e05ce67c1d302bb08f908840b5b022dbebdd3228",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "HatMehrItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State/HasMoreItems",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{683D64DC-6D14-4E79-87E9-FE54947903E4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.6291905Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HasMoreItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State/HasMoreItems",
     "commandType": "Label"
   }
