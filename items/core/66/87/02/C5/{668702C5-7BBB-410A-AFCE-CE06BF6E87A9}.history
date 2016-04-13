@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9040a5bcae11342e1de3b057fdc592028fa4e3b2",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Item Name",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Lists/DeplomentItems/Item Name",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{668702C5-7BBB-410A-AFCE-CE06BF6E87A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:37.5666529Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "9040a5bcae11342e1de3b057fdc592028fa4e3b2",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Name",
+    "itemPath": "[orphan]/Item Name",
+    "commandType": "Item"
   }
 ]
