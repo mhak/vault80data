@@ -185,12 +185,27 @@
     "itemId": "{6E3CCF7E-C44D-4657-B737-FA4CFE4668D9}",
     "version": 1,
     "language": "en",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "de043b7d5e8dcc52c64788c717fdfe22dece2f27",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Behavior",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6E3CCF7E-C44D-4657-B737-FA4CFE4668D9}",
+    "version": 1,
+    "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Behavior",
+    "itemName": "挙動",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior",
     "commandType": "Label"
   }
