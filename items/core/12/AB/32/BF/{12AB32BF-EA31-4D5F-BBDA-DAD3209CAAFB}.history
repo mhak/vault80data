@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:16.0713827Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1f0f28c02000c54767fdb3100daae64129d75bf0",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Aussehen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/Appearance",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{12AB32BF-EA31-4D5F-BBDA-DAD3209CAAFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:16.1143714Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Appearance",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/Appearance",
     "commandType": "Item"
   }
