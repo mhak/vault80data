@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:43.5514834Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0f82362b420e98b2786586534db589c5f5c27eb6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultButtons",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{AB326097-22E6-44E5-8FD7-1C0394332069}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:43.5822686Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ボタン",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons",
     "commandType": "Item"
   }
