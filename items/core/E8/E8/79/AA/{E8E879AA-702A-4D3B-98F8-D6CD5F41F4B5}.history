@@ -202,10 +202,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fa4829f5f824d421fb9e1418322b5af0699c7aad",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Activity",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Activity",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{E8E879AA-702A-4D3B-98F8-D6CD5F41F4B5}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:25:34.5683855Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Activity",
     "commandType": "Label"
   }
