@@ -140,13 +140,28 @@
     "itemId": "{5E3FF306-B397-4F26-8C26-1C509D0E0C1A}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:24:38.9576850Z",
+    "timestamp": "2016-04-13T18:24:38.957685Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f5bd75e7d7d1fea71bea7f20cfa4a55b83e6f6d5",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{5E3FF306-B397-4F26-8C26-1C509D0E0C1A}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetProviderType",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Facet/Data/FacetProviderType",
+    "commandType": "Label"
   }
 ]
