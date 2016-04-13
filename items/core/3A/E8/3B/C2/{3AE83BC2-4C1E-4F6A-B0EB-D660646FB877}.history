@@ -127,10 +127,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:14.0978986Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "33df989af502457a0a876263703b3db08562a5ea",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sitecore Analytics",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Statistics",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{3AE83BC2-4C1E-4F6A-B0EB-D660646FB877}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:14.1138107Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Statistics",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Statistics",
     "commandType": "Item"
   }
