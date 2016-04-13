@@ -170,12 +170,27 @@
     "itemId": "{130E121B-0554-490D-8D73-8B9CD7BABF11}",
     "version": 1,
     "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "e3a396d2cbb249c0198ac974f35715a98c4a881d",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AnklickenOrdermodus",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ClickFolderMode",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{130E121B-0554-490D-8D73-8B9CD7BABF11}",
+    "version": 1,
+    "language": "en",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "AnklickenOrdermodus",
+    "itemName": "ClickFolderMode",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ClickFolderMode",
     "commandType": "Label"
   }
