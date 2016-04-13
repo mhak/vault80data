@@ -172,10 +172,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.5198341Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ad89aafb7d0246f1843531cd814f963d599ff563",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Status",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/State",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D8608B7B-358A-408C-876D-BE7E14D6C062}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.5198341Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "State",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/State",
     "commandType": "Label"
   }
