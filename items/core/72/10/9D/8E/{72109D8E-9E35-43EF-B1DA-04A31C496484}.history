@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:10.0041465Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9d7ad4f5bb597aed25d7c8dc2b08a84f9eb277a9",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatierung",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Formatting",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{72109D8E-9E35-43EF-B1DA-04A31C496484}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:10.0201268Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Formatting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Formatting",
     "commandType": "Item"
   }
