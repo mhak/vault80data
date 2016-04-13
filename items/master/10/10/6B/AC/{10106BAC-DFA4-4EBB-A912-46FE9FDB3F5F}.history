@@ -172,10 +172,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3c9f3fc8765562cbdca31046012ccc017972bad1",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sichtbarkeit",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault/Visibility",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{10106BAC-DFA4-4EBB-A912-46FE9FDB3F5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.6449327Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visibility",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault/Visibility",
     "commandType": "Label"
   }
