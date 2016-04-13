@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4491abf951b20ab5c944ce34a93bc0a573f48904",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DeplomentItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/PageSettings/Lists/DeplomentItems",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{09E9C8E2-57B7-4C24-B8FB-2AA0A579A23C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.5683855Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeplomentItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Lists/DeplomentItems",
     "commandType": "Label"
   }
 ]
