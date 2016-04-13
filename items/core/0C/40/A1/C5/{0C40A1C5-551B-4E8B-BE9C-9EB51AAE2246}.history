@@ -202,11 +202,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6ae6084e99bbc752a318daab3203c85033166a5c",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "並べ替え",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Appearance/Sorting",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{0C40A1C5-551B-4E8B-BE9C-9EB51AAE2246}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:36.5983692Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "6ae6084e99bbc752a318daab3203c85033166a5c",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sorting",
+    "itemPath": "[orphan]/Sorting",
+    "commandType": "Item"
   }
 ]
