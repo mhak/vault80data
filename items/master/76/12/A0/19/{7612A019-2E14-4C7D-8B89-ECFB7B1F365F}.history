@@ -127,10 +127,25 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:17.3168843Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "70e827dfd3895e78a860a9ae9c0a86628e95a46a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "郵便番号条件",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "master",
+    "itemId": "{7612A019-2E14-4C7D-8B89-ECFB7B1F365F}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:17.3482053Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Postleitzahl Bedingungen",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item"
   }
