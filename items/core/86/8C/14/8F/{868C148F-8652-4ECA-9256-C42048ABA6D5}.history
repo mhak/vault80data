@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:13.4260119Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e54623ec6b733777c1690c1759bf8ec04a695a37",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sitecore Analytics",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility/Label Database",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{868C148F-8652-4ECA-9256-C42048ABA6D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:13.4572689Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Label Database",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility/Label Database",
     "commandType": "Item"
   }
