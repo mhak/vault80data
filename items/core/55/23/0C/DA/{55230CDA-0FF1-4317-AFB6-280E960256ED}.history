@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:23:55.5670099Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "91c33e183327909a1189f27a3ee8ea6f6fd4d3a1",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PreLoadPath",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Data/PreLoadPath",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{55230CDA-0FF1-4317-AFB6-280E960256ED}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:23:55.5826955Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "プリロード Path",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Data/PreLoadPath",
     "commandType": "Item"
   }
