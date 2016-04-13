@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:35.0041404Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fa8efddeef1ca4d39da394aca1a5dde9828200ea",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "並べ替え",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/Appearance/Sorting",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{70350E43-15F2-461C-BD7A-1F123107C658}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sortering",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/Appearance/Sorting",
+    "commandType": "Label"
   }
 ]
