@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:23:52.1920584Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b7a413eb5fa468b3580145ed3c2952365c947273",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "挙動",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6E3CCF7E-C44D-4657-B737-FA4CFE4668D9}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5354300Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Funktionsmåde",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior",
+    "commandType": "Label"
   }
 ]
