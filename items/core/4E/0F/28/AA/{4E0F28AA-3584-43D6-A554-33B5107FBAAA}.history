@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:45.0201111Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5c440513780024dfddf69f6c1f0cf883155c406a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ContentBearbeitung",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{4E0F28AA-3584-43D6-A554-33B5107FBAAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:45.0353924Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reporting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
     "commandType": "Item"
   }
