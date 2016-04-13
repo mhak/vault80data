@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:56.9734733Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fc86dfba8d627937bf36ba7a4717bb50939a5a7c",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Basis Templates",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Filters/Base Templates",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{D6E03D5C-F94B-45C9-84D2-D016836F6A8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:57.0041610Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Base Templates",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Filters/Base Templates",
     "commandType": "Item"
   }
