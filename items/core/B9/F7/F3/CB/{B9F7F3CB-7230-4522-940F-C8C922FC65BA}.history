@@ -172,10 +172,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "756739cdccdab3d0a00896ab1510bee1c59870e3",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Daten",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B9F7F3CB-7230-4522-940F-C8C922FC65BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.6291905Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data",
     "commandType": "Label"
   }
