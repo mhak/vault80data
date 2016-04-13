@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:23:32.1763078Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3114871a855fad69c73622d396c72d44f375649b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "挙動",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Behavior",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{5A55EB41-0113-498F-8339-F5A70902A95A}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5198341Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Funktionsmåde",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Behavior",
+    "commandType": "Label"
   }
 ]
