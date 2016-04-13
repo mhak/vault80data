@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9e60b7de9e8a11eb74b16c6a0e871623ffbc955d",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageSettings",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{41FBAB2C-0B9B-4CDE-80B4-8A2D5EE5B972}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:38.2697850Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "9e60b7de9e8a11eb74b16c6a0e871623ffbc955d",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageSettings",
+    "itemPath": "[orphan]/PageSettings",
+    "commandType": "Item"
   }
 ]
