@@ -140,13 +140,28 @@
     "itemId": "{A5C93F32-35C2-436E-B39D-A976672967EF}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:23:36.1760200Z",
+    "timestamp": "2016-04-13T18:23:36.17602Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f55163b7d596762697dee969fa299830ad72c352",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Facet",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A5C93F32-35C2-436E-B39D-A976672967EF}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5198341Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Facet",
+    "commandType": "Label"
   }
 ]
