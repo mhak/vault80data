@@ -140,13 +140,28 @@
     "itemId": "{C5FD2FEF-7E6A-4131-BE43-32C6BED91000}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:23:33.5981620Z",
+    "timestamp": "2016-04-13T18:23:33.598162Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a43b38c27d436c3588a7b6d57fc6e31ae525c657",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "メソッド名",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/MethodName",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C5FD2FEF-7E6A-4131-BE43-32C6BED91000}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5198341Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MethodName",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/MethodName",
+    "commandType": "Label"
   }
 ]
