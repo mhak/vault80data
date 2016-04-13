@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:23:36.1604139Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9db72c0471be61e3e0d953848c0f7a78d37dcdce",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Facet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Facet",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{A5C93F32-35C2-436E-B39D-A976672967EF}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:23:36.1760200Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ファセット",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Facet",
     "commandType": "Item"
   }
