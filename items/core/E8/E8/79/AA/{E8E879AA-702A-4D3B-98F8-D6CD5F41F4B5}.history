@@ -217,11 +217,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c12246c6cd4159379158e9da04718c5925dab128",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Activity",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{E8E879AA-702A-4D3B-98F8-D6CD5F41F4B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:38.3823795Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "c12246c6cd4159379158e9da04718c5925dab128",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Activity",
+    "itemPath": "[orphan]/Activity",
+    "commandType": "Item"
   }
 ]
