@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:40.3341834Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bf9ed9151d6838b1be61aae612cc678213080433",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "値の置換",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReplaceValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Label"
   }
 ]
