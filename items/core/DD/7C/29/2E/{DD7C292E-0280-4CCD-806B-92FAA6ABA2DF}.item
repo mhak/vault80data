@@ -1,0 +1,25 @@
+----item----
+version: 1
+id: {DD7C292E-0280-4CCD-806B-92FAA6ABA2DF}
+database: core
+path: /PageSettings
+parent: {00000000-0000-0000-0000-000000000000}
+name: PageSettings
+master: {00000000-0000-0000-0000-000000000000}
+template: {E35EAA2D-EDEA-431C-A9E6-488272B53782}
+templatekey: PageSettings
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 0
+
+

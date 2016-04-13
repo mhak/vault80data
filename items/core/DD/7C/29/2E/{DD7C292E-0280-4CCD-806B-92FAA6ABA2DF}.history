@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "162833649b5ef139efe6d2b29bd65f8555704d8b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageSettings",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Database Utility/Label Database/PageSettings",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{DD7C292E-0280-4CCD-806B-92FAA6ABA2DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:38.6918132Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "162833649b5ef139efe6d2b29bd65f8555704d8b",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageSettings",
+    "itemPath": "[orphan]/PageSettings",
+    "commandType": "Item"
   }
 ]
