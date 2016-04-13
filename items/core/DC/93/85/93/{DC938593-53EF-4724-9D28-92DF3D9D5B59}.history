@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:04.4265368Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "513943b7a6c42a7fffd0665270594d7df2e217a3",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{DC938593-53EF-4724-9D28-92DF3D9D5B59}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5511317Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetProviderType",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet/Data/FacetProviderType",
+    "commandType": "Label"
   }
 ]
