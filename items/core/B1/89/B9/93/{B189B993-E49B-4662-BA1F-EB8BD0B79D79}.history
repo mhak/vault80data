@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:23:45.3049286Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "dc68040dd3ab7936fa940268dd1e63f397a83bdc",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultListControl Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:23:45.3327011Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "リスト コントロール パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
     "commandType": "Item"
   }
