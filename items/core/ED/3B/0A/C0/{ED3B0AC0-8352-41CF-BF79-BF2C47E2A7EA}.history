@@ -202,11 +202,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ff785afcf7a254139b5412ff8503df9eb0414d5c",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "複数のアイテムあり",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/State/HasPrevItems",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{ED3B0AC0-8352-41CF-BF79-BF2C47E2A7EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:37.0355033Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "ff785afcf7a254139b5412ff8503df9eb0414d5c",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HasPrevItems",
+    "itemPath": "[orphan]/HasPrevItems",
+    "commandType": "Item"
   }
 ]
