@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:14.3166379Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7bb7bf38353cc19e8d841b3736e3620a95f82b46",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1283ECFA-2DDF-4F3C-89A1-1B871CAA445A}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.6449327Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Label Item",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
+    "commandType": "Label"
   }
 ]
