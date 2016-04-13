@@ -155,12 +155,27 @@
     "itemId": "{CD87A18E-BA24-46FD-8F0D-1E9FBF09AD8C}",
     "version": 1,
     "language": "da",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "80d9133384425e4f658e20068027bc9b6d0a5fb9",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SelectMode",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/SelectMode",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{CD87A18E-BA24-46FD-8F0D-1E9FBF09AD8C}",
+    "version": 1,
+    "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "SelectMode",
+    "itemName": "ModusAuswählen",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/SelectMode",
     "commandType": "Label"
   }
