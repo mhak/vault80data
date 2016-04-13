@@ -202,11 +202,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6b5f16f2eccb9e097ca40caaeae836cf125a5bfe",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility/Label Database",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{868C148F-8652-4ECA-9256-C42048ABA6D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:38.5200017Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "6b5f16f2eccb9e097ca40caaeae836cf125a5bfe",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Label Database",
+    "itemPath": "[orphan]/Label Database",
+    "commandType": "Item"
   }
 ]
