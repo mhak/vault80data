@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:52.4732377Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "dec06da1db54525eb958f2cf2f32af336b70370d",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "AnklickenOrdermodus",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ClickFolderMode",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{130E121B-0554-490D-8D73-8B9CD7BABF11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:52.5048738Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ClickFolderMode",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ClickFolderMode",
     "commandType": "Item"
   }
