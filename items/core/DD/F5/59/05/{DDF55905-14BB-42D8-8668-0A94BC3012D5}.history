@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.6825077Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "40d81470ac152a6afb7f234ffb4570043746e98d",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "応答あり",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Behavior/HasResponse",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{DDF55905-14BB-42D8-8668-0A94BC3012D5}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:23:32.4416605Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HatAntwort",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Behavior/HasResponse",
+    "commandType": "Item"
   }
 ]
