@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:03.4735182Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "ed8ae54f39d7a763d1d6f7c3b216bc99e7fab604",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "RollbackItemsDataSource",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{69EF1886-40F4-440D-8851-332EE1C5F242}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:03.4887198Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "サーチ データソース",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource",
     "commandType": "Item"
   }
