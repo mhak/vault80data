@@ -155,12 +155,27 @@
     "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
     "version": 1,
     "language": "da",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "5aa403777d9cb87341ed010a1c3be0c95ea74e8e",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Affyringsrampe",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
+    "version": 1,
+    "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Affyringsrampe",
+    "itemName": "Launch Pad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
     "commandType": "Label"
   }
