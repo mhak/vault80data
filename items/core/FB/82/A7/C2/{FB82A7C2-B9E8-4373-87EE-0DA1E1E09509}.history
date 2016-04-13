@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:56.6603914Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b15a4fffec743b6eeabb6eeb0b9120f0f6f33b0e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Filter",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Filters",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{FB82A7C2-B9E8-4373-87EE-0DA1E1E09509}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:56.6766309Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Filters",
     "commandType": "Item"
   }
