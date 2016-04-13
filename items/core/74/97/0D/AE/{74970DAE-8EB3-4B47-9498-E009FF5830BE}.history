@@ -202,11 +202,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "50329a8cd0311338f0c8c42fff27f916281699ea",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット有効",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Search/Data/EnableFacets",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{74970DAE-8EB3-4B47-9498-E009FF5830BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:37.3171307Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "50329a8cd0311338f0c8c42fff27f916281699ea",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "EnableFacets",
+    "itemPath": "[orphan]/EnableFacets",
+    "commandType": "Item"
   }
 ]
