@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7294405Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c3eb37009af05d30d7ef7e91335febec5c01969a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "データベース",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Data/Database",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{7FD28DA5-23DF-41F1-8E81-22E440FF29B7}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:23:55.0984007Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Datenbank",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Data/Database",
+    "commandType": "Item"
   }
 ]
