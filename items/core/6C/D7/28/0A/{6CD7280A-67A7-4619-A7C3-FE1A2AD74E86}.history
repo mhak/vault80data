@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:23:38.8167858Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f02dfb80e010357aa1c4052e92849015b32816ae",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Search/Data",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{6CD7280A-67A7-4619-A7C3-FE1A2AD74E86}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:23:38.8483887Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "データ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Search/Data",
     "commandType": "Item"
   }
