@@ -140,13 +140,28 @@
     "itemId": "{4472CBEC-DBCD-4A5D-9CCE-8A401344A187}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:25:06.1604510Z",
+    "timestamp": "2016-04-13T18:25:06.160451Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7e220f162ce0f9c114625cc0f0f9dccee4786cee",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "アイテム",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Data/Items",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4472CBEC-DBCD-4A5D-9CCE-8A401344A187}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.6291905Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Elementer",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Data/Items",
+    "commandType": "Label"
   }
 ]
