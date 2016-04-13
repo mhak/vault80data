@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:41.9417579Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5b786d57768cc23fae73707527323350fbd63c1a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化 リスト マネージメント アコーディオン パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ListManagementAccordion Parameters",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{95410D5F-6BAC-4969-AE08-936E93F24F9C}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ListManagementAccordion-parametre for segmentering",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ListManagementAccordion Parameters",
+    "commandType": "Label"
   }
 ]
