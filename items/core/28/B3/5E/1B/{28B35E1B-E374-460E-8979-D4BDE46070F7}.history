@@ -185,12 +185,27 @@
     "itemId": "{28B35E1B-E374-460E-8979-D4BDE46070F7}",
     "version": 1,
     "language": "en",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "206907db1d8b2eb78608675b0d9f4c8daee36186",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data Recovery",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{28B35E1B-E374-460E-8979-D4BDE46070F7}",
+    "version": 1,
+    "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Data Recovery",
+    "itemName": "マーケティング",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery",
     "commandType": "Label"
   }
