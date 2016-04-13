@@ -202,11 +202,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "44acd4c18b5c071e76aab57c424853bc3a1219ae",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{4045FF12-E51D-48A4-8A5A-1111F41E9013}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:36.2229469Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "44acd4c18b5c071e76aab57c424853bc3a1219ae",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facet",
+    "itemPath": "[orphan]/Facet",
+    "commandType": "Item"
   }
 ]
