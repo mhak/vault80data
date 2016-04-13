@@ -185,12 +185,27 @@
     "itemId": "{D616D881-E705-417B-9F02-77CA711EAB00}",
     "version": 1,
     "language": "en",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "5161e4186f716e724fbdd2566045826f69cf2970",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data Bindings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters/Data Bindings",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D616D881-E705-417B-9F02-77CA711EAB00}",
+    "version": 1,
+    "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Data Bindings",
+    "itemName": "データ バインディング",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters/Data Bindings",
     "commandType": "Label"
   }
