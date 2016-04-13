@@ -155,12 +155,27 @@
     "itemId": "{4E0F28AA-3584-43D6-A554-33B5107FBAAA}",
     "version": 1,
     "language": "da",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "be591000bd465801a76e627e62d1da7e03fefe76",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ContentEditing",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4E0F28AA-3584-43D6-A554-33B5107FBAAA}",
+    "version": 1,
+    "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "ContentEditing",
+    "itemName": "ContentBearbeitung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
     "commandType": "Label"
   }
