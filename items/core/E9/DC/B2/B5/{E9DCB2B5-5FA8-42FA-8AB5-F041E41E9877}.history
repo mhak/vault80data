@@ -127,10 +127,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:13.1291437Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bbe6edff1c1c696d9c8f163dead6f68e9a7374ca",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tools",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{E9DCB2B5-5FA8-42FA-8AB5-F041E41E9877}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:13.1449303Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Database Utility",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Database Utility",
     "commandType": "Item"
   }
