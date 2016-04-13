@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9dd834cd975fa35ee6a929ebe05140ef244f0cd4",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "検索",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/PageSettings/Data/RollbackItemsDataSource/Search",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{06B176C5-8F24-4467-B0EF-59635CD7683D}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:10.9260268Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suche",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Search",
+    "commandType": "Item"
   }
 ]
