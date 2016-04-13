@@ -185,12 +185,27 @@
     "itemId": "{4DA00D20-9C08-4C8D-BDDE-E9A83B2BA9F4}",
     "version": 1,
     "language": "en",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "829e3b7f4c44738d58b2a9103d39a7f79cddba6f",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4DA00D20-9C08-4C8D-BDDE-E9A83B2BA9F4}",
+    "version": 1,
+    "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Search",
+    "itemName": "検索",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search",
     "commandType": "Label"
   }
