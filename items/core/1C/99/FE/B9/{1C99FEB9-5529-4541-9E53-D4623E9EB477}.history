@@ -185,12 +185,27 @@
     "itemId": "{1C99FEB9-5529-4541-9E53-D4623E9EB477}",
     "version": 1,
     "language": "en",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "686cd070c959dae861bab75732a828f270b30ee4",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExcludedItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters/Data Bindings/ExcludedItems",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1C99FEB9-5529-4541-9E53-D4623E9EB477}",
+    "version": 1,
+    "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "ExcludedItems",
+    "itemName": "アイテム",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters/Data Bindings/ExcludedItems",
     "commandType": "Label"
   }
