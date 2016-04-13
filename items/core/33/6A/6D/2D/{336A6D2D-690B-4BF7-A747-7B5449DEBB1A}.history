@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:55.3010524Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "148d429cb054f10a22833069d06eb5ea4a8ac2a9",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ReplaceValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{336A6D2D-690B-4BF7-A747-7B5449DEBB1A}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:55.3325128Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "値の置換",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Formatting/ReplaceValue",
     "commandType": "Item"
   }
