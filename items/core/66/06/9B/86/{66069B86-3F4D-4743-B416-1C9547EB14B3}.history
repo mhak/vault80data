@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:53.6918699Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "424c644f86bc68670d41a607d97eabab83e55b7d",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Daten",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{66069B86-3F4D-4743-B416-1C9547EB14B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:53.7231781Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data",
     "commandType": "Item"
   }
