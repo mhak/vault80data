@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d1797cfaae035d9bdb3d1f46324640de9710babd",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "スタート画面",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:43.1604058Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Launch Pad",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
+    "commandType": "Item"
   }
 ]
