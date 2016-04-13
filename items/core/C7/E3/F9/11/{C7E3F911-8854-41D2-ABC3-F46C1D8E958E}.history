@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:21.4730684Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3c64798c48a8a6756c7edc179f74a982de25bb1d",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FieldName",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/Facet/Data/FieldName",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{C7E3F911-8854-41D2-ABC3-F46C1D8E958E}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:21.4887531Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "フィールド名",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/Facet/Data/FieldName",
     "commandType": "Item"
   }
