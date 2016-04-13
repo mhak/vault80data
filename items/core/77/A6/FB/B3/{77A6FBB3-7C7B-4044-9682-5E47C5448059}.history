@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:23:51.5197836Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4a0afe12a2155cd5ba2d35ffe0c9ebebbf7a28eb",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ツリー ビュー",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{77A6FBB3-7C7B-4044-9682-5E47C5448059}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5354300Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemTreeView",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView",
+    "commandType": "Label"
   }
 ]
