@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a9528b776fcf5f393f2f1ce3d8f47b225a6ebcd3",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "CurrentPage",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Appearance/CurrentPage",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{484DA77B-85A5-4127-AF7E-3A9CC9179FE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:36.4729580Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "a9528b776fcf5f393f2f1ce3d8f47b225a6ebcd3",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CurrentPage",
+    "itemPath": "[orphan]/CurrentPage",
+    "commandType": "Item"
   }
 ]
