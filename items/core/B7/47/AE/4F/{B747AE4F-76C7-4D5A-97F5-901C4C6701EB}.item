@@ -1,0 +1,25 @@
+----item----
+version: 1
+id: {B747AE4F-76C7-4D5A-97F5-901C4C6701EB}
+database: core
+path: /Rollback AdvancedExpander Parameters
+parent: {00000000-0000-0000-0000-000000000000}
+name: Rollback AdvancedExpander Parameters
+master: {00000000-0000-0000-0000-000000000000}
+template: {1C98E698-030C-43FF-8B6C-08D6D7E1B8DC}
+templatekey: AdvancedExpander Parameters
+
+----field----
+field: {0EA58259-0F86-47BB-B1B7-2EB33D905D15}
+name: IsOpen
+key: isopen
+content-length: 1
+
+1
+----field----
+field: {6D0C0AB0-BC40-4BD0-8ACB-16612A180F14}
+name: IsVisible
+key: isvisible
+content-length: 1
+
+1
