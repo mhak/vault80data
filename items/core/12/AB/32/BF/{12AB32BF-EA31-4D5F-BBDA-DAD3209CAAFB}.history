@@ -140,13 +140,28 @@
     "itemId": "{12AB32BF-EA31-4D5F-BBDA-DAD3209CAAFB}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:24:16.1293820Z",
+    "timestamp": "2016-04-13T18:24:16.129382Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5a286eceada7f54a2cacb26929ca580259d6424a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "アピアランス（外観および動作）",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/Appearance",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{12AB32BF-EA31-4D5F-BBDA-DAD3209CAAFB}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5683855Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Udseende",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/Appearance",
+    "commandType": "Label"
   }
 ]
