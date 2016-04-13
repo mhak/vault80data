@@ -155,12 +155,27 @@
     "itemId": "{6BD2C964-B39F-4D8B-B6CB-E86EFFB34792}",
     "version": 1,
     "language": "da",
+    "timestamp": "2016-04-13T18:25:34.53543Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "ac4cce10140a24cf0bcb0af67ae50006d5bfcb7b",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ShowIconImage",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ShowIconImage",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6BD2C964-B39F-4D8B-B6CB-E86EFFB34792}",
+    "version": 1,
+    "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "ShowIconImage",
+    "itemName": "IconBildAnzeigen",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ShowIconImage",
     "commandType": "Label"
   }
