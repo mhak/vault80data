@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:57.5828513Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "9be3286a4d0e31ded221d23db7155c4cc8a4fe10",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rules Accordion",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{F5B881C5-6D11-4061-A909-E716875FCB05}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:57.5980837Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "セグメント化アコーディオン",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
     "commandType": "Item"
   }
