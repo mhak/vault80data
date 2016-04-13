@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "30ed5f7eb876543b1025d0b28283ee57957acdc2",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Enhancement",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/PageSettings/Vault Enhancement",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C7C152B6-008B-4C69-9529-6E48DF2E860F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.5683855Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault Enhancement",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Vault Enhancement",
     "commandType": "Label"
   }
 ]
