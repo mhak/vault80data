@@ -172,10 +172,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bac6e478c42e41cb3702c1e8b59669d514256c51",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "WertErsetzen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{336A6D2D-690B-4BF7-A747-7B5449DEBB1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.6136558Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReplaceValue",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Formatting/ReplaceValue",
     "commandType": "Label"
   }
