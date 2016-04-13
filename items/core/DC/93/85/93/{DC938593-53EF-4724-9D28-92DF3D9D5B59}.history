@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "bf0a1f4fd69859ede11d57366eaad3035c96be1d",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{DC938593-53EF-4724-9D28-92DF3D9D5B59}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:04.3791495Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetteProviderTyp",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet/Data/FacetProviderType",
+    "commandType": "Item"
   }
 ]
