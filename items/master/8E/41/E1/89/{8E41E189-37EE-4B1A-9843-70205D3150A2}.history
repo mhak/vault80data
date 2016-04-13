@@ -157,10 +157,25 @@
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0fdbb987c5f7480be6539ee5b3895742a42d0d7e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Standard",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Tags/Default",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8E41E189-37EE-4B1A-9843-70205D3150A2}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:34.6449327Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Tags/Default",
     "commandType": "Label"
   }
