@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:40.5979499Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2def9763816e76d5cefb6be8d96f731ff6de1900",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Search",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{4DA00D20-9C08-4C8D-BDDE-E9A83B2BA9F4}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:40.6135798Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "検索",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search",
     "commandType": "Item"
   }
