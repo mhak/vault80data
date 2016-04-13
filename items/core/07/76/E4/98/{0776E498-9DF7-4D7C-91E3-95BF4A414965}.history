@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7606761Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "dd03d65afa155273969832f5eff49b8ca52284e7",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "複数のアイテムあり",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/State/HasMoreItems",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{0776E498-9DF7-4D7C-91E3-95BF4A414965}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:18.9417391Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HatMehrItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/DeletedItemsDataSource/DeletedItemsDataSource Parameters/State/HasMoreItems",
+    "commandType": "Item"
   }
 ]
