@@ -185,12 +185,27 @@
     "itemId": "{89BF7AA0-B313-44BE-A523-A94CBAE93BC7}",
     "version": 1,
     "language": "en",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "1be8582e028e69b184b7616b695b8a74bf463903",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recovered Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Recovered Items",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{89BF7AA0-B313-44BE-A523-A94CBAE93BC7}",
+    "version": 1,
+    "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Recovered Items",
+    "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Recovered Items",
     "commandType": "Label"
   }
