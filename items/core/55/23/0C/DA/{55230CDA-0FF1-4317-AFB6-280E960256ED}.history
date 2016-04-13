@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:55.5354867Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6caf33ba93464a784c682c22fddc1769cb5db4e5",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PfadVorladen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Data/PreLoadPath",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{55230CDA-0FF1-4317-AFB6-280E960256ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:55.5670099Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PreLoadPath",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Data/PreLoadPath",
     "commandType": "Item"
   }
