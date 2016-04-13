@@ -187,10 +187,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "91bed2a8700c92d3544c9da78f9e41b9b9f39609",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FieldName",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FieldName",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{54F7CE83-842F-4387-B3A8-59103F35E789}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:25:34.6136558Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "フィールド名",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FieldName",
     "commandType": "Label"
   }
