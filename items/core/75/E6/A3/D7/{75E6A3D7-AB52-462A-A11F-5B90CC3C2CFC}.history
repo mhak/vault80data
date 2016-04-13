@@ -7,11 +7,26 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8f5fe40d56a23c29ffe108f9a33493b7fb7086f3",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Severe Accordian Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/Execute Rollback/PageSettings/Severe Accordian/Severe Accordian Parameters",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{75E6A3D7-AB52-462A-A11F-5B90CC3C2CFC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.6291905Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Severe Accordian Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Severe Accordian/Severe Accordian Parameters",
     "commandType": "Label"
   }
 ]
