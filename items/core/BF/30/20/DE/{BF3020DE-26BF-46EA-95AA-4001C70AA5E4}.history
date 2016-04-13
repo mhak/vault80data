@@ -142,11 +142,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:26.4730452Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "eac2b7fa2a9792b12df9f5efeb66dc74c1ed9c87",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "アイテムあり",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/State/HasItems",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{BF3020DE-26BF-46EA-95AA-4001C70AA5E4}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5824468Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HasItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/State/HasItems",
+    "commandType": "Label"
   }
 ]
