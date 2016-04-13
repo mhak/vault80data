@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.6981063Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7dee66798702992349f62e40182a303083d9f359",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "検索",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Search",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{A25F7975-84D2-4C30-A098-C50C5E26801B}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:23:38.4889489Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suche",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/Search",
+    "commandType": "Item"
   }
 ]
