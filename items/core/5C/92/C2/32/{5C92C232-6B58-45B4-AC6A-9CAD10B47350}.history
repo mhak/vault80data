@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1f3bce78f260ffd4dfefb73dfe7770cf263902a8",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tree-based selection",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Tree based selection",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Moved",
+    "database": "core",
+    "itemId": "{5C92C232-6B58-45B4-AC6A-9CAD10B47350}",
+    "version": 1,
+    "language": "",
+    "timestamp": "2016-04-13T18:25:01.4572854Z",
+    "label": "Moved from unknown to SelectTab Parameters",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tree based selection",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Tree based selection",
+    "commandType": "Item"
   }
 ]
