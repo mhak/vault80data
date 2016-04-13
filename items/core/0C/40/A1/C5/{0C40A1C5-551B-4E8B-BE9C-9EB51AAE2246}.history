@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3f597f2e1311aa71301a702685e3c38523f397cb",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "並べ替え",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Appearance/Sorting",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{0C40A1C5-551B-4E8B-BE9C-9EB51AAE2246}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:07.2074313Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sortierung",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Appearance/Sorting",
+    "commandType": "Item"
   }
 ]
