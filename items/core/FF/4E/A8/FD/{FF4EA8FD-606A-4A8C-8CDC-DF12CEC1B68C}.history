@@ -140,13 +140,28 @@
     "itemId": "{FF4EA8FD-606A-4A8C-8CDC-DF12CEC1B68C}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:24:50.8478940Z",
+    "timestamp": "2016-04-13T18:24:50.847894Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d871cf14c1a075949ef1285b6856586ec43193e9",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "状態",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{FF4EA8FD-606A-4A8C-8CDC-DF12CEC1B68C}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.6136558Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fase",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State",
+    "commandType": "Label"
   }
 ]
