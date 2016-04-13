@@ -37,11 +37,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e3bd3b33f949abbd124912d41ed4b2d075d6fbe6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Most Active Authors",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Most Active Authors",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{9B49930F-FFCA-4700-AB95-1D3A31E220E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.8635569Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "e3bd3b33f949abbd124912d41ed4b2d075d6fbe6",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Most Active Authors",
+    "itemPath": "[orphan]/Most Active Authors",
+    "commandType": "Item"
   }
 ]
