@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4c46fec5ca5da43d6ada69fd9a3ae572aa328c5f",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Recovered Items",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{89BF7AA0-B313-44BE-A523-A94CBAE93BC7}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:44.4416320Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Analytics",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Recovered Items",
+    "commandType": "Item"
   }
 ]
