@@ -67,11 +67,26 @@
     "language": "",
     "timestamp": "2016-04-13T18:25:01.4900125Z",
     "label": "Renamed Tree based selection to Item selection",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0ac5696bc6883d609b81c42080c6cc7067faa177",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Item selection",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Item selection",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{5C92C232-6B58-45B4-AC6A-9CAD10B47350}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:34.6291905Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item selection",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Item selection",
+    "commandType": "Label"
   }
 ]
