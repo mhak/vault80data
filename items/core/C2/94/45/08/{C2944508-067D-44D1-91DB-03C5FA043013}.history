@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:36.6448078Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8de9a27f3993a0fe5b40dc8bf0b8fb214f73b9c2",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "HatMehrItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/State/HasMoreItems",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{C2944508-067D-44D1-91DB-03C5FA043013}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:36.6760562Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HasMoreItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/State/HasMoreItems",
     "commandType": "Item"
   }
