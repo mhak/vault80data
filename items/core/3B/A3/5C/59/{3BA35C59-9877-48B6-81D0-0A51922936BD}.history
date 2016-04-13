@@ -202,11 +202,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e967d1fd329496e48690afa76254bb1684c13039",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "書式と値の追加",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Formatting/AddFormattedValue",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{3BA35C59-9877-48B6-81D0-0A51922936BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:36.2699051Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "e967d1fd329496e48690afa76254bb1684c13039",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AddFormattedValue",
+    "itemPath": "[orphan]/AddFormattedValue",
+    "commandType": "Item"
   }
 ]
