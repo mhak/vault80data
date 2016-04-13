@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:57.3166415Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "457c991c5eb848162e9c90017734578b0ce351d5",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VerborgeneItemsAnzeigen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Filters/ShowHiddenItems",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{57612B84-FC25-44BA-832B-D4D5369EBAC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:57.3481715Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ShowHiddenItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Filters/ShowHiddenItems",
     "commandType": "Item"
   }
