@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "3234c819313e3477807a3a4db1f9c74bb57837cb",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Statistics",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Statistics/PageSettings/Vault Statistics",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{63202493-344D-4187-8B25-5826894AECCE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.2231090Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "3234c819313e3477807a3a4db1f9c74bb57837cb",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault Statistics",
+    "itemPath": "[orphan]/Vault Statistics",
+    "commandType": "Item"
   }
 ]
