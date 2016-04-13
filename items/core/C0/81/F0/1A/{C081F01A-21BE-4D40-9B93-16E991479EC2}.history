@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "525193bca0d2c78730c49194272751c28e78f73f",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "TimeCreated",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Lists/DeplomentItems/TimeCreated",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{C081F01A-21BE-4D40-9B93-16E991479EC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:37.5987402Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "525193bca0d2c78730c49194272751c28e78f73f",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TimeCreated",
+    "itemPath": "[orphan]/TimeCreated",
+    "commandType": "Item"
   }
 ]
