@@ -127,10 +127,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:24:44.1760284Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "409368b384ce4f5f2cd13efd370f6f8d73211877",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deleted Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{8D5106AE-EC3E-4455-BD05-85B3DBFBBD30}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:24:44.1923266Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
     "commandType": "Item"
   }
