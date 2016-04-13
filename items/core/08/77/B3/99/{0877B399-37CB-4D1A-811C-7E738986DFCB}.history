@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:57.8483477Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "8b3eefd06515eccbc86ddfceb25e76d0abff1d45",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung Aktionssteuerung Parameter",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{0877B399-37CB-4D1A-811C-7E738986DFCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:57.8801358Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules ActionControl Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion/Rules ActionControl Parameters",
     "commandType": "Item"
   }
