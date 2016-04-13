@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:41.8791884Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0a5b2170ed7dd45e433e3a88856d9151ffb45adf",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung ListeManagementAccordion Parameter",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ListManagementAccordion Parameters",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{95410D5F-6BAC-4969-AE08-936E93F24F9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:41.9110950Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ListManagementAccordion Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ListManagementAccordion Parameters",
     "commandType": "Item"
   }
