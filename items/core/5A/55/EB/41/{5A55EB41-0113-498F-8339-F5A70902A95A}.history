@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.6825077Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1813c0ff913474fc9238a62e15b677fb933ba984",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "挙動",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Behavior",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{5A55EB41-0113-498F-8339-F5A70902A95A}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:23:32.0979118Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Verhalten",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Behavior",
+    "commandType": "Item"
   }
 ]
