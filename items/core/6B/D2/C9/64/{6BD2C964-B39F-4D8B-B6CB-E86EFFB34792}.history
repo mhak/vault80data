@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:53.5041573Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "b283fdc79c08c44a3ec2708b480d28cbcd1aafa6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "IconBildAnzeigen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ShowIconImage",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{6BD2C964-B39F-4D8B-B6CB-E86EFFB34792}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:53.5356244Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ShowIconImage",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior/ShowIconImage",
     "commandType": "Item"
   }
