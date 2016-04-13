@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:52.1447884Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "c9736bc71e9472484a76d4e6c56c673868616a2a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Verhalten",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{6E3CCF7E-C44D-4657-B737-FA4CFE4668D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:23:52.1610279Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Behavior",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Behavior",
     "commandType": "Item"
   }
