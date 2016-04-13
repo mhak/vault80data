@@ -170,12 +170,27 @@
     "itemId": "{B5457AC5-86F4-404F-99A3-A9C4AE43A0C0}",
     "version": 1,
     "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "acb3ae3f8a75c34d43cc1168a779ba4539a917d3",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facette",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Facet",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B5457AC5-86F4-404F-99A3-A9C4AE43A0C0}",
+    "version": 1,
+    "language": "en",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
-    "itemName": "Facette",
+    "itemName": "Facet",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Facet",
     "commandType": "Label"
   }
