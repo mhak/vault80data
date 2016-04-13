@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:04.3791495Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "644f00b9e671c2d3016e3477969d330e2443abe7",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetteProviderTyp",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet/Data/FacetProviderType",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{DC938593-53EF-4724-9D28-92DF3D9D5B59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:04.4104780Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetProviderType",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Item"
   }
