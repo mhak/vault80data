@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7294405Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fcf90dbf6008032a14bf00f9198c2f699cfec910",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "非表示アイテムを表示する",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Filters/ShowHiddenItems",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{57612B84-FC25-44BA-832B-D4D5369EBAC6}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:23:57.3166415Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VerborgeneItemsAnzeigen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView/VaultItemTreeView Parameters/Filters/ShowHiddenItems",
+    "commandType": "Item"
   }
 ]
