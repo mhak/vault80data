@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "970f704c534773e7554282956bcc46d1827611df",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/__Standard Values",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{5002C630-4C20-42FA-88BF-CFC230719E90}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:36.4287055Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "970f704c534773e7554282956bcc46d1827611df",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "[orphan]/__Standard Values",
+    "commandType": "Item"
   }
 ]
