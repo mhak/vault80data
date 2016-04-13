@@ -22,11 +22,26 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "cc6c2e20d8dbf5b27499a76ec36d7ad7ce201ef6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Next Button",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Buttons/Next Button",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{4F40937D-0B6F-439E-8097-9E7B042D6268}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:35.8949187Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "cc6c2e20d8dbf5b27499a76ec36d7ad7ce201ef6",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Next Button",
+    "itemPath": "[orphan]/Next Button",
+    "commandType": "Item"
   }
 ]

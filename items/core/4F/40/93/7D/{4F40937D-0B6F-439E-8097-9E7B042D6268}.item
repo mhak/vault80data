@@ -1,0 +1,18 @@
+----item----
+version: 1
+id: {4F40937D-0B6F-439E-8097-9E7B042D6268}
+database: core
+path: /Next Button
+parent: {00000000-0000-0000-0000-000000000000}
+name: Next Button
+master: {00000000-0000-0000-0000-000000000000}
+template: {8A9F4991-322D-4FA3-B40B-41B1C715C34B}
+templatekey: Button Parameters
+
+----field----
+field: {9F2E12C5-F236-441D-AE2F-1DF11A343D81}
+name: Click
+key: click
+content-length: 17
+
+next:dlDataSource
