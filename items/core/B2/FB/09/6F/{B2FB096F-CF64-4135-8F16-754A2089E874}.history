@@ -112,10 +112,25 @@
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:39.5980821Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "02fae0d8a791e9caa5a9dedbec3c7d566dbdd6ca",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatierung",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting",
+    "commandType": "Item"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{B2FB096F-CF64-4135-8F16-754A2089E874}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:24:39.6448310Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Formatting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting",
     "commandType": "Item"
   }
