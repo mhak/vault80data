@@ -157,10 +157,25 @@
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "74c8525f1266f6a090290ada6ac36b2efb4d9c37",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Elementer",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Data/Items",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4472CBEC-DBCD-4A5D-9CCE-8A401344A187}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:25:34.6291905Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Items",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Data/Items",
     "commandType": "Label"
   }
