@@ -157,11 +157,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:14.1451466Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "90edeb7387c157b931833e9f06fd0aafca1213ca",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Statistics",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3AE83BC2-4C1E-4F6A-B0EB-D660646FB877}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5683855Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement-analytics",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/VaultButtons/Reporting/Statistics",
+    "commandType": "Label"
   }
 ]
