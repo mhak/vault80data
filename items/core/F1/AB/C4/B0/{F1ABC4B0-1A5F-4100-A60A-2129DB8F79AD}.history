@@ -187,10 +187,25 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "14b165fe1adda2448f3159bf59d5cc3a75053620",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ReplaceValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F1ABC4B0-1A5F-4100-A60A-2129DB8F79AD}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-13T18:25:34.5511317Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "値の置換",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/Formatting/ReplaceValue",
     "commandType": "Label"
   }
