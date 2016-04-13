@@ -140,13 +140,28 @@
     "itemId": "{81A237F1-B26C-4BDF-A045-1699EB0CC25F}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:24:07.5984030Z",
+    "timestamp": "2016-04-13T18:24:07.598403Z",
     "label": "Version 1 Removed",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1125810c2fbc2a73b4532404618512c8bb43e124",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "データ",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Data",
     "commandType": "Item"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{81A237F1-B26C-4BDF-A045-1699EB0CC25F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-13T18:25:34.5683855Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/Data",
+    "commandType": "Label"
   }
 ]
