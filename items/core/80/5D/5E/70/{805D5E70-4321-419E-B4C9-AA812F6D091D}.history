@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "47623d7c460434daaa5cf53343f4d33fbf69f302",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化 リスト マネージメント アコーディオン パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{805D5E70-4321-419E-B4C9-AA812F6D091D}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-13T18:24:57.1137213Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmentierung ListeManagementAccordion Parameter",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
+    "commandType": "Item"
   }
 ]
