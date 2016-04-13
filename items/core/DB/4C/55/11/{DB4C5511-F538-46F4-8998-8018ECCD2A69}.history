@@ -202,11 +202,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "59a7d9e6e032f7b86c03943b4dc1aefe7671bf3f",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ビジー状態",
     "itemPath": "/sitecore/client/Your Apps/Vault/old/Rollback/PageSettings/Data/RollbackItemsDataSource/RollbackItemsDataSource Parameters/State/IsBusy",
     "commandType": "Label"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "core",
+    "itemId": "{DB4C5511-F538-46F4-8998-8018ECCD2A69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:36.8166844Z",
+    "label": "Deleted",
+    "sourceControlRevisionId": "59a7d9e6e032f7b86c03943b4dc1aefe7671bf3f",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IsBusy",
+    "itemPath": "[orphan]/IsBusy",
+    "commandType": "Item"
   }
 ]
