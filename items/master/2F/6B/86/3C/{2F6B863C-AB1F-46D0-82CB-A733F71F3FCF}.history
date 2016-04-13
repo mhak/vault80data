@@ -97,11 +97,26 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4288c24144ded0c9a1b16f2a94832db17c517be9",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント ビルダー",
     "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault",
     "commandType": "Label"
+  },
+  {
+    "eventType": "VersionRemoved",
+    "database": "master",
+    "itemId": "{2F6B863C-AB1F-46D0-82CB-A733F71F3FCF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-13T18:25:18.9111501Z",
+    "label": "Version 1 Removed",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "XCentium Vault",
+    "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault",
+    "commandType": "Item"
   }
 ]
