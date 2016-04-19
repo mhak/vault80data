@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "1fc545f8942cdee160035b8d086863b48383555a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deploy AdvancedExpander Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian/Deploy AdvancedExpander Parameters",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{968B32BA-9220-434C-BB67-CB82BBC0AD44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8923458Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deploy AdvancedExpander Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Deploy Accordian/Deploy AdvancedExpander Parameters",
+    "commandType": "Label",
+    "template": "AdvancedExpander Parameters"
   }
 ]
