@@ -20,13 +20,29 @@
     "itemId": "{77DDC380-BA90-4DDC-861B-4E5F5BFB108F}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "2fd89f5989c6914263b8b7581ab7b2e834f6db79",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "XSpeakRules",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/XSpeakRules",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{77DDC380-BA90-4DDC-861B-4E5F5BFB108F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8298445Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XSpeakRules",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/XSpeakRules",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": "RuleDefinition"
   }
 ]
