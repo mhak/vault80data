@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0698ec146713466e322217c22fef6363307ed6f0",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault StyleSheet",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Vault StyleSheet",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C6957134-BEFE-4A32-B075-C75C56379786}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8766776Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault StyleSheet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Vault StyleSheet",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File"
   }
 ]
