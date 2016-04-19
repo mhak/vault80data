@@ -202,11 +202,27 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "7b50c51a62da6b363b916058ca705839f269c389",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "サーチ データソース",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{FB063447-5683-4707-A915-1101849D4D14}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-19T01:55:06.8298445Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SearchDataSource",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource",
+    "commandType": "Label",
+    "template": "View rendering"
   }
 ]
