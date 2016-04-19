@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "f5a789e0f57527d1905e602fe7862bdec311df72",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ResultsTab Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/ResultsTab Parameters",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{DDE1E2F3-667F-4D3B-BAC4-EB26713CAFA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8612577Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ResultsTab Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/ResultsTab Parameters",
+    "commandType": "Label",
+    "template": "TabControl Parameters"
   }
 ]
