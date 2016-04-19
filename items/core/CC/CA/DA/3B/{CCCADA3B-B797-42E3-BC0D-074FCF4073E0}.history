@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e86ec1d8c382bd2834c2f31b8cea44e04d63df7a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Item Name",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Lists/ReleaseItems/Item Name",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{CCCADA3B-B797-42E3-BC0D-074FCF4073E0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8455697Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Name",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Lists/ReleaseItems/Item Name",
+    "commandType": "Label",
+    "template": "ColumnField"
   }
 ]
