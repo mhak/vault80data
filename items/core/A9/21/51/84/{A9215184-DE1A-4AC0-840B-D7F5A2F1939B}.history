@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "a504a6c3d4564b723c39aa19570ae72675d04b3f",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rules",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A9215184-DE1A-4AC0-840B-D7F5A2F1939B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8455697Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules",
+    "commandType": "Label",
+    "template": "Folder"
   }
 ]
