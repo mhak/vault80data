@@ -20,13 +20,29 @@
     "itemId": "{25B5FCAC-C3B6-4C49-A85C-9E414573A9B3}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "4ab34ddeb80a5c8bb56b079ad347af4ce9767f77",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Release",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{25B5FCAC-C3B6-4C49-A85C-9E414573A9B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8298445Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Release",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": "Folder"
   }
 ]
