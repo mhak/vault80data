@@ -20,13 +20,29 @@
     "itemId": "{1F70B980-52E8-497C-A8F3-68FEB24701E5}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "00830927467f86a414c88bf7b767f4027611c759",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1F70B980-52E8-497C-A8F3-68FEB24701E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8298445Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": "Speak-DashboardPage"
   }
 ]
