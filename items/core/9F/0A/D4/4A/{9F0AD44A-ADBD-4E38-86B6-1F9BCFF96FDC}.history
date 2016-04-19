@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "26c6a2cb0595c8b4c83ab535b66a29457043daf4",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "TheVault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9F0AD44A-ADBD-4E38-86B6-1F9BCFF96FDC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.9079553Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TheVault",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault",
+    "commandType": "Label",
+    "template": "Folder"
   }
 ]
