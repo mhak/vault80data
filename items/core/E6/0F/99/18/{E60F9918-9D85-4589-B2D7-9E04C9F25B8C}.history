@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "0b2c72586f120cf48d27def624392baae60f9abb",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deployed Accordian Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/DeploymentAccordian/Deployed Accordian Parameters",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{E60F9918-9D85-4589-B2D7-9E04C9F25B8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8766776Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deployed Accordian Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/DeploymentAccordian/Deployed Accordian Parameters",
+    "commandType": "Label",
+    "template": "AdvancedExpander Parameters"
   }
 ]
