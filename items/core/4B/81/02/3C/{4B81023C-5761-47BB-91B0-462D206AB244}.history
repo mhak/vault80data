@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "d3393df690c42c9b66ab7b30d04061b876d92996",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageSettings",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4B81023C-5761-47BB-91B0-462D206AB244}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8923458Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageSettings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings",
+    "commandType": "Label",
+    "template": "PageSettings"
   }
 ]
