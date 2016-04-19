@@ -202,11 +202,27 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "81b8a74e7ebe310dd786cac81a3ca909d9de7cf3",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault/Label",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7B6CC9C3-4B94-41FF-9670-D866C100C90E}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-19T01:55:06.9079553Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Label",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault/Label",
+    "commandType": "Label",
+    "template": "Large Menu Combo Button"
   }
 ]
