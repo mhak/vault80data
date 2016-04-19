@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "113a9a4750b014fa9fef0e089095a951edac1272",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Recycle Bin",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Recycle Bin",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4C015FA0-0553-4686-B21D-5637481EBEE5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.9079553Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault Recycle Bin",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Recycle Bin",
+    "commandType": "Label",
+    "template": "Speak-ListPage"
   }
 ]
