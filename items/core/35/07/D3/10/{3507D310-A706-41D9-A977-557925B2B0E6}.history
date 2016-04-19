@@ -20,13 +20,29 @@
     "itemId": "{3507D310-A706-41D9-A977-557925B2B0E6}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": "923be20ee8f72a700f856125ec9edef878323663",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release/Deployment",
+    "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3507D310-A706-41D9-A977-557925B2B0E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8298445Z",
     "label": "Installed from package - {0}",
     "sourceControlRevisionId": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release/Deployment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": "LaunchPad-Button"
   }
 ]
