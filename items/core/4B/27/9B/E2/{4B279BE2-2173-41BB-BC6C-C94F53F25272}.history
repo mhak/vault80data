@@ -200,13 +200,29 @@
     "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "98c957761f726e11a272f6e9baa4274aa661addf",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "スタート画面",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-19T01:55:06.8298445Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Affyringsrampe",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File"
   }
 ]
