@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "4fa694388b5dfb64f46a9febc0fac7eaf7727a75",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Add To Deployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Selected Filter ActionControl Parameters/Selected ActionColumn/Select ActionGroup/Add To Deployment",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{EB39F41E-983C-4F62-883D-75ABFAE9D04C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8298445Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add To Deployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Selected Filter ActionControl Parameters/Selected ActionColumn/Select ActionGroup/Add To Deployment",
+    "commandType": "Label",
+    "template": "Action"
   }
 ]
