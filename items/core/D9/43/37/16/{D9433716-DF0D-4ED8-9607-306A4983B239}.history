@@ -202,11 +202,27 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "2e2751cf28b186241eb83e9bce9e36f41718e339",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "アイテムあり",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State/HasItems",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D9433716-DF0D-4ED8-9607-306A4983B239}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-19T01:55:06.8766776Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HasItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/State/HasItems",
+    "commandType": "Label",
+    "template": "Template field"
   }
 ]
