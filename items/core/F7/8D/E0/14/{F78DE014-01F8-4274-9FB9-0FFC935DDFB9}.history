@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "5916f102a6411869869ac200cce1f891b0845e3b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Lists",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F78DE014-01F8-4274-9FB9-0FFC935DDFB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8923458Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lists",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists",
+    "commandType": "Label",
+    "template": "Folder"
   }
 ]
