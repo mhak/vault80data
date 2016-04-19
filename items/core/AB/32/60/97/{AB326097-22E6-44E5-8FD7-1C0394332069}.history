@@ -200,13 +200,29 @@
     "itemId": "{AB326097-22E6-44E5-8FD7-1C0394332069}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "timestamp": "2016-04-13T18:25:34.601031Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "e95e055e7af9f931fc724f760e8d7df3c3cba86c",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ボタン",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{AB326097-22E6-44E5-8FD7-1C0394332069}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-19T01:55:06.8298445Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Knapper",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons",
+    "commandType": "Label",
+    "template": "Folder"
   }
 ]
