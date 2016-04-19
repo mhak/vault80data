@@ -202,11 +202,27 @@
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "471a6695de65f4541cd301796cbb8d001898bbc6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{BFE822A6-4AB9-438E-94C6-6BE49D8554B5}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-19T01:55:06.8923458Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet",
+    "commandType": "Label",
+    "template": "Template"
   }
 ]
