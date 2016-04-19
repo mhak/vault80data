@@ -22,11 +22,27 @@
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "958c22db6f4dd7659e819f5d1d665660d36b7efb",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sitecore Tree",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/ResultsTab Parameters/SitecoreTree",
     "commandType": "Label"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{65FF28B7-AD3E-4E3E-BD1B-416C7512DD60}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8612577Z",
+    "label": "Installed from package - {0}",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sitecore Tree",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/ResultsTab Parameters/SitecoreTree",
+    "commandType": "Label",
+    "template": "Tab"
   }
 ]
