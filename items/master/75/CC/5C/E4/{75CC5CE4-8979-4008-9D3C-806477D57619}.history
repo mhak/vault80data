@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75CC5CE4-8979-4008-9D3C-806477D57619}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:29.6112919Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/layout/Layouts",
+    "commandType": "Item",
+    "template": "Node"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75CC5CE4-8979-4008-9D3C-806477D57619}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:24.0488095Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/layout/Layouts",
+    "commandType": "Item",
+    "template": "Node"
+  }
+]

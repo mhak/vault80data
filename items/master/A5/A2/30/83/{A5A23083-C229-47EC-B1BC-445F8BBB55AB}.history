@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5A23083-C229-47EC-B1BC-445F8BBB55AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:35.6891806Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google+",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Google Plus",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5A23083-C229-47EC-B1BC-445F8BBB55AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:54.0329025Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google+",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Google Plus",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

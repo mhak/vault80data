@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69B47A34-D529-4245-90C0-0858C66582BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:37.6735674Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HD TV",
+    "itemPath": "/sitecore/layout/Simulators/HD TV",
+    "commandType": "Item",
+    "template": "Simulator"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69B47A34-D529-4245-90C0-0858C66582BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:07.9704596Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HD TV",
+    "itemPath": "/sitecore/layout/Simulators/HD TV",
+    "commandType": "Item",
+    "template": "Simulator"
+  }
+]

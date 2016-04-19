@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51378BDE-D05B-4B97-9907-A62CB5585F50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:29.5797904Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Phone",
+    "itemPath": "/sitecore/layout/Simulators/Android Phone",
+    "commandType": "Item",
+    "template": "Simulator"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51378BDE-D05B-4B97-9907-A62CB5585F50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:01.6580456Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Phone",
+    "itemPath": "/sitecore/layout/Simulators/Android Phone",
+    "commandType": "Item",
+    "template": "Simulator"
+  }
+]

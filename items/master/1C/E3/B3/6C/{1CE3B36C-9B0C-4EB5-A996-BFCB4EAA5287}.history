@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CE3B36C-9B0C-4EB5-A996-BFCB4EAA5287}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:32.8298311Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Placeholder Settings",
+    "itemPath": "/sitecore/layout/Placeholder Settings",
+    "commandType": "Item",
+    "template": "Folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CE3B36C-9B0C-4EB5-A996-BFCB4EAA5287}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:26.5957008Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Placeholder Settings",
+    "itemPath": "/sitecore/layout/Placeholder Settings",
+    "commandType": "Item",
+    "template": "Folder"
+  }
+]

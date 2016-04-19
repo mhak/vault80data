@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75D27C2B-5F88-4CC8-B1DE-8412A1628408}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:26.3303841Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Controllers",
+    "itemPath": "/sitecore/layout/Controllers",
+    "commandType": "Item",
+    "template": "Node"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75D27C2B-5F88-4CC8-B1DE-8412A1628408}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:21.2830653Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Controllers",
+    "itemPath": "/sitecore/layout/Controllers",
+    "commandType": "Item",
+    "template": "Node"
+  }
+]

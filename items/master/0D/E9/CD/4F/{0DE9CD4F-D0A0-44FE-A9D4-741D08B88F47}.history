@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DE9CD4F-D0A0-44FE-A9D4-741D08B88F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:07:31.1735444Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-catalogue",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-catalogue",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DE9CD4F-D0A0-44FE-A9D4-741D08B88F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:13.7364645Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-catalogue",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-catalogue",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DE5862D-5053-4F3C-9115-1F06A09091FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:31.1110373Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Tablet",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet",
+    "commandType": "Item",
+    "template": "Simulator"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DE5862D-5053-4F3C-9115-1F06A09091FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:02.7674785Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Tablet",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet",
+    "commandType": "Item",
+    "template": "Simulator"
+  }
+]

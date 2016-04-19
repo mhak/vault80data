@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{587F00AD-D60C-440B-B23F-6D55ABC094A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:46.6735283Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Channel Images",
+    "itemPath": "/sitecore/media library/System/Channel Images",
+    "commandType": "Item",
+    "template": "Media folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{587F00AD-D60C-440B-B23F-6D55ABC094A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:58.1267893Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Channel Images",
+    "itemPath": "/sitecore/media library/System/Channel Images",
+    "commandType": "Item",
+    "template": "Media folder"
+  }
+]

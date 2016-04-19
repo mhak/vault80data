@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{618DA108-0F8B-44D6-9384-C3E0B29B8878}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:42.5485498Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Windows Phone",
+    "itemPath": "/sitecore/layout/Simulators/Windows Phone",
+    "commandType": "Item",
+    "template": "Simulator"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{618DA108-0F8B-44D6-9384-C3E0B29B8878}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:11.9861504Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Windows Phone",
+    "itemPath": "/sitecore/layout/Simulators/Windows Phone",
+    "commandType": "Item",
+    "template": "Simulator"
+  }
+]

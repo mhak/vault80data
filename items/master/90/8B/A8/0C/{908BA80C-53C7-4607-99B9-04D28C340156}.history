@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{908BA80C-53C7-4607-99B9-04D28C340156}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:52.8455613Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Twitter",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with Twitter",
+    "commandType": "Item",
+    "template": "Controller rendering"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{908BA80C-53C7-4607-99B9-04D28C340156}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:34.0485246Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Twitter",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with Twitter",
+    "commandType": "Item",
+    "template": "Controller rendering"
+  }
+]

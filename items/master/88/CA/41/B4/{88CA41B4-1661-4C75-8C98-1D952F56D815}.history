@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88CA41B4-1661-4C75-8C98-1D952F56D815}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:40.9391998Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone",
+    "itemPath": "/sitecore/layout/Simulators/iPhone",
+    "commandType": "Item",
+    "template": "Simulator"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88CA41B4-1661-4C75-8C98-1D952F56D815}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:10.5489477Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone",
+    "itemPath": "/sitecore/layout/Simulators/iPhone",
+    "commandType": "Item",
+    "template": "Simulator"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8AE44E7-80D8-4BAC-9C40-03F459C8D6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:47.2833307Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Tablet Portrait",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
+    "commandType": "Item",
+    "template": "Simulator Rotated State"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8AE44E7-80D8-4BAC-9C40-03F459C8D6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:16.2204411Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Tablet Portrait",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
+    "commandType": "Item",
+    "template": "Simulator Rotated State"
+  }
+]

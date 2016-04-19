@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1DC505A-F86F-4C05-B409-AE2246AD3441}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:34.5645457Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blackberry",
+    "itemPath": "/sitecore/layout/Simulators/Blackberry",
+    "commandType": "Item",
+    "template": "Simulator"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1DC505A-F86F-4C05-B409-AE2246AD3441}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:05.2985245Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Blackberry",
+    "itemPath": "/sitecore/layout/Simulators/Blackberry",
+    "commandType": "Item",
+    "template": "Simulator"
+  }
+]

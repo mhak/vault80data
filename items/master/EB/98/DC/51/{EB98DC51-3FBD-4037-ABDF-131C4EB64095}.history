@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB98DC51-3FBD-4037-ABDF-131C4EB64095}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:07:23.5177227Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-bing-search",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-bing-search",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB98DC51-3FBD-4037-ABDF-131C4EB64095}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:11.1266591Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-bing-search",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-bing-search",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

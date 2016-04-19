@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{094AED03-02E7-4868-80CB-19926661FB77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:25.7517097Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sc_logo",
+    "itemPath": "/sitecore/media library/Default Website/sc_logo",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{094AED03-02E7-4868-80CB-19926661FB77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:46.0486525Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sc_logo",
+    "itemPath": "/sitecore/media library/Default Website/sc_logo",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

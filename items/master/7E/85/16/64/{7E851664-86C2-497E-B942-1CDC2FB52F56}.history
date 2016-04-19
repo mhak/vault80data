@@ -313,12 +313,28 @@
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6922d19e9b7d1b7f6a1889286c1b81ae45c35557",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "デフォルト",
     "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault/Tags/Default",
     "commandType": "Label",
+    "template": "Tags Definition"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E851664-86C2-497E-B942-1CDC2FB52F56}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:25:47.2517297Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault/Tags/Default",
+    "commandType": "Item",
     "template": "Tags Definition"
   }
 ]

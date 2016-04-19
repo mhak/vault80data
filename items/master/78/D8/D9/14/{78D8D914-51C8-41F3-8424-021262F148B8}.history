@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78D8D914-51C8-41F3-8424-021262F148B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:42.8299482Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Twitter",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78D8D914-51C8-41F3-8424-021262F148B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:57.0174812Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Twitter",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

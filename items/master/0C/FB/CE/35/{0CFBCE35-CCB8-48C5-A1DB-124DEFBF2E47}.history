@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CFBCE35-CCB8-48C5-A1DB-124DEFBF2E47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:00.3611903Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPad landscape",
+    "itemPath": "/sitecore/layout/Simulators/iPad/iPad landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CFBCE35-CCB8-48C5-A1DB-124DEFBF2E47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:26.7051630Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPad landscape",
+    "itemPath": "/sitecore/layout/Simulators/iPad/iPad landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State"
+  }
+]

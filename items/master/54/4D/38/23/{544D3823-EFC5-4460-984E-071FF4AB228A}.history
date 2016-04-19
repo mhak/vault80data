@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{544D3823-EFC5-4460-984E-071FF4AB228A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:08:34.6426087Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-google-display-network",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-google-display-network",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{544D3823-EFC5-4460-984E-071FF4AB228A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:35.6111299Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-google-display-network",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-google-display-network",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

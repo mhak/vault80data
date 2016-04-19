@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DD96803-28BE-4225-ADCC-1B14D24F10C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:23.3769135Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Like Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Like Button",
+    "commandType": "Item",
+    "template": "Sublayout"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DD96803-28BE-4225-ADCC-1B14D24F10C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:56.2363470Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Like Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Like Button",
+    "commandType": "Item",
+    "template": "Sublayout"
+  }
+]

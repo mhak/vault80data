@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A7E5016-FB60-4047-96BE-3477E2481F16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:08:30.6579151Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-forum",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-forum",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A7E5016-FB60-4047-96BE-3477E2481F16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:34.5021780Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-forum",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-forum",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

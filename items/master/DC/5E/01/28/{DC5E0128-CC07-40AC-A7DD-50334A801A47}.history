@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC5E0128-CC07-40AC-A7DD-50334A801A47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:07:06.5026189Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-3rd-party",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-3rd-party",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC5E0128-CC07-40AC-A7DD-50334A801A47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:04.8334651Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-3rd-party",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-3rd-party",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

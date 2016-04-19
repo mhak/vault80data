@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4008F10-BBB2-4565-B652-467491361D5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:20.502111Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "System",
+    "itemPath": "/sitecore/layout/Renderings/System",
+    "commandType": "Item",
+    "template": "Folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4008F10-BBB2-4565-B652-467491361D5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:06.0329483Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "System",
+    "itemPath": "/sitecore/layout/Renderings/System",
+    "commandType": "Item",
+    "template": "Folder"
+  }
+]

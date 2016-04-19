@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{885B8314-7D8C-4CBB-8000-01421EA8F406}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:08.7208078Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Sublayout",
+    "commandType": "Item",
+    "template": "Sublayout"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{885B8314-7D8C-4CBB-8000-01421EA8F406}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:44.5488904Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Sublayout",
+    "commandType": "Item",
+    "template": "Sublayout"
+  }
+]

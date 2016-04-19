@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C3EBDE2-FE67-4B69-A819-057B3C681410}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:10.3298181Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/layout/Sublayouts/Social",
+    "commandType": "Item",
+    "template": "Sublayout Folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7C3EBDE2-FE67-4B69-A819-057B3C681410}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:45.9081224Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/layout/Sublayouts/Social",
+    "commandType": "Item",
+    "template": "Sublayout Folder"
+  }
+]

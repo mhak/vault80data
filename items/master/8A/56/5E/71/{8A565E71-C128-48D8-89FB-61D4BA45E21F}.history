@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A565E71-C128-48D8-89FB-61D4BA45E21F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:08:14.3924808Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-event-tradeshow",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-event-tradeshow",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A565E71-C128-48D8-89FB-61D4BA45E21F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:28.9704141Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-event-tradeshow",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-event-tradeshow",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

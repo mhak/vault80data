@@ -313,12 +313,28 @@
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
     "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "6922d19e9b7d1b7f6a1889286c1b81ae45c35557",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "タグ",
     "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault/Tags",
     "commandType": "Label",
+    "template": "Tags Definitions Folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3EE8D3D-3DEC-4DFC-BC10-A0AA010FB932}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:25:47.2049129Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/XCentium Vault/Tags",
+    "commandType": "Item",
     "template": "Tags Definitions Folder"
   }
 ]

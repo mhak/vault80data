@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB2E4FFD-2761-4653-B052-26A64D385227}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:15.56452Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout",
+    "itemPath": "/sitecore/layout",
+    "commandType": "Item",
+    "template": "Main section"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB2E4FFD-2761-4653-B052-26A64D385227}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:14.4863042Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout",
+    "itemPath": "/sitecore/layout",
+    "commandType": "Item",
+    "template": "Main section"
+  }
+]

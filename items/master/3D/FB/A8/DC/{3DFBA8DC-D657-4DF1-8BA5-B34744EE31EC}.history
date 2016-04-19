@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DFBA8DC-D657-4DF1-8BA5-B34744EE31EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:25:36.4079012Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has Visitor Tag",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/Has Visitor Tag",
+    "commandType": "Item",
+    "template": "Condition"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE4C2E57-D07D-4982-A6CC-679133913C4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:53.9090183Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulated Device Layout",
+    "itemPath": "/sitecore/layout/Layouts/System/Simulated Device Layout",
+    "commandType": "Item",
+    "template": "Layout"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE4C2E57-D07D-4982-A6CC-679133913C4F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:44.7048091Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulated Device Layout",
+    "itemPath": "/sitecore/layout/Layouts/System/Simulated Device Layout",
+    "commandType": "Item",
+    "template": "Layout"
+  }
+]

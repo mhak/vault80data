@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{15D3AC85-6352-40B6-AD61-1258E0D2A2AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:28.6735487Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HiddenComponentsEnd",
+    "itemPath": "/sitecore/layout/Renderings/App Center Sync/HiddenComponents/HiddenComponentsEnd",
+    "commandType": "Item",
+    "template": "Webcontrol"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{15D3AC85-6352-40B6-AD61-1258E0D2A2AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:13.2206079Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HiddenComponentsEnd",
+    "itemPath": "/sitecore/layout/Renderings/App Center Sync/HiddenComponents/HiddenComponentsEnd",
+    "commandType": "Item",
+    "template": "Webcontrol"
+  }
+]

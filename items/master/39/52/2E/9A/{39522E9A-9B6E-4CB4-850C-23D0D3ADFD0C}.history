@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39522E9A-9B6E-4CB4-850C-23D0D3ADFD0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:37.6891683Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulators",
+    "itemPath": "/sitecore/layout/Simulators",
+    "commandType": "Item",
+    "template": "Folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39522E9A-9B6E-4CB4-850C-23D0D3ADFD0C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:31.0199151Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulators",
+    "itemPath": "/sitecore/layout/Simulators",
+    "commandType": "Item",
+    "template": "Folder"
+  }
+]

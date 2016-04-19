@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67BC6A5D-F71A-4B22-A89F-105B70F1C288}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:03.6892976Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support",
+    "itemPath": "/sitecore/layout/Simulators/iPad/No Flash Support",
+    "commandType": "Item",
+    "template": "No Flash Support Trait"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67BC6A5D-F71A-4B22-A89F-105B70F1C288}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:28.3766436Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support",
+    "itemPath": "/sitecore/layout/Simulators/iPad/No Flash Support",
+    "commandType": "Item",
+    "template": "No Flash Support Trait"
+  }
+]

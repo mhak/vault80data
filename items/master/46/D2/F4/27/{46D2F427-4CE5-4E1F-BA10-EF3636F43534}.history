@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46D2F427-4CE5-4E1F-BA10-EF3636F43534}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:40.7829232Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Print",
+    "itemPath": "/sitecore/layout/Devices/Print",
+    "commandType": "Item",
+    "template": "Device"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46D2F427-4CE5-4E1F-BA10-EF3636F43534}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:34.0954020Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Print",
+    "itemPath": "/sitecore/layout/Devices/Print",
+    "commandType": "Item",
+    "template": "Device"
+  }
+]

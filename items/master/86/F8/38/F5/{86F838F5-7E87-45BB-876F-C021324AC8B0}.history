@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86F838F5-7E87-45BB-876F-C021324AC8B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:42.830308Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FeedRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/Feeds/FeedRenderer",
+    "commandType": "Item",
+    "template": "Webcontrol"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86F838F5-7E87-45BB-876F-C021324AC8B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:26.3141396Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FeedRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/Feeds/FeedRenderer",
+    "commandType": "Item",
+    "template": "Webcontrol"
+  }
+]

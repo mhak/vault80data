@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93908DE9-A075-4096-BBE5-0E8117926A68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:07:47.3297737Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-customer-service",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-customer-service",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93908DE9-A075-4096-BBE5-0E8117926A68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:19.3157652Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-customer-service",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-customer-service",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

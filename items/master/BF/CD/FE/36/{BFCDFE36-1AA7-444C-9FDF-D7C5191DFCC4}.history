@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFCDFE36-1AA7-444C-9FDF-D7C5191DFCC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:25:29.5641901Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Check Request Domain",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Domain Tracking/Check Request Domain",
+    "commandType": "Item",
+    "template": "Condition"
+  }
+]

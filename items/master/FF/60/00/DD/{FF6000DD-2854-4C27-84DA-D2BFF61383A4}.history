@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF6000DD-2854-4C27-84DA-D2BFF61383A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:07:39.3141578Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-company-website",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-company-website",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF6000DD-2854-4C27-84DA-D2BFF61383A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:16.5336731Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-company-website",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-company-website",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

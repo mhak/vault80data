@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D941FE54-0798-49D6-A403-D36537FC4661}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:25:30.2362087Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IP Address",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/IP Address",
+    "commandType": "Item",
+    "template": "Condition"
+  }
+]

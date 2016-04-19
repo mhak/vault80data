@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB05236E-4099-4DD8-A9D0-0320FCB740F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:08:10.5485331Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-email-marketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-email-marketing",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB05236E-4099-4DD8-A9D0-0320FCB740F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:27.6423087Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-email-marketing",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-email-marketing",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

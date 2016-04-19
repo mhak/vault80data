@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04DAD0FD-DB66-4070-881F-17264CA257E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:24.1111456Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cover",
+    "itemPath": "/sitecore/media library/Default Website/cover",
+    "commandType": "Item",
+    "template": "Jpeg"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04DAD0FD-DB66-4070-881F-17264CA257E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:44.8613720Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cover",
+    "itemPath": "/sitecore/media library/Default Website/cover",
+    "commandType": "Item",
+    "template": "Jpeg"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{967A64A6-FD7F-4336-B863-0DF807245A11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:14.1735614Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Windows Phone Landscape",
+    "itemPath": "/sitecore/layout/Simulators/Windows Phone/Windows Phone Landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{967A64A6-FD7F-4336-B863-0DF807245A11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:36.0172776Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Windows Phone Landscape",
+    "itemPath": "/sitecore/layout/Simulators/Windows Phone/Windows Phone Landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State"
+  }
+]

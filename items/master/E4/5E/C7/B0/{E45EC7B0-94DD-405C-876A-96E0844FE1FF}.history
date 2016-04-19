@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E45EC7B0-94DD-405C-876A-96E0844FE1FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:32.5956069Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/media library/Images/Social/Connector",
+    "commandType": "Item",
+    "template": "Media folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E45EC7B0-94DD-405C-876A-96E0844FE1FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:51.3766531Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/media library/Images/Social/Connector",
+    "commandType": "Item",
+    "template": "Media folder"
+  }
+]

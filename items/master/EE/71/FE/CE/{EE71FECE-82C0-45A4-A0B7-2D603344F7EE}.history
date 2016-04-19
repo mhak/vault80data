@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE71FECE-82C0-45A4-A0B7-2D603344F7EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:08.1581891Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__bodyend",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodyend",
+    "commandType": "Item",
+    "template": "Head Placeholder Setting"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE71FECE-82C0-45A4-A0B7-2D603344F7EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:55.3455838Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__bodyend",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodyend",
+    "commandType": "Item",
+    "template": "Head Placeholder Setting"
+  }
+]

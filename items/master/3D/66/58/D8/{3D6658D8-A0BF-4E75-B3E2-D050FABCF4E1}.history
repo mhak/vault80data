@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D6658D8-A0BF-4E75-B3E2-D050FABCF4E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:16.9706923Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Library",
+    "itemPath": "/sitecore/media library",
+    "commandType": "Item",
+    "template": "Main section"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D6658D8-A0BF-4E75-B3E2-D050FABCF4E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:15.8454487Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Media Library",
+    "itemPath": "/sitecore/media library",
+    "commandType": "Item",
+    "template": "Main section"
+  }
+]

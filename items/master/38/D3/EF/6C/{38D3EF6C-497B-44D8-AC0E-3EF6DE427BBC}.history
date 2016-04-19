@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38D3EF6C-497B-44D8-AC0E-3EF6DE427BBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:07.6111424Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone Landscape",
+    "itemPath": "/sitecore/layout/Simulators/iPhone/iPhone Landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38D3EF6C-497B-44D8-AC0E-3EF6DE427BBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:31.0489154Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "iPhone Landscape",
+    "itemPath": "/sitecore/layout/Simulators/iPhone/iPhone Landscape",
+    "commandType": "Item",
+    "template": "Simulator Rotated State"
+  }
+]

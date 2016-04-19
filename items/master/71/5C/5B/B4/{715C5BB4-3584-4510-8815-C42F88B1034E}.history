@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{715C5BB4-3584-4510-8815-C42F88B1034E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:29.1270301Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unknown 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Unknown 128x128",
+    "commandType": "Item",
+    "template": "Jpeg"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{715C5BB4-3584-4510-8815-C42F88B1034E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:48.6424894Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unknown 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Unknown 128x128",
+    "commandType": "Item",
+    "template": "Jpeg"
+  }
+]

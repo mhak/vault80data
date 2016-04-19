@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{493B3A83-0FA7-4484-8FC9-4680991CF743}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:32.3924803Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Rendering",
+    "itemPath": "/sitecore/layout/Renderings/Sample/Sample Rendering",
+    "commandType": "Item",
+    "template": "Xsl Rendering"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{493B3A83-0FA7-4484-8FC9-4680991CF743}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:15.8300052Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Rendering",
+    "itemPath": "/sitecore/layout/Renderings/Sample/Sample Rendering",
+    "commandType": "Item",
+    "template": "Xsl Rendering"
+  }
+]

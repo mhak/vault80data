@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D076DCA-8C80-4744-B27C-BBC72973DE62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:05.9553163Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support",
+    "itemPath": "/sitecore/layout/Simulators/iPad/No Silverlight Support",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D076DCA-8C80-4744-B27C-BBC72973DE62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:29.6424811Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support",
+    "itemPath": "/sitecore/layout/Simulators/iPad/No Silverlight Support",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait"
+  }
+]

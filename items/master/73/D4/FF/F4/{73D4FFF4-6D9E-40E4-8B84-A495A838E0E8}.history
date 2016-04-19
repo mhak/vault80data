@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73D4FFF4-6D9E-40E4-8B84-A495A838E0E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:36.1422792Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feature Phone",
+    "itemPath": "/sitecore/layout/Simulators/Feature Phone",
+    "commandType": "Item",
+    "template": "Simulator"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73D4FFF4-6D9E-40E4-8B84-A495A838E0E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:06.5798125Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feature Phone",
+    "itemPath": "/sitecore/layout/Simulators/Feature Phone",
+    "commandType": "Item",
+    "template": "Simulator"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{683331AD-FF41-442C-9CFE-9872C0A7150E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:37.9861219Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebEdit Content Editor",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit/WebEdit Content Editor",
+    "commandType": "Item",
+    "template": "Webcontrol"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{683331AD-FF41-442C-9CFE-9872C0A7150E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:22.1112923Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WebEdit Content Editor",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit/WebEdit Content Editor",
+    "commandType": "Item",
+    "template": "Webcontrol"
+  }
+]

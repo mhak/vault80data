@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E49F6EF0-B94B-4927-8B0E-443468249D9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:49.5797784Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Google",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with Google",
+    "commandType": "Item",
+    "template": "Controller rendering"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E49F6EF0-B94B-4927-8B0E-443468249D9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:31.3337734Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Google",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with Google",
+    "commandType": "Item",
+    "template": "Controller rendering"
+  }
+]

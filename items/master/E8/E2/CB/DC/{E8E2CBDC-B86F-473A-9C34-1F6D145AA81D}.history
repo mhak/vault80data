@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8E2CBDC-B86F-473A-9C34-1F6D145AA81D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:12.1896668Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector",
+    "commandType": "Item",
+    "template": "Sublayout Folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8E2CBDC-B86F-473A-9C34-1F6D145AA81D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:47.2206006Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector",
+    "commandType": "Item",
+    "template": "Sublayout Folder"
+  }
+]

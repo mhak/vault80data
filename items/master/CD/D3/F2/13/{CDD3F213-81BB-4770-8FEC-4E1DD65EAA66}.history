@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDD3F213-81BB-4770-8FEC-4E1DD65EAA66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:36.2048008Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/ItemRenderer",
+    "commandType": "Item",
+    "template": "Item rendering"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDD3F213-81BB-4770-8FEC-4E1DD65EAA66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:18.1118890Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/ItemRenderer",
+    "commandType": "Item",
+    "template": "Item rendering"
+  }
+]

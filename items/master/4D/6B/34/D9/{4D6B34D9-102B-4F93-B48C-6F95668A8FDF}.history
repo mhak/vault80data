@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D6B34D9-102B-4F93-B48C-6F95668A8FDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:07:51.0504237Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-digital-events",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-digital-events",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D6B34D9-102B-4F93-B48C-6F95668A8FDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:20.4392147Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-digital-events",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-digital-events",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

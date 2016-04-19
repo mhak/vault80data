@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A0621CA-94E6-4474-ACA1-64D67F3976EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:50.4860397Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "List Manager",
+    "itemPath": "/sitecore/media library/System/List Manager",
+    "commandType": "Item",
+    "template": "Media folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A0621CA-94E6-4474-ACA1-64D67F3976EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:59.4392949Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "List Manager",
+    "itemPath": "/sitecore/media library/System/List Manager",
+    "commandType": "Item",
+    "template": "Media folder"
+  }
+]

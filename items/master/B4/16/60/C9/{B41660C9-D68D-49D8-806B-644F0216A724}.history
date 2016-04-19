@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B41660C9-D68D-49D8-806B-644F0216A724}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:24.8298426Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn Share Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/LinkedIn Share Button",
+    "commandType": "Item",
+    "template": "Sublayout"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B41660C9-D68D-49D8-806B-644F0216A724}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:57.5329188Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn Share Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/LinkedIn Share Button",
+    "commandType": "Item",
+    "template": "Sublayout"
+  }
+]

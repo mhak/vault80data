@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22EDCC9B-BD25-442F-B685-4CFC8656F653}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:51.3142927Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with LinkedIn",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with LinkedIn",
+    "commandType": "Item",
+    "template": "Controller rendering"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22EDCC9B-BD25-442F-B685-4CFC8656F653}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:32.6738127Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with LinkedIn",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with LinkedIn",
+    "commandType": "Item",
+    "template": "Controller rendering"
+  }
+]

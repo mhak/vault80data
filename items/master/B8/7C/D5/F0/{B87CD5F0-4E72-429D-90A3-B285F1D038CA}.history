@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B87CD5F0-4E72-429D-90A3-B285F1D038CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:31.2048022Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Models",
+    "itemPath": "/sitecore/layout/Models",
+    "commandType": "Item",
+    "template": "Node"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B87CD5F0-4E72-429D-90A3-B285F1D038CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:25.2988575Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Models",
+    "itemPath": "/sitecore/layout/Models",
+    "commandType": "Item",
+    "template": "Node"
+  }
+]

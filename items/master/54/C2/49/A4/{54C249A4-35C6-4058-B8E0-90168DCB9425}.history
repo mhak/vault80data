@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54C249A4-35C6-4058-B8E0-90168DCB9425}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:15.2520655Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Facebook",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Facebook",
+    "commandType": "Item",
+    "template": "Sublayout"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54C249A4-35C6-4058-B8E0-90168DCB9425}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:49.9084447Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Facebook",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Facebook",
+    "commandType": "Item",
+    "template": "Sublayout"
+  }
+]

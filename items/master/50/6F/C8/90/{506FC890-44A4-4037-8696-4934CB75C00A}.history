@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{506FC890-44A4-4037-8696-4934CB75C00A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:25:47.3461917Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Require Login",
+    "itemPath": "/sitecore/system/Settings/Security/Presets/Require Login",
+    "commandType": "Item",
+    "template": "Security Preset"
+  }
+]

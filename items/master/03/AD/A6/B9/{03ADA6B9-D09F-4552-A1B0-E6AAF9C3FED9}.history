@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03ADA6B9-D09F-4552-A1B0-E6AAF9C3FED9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:36.2672998Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feeds",
+    "itemPath": "/sitecore/layout/Renderings/System/Feeds",
+    "commandType": "Item",
+    "template": "Folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03ADA6B9-D09F-4552-A1B0-E6AAF9C3FED9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:20.7672743Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feeds",
+    "itemPath": "/sitecore/layout/Renderings/System/Feeds",
+    "commandType": "Item",
+    "template": "Folder"
+  }
+]

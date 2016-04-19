@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5BFF4207-7D5E-409E-BA51-96CDC294FAE9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:00.5021372Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App Center Sync",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync",
+    "commandType": "Item",
+    "template": "Placeholder Settings Folder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5BFF4207-7D5E-409E-BA51-96CDC294FAE9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:49.8773567Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App Center Sync",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync",
+    "commandType": "Item",
+    "template": "Placeholder Settings Folder"
+  }
+]

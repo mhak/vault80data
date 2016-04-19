@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FE79C14-475E-41EC-87F2-D67FF087DF1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:08:26.8143426Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-faq",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-faq",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FE79C14-475E-41EC-87F2-D67FF087DF1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:24:33.0020066Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-faq",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-faq",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

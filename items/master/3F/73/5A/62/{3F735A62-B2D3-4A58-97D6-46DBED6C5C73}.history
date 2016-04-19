@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F735A62-B2D3-4A58-97D6-46DBED6C5C73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:04:14.407982Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__invisible",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
+    "commandType": "Item",
+    "template": "Placeholder"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F735A62-B2D3-4A58-97D6-46DBED6C5C73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:00.7830132Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__invisible",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
+    "commandType": "Item",
+    "template": "Placeholder"
+  }
+]

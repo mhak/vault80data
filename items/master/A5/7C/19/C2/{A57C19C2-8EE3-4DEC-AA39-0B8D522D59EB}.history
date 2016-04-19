@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A57C19C2-8EE3-4DEC-AA39-0B8D522D59EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:03:50.7361379Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feed Delivery Layout",
+    "itemPath": "/sitecore/layout/Layouts/System/Feed Delivery Layout",
+    "commandType": "Item",
+    "template": "Layout"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A57C19C2-8EE3-4DEC-AA39-0B8D522D59EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:21:42.2050277Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feed Delivery Layout",
+    "itemPath": "/sitecore/layout/Layouts/System/Feed Delivery Layout",
+    "commandType": "Item",
+    "template": "Layout"
+  }
+]

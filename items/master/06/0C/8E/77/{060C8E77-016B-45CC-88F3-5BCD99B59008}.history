@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{060C8E77-016B-45CC-88F3-5BCD99B59008}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:06:38.9237249Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/LinkedIn",
+    "commandType": "Item",
+    "template": "Image"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{060C8E77-016B-45CC-88F3-5BCD99B59008}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:23:55.5173121Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/LinkedIn",
+    "commandType": "Item",
+    "template": "Image"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BDBBF0C-FDEB-46EC-8E47-82B75EBB3A7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:05:26.3766596Z",
+    "label": "Snapshot - Base snapshot",
+    "sourceControlRevisionId": "",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tweet Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Tweet Button",
+    "commandType": "Item",
+    "template": "Sublayout"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BDBBF0C-FDEB-46EC-8E47-82B75EBB3A7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T02:22:59.1273441Z",
+    "label": "Snapshot - Baseline",
+    "sourceControlRevisionId": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tweet Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Tweet Button",
+    "commandType": "Item",
+    "template": "Sublayout"
+  }
+]
