@@ -20,20 +20,20 @@ Testing Vault
 field: {6DA71AD3-5849-4482-9317-D21390E5A348}
 name: Pattern
 key: pattern
-content-length: 293
+content-length: 289
 
 <tracking>
   <profile id="{BA06B827-C6F2-4748-BD75-AA178B770E83}" name="Function">
-    <key name="Building Trust" value="10" />
-    <key name="Call to Action" value="10" />
-    <key name="Create Desire" value="10" />
-    <key name="Define Concept" value="10" />
+    <key name="Building Trust" value="5" />
+    <key name="Call to Action" value="5" />
+    <key name="Create Desire" value="5" />
+    <key name="Define Concept" value="5" />
   </profile>
 </tracking>
 ----version----
 language: en
 version: 1
-revision: 25b32662-20ad-4ed8-8460-6352d7f125ac
+revision: 2b08d533-6524-40ff-8752-4fe03b4bfdaf
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-25b32662-20ad-4ed8-8460-6352d7f125ac
+2b08d533-6524-40ff-8752-4fe03b4bfdaf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160421T201544Z
+20160421T201635Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
