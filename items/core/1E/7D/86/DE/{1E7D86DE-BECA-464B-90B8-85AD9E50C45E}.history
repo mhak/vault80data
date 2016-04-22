@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7458242Z",
     "label": null,
-    "sourceControlRevisionId": "a2c01b076a0695f17874e56d390cf75569c7ecb0",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DeploymentDetails",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentDetails",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "a2c01b076a0695f17874e56d390cf75569c7ecb0"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DeploymentDetails",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentDetails",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1E7D86DE-BECA-464B-90B8-85AD9E50C45E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeploymentDetails",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentDetails",
+    "commandType": "Label",
+    "template": "Speak-DialogPage",
+    "sourceControlRevisionId": "e6248964c366f90896c7176da92990872cd16f25"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1E7D86DE-BECA-464B-90B8-85AD9E50C45E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeploymentDetails",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment/DeploymentDetails",
+    "commandType": "Label",
+    "template": "Speak-DialogPage",
+    "sourceControlRevisionId": null
   }
 ]
