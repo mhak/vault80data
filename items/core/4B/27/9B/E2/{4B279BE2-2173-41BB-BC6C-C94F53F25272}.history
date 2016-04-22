@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:07:41.4000099Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Launch Pad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:07:41.4311441Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LaunchPad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:07:41.4468363Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "スタート画面",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Affyringsrampe",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Launch Pad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LaunchPad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "d1797cfaae035d9bdb3d1f46324640de9710babd",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "スタート画面",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "d1797cfaae035d9bdb3d1f46324640de9710babd"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:43.1604058Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "68d4a9fbffd493d9eaa7a4207524ce5dbc1336b5",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Launch Pad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "68d4a9fbffd493d9eaa7a4207524ce5dbc1336b5"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:24:43.1917542Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "c97cfef06285754c9b9924b4dbad6a76f0b90609",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LaunchPad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "c97cfef06285754c9b9924b4dbad6a76f0b90609"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:43.2073137Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "ea524d4aea58816c73f8973d4d6de6b65bc6560c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "スタート画面",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "ea524d4aea58816c73f8973d4d6de6b65bc6560c"
   },
   {
     "eventType": "PackageInstall",
@@ -155,14 +165,15 @@
     "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
     "version": 1,
     "language": "da",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "5aa403777d9cb87341ed010a1c3be0c95ea74e8e",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Affyringsrampe",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "5aa403777d9cb87341ed010a1c3be0c95ea74e8e"
   },
   {
     "eventType": "PackageInstall",
@@ -170,14 +181,15 @@
     "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
     "version": 1,
     "language": "de-DE",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "990f6fab3d20698c63b54085003059f367e3016b",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Launch Pad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "990f6fab3d20698c63b54085003059f367e3016b"
   },
   {
     "eventType": "PackageInstall",
@@ -185,14 +197,15 @@
     "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "7834e0c82db4beb81e09345aead6d8e6197bc652",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LaunchPad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "7834e0c82db4beb81e09345aead6d8e6197bc652"
   },
   {
     "eventType": "PackageInstall",
@@ -200,14 +213,15 @@
     "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "98c957761f726e11a272f6e9baa4274aa661addf",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "スタート画面",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "98c957761f726e11a272f6e9baa4274aa661addf"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "ea5b0aa237ab764aaf64e9537ed2f5bdf7f1e19b",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Affyringsrampe",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
     "commandType": "Label",
-    "template": "Page-Stylesheet-File"
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": "ea5b0aa237ab764aaf64e9537ed2f5bdf7f1e19b"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "ea59d25b084ea8d9a0b2688078878bf8f75f8227",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Launch Pad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
     "commandType": "Label",
-    "template": "Page-Stylesheet-File"
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": "ea59d25b084ea8d9a0b2688078878bf8f75f8227"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "83968b52531238210e1239357947faa4bc863731",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LaunchPad",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
     "commandType": "Label",
-    "template": "Page-Stylesheet-File"
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": "83968b52531238210e1239357947faa4bc863731"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "スタート画面",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
     "commandType": "Label",
-    "template": "Page-Stylesheet-File"
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": "88a5d975431b224a8af17995d804e3483353addf"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4B279BE2-2173-41BB-BC6C-C94F53F25272}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.1839945Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Affyringsrampe",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/LaunchPad",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
   }
 ]
