@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "1aa7c88524b6bd9a682ed1acc58efd7cf7cb29eb",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ActionGroup",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ActionControl Parameters/ActionColumn/ActionGroup",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "1aa7c88524b6bd9a682ed1acc58efd7cf7cb29eb"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "0bfddafce2cf59f0ec6a76d05eda7de9b563ccf7",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ActionGroup",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ActionControl Parameters/ActionColumn/ActionGroup",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "0bfddafce2cf59f0ec6a76d05eda7de9b563ccf7"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8612577Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ActionGroup",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ActionControl Parameters/ActionColumn/ActionGroup",
     "commandType": "Label",
-    "template": "ActionGroup"
+    "template": "ActionGroup",
+    "sourceControlRevisionId": "d3d5b1ae5525f0330bf5e481ce9d10ca415d83ca"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D7AB77EC-928A-4186-BE30-1BB7448C7764}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2152152Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ActionGroup",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Select Accordian/Select ActionControl Parameters/ActionColumn/ActionGroup",
+    "commandType": "Label",
+    "template": "ActionGroup",
+    "sourceControlRevisionId": null
   }
 ]
