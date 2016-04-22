@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7458242Z",
     "label": null,
-    "sourceControlRevisionId": "0a6b41f3ff84f6c2f6ad3a080f9c89623d84535f",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Event",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList/Event",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "0a6b41f3ff84f6c2f6ad3a080f9c89623d84535f"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Event",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList/Event",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{81A83E7D-D5EA-4690-B01F-B1D2DDD45A25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Event",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList/Event",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": "ea5790405d8d3b0255286df22814c67a9aa7cdbe"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{81A83E7D-D5EA-4690-B01F-B1D2DDD45A25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Event",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings/ItemVersionsList/Event",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
   }
 ]
