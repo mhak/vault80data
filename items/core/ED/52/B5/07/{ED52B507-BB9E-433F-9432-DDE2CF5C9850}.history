@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7606761Z",
     "label": null,
-    "sourceControlRevisionId": "911f16d0f0d1bfae686b9a9e44213f44b7a3a566",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ListControl",
     "itemPath": "/sitecore/client/Your Apps/Vault/Timeline/PageSettings/ListControl",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "911f16d0f0d1bfae686b9a9e44213f44b7a3a566"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ListControl",
     "itemPath": "/sitecore/client/Your Apps/Vault/Timeline/PageSettings/ListControl",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{ED52B507-BB9E-433F-9432-DDE2CF5C9850}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7673070Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ListControl",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Timeline/PageSettings/ListControl",
+    "commandType": "Label",
+    "template": "ListControl",
+    "sourceControlRevisionId": "18b4c2f3e1ee1d38a2f540b350dc871c535972f6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{ED52B507-BB9E-433F-9432-DDE2CF5C9850}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1215232Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ListControl",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Timeline/PageSettings/ListControl",
+    "commandType": "Label",
+    "template": "ListControl",
+    "sourceControlRevisionId": null
   }
 ]
