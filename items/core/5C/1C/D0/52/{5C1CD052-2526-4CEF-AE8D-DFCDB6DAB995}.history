@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "028b7ca5a4380199d50fb435703432fe7c621f8e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Warning Accordian",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Warning Accordian",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "028b7ca5a4380199d50fb435703432fe7c621f8e"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "afa856de0bed28e9541b22b3d7fc71268e289210",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Warning Accordian",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Warning Accordian",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "afa856de0bed28e9541b22b3d7fc71268e289210"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8766776Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Warning Accordian",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Warning Accordian",
     "commandType": "Label",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "46e8e62da80390dd3daa3fb519c3c8746da91921"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{5C1CD052-2526-4CEF-AE8D-DFCDB6DAB995}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2152152Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Warning Accordian",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Warning Accordian",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
