@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "6aaba779e2222bc39cb4d2c4531c55e0614e4ee1",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Severe Accordian",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Severe Accordian",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "6aaba779e2222bc39cb4d2c4531c55e0614e4ee1"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "462ab1fe6fe658d7c67e69a478013b3a63c65b8f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Severe Accordian",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Severe Accordian",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "462ab1fe6fe658d7c67e69a478013b3a63c65b8f"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8612577Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Severe Accordian",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Severe Accordian",
     "commandType": "Label",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "2c61ab6ccca7b9829b3609927125081b19dd1ac0"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{54AAF549-B092-4C93-B803-0CA8CD951CA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2152152Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Severe Accordian",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Deployment/PageSettings/Severe Accordian",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
