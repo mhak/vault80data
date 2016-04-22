@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "380224b87cc18354dff554d13dac0d4a61b0d173",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DeplomentItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "380224b87cc18354dff554d13dac0d4a61b0d173"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "fe5ea35540b89d6f9e45e479b271d4aeed955de1",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DeplomentItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "fe5ea35540b89d6f9e45e479b271d4aeed955de1"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DeplomentItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems",
     "commandType": "Label",
-    "template": "ListControl"
+    "template": "ListControl",
+    "sourceControlRevisionId": "6592b3171fe691816a8a70a8a077a00bd95b0cef"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9E71A576-906D-464E-9F87-C8A997F4BB98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2464971Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeplomentItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems",
+    "commandType": "Label",
+    "template": "ListControl",
+    "sourceControlRevisionId": null
   }
 ]
