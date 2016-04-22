@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "347f7cdafb758f535628806c50340033333929f8",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Recovered Item ActionGroup",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ActionControl Parameters/ActionColumn/Recovered Item ActionGroup",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "347f7cdafb758f535628806c50340033333929f8"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Recovered Item ActionGroup",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ActionControl Parameters/ActionColumn/Recovered Item ActionGroup",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A7C41276-B353-4477-B0BA-89C668F76118}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recovered Item ActionGroup",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ActionControl Parameters/ActionColumn/Recovered Item ActionGroup",
+    "commandType": "Label",
+    "template": "ActionGroup",
+    "sourceControlRevisionId": "b4f126c09af114031391b3d2367c3b529c0deb02"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A7C41276-B353-4477-B0BA-89C668F76118}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1687602Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recovered Item ActionGroup",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Expander/ActionControl Parameters/ActionColumn/Recovered Item ActionGroup",
+    "commandType": "Label",
+    "template": "ActionGroup",
+    "sourceControlRevisionId": null
   }
 ]
