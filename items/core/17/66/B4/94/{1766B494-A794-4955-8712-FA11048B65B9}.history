@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "af7b7ae6fdbe97990885873d14d923bceef3f61b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Reporting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "af7b7ae6fdbe97990885873d14d923bceef3f61b"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "bd2f3161b1c02b8183df45e07a420a905b592b60",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Reporting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "bd2f3161b1c02b8183df45e07a420a905b592b60"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Reporting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting",
     "commandType": "Label",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "b3be9ccdaa970c0b1c8f9480be02205bdf8db70d"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1766B494-A794-4955-8712-FA11048B65B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2464971Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reporting",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
