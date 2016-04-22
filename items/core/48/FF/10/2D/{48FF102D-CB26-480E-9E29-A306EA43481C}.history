@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7458242Z",
     "label": null,
-    "sourceControlRevisionId": "eff31b58d659911dd2bc4dd13f05ba8d2adff507",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "RecoverConfirmation",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/RecoverConfirmation",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "eff31b58d659911dd2bc4dd13f05ba8d2adff507"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "RecoverConfirmation",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/RecoverConfirmation",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{48FF102D-CB26-480E-9E29-A306EA43481C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RecoverConfirmation",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/RecoverConfirmation",
+    "commandType": "Label",
+    "template": "Speak-DialogPage",
+    "sourceControlRevisionId": "5baf335a77c999cc6c538d0fdfb3f9ed423a1822"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{48FF102D-CB26-480E-9E29-A306EA43481C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RecoverConfirmation",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/RecoverConfirmation",
+    "commandType": "Label",
+    "template": "Speak-DialogPage",
+    "sourceControlRevisionId": null
   }
 ]
