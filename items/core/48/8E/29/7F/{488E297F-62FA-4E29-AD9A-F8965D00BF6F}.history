@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "38c933d716d3a027de85a6f6b99401626736826b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Execute Rollback",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/Execute Rollback",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "38c933d716d3a027de85a6f6b99401626736826b"
   },
   {
     "eventType": "Moved",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "",
     "timestamp": "2016-04-13T18:25:02.5829407Z",
-    "label": "Moved from unknown to Deployment",
-    "sourceControlRevisionId": "b4e17934dee661c78bcd72ca8f589edd3083ab05",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Execute Rollback",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "b4e17934dee661c78bcd72ca8f589edd3083ab05"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "329312433f6b8cc12dc6a48dcb335081a1ac0bf1",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Execute Rollback",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "329312433f6b8cc12dc6a48dcb335081a1ac0bf1"
   },
   {
     "eventType": "PackageInstall",
@@ -51,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8766776Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Execute Rollback",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback",
     "commandType": "Label",
-    "template": "Speak-DashboardPage"
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": "00a6a55d515775bb9c2ee93f32d21fc9b1e5ce17"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{488E297F-62FA-4E29-AD9A-F8965D00BF6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2152152Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Execute Rollback",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback",
+    "commandType": "Label",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
   }
 ]
