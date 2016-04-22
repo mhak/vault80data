@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "2a5728b40b1215af1f59ce721b2d11ab164b3278",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultSelectableVerificationList",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultSelectableVerificationList",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "2a5728b40b1215af1f59ce721b2d11ab164b3278"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultSelectableVerificationList",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultSelectableVerificationList",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{5DA9D7E0-3D7E-40EC-A1B9-DFBACB764646}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7204410Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultSelectableVerificationList",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultSelectableVerificationList",
+    "commandType": "Label",
+    "template": "View rendering",
+    "sourceControlRevisionId": "fe990cce9be704c2330ca9743e3b18834f4d2019"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{5DA9D7E0-3D7E-40EC-A1B9-DFBACB764646}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0902664Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultSelectableVerificationList",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultSelectableVerificationList",
+    "commandType": "Label",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
   }
 ]
