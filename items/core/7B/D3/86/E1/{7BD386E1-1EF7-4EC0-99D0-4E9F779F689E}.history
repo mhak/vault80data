@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.6981063Z",
     "label": null,
-    "sourceControlRevisionId": "429bcf5421a9b0469c9bfa2f2be1cfa1ba67ebab",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "targets",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/TargetSystemsDS/TargetSystemsDS-Parameters/Data/targets",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "429bcf5421a9b0469c9bfa2f2be1cfa1ba67ebab"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "targets",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/TargetSystemsDS/TargetSystemsDS-Parameters/Data/targets",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7BD386E1-1EF7-4EC0-99D0-4E9F779F689E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7048373Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "targets",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/TargetSystemsDS/TargetSystemsDS-Parameters/Data/targets",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": "4809ff8f6d47be46bd31c2a314d7c1ad5b5d696c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7BD386E1-1EF7-4EC0-99D0-4E9F779F689E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0747329Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "targets",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/TargetSystemsDS/TargetSystemsDS-Parameters/Data/targets",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
