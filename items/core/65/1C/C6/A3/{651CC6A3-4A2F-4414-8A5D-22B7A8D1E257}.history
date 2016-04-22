@@ -6,13 +6,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Snapshot AdvancedExpander Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Snapshot Accordian/Snapshot AdvancedExpander Parameters",
     "commandType": "Label",
-    "template": "AdvancedExpander Parameters"
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": "1528a19ad5674448d080b7e16a9b6a74c183cb2c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{651CC6A3-4A2F-4414-8A5D-22B7A8D1E257}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1839945Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Snapshot AdvancedExpander Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Snapshot Accordian/Snapshot AdvancedExpander Parameters",
+    "commandType": "Label",
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": null
   }
 ]
