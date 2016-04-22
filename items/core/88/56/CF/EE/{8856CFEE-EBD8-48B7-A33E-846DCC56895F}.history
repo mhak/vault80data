@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:07:38.4934613Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "WertErsetzen",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:07:38.5248072Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ReplaceValue",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:07:38.5559428Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "値の置換",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ReplaceValue",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "WertErsetzen",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ReplaceValue",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "84c534bdf84e91d914be5c8370bbb98d0c0b0c75",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "値の置換",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "84c534bdf84e91d914be5c8370bbb98d0c0b0c75"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:40.2385447Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "7390281d550f873858b728da8e67b80591ffab0a",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "WertErsetzen",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "7390281d550f873858b728da8e67b80591ffab0a"
   },
   {
     "eventType": "VersionRemoved",
@@ -125,14 +133,15 @@
     "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:24:40.301044Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "9ef75b3af0f8b7782d34e1a2ea9ed06b3ab8603b",
+    "timestamp": "2016-04-13T18:24:40.3010440Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ReplaceValue",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "9ef75b3af0f8b7782d34e1a2ea9ed06b3ab8603b"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:40.3341834Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "bf9ed9151d6838b1be61aae612cc678213080433",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "値の置換",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "bf9ed9151d6838b1be61aae612cc678213080433"
   },
   {
     "eventType": "PackageInstall",
@@ -155,14 +165,15 @@
     "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
     "version": 1,
     "language": "da",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "f02bce5524f43f3e1eeb0ba6ea33aeeb408b95bf",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ReplaceValue",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "f02bce5524f43f3e1eeb0ba6ea33aeeb408b95bf"
   },
   {
     "eventType": "PackageInstall",
@@ -170,14 +181,15 @@
     "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
     "version": 1,
     "language": "de-DE",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "76c09dfa98667e4c62155dd43754f7e86a05f116",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "WertErsetzen",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "76c09dfa98667e4c62155dd43754f7e86a05f116"
   },
   {
     "eventType": "PackageInstall",
@@ -185,14 +197,15 @@
     "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "79a448bd4d17bf31376fce858a747a29d9328b56",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ReplaceValue",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "79a448bd4d17bf31376fce858a747a29d9328b56"
   },
   {
     "eventType": "PackageInstall",
@@ -201,12 +214,93 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "値の置換",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-19T01:55:06.7987437Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReplaceValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "WertErsetzen",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReplaceValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "値の置換",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "25739c01b46afa5131249a376774e27ddacac514"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{8856CFEE-EBD8-48B7-A33E-846DCC56895F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.1529168Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReplaceValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Formatting/ReplaceValue",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
