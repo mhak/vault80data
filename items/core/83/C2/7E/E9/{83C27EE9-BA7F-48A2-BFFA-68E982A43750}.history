@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7606761Z",
     "label": null,
-    "sourceControlRevisionId": "5a12af2838e733fbc84db6c4b772e4a65f25f1dc",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Timeline",
     "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Tools/Timeline",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "5a12af2838e733fbc84db6c4b772e4a65f25f1dc"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Timeline",
     "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Tools/Timeline",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{83C27EE9-BA7F-48A2-BFFA-68E982A43750}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Timeline",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Tools/Timeline",
+    "commandType": "Label",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": "e8d054ca2551aab7a8d9d11dab6d03222aba25d8"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{83C27EE9-BA7F-48A2-BFFA-68E982A43750}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1215232Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Timeline",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Tools/Timeline",
+    "commandType": "Label",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": null
   }
 ]
