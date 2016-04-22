@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "a74ab58d4a33cc863c4e249ebd8e82790dca08fe",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultActivity",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "a74ab58d4a33cc863c4e249ebd8e82790dca08fe"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultActivity",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{BBB9B392-2E68-4F43-ABA6-AC41755C7316}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7048373Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultActivity",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity",
+    "commandType": "Label",
+    "template": "View rendering",
+    "sourceControlRevisionId": "623d47806ef1686921b016932756b6c4733568c6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{BBB9B392-2E68-4F43-ABA6-AC41755C7316}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0902664Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultActivity",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity",
+    "commandType": "Label",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
   }
 ]
