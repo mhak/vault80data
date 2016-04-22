@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "45e267195049b29ebc4d56a0f2aa4651d3db452e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault QuickDeployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Vault QuickDeployment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "45e267195049b29ebc4d56a0f2aa4651d3db452e"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "d04debaf8231b3121cb09f098a83a47810205a54",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault QuickDeployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Vault QuickDeployment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "d04debaf8231b3121cb09f098a83a47810205a54"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault QuickDeployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Vault QuickDeployment",
     "commandType": "Label",
-    "template": "Page-Stylesheet-File"
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": "fa496cf44a743f80d5f8744e3def5faa6d0ecf34"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{60E70B4C-7B8B-47AE-BD71-B9D4DD481D9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2464971Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault QuickDeployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Vault QuickDeployment",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
   }
 ]
