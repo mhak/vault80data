@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7606761Z",
     "label": null,
-    "sourceControlRevisionId": "f70eae63c5c23e72fa4e532646a737767cbf2139",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data Recovery",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "f70eae63c5c23e72fa4e532646a737767cbf2139"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data Recovery",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{20913C22-DCB4-42A3-8C15-FEAA3CD3EC8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7673070Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data Recovery",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "5cfea888ac77a44c8dffd156fd0254cafbaa511e"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{20913C22-DCB4-42A3-8C15-FEAA3CD3EC8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1215232Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data Recovery",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
