@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "5b47fa7ddf254ffeeaa0d9713defb207f7d0e82b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Remove Selected",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ActionControl Parameters/ActionColumn/ActionGroup/Remove Selected",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "5b47fa7ddf254ffeeaa0d9713defb207f7d0e82b"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "2a41b6d912bc042899f74ca1ef0f86196e19ddbf",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Remove Selected",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ActionControl Parameters/ActionColumn/ActionGroup/Remove Selected",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "2a41b6d912bc042899f74ca1ef0f86196e19ddbf"
   },
   {
     "eventType": "PackageInstall",
@@ -36,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "538022b11b6d27a022d5c3ccbbbba1dd2cf3e1b8",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Remove Selected",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ActionControl Parameters/ActionColumn/ActionGroup/Remove Selected",
     "commandType": "Label",
-    "template": "Action"
+    "template": "Action",
+    "sourceControlRevisionId": "538022b11b6d27a022d5c3ccbbbba1dd2cf3e1b8"
   },
   {
     "eventType": "PackageInstall",
@@ -52,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Remove Selected",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ActionControl Parameters/ActionColumn/ActionGroup/Remove Selected",
     "commandType": "Label",
-    "template": "Action"
+    "template": "Action",
+    "sourceControlRevisionId": "4a5f64eb7ce701d29c26c465aa3ac0fbeae53d46"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7CB40D9F-0DD0-4E58-92C4-84D55E7E727B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2152152Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Selected",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ActionControl Parameters/ActionColumn/ActionGroup/Remove Selected",
+    "commandType": "Label",
+    "template": "Action",
+    "sourceControlRevisionId": null
   }
 ]
