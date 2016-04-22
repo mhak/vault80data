@@ -5,14 +5,15 @@
     "itemId": "{73C74216-AC66-4E33-BBDF-3DDB3A3A8D47}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-08T22:08:51.776465Z",
+    "timestamp": "2016-04-08T22:08:51.7764650Z",
     "label": null,
-    "sourceControlRevisionId": "1322ad09d8a0c71b453668e68fd44d80d6682c78",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/__Standard Values",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "1322ad09d8a0c71b453668e68fd44d80d6682c78"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5824468Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/__Standard Values",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{73C74216-AC66-4E33-BBDF-3DDB3A3A8D47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7829316Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/__Standard Values",
+    "commandType": "Label",
+    "template": "DeletedItemsDataSource Parameters",
+    "sourceControlRevisionId": "977ec415a356a2bd1c74435f05ca76331cd0e2f4"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{73C74216-AC66-4E33-BBDF-3DDB3A3A8D47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1371684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/__Standard Values",
+    "commandType": "Label",
+    "template": "DeletedItemsDataSource Parameters",
+    "sourceControlRevisionId": null
   }
 ]
