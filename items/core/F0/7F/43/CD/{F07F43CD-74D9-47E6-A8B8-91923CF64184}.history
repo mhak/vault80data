@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7458242Z",
     "label": null,
-    "sourceControlRevisionId": "41f1fc35f929a559d47a4335ff536dfb1e9ab6c8",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Renderings",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "41f1fc35f929a559d47a4335ff536dfb1e9ab6c8"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Renderings",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F07F43CD-74D9-47E6-A8B8-91923CF64184}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Renderings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "d3dfec1bdd2aebb24de84731316e261d1e028f5a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F07F43CD-74D9-47E6-A8B8-91923CF64184}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Renderings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
