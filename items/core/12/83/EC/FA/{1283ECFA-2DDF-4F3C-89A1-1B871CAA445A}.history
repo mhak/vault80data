@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:27.5420832Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:27.5881525Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:27.6068122Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "d4e1e05fde22bb4c36d4a320d124932077371d0e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "d4e1e05fde22bb4c36d4a320d124932077371d0e"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:14.2700563Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "68b57267fd77ff82efada44e1c8c5fdffee115fa",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "68b57267fd77ff82efada44e1c8c5fdffee115fa"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:14.2857954Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "6a59f042879cd50854cf810e3cf49916a1022a88",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "6a59f042879cd50854cf810e3cf49916a1022a88"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:14.3166379Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "7bb7bf38353cc19e8d841b3736e3620a95f82b46",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "7bb7bf38353cc19e8d841b3736e3620a95f82b46"
   },
   {
     "eventType": "PackageInstall",
@@ -156,13 +166,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "9cdb61124e053846eadbd4437d35dc9e8a5a1b3d",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "9cdb61124e053846eadbd4437d35dc9e8a5a1b3d"
   },
   {
     "eventType": "PackageInstall",
@@ -171,13 +182,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "3b6d346e35b3423b0cf9e3edd391444d6bda0461",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "3b6d346e35b3423b0cf9e3edd391444d6bda0461"
   },
   {
     "eventType": "PackageInstall",
@@ -186,13 +198,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "d8837badfc92cf5e80db67e98676fee6678b6480",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "d8837badfc92cf5e80db67e98676fee6678b6480"
   },
   {
     "eventType": "PackageInstall",
@@ -201,13 +214,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "062b9b4ab4b35d2e8299a32b499c61523a203284",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "062b9b4ab4b35d2e8299a32b499c61523a203284"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "957551bffdbab90360574a9cf2bec08c97d0fedb",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
     "commandType": "Label",
-    "template": "Menu item"
+    "template": "Menu item",
+    "sourceControlRevisionId": "957551bffdbab90360574a9cf2bec08c97d0fedb"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "be67d11c222a8395041ae16727637421f8fd6b35",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
     "commandType": "Label",
-    "template": "Menu item"
+    "template": "Menu item",
+    "sourceControlRevisionId": "be67d11c222a8395041ae16727637421f8fd6b35"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "05a4ad1f056aeb798166a9c7390ee0a5ab9c672c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
     "commandType": "Label",
-    "template": "Menu item"
+    "template": "Menu item",
+    "sourceControlRevisionId": "05a4ad1f056aeb798166a9c7390ee0a5ab9c672c"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Label Item",
     "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
     "commandType": "Label",
-    "template": "Menu item"
+    "template": "Menu item",
+    "sourceControlRevisionId": "8fb737710e41a3f4008d275ea95fe896dcba045a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1283ECFA-2DDF-4F3C-89A1-1B871CAA445A}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Label Item",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Menues/TheVault/Label Item",
+    "commandType": "Label",
+    "template": "Menu item",
+    "sourceControlRevisionId": null
   }
 ]
