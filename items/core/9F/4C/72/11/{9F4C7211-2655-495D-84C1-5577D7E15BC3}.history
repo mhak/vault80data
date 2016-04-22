@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "379be1c359f127f32371cac43ab19d5ace5deb77",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Home",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Home",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "379be1c359f127f32371cac43ab19d5ace5deb77"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "9c1b1a50b947e689ed51e162a43fa0fab9bbb12d",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Home",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Home",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "9c1b1a50b947e689ed51e162a43fa0fab9bbb12d"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Home",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Home",
     "commandType": "Label",
-    "template": "Speak-StartPage"
+    "template": "Speak-StartPage",
+    "sourceControlRevisionId": "871a222665bf9731714887e869fe0e7af591f962"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9F4C7211-2655-495D-84C1-5577D7E15BC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault Home",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Home",
+    "commandType": "Label",
+    "template": "Speak-StartPage",
+    "sourceControlRevisionId": null
   }
 ]
