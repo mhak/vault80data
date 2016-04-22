@@ -5,14 +5,15 @@
     "itemId": "{11766BF9-16FD-43BA-BA61-B2C04B2439AA}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-08T22:08:51.776465Z",
+    "timestamp": "2016-04-08T22:08:51.7764650Z",
     "label": null,
-    "sourceControlRevisionId": "a96056a9f326f38de17f0b607a7e8d655c151e1c",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "CurrentPage",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/Appearance/CurrentPage",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "a96056a9f326f38de17f0b607a7e8d655c151e1c"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "CurrentPage",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/Appearance/CurrentPage",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{11766BF9-16FD-43BA-BA61-B2C04B2439AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7987437Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CurrentPage",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/Appearance/CurrentPage",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": "4b2935ae62fc458d273dcccc59febe30835aa345"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{11766BF9-16FD-43BA-BA61-B2C04B2439AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1529168Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CurrentPage",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/DeletedItemsDataSource Parameters/Appearance/CurrentPage",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
