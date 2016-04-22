@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "832b4ae800932db7a8dd6d1c822b29418aa9d427",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LastDeployed",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/LastDeployed",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "832b4ae800932db7a8dd6d1c822b29418aa9d427"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "f25f532689fd4bc772c300f3e205c2c8a6f76320",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LastDeployed",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/LastDeployed",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "f25f532689fd4bc772c300f3e205c2c8a6f76320"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LastDeployed",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/LastDeployed",
     "commandType": "Label",
-    "template": "ColumnField"
+    "template": "ColumnField",
+    "sourceControlRevisionId": "8ff826ab24c4097cc0fae79fc4aa1d9fc4f71e40"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4DA5CA76-AF37-452A-BA36-D594B6E65BED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2464971Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LastDeployed",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/LastDeployed",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
   }
 ]
