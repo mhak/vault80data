@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "dab55ddbd86a0962104b7ae1801c8785d26800ef",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "TimeCreated",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/TimeCreated",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "dab55ddbd86a0962104b7ae1801c8785d26800ef"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "a7ec9f788f90cfc2d603261188f67ffea0ad81ae",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "TimeCreated",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/TimeCreated",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "a7ec9f788f90cfc2d603261188f67ffea0ad81ae"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "TimeCreated",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/TimeCreated",
     "commandType": "Label",
-    "template": "ColumnField"
+    "template": "ColumnField",
+    "sourceControlRevisionId": "ef60dab7a88818146c515dc11acaf62dea0042d6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6E525ED6-4285-4DB8-9116-E604E546B832}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2464971Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TimeCreated",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/TimeCreated",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
   }
 ]
