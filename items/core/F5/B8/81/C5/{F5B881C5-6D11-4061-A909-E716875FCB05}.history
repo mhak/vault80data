@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:07:57.8532341Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:07:57.8688662Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rules Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:07:57.9158538Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アコーディオン",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmenterings-Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rules Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "024d404dbd0b069a3f50ffae1faad9a918d136d1",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アコーディオン",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "024d404dbd0b069a3f50ffae1faad9a918d136d1"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:57.5511275Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "b092829b289ce204df85f5616668cba266dbef97",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "b092829b289ce204df85f5616668cba266dbef97"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:24:57.5828513Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "9be3286a4d0e31ded221d23db7155c4cc8a4fe10",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rules Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "9be3286a4d0e31ded221d23db7155c4cc8a4fe10"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:57.5980837Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "0310861dd1e5e2e7f483608e54b5708c06943a3d",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アコーディオン",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0310861dd1e5e2e7f483608e54b5708c06943a3d"
   },
   {
     "eventType": "PackageInstall",
@@ -156,13 +166,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "76f3a468255f0a5d03c6ea414620fd8393306daa",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmenterings-Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "76f3a468255f0a5d03c6ea414620fd8393306daa"
   },
   {
     "eventType": "PackageInstall",
@@ -171,13 +182,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "d25e6d2bf3a9a7efb3fa53839b94d75c78cb1d11",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "d25e6d2bf3a9a7efb3fa53839b94d75c78cb1d11"
   },
   {
     "eventType": "PackageInstall",
@@ -186,13 +198,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "4de27e3fe709d0fd6f5c5a67f0e46c682e1248a6",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rules Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "4de27e3fe709d0fd6f5c5a67f0e46c682e1248a6"
   },
   {
     "eventType": "PackageInstall",
@@ -201,13 +214,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "8991e9e34474f87b85d1464033d64d3e979f8ee2",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アコーディオン",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "8991e9e34474f87b85d1464033d64d3e979f8ee2"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "85e02de36bd3d79aa54a640750aa9f10062406b5",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmenterings-Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
     "commandType": "Label",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "85e02de36bd3d79aa54a640750aa9f10062406b5"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "0d5fc5a159e0af57915cd939d134c5eb16d6d167",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
     "commandType": "Label",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "0d5fc5a159e0af57915cd939d134c5eb16d6d167"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "c5b6ae7b54d4fa32b79580a7bbee3ea071493984",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rules Accordion",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
     "commandType": "Label",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "c5b6ae7b54d4fa32b79580a7bbee3ea071493984"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アコーディオン",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
     "commandType": "Label",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "057ba62b7b202c0bb3874d3d659c9f8ff76da326"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F5B881C5-6D11-4061-A909-E716875FCB05}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.2152152Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmenterings-Accordion",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Rules Accordion",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
