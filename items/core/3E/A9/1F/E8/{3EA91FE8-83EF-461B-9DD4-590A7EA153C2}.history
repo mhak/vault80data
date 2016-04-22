@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "952d44003eb1fc2a2ffa987758b432f675082f8c",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Release",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "952d44003eb1fc2a2ffa987758b432f675082f8c"
   },
   {
     "eventType": "PackageInstall",
@@ -20,14 +21,15 @@
     "itemId": "{3EA91FE8-83EF-461B-9DD4-590A7EA153C2}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "289d4db2ff8b78f9206891730d11be0889fa6ba2",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Release",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "289d4db2ff8b78f9206891730d11be0889fa6ba2"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Release",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release",
     "commandType": "Label",
-    "template": "LaunchPad-Group"
+    "template": "LaunchPad-Group",
+    "sourceControlRevisionId": "db7ca8515df5c6b66567605a22aa3853603f610a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3EA91FE8-83EF-461B-9DD4-590A7EA153C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1996336Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Release",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Release",
+    "commandType": "Label",
+    "template": "LaunchPad-Group",
+    "sourceControlRevisionId": null
   }
 ]
