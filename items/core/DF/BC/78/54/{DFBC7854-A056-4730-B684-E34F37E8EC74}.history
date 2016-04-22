@@ -5,14 +5,15 @@
     "itemId": "{DFBC7854-A056-4730-B684-E34F37E8EC74}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-08T22:08:51.776465Z",
+    "timestamp": "2016-04-08T22:08:51.7764650Z",
     "label": null,
-    "sourceControlRevisionId": "b10a5c17b57dbb53c0ca4e4e61248eed4a749d35",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Recovered Items",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "b10a5c17b57dbb53c0ca4e4e61248eed4a749d35"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5824468Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Recovered Items",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{DFBC7854-A056-4730-B684-E34F37E8EC74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7987437Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recovered Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items",
+    "commandType": "Label",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": "2797a45e954f5cabc5eb42f847a40c1470e67bbc"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{DFBC7854-A056-4730-B684-E34F37E8EC74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1529168Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recovered Items",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items",
+    "commandType": "Label",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
   }
 ]
