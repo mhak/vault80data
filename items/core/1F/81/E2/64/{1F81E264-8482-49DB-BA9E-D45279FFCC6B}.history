@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "8e1ae22c92e9fc1ccc83fab7bea9757fa9e83c06",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Enhancement",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Rollback/Execute Rollback/PageSettings/Vault Enhancement",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "8e1ae22c92e9fc1ccc83fab7bea9757fa9e83c06"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "7b8f627d1974377d3d7b22ab798c70a9c7a715dd",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Enhancement",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Vault Enhancement",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "7b8f627d1974377d3d7b22ab798c70a9c7a715dd"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8766776Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Enhancement",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Vault Enhancement",
     "commandType": "Label",
-    "template": "Page-Stylesheet-File"
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": "c4522a036d0659d222b2b5413d4a781b0e6ac910"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1F81E264-8482-49DB-BA9E-D45279FFCC6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2310578Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault Enhancement",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Execute Rollback/PageSettings/Vault Enhancement",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
   }
 ]
