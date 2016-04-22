@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7606761Z",
     "label": null,
-    "sourceControlRevisionId": "6ddef402a1eacc8a533df9c7738c3376a3fefdd4",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Test Chart",
     "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Charts/Test Chart",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "6ddef402a1eacc8a533df9c7738c3376a3fefdd4"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Test Chart",
     "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Charts/Test Chart",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B516E774-62D3-4BFD-88BD-9EA1FADA1150}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Chart",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Charts/Test Chart",
+    "commandType": "Label",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": "09d6b74463cd60662db44827b5eb422b48f2a6ae"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B516E774-62D3-4BFD-88BD-9EA1FADA1150}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1215232Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Chart",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Charts/Test Chart",
+    "commandType": "Label",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": null
   }
 ]
