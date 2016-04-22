@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:07:43.4154244Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ContentBearbeitung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:07:43.4623648Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Reporting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:07:43.4779087Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "コンテンツの編集",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ContentEditing",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ContentBearbeitung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Reporting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "3bc6b5c0f4cecacc442bbf57a5ed92d16442e8cb",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "コンテンツの編集",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "3bc6b5c0f4cecacc442bbf57a5ed92d16442e8cb"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:45.0201111Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "5c440513780024dfddf69f6c1f0cf883155c406a",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ContentBearbeitung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5c440513780024dfddf69f6c1f0cf883155c406a"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:24:45.0353924Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "f0527d4450688658ba74333a28a63bc47f4bca63",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Reporting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "f0527d4450688658ba74333a28a63bc47f4bca63"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:45.0667916Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "65f9a1e43db3b353a33ca571e8918317890fc1ec",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "コンテンツの編集",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "65f9a1e43db3b353a33ca571e8918317890fc1ec"
   },
   {
     "eventType": "PackageInstall",
@@ -155,14 +165,15 @@
     "itemId": "{4E0F28AA-3584-43D6-A554-33B5107FBAAA}",
     "version": 1,
     "language": "da",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "be591000bd465801a76e627e62d1da7e03fefe76",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ContentEditing",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "be591000bd465801a76e627e62d1da7e03fefe76"
   },
   {
     "eventType": "PackageInstall",
@@ -170,14 +181,15 @@
     "itemId": "{4E0F28AA-3584-43D6-A554-33B5107FBAAA}",
     "version": 1,
     "language": "de-DE",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "62d7e8f7dda493769954a7ad589eb0442e5ab540",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ContentBearbeitung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "62d7e8f7dda493769954a7ad589eb0442e5ab540"
   },
   {
     "eventType": "PackageInstall",
@@ -185,14 +197,15 @@
     "itemId": "{4E0F28AA-3584-43D6-A554-33B5107FBAAA}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "aca0916010294d4ce1e8d495cdafdfa22a2ff84b",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Reporting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "aca0916010294d4ce1e8d495cdafdfa22a2ff84b"
   },
   {
     "eventType": "PackageInstall",
@@ -200,14 +213,15 @@
     "itemId": "{4E0F28AA-3584-43D6-A554-33B5107FBAAA}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "51a726ca1de78ac83d9ba8cc4356143d5e75e679",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "コンテンツの編集",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "51a726ca1de78ac83d9ba8cc4356143d5e75e679"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "e774b25b31810f7afc431815fec474863c5f509c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ContentEditing",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
     "commandType": "Label",
-    "template": "LaunchPad-Group"
+    "template": "LaunchPad-Group",
+    "sourceControlRevisionId": "e774b25b31810f7afc431815fec474863c5f509c"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "6a96dc08c057ca9c6ae2907370c117a458eb877a",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ContentBearbeitung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
     "commandType": "Label",
-    "template": "LaunchPad-Group"
+    "template": "LaunchPad-Group",
+    "sourceControlRevisionId": "6a96dc08c057ca9c6ae2907370c117a458eb877a"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "f51899b01a1065108d6c44528b84444ad01f2316",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Reporting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
     "commandType": "Label",
-    "template": "LaunchPad-Group"
+    "template": "LaunchPad-Group",
+    "sourceControlRevisionId": "f51899b01a1065108d6c44528b84444ad01f2316"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "コンテンツの編集",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
     "commandType": "Label",
-    "template": "LaunchPad-Group"
+    "template": "LaunchPad-Group",
+    "sourceControlRevisionId": "ae1cd8547ebe7ec6a353e3ef8defd5f468c504a5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4E0F28AA-3584-43D6-A554-33B5107FBAAA}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.1996336Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ContentEditing",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Reporting",
+    "commandType": "Label",
+    "template": "LaunchPad-Group",
+    "sourceControlRevisionId": null
   }
 ]
