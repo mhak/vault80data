@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "607b8c846043c7aaee9835a57debe00e645e8c2e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DeletedItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Lists/DeletedItems",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "607b8c846043c7aaee9835a57debe00e645e8c2e"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DeletedItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Lists/DeletedItems",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A17EF467-E3D0-4A85-843E-8172AD64B40B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeletedItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Lists/DeletedItems",
+    "commandType": "Label",
+    "template": "ListControl",
+    "sourceControlRevisionId": "6b48f0b746211a1d3c9881675911b433057daa22"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A17EF467-E3D0-4A85-843E-8172AD64B40B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1687602Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeletedItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Lists/DeletedItems",
+    "commandType": "Label",
+    "template": "ListControl",
+    "sourceControlRevisionId": null
   }
 ]
