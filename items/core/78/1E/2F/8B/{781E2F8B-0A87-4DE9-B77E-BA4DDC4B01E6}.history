@@ -6,13 +6,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Lists",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Lists",
     "commandType": "Label",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "17ef2057d96b1ce918bb7565c9c49a19a8fdbcd0"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{781E2F8B-0A87-4DE9-B77E-BA4DDC4B01E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1839945Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lists",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Lists",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
