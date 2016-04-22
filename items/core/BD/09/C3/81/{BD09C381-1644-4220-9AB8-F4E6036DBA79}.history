@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "ae11546523bd5ba538fc03e535e5533b0b100d28",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Build Deployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "ae11546523bd5ba538fc03e535e5533b0b100d28"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "c0211a40abe306e9ea9c015edc65846326132858",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Build Deployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "c0211a40abe306e9ea9c015edc65846326132858"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Build Deployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment",
     "commandType": "Label",
-    "template": "Speak-DashboardPage"
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": "64d38be2b1c93c770a906fb5c1870e8804fb2d74"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{BD09C381-1644-4220-9AB8-F4E6036DBA79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1996336Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Build Deployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment",
+    "commandType": "Label",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
   }
 ]
