@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:04.7752682Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatierung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:04.8067273Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:04.8377762Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "書式設定",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatering",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatierung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "9b014f61fea1bf6306cd15a6ecfbbd76ba8bad35",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "書式設定",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "9b014f61fea1bf6306cd15a6ecfbbd76ba8bad35"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:05.0667022Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "15609427a904aff3e2c7671b279e4a1f2af180c3",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatierung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "15609427a904aff3e2c7671b279e4a1f2af180c3"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:05.1140362Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "0842375b838e5a32b526a832db7ad1d3032f1f4c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "0842375b838e5a32b526a832db7ad1d3032f1f4c"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:05.1447716Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "8d85355389888e53a6f638b66451f59b689189a5",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "書式設定",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "8d85355389888e53a6f638b66451f59b689189a5"
   },
   {
     "eventType": "PackageInstall",
@@ -156,13 +166,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "acec5d2bd42c9ca3be483046f14f8c04a0ffd9c5",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatering",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "acec5d2bd42c9ca3be483046f14f8c04a0ffd9c5"
   },
   {
     "eventType": "PackageInstall",
@@ -171,13 +182,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "17a8ae7f41a06e6cf524566fc4aa7ada8fc7aafa",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatierung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "17a8ae7f41a06e6cf524566fc4aa7ada8fc7aafa"
   },
   {
     "eventType": "PackageInstall",
@@ -186,13 +198,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "d5f8ba03f8389dd5ee36074ffa2f7ce149234aac",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "d5f8ba03f8389dd5ee36074ffa2f7ce149234aac"
   },
   {
     "eventType": "PackageInstall",
@@ -201,13 +214,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "19f5fe9ae0fdc4c14059621c405b46ffdca7a064",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "書式設定",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "19f5fe9ae0fdc4c14059621c405b46ffdca7a064"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.8766776Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "9aa7f530c7177347769110ab63fe4b55a4b5b65f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatering",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
     "commandType": "Label",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "9aa7f530c7177347769110ab63fe4b55a4b5b65f"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.8766776Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "328e3ab6473cbfc8a52e43508c60d012509ea0ae",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatierung",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
     "commandType": "Label",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "328e3ab6473cbfc8a52e43508c60d012509ea0ae"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8766776Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "9308126f2b9c875446c8c7eca7fb5621b24b387d",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Formatting",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
     "commandType": "Label",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "9308126f2b9c875446c8c7eca7fb5621b24b387d"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.8766776Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "書式設定",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
     "commandType": "Label",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "f833889c308285f6f8125bb36ce6b3a191efc071"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{02215064-5BFD-4B35-9673-319B6E3F1E59}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.2310578Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Formatering",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/DeploymentItemsDataSource Parameters/Appearance/Formatting",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
