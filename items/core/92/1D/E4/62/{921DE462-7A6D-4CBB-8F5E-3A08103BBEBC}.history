@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.6981063Z",
     "label": null,
-    "sourceControlRevisionId": "e20d1068dda24806db43b78babfa260b91623b2b",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DateTimeLastUpdate",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/Control Messaging/DateTimeLastUpdate",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "e20d1068dda24806db43b78babfa260b91623b2b"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DateTimeLastUpdate",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/Control Messaging/DateTimeLastUpdate",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{921DE462-7A6D-4CBB-8F5E-3A08103BBEBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7048373Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DateTimeLastUpdate",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/Control Messaging/DateTimeLastUpdate",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": "ac022880e00810783d2b44d1639ad1abe43a79ab"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{921DE462-7A6D-4CBB-8F5E-3A08103BBEBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0747329Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DateTimeLastUpdate",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/Control Messaging/DateTimeLastUpdate",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
