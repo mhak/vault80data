@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "99d1f6fb3981da20f4279822d02b7d61176adf00",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "BuildRulesButtonRuleDefinition",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/BuildRulesButtonRuleDefinition",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "99d1f6fb3981da20f4279822d02b7d61176adf00"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "afdb13c23d43142346941379357870f0be1a718c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "BuildRulesButtonRuleDefinition",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/BuildRulesButtonRuleDefinition",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "afdb13c23d43142346941379357870f0be1a718c"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8612577Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "BuildRulesButtonRuleDefinition",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/BuildRulesButtonRuleDefinition",
     "commandType": "Label",
-    "template": "RuleDefinition"
+    "template": "RuleDefinition",
+    "sourceControlRevisionId": "5f2f430bdbe1e32fa9b4973a6804e90257609c83"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9073E0CE-F9C3-4183-BE9C-35D827F2A80C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2152152Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "BuildRulesButtonRuleDefinition",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Tabs/SelectTab Parameters/Filter based selection/PageSettings/BuildRulesButtonRuleDefinition",
+    "commandType": "Label",
+    "template": "RuleDefinition",
+    "sourceControlRevisionId": null
   }
 ]
