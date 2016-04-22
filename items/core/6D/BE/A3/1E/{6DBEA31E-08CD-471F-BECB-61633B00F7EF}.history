@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "df84c853c7134a52c99b7b16b0deadf0ac418d39",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Versions",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault/Versions",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "df84c853c7134a52c99b7b16b0deadf0ac418d39"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "02faafe20adb35261f3d53bcc82ffb8183a15393",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Versions",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault/Versions",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "02faafe20adb35261f3d53bcc82ffb8183a15393"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Versions",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault/Versions",
     "commandType": "Label",
-    "template": "Large Gallery Button"
+    "template": "Large Gallery Button",
+    "sourceControlRevisionId": "ca3e6220ab85aa58b31e87e54df1f5b03895c776"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{6DBEA31E-08CD-471F-BECB-61633B00F7EF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Versions",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault/Versions",
+    "commandType": "Label",
+    "template": "Large Gallery Button",
+    "sourceControlRevisionId": null
   }
 ]
