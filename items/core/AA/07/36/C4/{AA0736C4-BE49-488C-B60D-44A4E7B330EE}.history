@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7606761Z",
     "label": null,
-    "sourceControlRevisionId": "1aed847c1271b9cb0f8651abda6f5d4536e196c6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Dashboard",
     "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Dashboard",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "1aed847c1271b9cb0f8651abda6f5d4536e196c6"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Dashboard",
     "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Dashboard",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{AA0736C4-BE49-488C-B60D-44A4E7B330EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dashboard",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Dashboard",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "9a9c8b51cedc13c99ef93b4aa5e4858f69cb0969"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{AA0736C4-BE49-488C-B60D-44A4E7B330EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1215232Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dashboard",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Dashboard",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
