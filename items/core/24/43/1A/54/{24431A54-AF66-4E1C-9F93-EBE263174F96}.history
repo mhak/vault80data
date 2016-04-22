@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7458242Z",
     "label": null,
-    "sourceControlRevisionId": "fe17996eb92dba76a9255f164fcad2ba22d01491",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultLabelContent-Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings/VaultLabelContent/VaultLabelContent-Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "fe17996eb92dba76a9255f164fcad2ba22d01491"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultLabelContent-Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings/VaultLabelContent/VaultLabelContent-Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{24431A54-AF66-4E1C-9F93-EBE263174F96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultLabelContent-Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings/VaultLabelContent/VaultLabelContent-Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": "cf36c7677e015e9b1310bb67e89d663edb2f3372"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{24431A54-AF66-4E1C-9F93-EBE263174F96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultLabelContent-Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings/VaultLabelContent/VaultLabelContent-Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": null
   }
 ]
