@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7606761Z",
     "label": null,
-    "sourceControlRevisionId": "f5b63d07d16f20727cdaa2ce37d726a741b9b760",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Dashboard",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "f5b63d07d16f20727cdaa2ce37d726a741b9b760"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5683855Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Dashboard",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B2D13121-76DD-4C76-8972-D4E32D1D3B2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7673070Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dashboard",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard",
+    "commandType": "Label",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": "c6af4ea37bdc68048e0597659f9ed18e04f50d0f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B2D13121-76DD-4C76-8972-D4E32D1D3B2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1215232Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dashboard",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard",
+    "commandType": "Label",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
   }
 ]
