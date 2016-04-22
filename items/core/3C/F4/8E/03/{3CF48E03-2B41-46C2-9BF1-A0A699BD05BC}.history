@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7458242Z",
     "label": null,
-    "sourceControlRevisionId": "abf51c37a88041f3209fe1b3eb6a5b48c5558f72",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault StyleSheet",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/LabelDatabase/PageSettings/Vault StyleSheet",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "abf51c37a88041f3209fe1b3eb6a5b48c5558f72"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault StyleSheet",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/LabelDatabase/PageSettings/Vault StyleSheet",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3CF48E03-2B41-46C2-9BF1-A0A699BD05BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault StyleSheet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/LabelDatabase/PageSettings/Vault StyleSheet",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": "aeccf61086061dd5cb6ece5679d7b08e79850e61"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3CF48E03-2B41-46C2-9BF1-A0A699BD05BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault StyleSheet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/LabelDatabase/PageSettings/Vault StyleSheet",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
   }
 ]
