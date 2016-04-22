@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "50e4510ca71947058f97582a05acc56a8d77fec9",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageSettings",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Recycle Bin/PageSettings",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "50e4510ca71947058f97582a05acc56a8d77fec9"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "d191dc3683e380aa025768c394be64107e60639a",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageSettings",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Recycle Bin/PageSettings",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "d191dc3683e380aa025768c394be64107e60639a"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageSettings",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Recycle Bin/PageSettings",
     "commandType": "Label",
-    "template": "PageSettings"
+    "template": "PageSettings",
+    "sourceControlRevisionId": "5949218cd8928c04144b88ee155f4903d54016d6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D809E345-3F69-4DAB-BDEB-E36DF32B0039}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageSettings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Recycle Bin/PageSettings",
+    "commandType": "Label",
+    "template": "PageSettings",
+    "sourceControlRevisionId": null
   }
 ]
