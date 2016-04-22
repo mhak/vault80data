@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:07:42.5562884Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sitecore Analytics",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:07:42.5879008Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deleted Items",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:07:42.6028921Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Engagement-analytics",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sitecore Analytics",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deleted Items",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "1e41727334ce53d59aa583b2f45d94b2d882b553",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "1e41727334ce53d59aa583b2f45d94b2d882b553"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:44.1450778Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "50626ccee3669ab186cd9b7c879dbd3f64c1f6cb",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sitecore Analytics",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "50626ccee3669ab186cd9b7c879dbd3f64c1f6cb"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:24:44.1760284Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "409368b384ce4f5f2cd13efd370f6f8d73211877",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deleted Items",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "409368b384ce4f5f2cd13efd370f6f8d73211877"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:44.1923266Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "26e768afde8dd261f645635e9425db9c3c8d4cef",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "26e768afde8dd261f645635e9425db9c3c8d4cef"
   },
   {
     "eventType": "PackageInstall",
@@ -155,14 +165,15 @@
     "itemId": "{8D5106AE-EC3E-4455-BD05-85B3DBFBBD30}",
     "version": 1,
     "language": "da",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "ac6dc65984a77aeda88a946ccb9255e7f7f1f9ae",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Engagement-analytics",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "ac6dc65984a77aeda88a946ccb9255e7f7f1f9ae"
   },
   {
     "eventType": "PackageInstall",
@@ -170,14 +181,15 @@
     "itemId": "{8D5106AE-EC3E-4455-BD05-85B3DBFBBD30}",
     "version": 1,
     "language": "de-DE",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "05776005756b61ea5cc590e8a62cf4261d4418c5",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sitecore Analytics",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "05776005756b61ea5cc590e8a62cf4261d4418c5"
   },
   {
     "eventType": "PackageInstall",
@@ -185,14 +197,15 @@
     "itemId": "{8D5106AE-EC3E-4455-BD05-85B3DBFBBD30}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "6f76b9c5389b963f60873e315836295636bb5a17",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deleted Items",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "6f76b9c5389b963f60873e315836295636bb5a17"
   },
   {
     "eventType": "PackageInstall",
@@ -200,14 +213,15 @@
     "itemId": "{8D5106AE-EC3E-4455-BD05-85B3DBFBBD30}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "29e2b1e3082016e207c9e6dbe82164154c9a3b34",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "29e2b1e3082016e207c9e6dbe82164154c9a3b34"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "e7a9f52e700c21ff4b03d543fd83901ee3fae2ea",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Engagement-analytics",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
     "commandType": "Label",
-    "template": "LaunchPad-Button"
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": "e7a9f52e700c21ff4b03d543fd83901ee3fae2ea"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "77d429ea9b5a9fed66fa6c8caaefd96d5c6f03f8",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sitecore Analytics",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
     "commandType": "Label",
-    "template": "LaunchPad-Button"
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": "77d429ea9b5a9fed66fa6c8caaefd96d5c6f03f8"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "4135b768a44bbf78e8cc5256ac0aad6fa178443f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deleted Items",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
     "commandType": "Label",
-    "template": "LaunchPad-Button"
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": "4135b768a44bbf78e8cc5256ac0aad6fa178443f"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "エクスペリエンス アナリティクス",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
     "commandType": "Label",
-    "template": "LaunchPad-Button"
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": "8c5b88de2e2be4ce38762f6c1ce81a5105175678"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{8D5106AE-EC3E-4455-BD05-85B3DBFBBD30}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.1839945Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement-analytics",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/PageSettings/VaultButtons/Data Recovery/Deleted Items",
+    "commandType": "Label",
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": null
   }
 ]
