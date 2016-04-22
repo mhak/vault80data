@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:09.9161793Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetteProviderTyp",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:09.9472199Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:09.9793964Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetteProviderTyp",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "687ef847c20d05fb3f9706e08ca775ed2d0543c6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "687ef847c20d05fb3f9706e08ca775ed2d0543c6"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:09.3635154Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "cc32905a2d789eb4869d7a9c504572d891a61271",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetteProviderTyp",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "cc32905a2d789eb4869d7a9c504572d891a61271"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:09.3954672Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "e6eeab96d7eadf11c3ec42ab6e43e3fe991c4f38",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e6eeab96d7eadf11c3ec42ab6e43e3fe991c4f38"
   },
   {
     "eventType": "VersionRemoved",
@@ -140,14 +149,15 @@
     "itemId": "{35D36661-331A-4EC8-AE42-166C7A936B04}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-13T18:25:09.426318Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "77a15f0cb60c880dfeeddb91accd99b9e4a49fa0",
+    "timestamp": "2016-04-13T18:25:09.4263180Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "77a15f0cb60c880dfeeddb91accd99b9e4a49fa0"
   },
   {
     "eventType": "PackageInstall",
@@ -156,13 +166,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "1a60335d247514adf6b32d95969d9ed743247c36",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "1a60335d247514adf6b32d95969d9ed743247c36"
   },
   {
     "eventType": "PackageInstall",
@@ -171,13 +182,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "b43474a0c4969623ee638adf172057de3d8d993e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetteProviderTyp",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "b43474a0c4969623ee638adf172057de3d8d993e"
   },
   {
     "eventType": "PackageInstall",
@@ -186,13 +198,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "fa6c92dd17f47de7948e680dec9cc58e09990203",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "fa6c92dd17f47de7948e680dec9cc58e09990203"
   },
   {
     "eventType": "PackageInstall",
@@ -201,13 +214,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "84bfb8925357fa8a1328dbd6357ae0ca585e9f58",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "84bfb8925357fa8a1328dbd6357ae0ca585e9f58"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "748134984ac024e1e82cc5af2acadf74a1c8049f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Label",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "748134984ac024e1e82cc5af2acadf74a1c8049f"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "6789869c87ac08e74d2a3d6045c0e681bdd22deb",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetteProviderTyp",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Label",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "6789869c87ac08e74d2a3d6045c0e681bdd22deb"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "61adb3e17943f1ec5376bc6af867dacb56159819",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetProviderType",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Label",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "61adb3e17943f1ec5376bc6af867dacb56159819"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ファセット プロバイダー タイプ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
     "commandType": "Label",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "b2b9667178c2ee98435a9f5ebe6d85b8340e073b"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{35D36661-331A-4EC8-AE42-166C7A936B04}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.2310578Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetProviderType",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Data/DeploymentItemsDataSource/Facet/Data/FacetProviderType",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
