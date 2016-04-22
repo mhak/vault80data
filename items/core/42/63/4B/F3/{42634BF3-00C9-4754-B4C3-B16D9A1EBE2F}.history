@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7458242Z",
     "label": null,
-    "sourceControlRevisionId": "c297a666a4b6ddcaf092769ebb1bef0a2a9447ee",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageSettings",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "c297a666a4b6ddcaf092769ebb1bef0a2a9447ee"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageSettings",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{42634BF3-00C9-4754-B4C3-B16D9A1EBE2F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageSettings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings",
+    "commandType": "Label",
+    "template": "PageSettings",
+    "sourceControlRevisionId": "e64be54544417aef07b6e53f37df27a04d140838"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{42634BF3-00C9-4754-B4C3-B16D9A1EBE2F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageSettings",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Item Versions/PageSettings",
+    "commandType": "Label",
+    "template": "PageSettings",
+    "sourceControlRevisionId": null
   }
 ]
