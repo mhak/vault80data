@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:32.1822473Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XCentium Vault",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:32.2134153Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント ビルダー",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:32.2288552Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segment Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentgenerator",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segment Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XCentium Vault",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "43c803d660c9db7bd25d726ca8897454068041b6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント ビルダー",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "43c803d660c9db7bd25d726ca8897454068041b6"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:18.2697671Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "5668edd833615ad8bcb84413b0f698062ee90ad4",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XCentium Vault",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5668edd833615ad8bcb84413b0f698062ee90ad4"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:18.3012661Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "e469a1a6ad63bdc4391ba707e7c7b39678bffb1c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント ビルダー",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e469a1a6ad63bdc4391ba707e7c7b39678bffb1c"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:18.3169868Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "f457985b834082f0ec6f4fe162233a718861cb68",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segment Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "f457985b834082f0ec6f4fe162233a718861cb68"
   },
   {
     "eventType": "PackageInstall",
@@ -156,13 +166,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "8421134a756a3a746024a36c3bc15d4ddaa1783f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentgenerator",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "8421134a756a3a746024a36c3bc15d4ddaa1783f"
   },
   {
     "eventType": "PackageInstall",
@@ -171,13 +182,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "4b9274b0b5375b299c7064ff7271059fdf708c2e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segment Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "4b9274b0b5375b299c7064ff7271059fdf708c2e"
   },
   {
     "eventType": "PackageInstall",
@@ -186,13 +198,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "1abfa02a38772eb196282c405a4ca2406bdb5a1f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XCentium Vault",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "1abfa02a38772eb196282c405a4ca2406bdb5a1f"
   },
   {
     "eventType": "PackageInstall",
@@ -201,13 +214,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント ビルダー",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
   },
   {
     "eventType": "VersionRemoved",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:54:48.1895771Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XCentium Vault",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
   },
   {
     "eventType": "VersionRemoved",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:54:48.2206906Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント ビルダー",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
   },
   {
     "eventType": "VersionRemoved",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:54:48.2362375Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "02f3a6b46d6a6b24b7f5946a0f11ab7f85285930",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segment Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "02f3a6b46d6a6b24b7f5946a0f11ab7f85285930"
   },
   {
     "eventType": "PackageInstall",
@@ -264,14 +278,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "b2b436f89eb35bb09400e93f0d884e5dde79b9c1",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentgenerator",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Label",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "b2b436f89eb35bb09400e93f0d884e5dde79b9c1"
   },
   {
     "eventType": "PackageInstall",
@@ -280,14 +294,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "da6c91d558181f46a3ffc2961e050818a13564cb",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segment Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Label",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "da6c91d558181f46a3ffc2961e050818a13564cb"
   },
   {
     "eventType": "PackageInstall",
@@ -296,14 +310,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "1f127f4fe9c7840cd40e190d0eca7b055409552b",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XCentium Vault",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Label",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "1f127f4fe9c7840cd40e190d0eca7b055409552b"
   },
   {
     "eventType": "PackageInstall",
@@ -312,14 +326,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "6922d19e9b7d1b7f6a1889286c1b81ae45c35557",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント ビルダー",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Label",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "6922d19e9b7d1b7f6a1889286c1b81ae45c35557"
   },
   {
     "eventType": "Snapshot",
@@ -328,14 +342,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:43.0331215Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XCentium Vault",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -343,15 +357,15 @@
     "itemId": "{2A8CB62A-9578-4E19-8137-F3611AA53C10}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:41:18.08065Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:41:18.0806500Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XCentium Vault",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -360,13 +374,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:45.5338989Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "XCentium Vault",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "6156d8ec2f0ff6d6efb7f1f294e13b5d5a99acb1"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2A8CB62A-9578-4E19-8137-F3611AA53C10}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmentgenerator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/XCentium Vault",
+    "commandType": "Label",
+    "template": "Tag",
+    "sourceControlRevisionId": null
   }
 ]
