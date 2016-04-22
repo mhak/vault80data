@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "c1d5946c259b970d2d974a705edec36e2db4c1d6",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/__Standard Values",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "c1d5946c259b970d2d974a705edec36e2db4c1d6"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/__Standard Values",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3F78CF04-D9F2-4EA2-930F-B0181E273D01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7204410Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/__Standard Values",
+    "commandType": "Label",
+    "template": "QuickLinks-Parameters",
+    "sourceControlRevisionId": "ac60815050e692d77ea3b0b3a7392df636647c7a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3F78CF04-D9F2-4EA2-930F-B0181E273D01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0902664Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/__Standard Values",
+    "commandType": "Label",
+    "template": "QuickLinks-Parameters",
+    "sourceControlRevisionId": null
   }
 ]
