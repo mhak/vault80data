@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.6825077Z",
     "label": null,
-    "sourceControlRevisionId": "4b70a5e79bc6db0322540a2ec8483d861131c2d8",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetsRootItemId",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/FacetsRootItemId",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "4b70a5e79bc6db0322540a2ec8483d861131c2d8"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5198341Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "FacetsRootItemId",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/FacetsRootItemId",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{33FAB9CE-6460-4578-9CEE-CA705D8CEE9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.6892655Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetsRootItemId",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/FacetsRootItemId",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": "213452f4cff2930f2add1b0ebd3692965f615948"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{33FAB9CE-6460-4578-9CEE-CA705D8CEE9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0747329Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FacetsRootItemId",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/FacetsRootItemId",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
