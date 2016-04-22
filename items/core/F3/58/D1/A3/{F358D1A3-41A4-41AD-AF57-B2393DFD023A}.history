@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7458242Z",
     "label": null,
-    "sourceControlRevisionId": "91139a9166802d11979be97a10a2d0f75b5b3ba9",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultLabelHeader",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings/VaultLabelHeader",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "91139a9166802d11979be97a10a2d0f75b5b3ba9"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultLabelHeader",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings/VaultLabelHeader",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F358D1A3-41A4-41AD-AF57-B2393DFD023A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultLabelHeader",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings/VaultLabelHeader",
+    "commandType": "Label",
+    "template": "View rendering",
+    "sourceControlRevisionId": "79705c42985dc80481ff4c8124f8b56e98fbf4a7"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F358D1A3-41A4-41AD-AF57-B2393DFD023A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultLabelHeader",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Renderings/VaultLabelHeader",
+    "commandType": "Label",
+    "template": "View rendering",
+    "sourceControlRevisionId": null
   }
 ]
