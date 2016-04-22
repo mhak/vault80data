@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:07:39.1341059Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Daten",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:07:39.1653582Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:07:39.1965969Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "データ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Daten",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "714aee11e4933b82e0608395c7e7aa6dd3fe137a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "データ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "714aee11e4933b82e0608395c7e7aa6dd3fe137a"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:40.8824498Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "684ae964a81da35e6df7c43abf5c63a2992005b7",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Daten",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "684ae964a81da35e6df7c43abf5c63a2992005b7"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:24:40.9114962Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "c54179b9276d78240cc91d2fde5a9e3bbad05fab",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "c54179b9276d78240cc91d2fde5a9e3bbad05fab"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:40.9304408Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "acdea7e574aaecbe130195659977b649ed3a294b",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "データ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "acdea7e574aaecbe130195659977b649ed3a294b"
   },
   {
     "eventType": "PackageInstall",
@@ -155,14 +165,15 @@
     "itemId": "{62292E3C-09E0-4BD6-904B-A16E6A0FEF79}",
     "version": 1,
     "language": "da",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "400528aa8211ddcd033ba76df4794f96b34aca4a",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "400528aa8211ddcd033ba76df4794f96b34aca4a"
   },
   {
     "eventType": "PackageInstall",
@@ -170,14 +181,15 @@
     "itemId": "{62292E3C-09E0-4BD6-904B-A16E6A0FEF79}",
     "version": 1,
     "language": "de-DE",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "1f7e0822e172e215381282babfcede2977b993c6",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Daten",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "1f7e0822e172e215381282babfcede2977b993c6"
   },
   {
     "eventType": "PackageInstall",
@@ -185,14 +197,15 @@
     "itemId": "{62292E3C-09E0-4BD6-904B-A16E6A0FEF79}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.601031Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "08a5953b7aaf83b6e553d2b950e44773bca9c31b",
+    "timestamp": "2016-04-13T18:25:34.6010310Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "08a5953b7aaf83b6e553d2b950e44773bca9c31b"
   },
   {
     "eventType": "PackageInstall",
@@ -201,12 +214,93 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "データ",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{62292E3C-09E0-4BD6-904B-A16E6A0FEF79}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
+    "commandType": "Label",
+    "template": "Template section",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{62292E3C-09E0-4BD6-904B-A16E6A0FEF79}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Daten",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
+    "commandType": "Label",
+    "template": "Template section",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{62292E3C-09E0-4BD6-904B-A16E6A0FEF79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
+    "commandType": "Label",
+    "template": "Template section",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{62292E3C-09E0-4BD6-904B-A16E6A0FEF79}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "データ",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
+    "commandType": "Label",
+    "template": "Template section",
+    "sourceControlRevisionId": "cc0c1bffdbc87de451c2ef8382e5a28a09e5e89f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{62292E3C-09E0-4BD6-904B-A16E6A0FEF79}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.1529168Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data/RecoveredItemsDataSource/Search/Data",
+    "commandType": "Label",
+    "template": "Template section",
+    "sourceControlRevisionId": null
   }
 ]
