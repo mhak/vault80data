@@ -5,14 +5,15 @@
     "itemId": "{CED67101-4653-4218-BA7A-5D6967B296C1}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-08T22:08:51.776465Z",
+    "timestamp": "2016-04-08T22:08:51.7764650Z",
     "label": null,
-    "sourceControlRevisionId": "56527454361ce726c4911cd631380fec9c5bc208",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DatabaseNames",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Facets/DatabaseNames",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "56527454361ce726c4911cd631380fec9c5bc208"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5824468Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DatabaseNames",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Facets/DatabaseNames",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{CED67101-4653-4218-BA7A-5D6967B296C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7987437Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DatabaseNames",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Facets/DatabaseNames",
+    "commandType": "Label",
+    "template": "Facet",
+    "sourceControlRevisionId": "dafd4f56d7215f8836299665ff0df64986674c96"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{CED67101-4653-4218-BA7A-5D6967B296C1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1529168Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DatabaseNames",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Facets/DatabaseNames",
+    "commandType": "Label",
+    "template": "Facet",
+    "sourceControlRevisionId": null
   }
 ]
