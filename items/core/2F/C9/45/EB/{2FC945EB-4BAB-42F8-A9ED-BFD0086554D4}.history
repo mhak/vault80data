@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.6825077Z",
     "label": null,
-    "sourceControlRevisionId": "e4006547bae8685e3cca66ee427d41af863de770",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "RootItemId",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/RootItemId",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "e4006547bae8685e3cca66ee427d41af863de770"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5198341Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "RootItemId",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/RootItemId",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{2FC945EB-4BAB-42F8-A9ED-BFD0086554D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.6892655Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RootItemId",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/RootItemId",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": "a5ad90e8a7ee0d0ddc2776b38fbc85bac99ac432"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{2FC945EB-4BAB-42F8-A9ED-BFD0086554D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0747329Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RootItemId",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeploymentItemDS/DeploymentItemsDS-Parameters/Data/RootItemId",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
