@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "7e1e29e1016e91f81774720ca7c861b7a18c19a3",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault StyleSheet",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Infrastructure/PageSettings/Vault StyleSheet",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "7e1e29e1016e91f81774720ca7c861b7a18c19a3"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "b42c02f6c67727c3994d203907efc037acd3a2c1",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault StyleSheet",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Infrastructure/PageSettings/Vault StyleSheet",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "b42c02f6c67727c3994d203907efc037acd3a2c1"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault StyleSheet",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Infrastructure/PageSettings/Vault StyleSheet",
     "commandType": "Label",
-    "template": "Page-Stylesheet-File"
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": "8bc9ef0a5f262d902567c5c154aa8cf2e9bc1cd9"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{81276B04-AD20-4AB0-AB53-BB09D7851FCF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2464971Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault StyleSheet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting/Infrastructure/PageSettings/Vault StyleSheet",
+    "commandType": "Label",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null
   }
 ]
