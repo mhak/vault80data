@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:31.1353424Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Update Date",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:31.1664556Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "郵便番号条件",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:31.1988749Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Postleitzahl Bedingungen",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Betingelse for postnummer",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Postleitzahl Bedingungen",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Update Date",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "8ae074233818f89047f7e70311a00b375cb8538c",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "郵便番号条件",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "8ae074233818f89047f7e70311a00b375cb8538c"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:17.2855985Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "9a0e1bf2707d82ec92de3126e3a790d3b57f4f0b",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Update Date",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "9a0e1bf2707d82ec92de3126e3a790d3b57f4f0b"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:17.3168843Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "70e827dfd3895e78a860a9ae9c0a86628e95a46a",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "郵便番号条件",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "70e827dfd3895e78a860a9ae9c0a86628e95a46a"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:17.3482053Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "33c00c374f20242a24fef834deb9216cf9164b42",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Postleitzahl Bedingungen",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "33c00c374f20242a24fef834deb9216cf9164b42"
   },
   {
     "eventType": "PackageInstall",
@@ -156,13 +166,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "2574c50401e2b5bb82a034dceb859fe2fceb7542",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Betingelse for postnummer",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "2574c50401e2b5bb82a034dceb859fe2fceb7542"
   },
   {
     "eventType": "PackageInstall",
@@ -171,13 +182,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "39e125c1c3f046794d6b2aa86b6ca87f3aaf7ace",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Postleitzahl Bedingungen",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "39e125c1c3f046794d6b2aa86b6ca87f3aaf7ace"
   },
   {
     "eventType": "PackageInstall",
@@ -186,13 +198,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "e791e43a2942d7487948e800b4049461ad092ead",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Update Date",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "e791e43a2942d7487948e800b4049461ad092ead"
   },
   {
     "eventType": "PackageInstall",
@@ -201,13 +214,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "郵便番号条件",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
   },
   {
     "eventType": "VersionRemoved",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:54:46.7366299Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Update Date",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
   },
   {
     "eventType": "VersionRemoved",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:54:46.7674888Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "郵便番号条件",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
   },
   {
     "eventType": "VersionRemoved",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:54:46.8302876Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "3935c663922eb778c5197fa9d3adf4ecb7b9f0e9",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Postleitzahl Bedingungen",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "3935c663922eb778c5197fa9d3adf4ecb7b9f0e9"
   },
   {
     "eventType": "PackageInstall",
@@ -264,14 +278,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "550d5ac4872ba800299b2d5218a2154881e90d21",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Betingelse for postnummer",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Label",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "550d5ac4872ba800299b2d5218a2154881e90d21"
   },
   {
     "eventType": "PackageInstall",
@@ -280,14 +294,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "faccfb970c38fa1bdb7a2c5ebb73e6c4dcef92f4",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Postleitzahl Bedingungen",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Label",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "faccfb970c38fa1bdb7a2c5ebb73e6c4dcef92f4"
   },
   {
     "eventType": "PackageInstall",
@@ -296,14 +310,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "774a88016a5919dffa0a93decab043d9ca64aebf",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Update Date",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Label",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "774a88016a5919dffa0a93decab043d9ca64aebf"
   },
   {
     "eventType": "PackageInstall",
@@ -312,14 +326,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "6922d19e9b7d1b7f6a1889286c1b81ae45c35557",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "郵便番号条件",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Label",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "6922d19e9b7d1b7f6a1889286c1b81ae45c35557"
   },
   {
     "eventType": "Snapshot",
@@ -328,14 +342,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:36.9235626Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Update Date",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -344,14 +358,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:09.1118475Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Update Date",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -360,13 +374,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:34.7837108Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Update Date",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "e387de9355c56e83efac66a164090be4a39baa73"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7612A019-2E14-4C7D-8B89-ECFB7B1F365F}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Betingelse for postnummer",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Update Date",
+    "commandType": "Label",
+    "template": "Condition",
+    "sourceControlRevisionId": null
   }
 ]
