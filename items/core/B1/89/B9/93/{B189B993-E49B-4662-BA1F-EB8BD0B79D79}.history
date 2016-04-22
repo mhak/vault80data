@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:06:45.5862369Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Listensteuerung Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -20,14 +21,15 @@
     "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-08T22:06:45.617435Z",
+    "timestamp": "2016-04-08T22:06:45.6174350Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultListControl Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -35,14 +37,15 @@
     "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
     "version": 1,
     "language": "ja-JP",
-    "timestamp": "2016-04-08T22:06:45.648893Z",
+    "timestamp": "2016-04-08T22:06:45.6488930Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "リスト コントロール パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ListControl-parametre",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Listensteuerung Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultListControl Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "2bd0852adccd8fc6c3ae2a4e867cb29da0cd356c",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "リスト コントロール パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "2bd0852adccd8fc6c3ae2a4e867cb29da0cd356c"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:23:45.2697755Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "d59f858625d7ed326bb3f409672770914401a794",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Listensteuerung Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "d59f858625d7ed326bb3f409672770914401a794"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:23:45.3049286Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "dc68040dd3ab7936fa940268dd1e63f397a83bdc",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultListControl Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "dc68040dd3ab7936fa940268dd1e63f397a83bdc"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:23:45.3327011Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "c1da8fe429ab664d8a19672aa3643a875684b4d4",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "リスト コントロール パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "c1da8fe429ab664d8a19672aa3643a875684b4d4"
   },
   {
     "eventType": "PackageInstall",
@@ -155,14 +165,15 @@
     "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
     "version": 1,
     "language": "da",
-    "timestamp": "2016-04-13T18:25:34.53543Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "26688e75ed0edc8105138540064dabae077e8e71",
+    "timestamp": "2016-04-13T18:25:34.5354300Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ListControl-parametre",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "26688e75ed0edc8105138540064dabae077e8e71"
   },
   {
     "eventType": "PackageInstall",
@@ -170,14 +181,15 @@
     "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
     "version": 1,
     "language": "de-DE",
-    "timestamp": "2016-04-13T18:25:34.53543Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "15ddfec540d4ad0372fd1f4ddf53db91bd44b625",
+    "timestamp": "2016-04-13T18:25:34.5354300Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Listensteuerung Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "15ddfec540d4ad0372fd1f4ddf53db91bd44b625"
   },
   {
     "eventType": "PackageInstall",
@@ -185,14 +197,15 @@
     "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-13T18:25:34.53543Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "bbe5ca2dd683115ef0f7dd40ed8a3f7724c57ba5",
+    "timestamp": "2016-04-13T18:25:34.5354300Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultListControl Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "bbe5ca2dd683115ef0f7dd40ed8a3f7724c57ba5"
   },
   {
     "eventType": "PackageInstall",
@@ -201,12 +214,93 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "リスト コントロール パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-19T01:55:06.7048373Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ListControl-parametre",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-04-19T01:55:06.7204410Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Listensteuerung Parameter",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7204410Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultListControl Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
+    "version": 1,
+    "language": "ja-JP",
+    "timestamp": "2016-04-19T01:55:06.7204410Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "リスト コントロール パラメーター",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": "dbc6b39c7e0efd9d3177ce4fe24f5bdaf9bae58c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B189B993-E49B-4662-BA1F-EB8BD0B79D79}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.0902664Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ListControl-parametre",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultListControl/VaultListControl Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": null
   }
 ]
