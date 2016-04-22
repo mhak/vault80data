@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8234398Z",
     "label": null,
-    "sourceControlRevisionId": "a31ba3dbc9a36244b70d3c650f635adc17d46d69",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Next Button",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons/Next Button",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "a31ba3dbc9a36244b70d3c650f635adc17d46d69"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "db96d527ab2da0357a3393f717e72327c0e43258",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Next Button",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons/Next Button",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "db96d527ab2da0357a3393f717e72327c0e43258"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8766776Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Next Button",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons/Next Button",
     "commandType": "Label",
-    "template": "Button Parameters"
+    "template": "Button Parameters",
+    "sourceControlRevisionId": "c38ca07935d82c1eb6c6ddb5f4fa03639dc2ad0e"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{259269D5-6D5A-4CED-963F-71F40A1AA61F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2310578Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Next Button",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Buttons/Next Button",
+    "commandType": "Label",
+    "template": "Button Parameters",
+    "sourceControlRevisionId": null
   }
 ]
