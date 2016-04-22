@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:07:45.2905288Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung AktionSpalte",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:07:45.3063121Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Result ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:07:45.3373351Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アクション列",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmenterings-ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung AktionSpalte",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Result ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "f8248f51bc4aa43a7c922705129d484f836ade4e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アクション列",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "f8248f51bc4aa43a7c922705129d484f836ade4e"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:46.5670583Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "dcceba2541e3c757aeb0a182471461117c800ec6",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung AktionSpalte",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "dcceba2541e3c757aeb0a182471461117c800ec6"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:24:46.5980167Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "5b0e9c6da1f68b545d1d2596c6e5097d6849c1c1",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Result ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "5b0e9c6da1f68b545d1d2596c6e5097d6849c1c1"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:46.6157776Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "f40bf69e027af25bbd78ecfeb3d0a65c48d04b58",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アクション列",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "f40bf69e027af25bbd78ecfeb3d0a65c48d04b58"
   },
   {
     "eventType": "PackageInstall",
@@ -156,13 +166,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "6689254380c1e54b1c50ab5caee08bf726845af7",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmenterings-ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "6689254380c1e54b1c50ab5caee08bf726845af7"
   },
   {
     "eventType": "PackageInstall",
@@ -171,13 +182,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "db36e137fded5d57c86b7f5b091a91f490937f54",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung AktionSpalte",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "db36e137fded5d57c86b7f5b091a91f490937f54"
   },
   {
     "eventType": "PackageInstall",
@@ -186,13 +198,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "4a5735d5661aed4d5042ad45ffe922278a9189be",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Result ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "4a5735d5661aed4d5042ad45ffe922278a9189be"
   },
   {
     "eventType": "PackageInstall",
@@ -201,13 +214,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "96e441b9b83b656d92c7b7462a888056fa0c03c4",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アクション列",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "96e441b9b83b656d92c7b7462a888056fa0c03c4"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "157d2cdaf41d7646be428b1fce32730ac9532bff",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmenterings-ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
     "commandType": "Label",
-    "template": "ActionColumn"
+    "template": "ActionColumn",
+    "sourceControlRevisionId": "157d2cdaf41d7646be428b1fce32730ac9532bff"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "3750180d94abd29d0fd707ade193b23f45d3e817",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung AktionSpalte",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
     "commandType": "Label",
-    "template": "ActionColumn"
+    "template": "ActionColumn",
+    "sourceControlRevisionId": "3750180d94abd29d0fd707ade193b23f45d3e817"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "dc0caf7e0fa18df60a0be1759d5eb06495a80c7c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Result ActionColumn",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
     "commandType": "Label",
-    "template": "ActionColumn"
+    "template": "ActionColumn",
+    "sourceControlRevisionId": "dc0caf7e0fa18df60a0be1759d5eb06495a80c7c"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.8298445Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化アクション列",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
     "commandType": "Label",
-    "template": "ActionColumn"
+    "template": "ActionColumn",
+    "sourceControlRevisionId": "d49daa72db922055627b4141e6c2d0406cbc9b48"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{586AB759-0519-40AF-ADA8-92CD675BCD90}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.1996336Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segmenterings-ActionColumn",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Actions/Result Filter ActionControl Parameters/Result ActionColumn",
+    "commandType": "Label",
+    "template": "ActionColumn",
+    "sourceControlRevisionId": null
   }
 ]
