@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "354afad304760d7f0be110fb45d9c43fe7f8dc34",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LinkItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/Data/LinkItems",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "354afad304760d7f0be110fb45d9c43fe7f8dc34"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "LinkItems",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/Data/LinkItems",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{EA4BF230-3540-48C8-9988-AD304BE76E08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7204410Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/Data/LinkItems",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": "cce055746dacbf7f13b9477db119f852e48f781e"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{EA4BF230-3540-48C8-9988-AD304BE76E08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0902664Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/Data/LinkItems",
+    "commandType": "Label",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
