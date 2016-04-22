@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "bfed314f26f3e5625d039755cf9f675df3583711",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ActiveAuthors-Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActiveAuthors/ActiveAuthors-Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "bfed314f26f3e5625d039755cf9f675df3583711"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ActiveAuthors-Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActiveAuthors/ActiveAuthors-Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D784A61B-B06C-4E3E-B86E-2E016E670D67}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7048373Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ActiveAuthors-Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActiveAuthors/ActiveAuthors-Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": "2e49acc39a688eeeb70665c47cafdf1f9da73709"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D784A61B-B06C-4E3E-B86E-2E016E670D67}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0902664Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ActiveAuthors-Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActiveAuthors/ActiveAuthors-Parameters",
+    "commandType": "Label",
+    "template": "Template",
+    "sourceControlRevisionId": null
   }
 ]
