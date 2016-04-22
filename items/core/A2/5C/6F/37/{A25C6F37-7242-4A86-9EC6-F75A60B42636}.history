@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7918664Z",
     "label": null,
-    "sourceControlRevisionId": "0de4466979948976da44cddddaf7a1372bb6864f",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DatabaseNames",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Facets/DatabaseNames",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "0de4466979948976da44cddddaf7a1372bb6864f"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6010310Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "DatabaseNames",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Facets/DatabaseNames",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A25C6F37-7242-4A86-9EC6-F75A60B42636}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.8141769Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DatabaseNames",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Facets/DatabaseNames",
+    "commandType": "Label",
+    "template": "Facet",
+    "sourceControlRevisionId": "24abd3a55f02109e42b3922166d5782eb2daaac6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{A25C6F37-7242-4A86-9EC6-F75A60B42636}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1687602Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DatabaseNames",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Facets/DatabaseNames",
+    "commandType": "Label",
+    "template": "Facet",
+    "sourceControlRevisionId": null
   }
 ]
