@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "63ec92de354067d40cdef382cde345b6ed704e4e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ID",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings/ListControl/ID",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "63ec92de354067d40cdef382cde345b6ed704e4e"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "3f339df6779598c1a7cd438fb64eb846482fc073",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ID",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings/ListControl/ID",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "3f339df6779598c1a7cd438fb64eb846482fc073"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ID",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings/ListControl/ID",
     "commandType": "Label",
-    "template": "ColumnField"
+    "template": "ColumnField",
+    "sourceControlRevisionId": "344cf374669ce1fdad1f66f099b2c8c5084128fb"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{846A3C94-9DCF-4250-A51C-F87DF4466DC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings/ListControl/ID",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
   }
 ]
