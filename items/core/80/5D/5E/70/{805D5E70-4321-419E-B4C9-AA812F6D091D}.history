@@ -7,12 +7,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:07:57.3064627Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung ListeManagementAccordion Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:07:57.3378603Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Results ListManagementAccordion Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:07:57.3688185Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化 リスト マネージメント アコーディオン パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ListManagementAccordion-parametre for segmentering",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung ListeManagementAccordion Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Results ListManagementAccordion Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8076536Z",
     "label": null,
-    "sourceControlRevisionId": "47623d7c460434daaa5cf53343f4d33fbf69f302",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化 リスト マネージメント アコーディオン パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "47623d7c460434daaa5cf53343f4d33fbf69f302"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:24:57.1137213Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "6fd04ff24a59d3d68b2f60749f59725812389ff4",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung ListeManagementAccordion Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "6fd04ff24a59d3d68b2f60749f59725812389ff4"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:24:57.1605764Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "dab511421ce439cc59a43d970722cdb851300dee",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Results ListManagementAccordion Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "dab511421ce439cc59a43d970722cdb851300dee"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:24:57.1760281Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "e112d5bab33e3adeaacbd617f64b52b7a67187b3",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化 リスト マネージメント アコーディオン パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "e112d5bab33e3adeaacbd617f64b52b7a67187b3"
   },
   {
     "eventType": "PackageInstall",
@@ -156,13 +166,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "d056ee2a5b18bb8517d5fa5bc4253c48c42ce71e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ListManagementAccordion-parametre for segmentering",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "d056ee2a5b18bb8517d5fa5bc4253c48c42ce71e"
   },
   {
     "eventType": "PackageInstall",
@@ -171,13 +182,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "a49d98a132e57d6ab246fa9767b0d09ced47ea3b",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung ListeManagementAccordion Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "a49d98a132e57d6ab246fa9767b0d09ced47ea3b"
   },
   {
     "eventType": "PackageInstall",
@@ -186,13 +198,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "31bb482e218e89d398bfb6492d0c13ff33fb336b",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Results ListManagementAccordion Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "31bb482e218e89d398bfb6492d0c13ff33fb336b"
   },
   {
     "eventType": "PackageInstall",
@@ -201,13 +214,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6136558Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "e0b4b2edf735a7a92a97232dffd071358a408802",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化 リスト マネージメント アコーディオン パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "e0b4b2edf735a7a92a97232dffd071358a408802"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "984818726c6e9ae6b6e6160d9139627f93340057",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ListManagementAccordion-parametre for segmentering",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
     "commandType": "Label",
-    "template": "AdvancedExpander Parameters"
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": "984818726c6e9ae6b6e6160d9139627f93340057"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "d2505abb2ca886c57a46b55aa8056311d1e77bed",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segmentierung ListeManagementAccordion Parameter",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
     "commandType": "Label",
-    "template": "AdvancedExpander Parameters"
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": "d2505abb2ca886c57a46b55aa8056311d1e77bed"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "6f24e9b89113e2d8b57a11888c9e5ab164dc8342",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Results ListManagementAccordion Parameters",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
     "commandType": "Label",
-    "template": "AdvancedExpander Parameters"
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": "6f24e9b89113e2d8b57a11888c9e5ab164dc8342"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.8455697Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "セグメント化 リスト マネージメント アコーディオン パラメーター",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
     "commandType": "Label",
-    "template": "AdvancedExpander Parameters"
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": "712c1d5d0fd6a775a7edfc837e98efe3c3d25222"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{805D5E70-4321-419E-B4C9-AA812F6D091D}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.2152152Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ListManagementAccordion-parametre for segmentering",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Results Accordian/Results ListManagementAccordion Parameters",
+    "commandType": "Label",
+    "template": "AdvancedExpander Parameters",
+    "sourceControlRevisionId": null
   }
 ]
