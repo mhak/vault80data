@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.6825077Z",
     "label": null,
-    "sourceControlRevisionId": "54dc91e6f176e8a2f8a66506a329f17f5d31749e",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Vault/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "54dc91e6f176e8a2f8a66506a329f17f5d31749e"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5198341Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Vault/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{FA2FF289-B088-4BB9-8AEE-4D00AAB899A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.6892655Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Vault/Vault",
+    "commandType": "Label",
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": "88739136f1d72fa910c6ea6cf2713e8cac530f98"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{FA2FF289-B088-4BB9-8AEE-4D00AAB899A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.0589948Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Vault/Vault",
+    "commandType": "Label",
+    "template": "LaunchPad-Button",
+    "sourceControlRevisionId": null
   }
 ]
