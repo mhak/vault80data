@@ -5,14 +5,15 @@
     "itemId": "{40F4B8F7-88CE-40A7-9503-0B9EA7F02E1B}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-08T22:08:51.776465Z",
+    "timestamp": "2016-04-08T22:08:51.7764650Z",
     "label": null,
-    "sourceControlRevisionId": "30ad375bdd43ef0caa9d9550fe50efb4b6a2bdfd",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Committer",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Lists/DeletedItems/Committer",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "30ad375bdd43ef0caa9d9550fe50efb4b6a2bdfd"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5824468Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Committer",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Lists/DeletedItems/Committer",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{40F4B8F7-88CE-40A7-9503-0B9EA7F02E1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7987437Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Committer",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Lists/DeletedItems/Committer",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": "ba27d02dba7e3616265a984caaf309e56968ad5a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{40F4B8F7-88CE-40A7-9503-0B9EA7F02E1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1529168Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Committer",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Deleted Items/PageSettings/Lists/DeletedItems/Committer",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
   }
 ]
