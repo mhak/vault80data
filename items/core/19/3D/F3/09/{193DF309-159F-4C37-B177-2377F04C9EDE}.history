@@ -5,14 +5,15 @@
     "itemId": "{193DF309-159F-4C37-B177-2377F04C9EDE}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-08T22:08:51.776465Z",
+    "timestamp": "2016-04-08T22:08:51.7764650Z",
     "label": null,
-    "sourceControlRevisionId": "d400b6b323c4e8639d5e36907268e93180587311",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "d400b6b323c4e8639d5e36907268e93180587311"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5824468Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{193DF309-159F-4C37-B177-2377F04C9EDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7987437Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "72a69ad2a7e50dd23731fea949d34dd1e723a6ef"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{193DF309-159F-4C37-B177-2377F04C9EDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1529168Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Recovered Items/PageSettings/Data",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
