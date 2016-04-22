@@ -5,14 +5,15 @@
     "itemId": "{0CE4F30F-64BE-40AB-BFA2-7765A69DA145}",
     "version": 1,
     "language": "de-DE",
-    "timestamp": "2016-04-08T22:08:27.994403Z",
+    "timestamp": "2016-04-08T22:08:27.9944030Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:28.0256674Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -37,12 +39,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:28.0569602Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "da",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "de-DE",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -82,12 +87,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -97,12 +103,13 @@
     "language": "ja-JP",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "6f211ffdf0ed88b2394bd182b5195dc6b784cda7",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "6f211ffdf0ed88b2394bd182b5195dc6b784cda7"
   },
   {
     "eventType": "VersionRemoved",
@@ -111,13 +118,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:14.6292033Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "63d7473aa4d53faf817e6da0e458b75265b0db06",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "63d7473aa4d53faf817e6da0e458b75265b0db06"
   },
   {
     "eventType": "VersionRemoved",
@@ -126,13 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:14.6606881Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "6e22d28dba7c5a90a24e89f3881fd875a35a1449",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "6e22d28dba7c5a90a24e89f3881fd875a35a1449"
   },
   {
     "eventType": "VersionRemoved",
@@ -141,13 +150,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:14.6920395Z",
-    "label": "Version 1 Removed",
-    "sourceControlRevisionId": "4853e09a46e6ed6f0312248ea75d9a90c8703e09",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "4853e09a46e6ed6f0312248ea75d9a90c8703e09"
   },
   {
     "eventType": "PackageInstall",
@@ -156,13 +166,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "8770402850cc4aa7df44068a9a7a264c58f73b5a",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "8770402850cc4aa7df44068a9a7a264c58f73b5a"
   },
   {
     "eventType": "PackageInstall",
@@ -171,13 +182,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "0fbba8eb6bf96ac646e4c0420c2f3255bac79327",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "0fbba8eb6bf96ac646e4c0420c2f3255bac79327"
   },
   {
     "eventType": "PackageInstall",
@@ -186,13 +198,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "7190f3291864453db8393df2b4897f69d153aef4",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "7190f3291864453db8393df2b4897f69d153aef4"
   },
   {
     "eventType": "PackageInstall",
@@ -201,13 +214,14 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-13T18:25:34.6449327Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "41fe7e8774b436f9e710e444c70d40254140ddb8",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "41fe7e8774b436f9e710e444c70d40254140ddb8"
   },
   {
     "eventType": "PackageInstall",
@@ -216,14 +230,14 @@
     "version": 1,
     "language": "da",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "4b3f782de939f2ad666ee7b9caf23fba08715e15",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
     "commandType": "Label",
-    "template": "Chunk"
+    "template": "Chunk",
+    "sourceControlRevisionId": "4b3f782de939f2ad666ee7b9caf23fba08715e15"
   },
   {
     "eventType": "PackageInstall",
@@ -232,14 +246,14 @@
     "version": 1,
     "language": "de-DE",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "af60940b4436da215e783efca6958f109832e967",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
     "commandType": "Label",
-    "template": "Chunk"
+    "template": "Chunk",
+    "sourceControlRevisionId": "af60940b4436da215e783efca6958f109832e967"
   },
   {
     "eventType": "PackageInstall",
@@ -248,14 +262,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "09b17cdbcd8fd5a8c3221ae25abbade8042c6d39",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
     "commandType": "Label",
-    "template": "Chunk"
+    "template": "Chunk",
+    "sourceControlRevisionId": "09b17cdbcd8fd5a8c3221ae25abbade8042c6d39"
   },
   {
     "eventType": "PackageInstall",
@@ -264,13 +278,29 @@
     "version": 1,
     "language": "ja-JP",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault",
     "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
     "commandType": "Label",
-    "template": "Chunk"
+    "template": "Chunk",
+    "sourceControlRevisionId": "e2b6a26b7d69f4b65a2d514ebf3ddab88e666cfa"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0CE4F30F-64BE-40AB-BFA2-7765A69DA145}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/Vault",
+    "commandType": "Label",
+    "template": "Chunk",
+    "sourceControlRevisionId": null
   }
 ]
