@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "572b7bcf5922026d595e6668841b8f3689cb9c0f",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Comment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings/ListControl/Comment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "572b7bcf5922026d595e6668841b8f3689cb9c0f"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "ff23dc5feea490a827c7feb94cf5470a2268cfb7",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Comment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings/ListControl/Comment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "ff23dc5feea490a827c7feb94cf5470a2268cfb7"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Comment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings/ListControl/Comment",
     "commandType": "Label",
-    "template": "ColumnField"
+    "template": "ColumnField",
+    "sourceControlRevisionId": "feaeaad440f92244fac6c478876585d340c46095"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B08840E0-41C4-4591-A636-D9A46DB92040}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer/PageSettings/ListControl/Comment",
+    "commandType": "Label",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null
   }
 ]
