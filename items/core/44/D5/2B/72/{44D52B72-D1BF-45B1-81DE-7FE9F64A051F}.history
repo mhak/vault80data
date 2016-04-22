@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.8386476Z",
     "label": null,
-    "sourceControlRevisionId": "1cee55b994e6209c4f2ef653463f434eb68564dc",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Dataviewer",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "1cee55b994e6209c4f2ef653463f434eb68564dc"
   },
   {
     "eventType": "PackageInstall",
@@ -21,13 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.6291905Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": "2620ccb28571de7f0d3a64747c13aa27f5cf069c",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Dataviewer",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "2620ccb28571de7f0d3a64747c13aa27f5cf069c"
   },
   {
     "eventType": "PackageInstall",
@@ -36,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.8923458Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Vault Dataviewer",
     "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer",
     "commandType": "Label",
-    "template": "Speak-DashboardPage"
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": "cd9779d974271c764c5cd2f11519a908e6175cd1"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{44D52B72-D1BF-45B1-81DE-7FE9F64A051F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.2620885Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault Dataviewer",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dataviewer",
+    "commandType": "Label",
+    "template": "Speak-DashboardPage",
+    "sourceControlRevisionId": null
   }
 ]
