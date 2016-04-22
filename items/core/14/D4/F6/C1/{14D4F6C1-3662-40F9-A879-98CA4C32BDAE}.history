@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7458242Z",
     "label": null,
-    "sourceControlRevisionId": "cef5518f0abfb4ed79d46f0f58d170a3f687f3c5",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "cef5518f0abfb4ed79d46f0f58d170a3f687f3c5"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5511317Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Deployment",
     "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{14D4F6C1-3662-40F9-A879-98CA4C32BDAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7361709Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "285da2815cf0cdac645169ff47d3a4fd61dd000f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{14D4F6C1-3662-40F9-A879-98CA4C32BDAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deployment",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs/Deployment",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
