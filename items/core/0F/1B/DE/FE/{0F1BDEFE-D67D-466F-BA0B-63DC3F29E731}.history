@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T22:08:51.7136882Z",
     "label": null,
-    "sourceControlRevisionId": "5eef8ce1b960dcfe414e5d134a65f7d74e68472a",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "SitecoreExtended",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "5eef8ce1b960dcfe414e5d134a65f7d74e68472a"
   },
   {
     "eventType": "PackageInstall",
@@ -21,12 +22,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-13T18:25:34.5354300Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "SitecoreExtended",
     "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended",
-    "commandType": "Label"
+    "commandType": "Label",
+    "template": null,
+    "sourceControlRevisionId": "328839ac6aa1499c770ec3f77d62c41b7dcda79c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0F1BDEFE-D67D-466F-BA0B-63DC3F29E731}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-19T01:55:06.7204410Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SitecoreExtended",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": "0a3fb74709024eeedea5e95a1ad845225206bf7a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0F1BDEFE-D67D-466F-BA0B-63DC3F29E731}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-22T19:57:33.1058684Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SitecoreExtended",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended",
+    "commandType": "Label",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
