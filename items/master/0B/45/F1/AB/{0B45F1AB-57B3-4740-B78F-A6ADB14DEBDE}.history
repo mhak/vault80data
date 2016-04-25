@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:16.2206995Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Top Leads By Value - Classified",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Value - Classified",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{0B45F1AB-57B3-4740-B78F-A6ADB14DEBDE}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:36.830609Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:36.8306090Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Top Leads By Value - Classified",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Value - Classified",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:59.2056382Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Top Leads By Value - Classified",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Value - Classified",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B45F1AB-57B3-4740-B78F-A6ADB14DEBDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:33.1870433Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top Leads By Value - Classified",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Value - Classified",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
   }
 ]

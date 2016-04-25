@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:06:50.4860397Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "List Manager",
     "itemPath": "/sitecore/media library/System/List Manager",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:23:59.4392949Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "List Manager",
     "itemPath": "/sitecore/media library/System/List Manager",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:41.3774578Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "List Manager",
     "itemPath": "/sitecore/media library/System/List Manager",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:52.7055822Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "List Manager",
     "itemPath": "/sitecore/media library/System/List Manager",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A0621CA-94E6-4474-ACA1-64D67F3976EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:53.7647961Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "List Manager",
+    "itemPath": "/sitecore/media library/System/List Manager",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
   }
 ]

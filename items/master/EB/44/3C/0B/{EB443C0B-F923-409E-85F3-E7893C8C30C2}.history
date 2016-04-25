@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:03:36.1270435Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sublayouts",
     "itemPath": "/sitecore/layout/Sublayouts",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{EB443C0B-F923-409E-85F3-E7893C8C30C2}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:21:29.673666Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:21:29.6736660Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sublayouts",
     "itemPath": "/sitecore/layout/Sublayouts",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:36.1118425Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sublayouts",
     "itemPath": "/sitecore/layout/Sublayouts",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:46.5183156Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sublayouts",
     "itemPath": "/sitecore/layout/Sublayouts",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB443C0B-F923-409E-85F3-E7893C8C30C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:44.5616876Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sublayouts",
+    "itemPath": "/sitecore/layout/Sublayouts",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
   }
 ]

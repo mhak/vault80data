@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:17.7204454Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tags",
     "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End/Tags",
     "commandType": "Item",
-    "template": "Tags Definitions Folder"
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:39.0336742Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tags",
     "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End/Tags",
     "commandType": "Item",
-    "template": "Tags Definitions Folder"
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:01.8182183Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tags",
     "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End/Tags",
     "commandType": "Item",
-    "template": "Tags Definitions Folder"
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B8271B5-5793-4C93-8BA2-1FD856FE701D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:37.0459078Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:04:51.3142927Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with LinkedIn",
     "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with LinkedIn",
     "commandType": "Item",
-    "template": "Controller rendering"
+    "template": "Controller rendering",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:22:32.6738127Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with LinkedIn",
     "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with LinkedIn",
     "commandType": "Item",
-    "template": "Controller rendering"
+    "template": "Controller rendering",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -37,15 +37,15 @@
     "itemId": "{22EDCC9B-BD25-442F-B685-4CFC8656F653}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:39:38.410695Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:39:38.4106950Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with LinkedIn",
     "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with LinkedIn",
     "commandType": "Item",
-    "template": "Controller rendering"
+    "template": "Controller rendering",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:48.8777750Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with LinkedIn",
     "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with LinkedIn",
     "commandType": "Item",
-    "template": "Controller rendering"
+    "template": "Controller rendering",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22EDCC9B-BD25-442F-B685-4CFC8656F653}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:48.1865935Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with LinkedIn",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Connector/Login with LinkedIn",
+    "commandType": "Item",
+    "template": "Controller rendering",
+    "sourceControlRevisionId": null
   }
 ]

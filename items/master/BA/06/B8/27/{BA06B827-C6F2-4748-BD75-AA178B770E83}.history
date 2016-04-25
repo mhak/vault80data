@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:59.3766618Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Function",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function",
     "commandType": "Item",
-    "template": "Profile"
+    "template": "Profile",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:11.0181141Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Function",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function",
     "commandType": "Item",
-    "template": "Profile"
+    "template": "Profile",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:29.2213516Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Function",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function",
     "commandType": "Item",
-    "template": "Profile"
+    "template": "Profile",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA06B827-C6F2-4748-BD75-AA178B770E83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:45.5307652Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Function",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function",
+    "commandType": "Item",
+    "template": "Profile",
+    "sourceControlRevisionId": null
   }
 ]

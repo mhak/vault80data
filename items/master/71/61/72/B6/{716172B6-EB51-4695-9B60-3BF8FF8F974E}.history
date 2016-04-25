@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:49.3300874Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Editor",
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Rules/Editor",
     "commandType": "Item",
-    "template": "Dictionary folder"
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:56.2837191Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Editor",
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Rules/Editor",
     "commandType": "Item",
-    "template": "Dictionary folder"
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:11.8463816Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Editor",
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Rules/Editor",
     "commandType": "Item",
-    "template": "Dictionary folder"
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{716172B6-EB51-4695-9B60-3BF8FF8F974E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:17.5616649Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Editor",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Rules/Editor",
+    "commandType": "Item",
+    "template": "Dictionary folder",
+    "sourceControlRevisionId": null
   }
 ]

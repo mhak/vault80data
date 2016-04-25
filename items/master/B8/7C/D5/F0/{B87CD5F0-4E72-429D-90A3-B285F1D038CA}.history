@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:03:31.2048022Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Models",
     "itemPath": "/sitecore/layout/Models",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:21:25.2988575Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Models",
     "itemPath": "/sitecore/layout/Models",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:35.9869157Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Models",
     "itemPath": "/sitecore/layout/Models",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:46.3776679Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Models",
     "itemPath": "/sitecore/layout/Models",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B87CD5F0-4E72-429D-90A3-B285F1D038CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:44.2958879Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Models",
+    "itemPath": "/sitecore/layout/Models",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
   }
 ]

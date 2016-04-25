@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:09.4392362Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Italy",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Italy",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:26.2212813Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Italy",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Italy",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:47.5180553Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Italy",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Italy",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C20ED773-FB49-4E62-B0A4-10A620426E17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:15.3271572Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Italy",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Italy",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
   }
 ]

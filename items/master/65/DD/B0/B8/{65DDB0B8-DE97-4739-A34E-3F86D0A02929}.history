@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:54.1266515Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Printed materials",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Resources/Printed materials",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:03.7370957Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Printed materials",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Resources/Printed materials",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:20.3461980Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Printed materials",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Resources/Printed materials",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65DDB0B8-DE97-4739-A34E-3F86D0A02929}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:29.8270713Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Printed materials",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Resources/Printed materials",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
   }
 ]

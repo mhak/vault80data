@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:05:47.2833307Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Android Tablet Portrait",
     "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
     "commandType": "Item",
-    "template": "Simulator Rotated State"
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:23:16.2204411Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Android Tablet Portrait",
     "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
     "commandType": "Item",
-    "template": "Simulator Rotated State"
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:39.7680664Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Android Tablet Portrait",
     "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
     "commandType": "Item",
-    "template": "Simulator Rotated State"
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:50.6899271Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Android Tablet Portrait",
     "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
     "commandType": "Item",
-    "template": "Simulator Rotated State"
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D8AE44E7-80D8-4BAC-9C40-03F459C8D6A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:50.6553634Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Android Tablet Portrait",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet/Android Tablet Portrait",
+    "commandType": "Item",
+    "template": "Simulator Rotated State",
+    "sourceControlRevisionId": null
   }
 ]

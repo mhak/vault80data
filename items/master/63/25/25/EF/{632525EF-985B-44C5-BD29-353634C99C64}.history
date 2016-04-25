@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:14.1580287Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "No search hits found",
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/No search hits found",
     "commandType": "Item",
-    "template": "Page Event"
+    "template": "Page Event",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:34.0806251Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "No search hits found",
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/No search hits found",
     "commandType": "Item",
-    "template": "Page Event"
+    "template": "Page Event",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:56.0025596Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "No search hits found",
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/No search hits found",
     "commandType": "Item",
-    "template": "Page Event"
+    "template": "Page Event",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{632525EF-985B-44C5-BD29-353634C99C64}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:28.5930357Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No search hits found",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/No search hits found",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
   }
 ]

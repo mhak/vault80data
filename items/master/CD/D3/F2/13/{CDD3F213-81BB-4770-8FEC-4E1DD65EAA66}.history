@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:04:36.2048008Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ItemRenderer",
     "itemPath": "/sitecore/layout/Renderings/System/ItemRenderer",
     "commandType": "Item",
-    "template": "Item rendering"
+    "template": "Item rendering",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{CDD3F213-81BB-4770-8FEC-4E1DD65EAA66}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:22:18.111889Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:22:18.1118890Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ItemRenderer",
     "itemPath": "/sitecore/layout/Renderings/System/ItemRenderer",
     "commandType": "Item",
-    "template": "Item rendering"
+    "template": "Item rendering",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:37.7995657Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ItemRenderer",
     "itemPath": "/sitecore/layout/Renderings/System/ItemRenderer",
     "commandType": "Item",
-    "template": "Item rendering"
+    "template": "Item rendering",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:48.3149990Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ItemRenderer",
     "itemPath": "/sitecore/layout/Renderings/System/ItemRenderer",
     "commandType": "Item",
-    "template": "Item rendering"
+    "template": "Item rendering",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDD3F213-81BB-4770-8FEC-4E1DD65EAA66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:47.4052196Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemRenderer",
+    "itemPath": "/sitecore/layout/Renderings/System/ItemRenderer",
+    "commandType": "Item",
+    "template": "Item rendering",
+    "sourceControlRevisionId": null
   }
 ]

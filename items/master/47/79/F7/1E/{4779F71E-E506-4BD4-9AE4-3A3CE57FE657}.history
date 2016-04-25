@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:04:08.1266996Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__bodybegin",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodybegin",
     "commandType": "Item",
-    "template": "Head Placeholder Setting"
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:21:53.9238098Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__bodybegin",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodybegin",
     "commandType": "Item",
-    "template": "Head Placeholder Setting"
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:37.0024426Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__bodybegin",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodybegin",
     "commandType": "Item",
-    "template": "Head Placeholder Setting"
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:47.4403999Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__bodybegin",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodybegin",
     "commandType": "Item",
-    "template": "Head Placeholder Setting"
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4779F71E-E506-4BD4-9AE4-3A3CE57FE657}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:46.0149670Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__bodybegin",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__bodybegin",
+    "commandType": "Item",
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": null
   }
 ]

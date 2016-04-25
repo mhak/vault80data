@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:55.5329107Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "By Language Specific E-mail",
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email/By Language Specific E-mail",
     "commandType": "Item",
-    "template": "Dimension"
+    "template": "Dimension",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:05.7998294Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "By Language Specific E-mail",
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email/By Language Specific E-mail",
     "commandType": "Item",
-    "template": "Dimension"
+    "template": "Dimension",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:22.9711944Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "By Language Specific E-mail",
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email/By Language Specific E-mail",
     "commandType": "Item",
-    "template": "Dimension"
+    "template": "Dimension",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{214E8E8C-519A-4803-8579-3CA466F9F29F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:34.5623094Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "By Language Specific E-mail",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email/By Language Specific E-mail",
+    "commandType": "Item",
+    "template": "Dimension",
+    "sourceControlRevisionId": null
   }
 ]

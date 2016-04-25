@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:37.2517275Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "InclusionOperator",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/InclusionOperator",
     "commandType": "Item",
-    "template": "Macro"
+    "template": "Macro",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:09.6120977Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "InclusionOperator",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/InclusionOperator",
     "commandType": "Item",
-    "template": "Macro"
+    "template": "Macro",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:35.3150719Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "InclusionOperator",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/InclusionOperator",
     "commandType": "Item",
-    "template": "Macro"
+    "template": "Macro",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B45C713F-C161-4AF8-92FE-2EAC3C398898}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:26.5302425Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "InclusionOperator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/InclusionOperator",
+    "commandType": "Item",
+    "template": "Macro",
+    "sourceControlRevisionId": null
   }
 ]

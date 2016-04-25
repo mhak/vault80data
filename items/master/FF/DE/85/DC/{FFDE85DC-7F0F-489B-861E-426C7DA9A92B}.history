@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:53.5642211Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Out of home advertising",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Advertising/Out of home advertising",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:02.8152148Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Out of home advertising",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Advertising/Out of home advertising",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:19.3462153Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Out of home advertising",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Advertising/Out of home advertising",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFDE85DC-7F0F-489B-861E-426C7DA9A92B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:28.0463229Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Out of home advertising",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Advertising/Out of home advertising",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
   }
 ]

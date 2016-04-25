@@ -5,15 +5,15 @@
     "itemId": "{3F735A62-B2D3-4A58-97D6-46DBED6C5C73}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:04:14.407982Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "timestamp": "2016-04-19T02:04:14.4079820Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__invisible",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
     "commandType": "Item",
-    "template": "Placeholder"
+    "template": "Placeholder",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:22:00.7830132Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__invisible",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
     "commandType": "Item",
-    "template": "Placeholder"
+    "template": "Placeholder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:37.2526635Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__invisible",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
     "commandType": "Item",
-    "template": "Placeholder"
+    "template": "Placeholder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:47.6745145Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__invisible",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
     "commandType": "Item",
-    "template": "Placeholder"
+    "template": "Placeholder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F735A62-B2D3-4A58-97D6-46DBED6C5C73}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:46.4054957Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__invisible",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__invisible",
+    "commandType": "Item",
+    "template": "Placeholder",
+    "sourceControlRevisionId": null
   }
 ]

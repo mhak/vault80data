@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:32.8610239Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tags",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Tags",
     "commandType": "Item",
-    "template": "Tags Definitions Folder"
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:02.7993109Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tags",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Tags",
     "commandType": "Item",
-    "template": "Tags Definitions Folder"
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:27.5338106Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tags",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Tags",
     "commandType": "Item",
-    "template": "Tags Definitions Folder"
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB7410A0-904D-4C55-826D-6B5F14ECA245}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:15.0458413Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": null
   }
 ]

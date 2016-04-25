@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:17.0329245Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Number of Sessions Above Average Value",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Number of Sessions Above Average Value",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:38.0808321Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Number of Sessions Above Average Value",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Number of Sessions Above Average Value",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:00.7214867Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Number of Sessions Above Average Value",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Number of Sessions Above Average Value",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5217BE5-859D-494D-8A16-56DBD70F319D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:35.4214005Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Number of Sessions Above Average Value",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Number of Sessions Above Average Value",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
   }
 ]

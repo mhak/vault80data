@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:05:13.6270277Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sharing",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing",
     "commandType": "Item",
-    "template": "Sublayout Folder"
+    "template": "Sublayout Folder",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:22:48.5173266Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sharing",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing",
     "commandType": "Item",
-    "template": "Sublayout Folder"
+    "template": "Sublayout Folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:38.8930485Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sharing",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing",
     "commandType": "Item",
-    "template": "Sublayout Folder"
+    "template": "Sublayout Folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:49.4868865Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sharing",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing",
     "commandType": "Item",
-    "template": "Sublayout Folder"
+    "template": "Sublayout Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB40A2CF-04D1-42E0-B740-A18559BAC0C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:49.1240082Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sharing",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing",
+    "commandType": "Item",
+    "template": "Sublayout Folder",
+    "sourceControlRevisionId": null
   }
 ]

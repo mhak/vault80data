@@ -5,15 +5,15 @@
     "itemId": "{6601373B-C31A-43D7-8DD8-6429ACA38298}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:04:46.064164Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "timestamp": "2016-04-19T02:04:46.0641640Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sharing",
     "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing",
     "commandType": "Item",
-    "template": "Rendering Folder"
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:22:28.6424562Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sharing",
     "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing",
     "commandType": "Item",
-    "template": "Rendering Folder"
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:38.2838124Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sharing",
     "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing",
     "commandType": "Item",
-    "template": "Rendering Folder"
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:48.6900445Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sharing",
     "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing",
     "commandType": "Item",
-    "template": "Rendering Folder"
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6601373B-C31A-43D7-8DD8-6429ACA38298}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:47.9834627Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sharing",
+    "itemPath": "/sitecore/layout/Renderings/Social MVC/Sharing",
+    "commandType": "Item",
+    "template": "Rendering Folder",
+    "sourceControlRevisionId": null
   }
 ]

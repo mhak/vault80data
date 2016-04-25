@@ -5,15 +5,15 @@
     "itemId": "{FD59DF07-5B0F-4DAC-B132-93CB217C2393}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:03.017289Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:03.0172890Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Device",
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information/Device",
     "commandType": "Item",
-    "template": "Control"
+    "template": "Control",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:16.5962379Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Device",
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information/Device",
     "commandType": "Item",
-    "template": "Control"
+    "template": "Control",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:35.4711854Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Device",
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information/Device",
     "commandType": "Item",
-    "template": "Control"
+    "template": "Control",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD59DF07-5B0F-4DAC-B132-93CB217C2393}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:56.5458492Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information/Device",
+    "commandType": "Item",
+    "template": "Control",
+    "sourceControlRevisionId": null
   }
 ]

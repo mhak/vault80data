@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:13.7674631Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "Cancel transaction",
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Cancel transaction",
     "commandType": "Item",
-    "template": "Page Event"
+    "template": "Page Event",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{7A5EA632-E163-49B1-A35B-912A4518BEAD}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:33.471684Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:33.4716840Z",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "Cancel transaction",
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Cancel transaction",
     "commandType": "Item",
-    "template": "Page Event"
+    "template": "Page Event",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:55.3154491Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "Cancel transaction",
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Cancel transaction",
     "commandType": "Item",
-    "template": "Page Event"
+    "template": "Page Event",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A5EA632-E163-49B1-A35B-912A4518BEAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:27.4364962Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cancel transaction",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Cancel transaction",
+    "commandType": "Item",
+    "template": "Page Event",
+    "sourceControlRevisionId": null
   }
 ]

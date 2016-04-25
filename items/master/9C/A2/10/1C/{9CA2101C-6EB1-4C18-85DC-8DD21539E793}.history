@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:06:31.0959082Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Social",
     "itemPath": "/sitecore/media library/Images/Social",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{9CA2101C-6EB1-4C18-85DC-8DD21539E793}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:23:49.98603Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:23:49.9860300Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Social",
     "itemPath": "/sitecore/media library/Images/Social",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -37,15 +37,15 @@
     "itemId": "{9CA2101C-6EB1-4C18-85DC-8DD21539E793}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:39:41.049715Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:39:41.0497150Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Social",
     "itemPath": "/sitecore/media library/Images/Social",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:52.3313997Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Social",
     "itemPath": "/sitecore/media library/Images/Social",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CA2101C-6EB1-4C18-85DC-8DD21539E793}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:53.2333701Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/media library/Images/Social",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
   }
 ]

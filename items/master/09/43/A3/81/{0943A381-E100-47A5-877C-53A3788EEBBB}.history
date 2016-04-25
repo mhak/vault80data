@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:34.3924434Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Default",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Sitecore Query/Tags/Default",
     "commandType": "Item",
-    "template": "Tags Definition"
+    "template": "Tags Definition",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:05.0494675Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Default",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Sitecore Query/Tags/Default",
     "commandType": "Item",
-    "template": "Tags Definition"
+    "template": "Tags Definition",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:30.3618259Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Default",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Sitecore Query/Tags/Default",
     "commandType": "Item",
-    "template": "Tags Definition"
+    "template": "Tags Definition",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0943A381-E100-47A5-877C-53A3788EEBBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:19.2805309Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Sitecore Query/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:13.6580124Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Subgroup Round Robin Sticky",
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Subgroup Round Robin Sticky",
     "commandType": "Item",
-    "template": "Multivariate Test Strategy"
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:33.2525777Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Subgroup Round Robin Sticky",
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Subgroup Round Robin Sticky",
     "commandType": "Item",
-    "template": "Multivariate Test Strategy"
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:55.0185778Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Subgroup Round Robin Sticky",
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Subgroup Round Robin Sticky",
     "commandType": "Item",
-    "template": "Multivariate Test Strategy"
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E06B64F-6EA7-495C-AA66-7B69F7B94C19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:27.0148605Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Subgroup Round Robin Sticky",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Subgroup Round Robin Sticky",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": null
   }
 ]

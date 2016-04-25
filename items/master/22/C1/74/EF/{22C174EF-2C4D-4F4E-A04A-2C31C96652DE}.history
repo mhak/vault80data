@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:46.4235356Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Postal Code",
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Postal Code",
     "commandType": "Item",
-    "template": "Dictionary entry"
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:52.1770343Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Postal Code",
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Postal Code",
     "commandType": "Item",
-    "template": "Dictionary entry"
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:05.3306588Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Postal Code",
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Postal Code",
     "commandType": "Item",
-    "template": "Dictionary entry"
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22C174EF-2C4D-4F4E-A04A-2C31C96652DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:10.6084770Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Postal Code",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/Postal Code",
+    "commandType": "Item",
+    "template": "Dictionary entry",
+    "sourceControlRevisionId": null
   }
 ]

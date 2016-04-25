@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:24.2516909Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tag View",
     "itemPath": "/sitecore/system/Settings/Buckets/Views/Tag View",
     "commandType": "Item",
-    "template": "View"
+    "template": "View",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:49.6743774Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tag View",
     "itemPath": "/sitecore/system/Settings/Buckets/Views/Tag View",
     "commandType": "Item",
-    "template": "View"
+    "template": "View",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:13.5652699Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tag View",
     "itemPath": "/sitecore/system/Settings/Buckets/Views/Tag View",
     "commandType": "Item",
-    "template": "View"
+    "template": "View",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94C6F74D-C1E1-4020-BA0D-DABB1DF79C4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:54.6083471Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tag View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Tag View",
+    "commandType": "Item",
+    "template": "View",
+    "sourceControlRevisionId": null
   }
 ]

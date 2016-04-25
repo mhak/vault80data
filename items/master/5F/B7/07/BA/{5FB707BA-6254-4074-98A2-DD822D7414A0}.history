@@ -5,15 +5,15 @@
     "itemId": "{5FB707BA-6254-4074-98A2-DD822D7414A0}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:05:16.782909Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "timestamp": "2016-04-19T02:05:16.7829090Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with Google",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Google",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:22:51.2363314Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with Google",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Google",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:38.9555978Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with Google",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Google",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:49.5805791Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with Google",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Google",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FB707BA-6254-4074-98A2-DD822D7414A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:49.2646691Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Google",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Google",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:08:01.0797735Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-display-advertising",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-display-advertising",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:25.0329913Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-display-advertising",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-display-advertising",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:42.2838973Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-display-advertising",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-display-advertising",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:53.8306573Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-display-advertising",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-display-advertising",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E96716F-09A4-417D-9CCE-E6FE23BCB74A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:55.2649677Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-display-advertising",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-display-advertising",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
   }
 ]

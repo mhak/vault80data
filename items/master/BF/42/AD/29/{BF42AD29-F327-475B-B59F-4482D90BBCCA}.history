@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:18.3299846Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "Referred - Conversations",
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Conversations",
     "commandType": "Item",
-    "template": "Traffic Type"
+    "template": "Traffic Type",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{BF42AD29-F327-475B-B59F-4482D90BBCCA}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:40.190329Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:40.1903290Z",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "Referred - Conversations",
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Conversations",
     "commandType": "Item",
-    "template": "Traffic Type"
+    "template": "Traffic Type",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:02.9713534Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "Referred - Conversations",
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Conversations",
     "commandType": "Item",
-    "template": "Traffic Type"
+    "template": "Traffic Type",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF42AD29-F327-475B-B59F-4482D90BBCCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:38.7959087Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referred - Conversations",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Conversations",
+    "commandType": "Item",
+    "template": "Traffic Type",
+    "sourceControlRevisionId": null
   }
 ]

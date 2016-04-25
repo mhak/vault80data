@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:00.8145314Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "USA",
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/USA",
     "commandType": "Item",
-    "template": "Predefined Filter Value"
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:13.2837967Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "USA",
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/USA",
     "commandType": "Item",
-    "template": "Predefined Filter Value"
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:32.0493225Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "USA",
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/USA",
     "commandType": "Item",
-    "template": "Predefined Filter Value"
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59946EA2-6DB5-41E1-8913-205DC6988EFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:50.4211138Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "USA",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/USA",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
+    "sourceControlRevisionId": null
   }
 ]

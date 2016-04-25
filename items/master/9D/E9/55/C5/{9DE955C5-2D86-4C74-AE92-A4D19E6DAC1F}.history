@@ -5,15 +5,15 @@
     "itemId": "{9DE955C5-2D86-4C74-AE92-A4D19E6DAC1F}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:19.501752Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:19.5017520Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Page - Goals and Events",
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Page - Goals and Events",
     "commandType": "Item",
-    "template": "Report"
+    "template": "Report",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:42.2994409Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Page - Goals and Events",
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Page - Goals and Events",
     "commandType": "Item",
-    "template": "Report"
+    "template": "Report",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:05.2212094Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Page - Goals and Events",
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Page - Goals and Events",
     "commandType": "Item",
-    "template": "Report"
+    "template": "Report",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DE955C5-2D86-4C74-AE92-A4D19E6DAC1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:42.1556024Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page - Goals and Events",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Page - Goals and Events",
+    "commandType": "Item",
+    "template": "Report",
+    "sourceControlRevisionId": null
   }
 ]

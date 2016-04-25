@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:31.1110275Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Locked by",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Locked by",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{49FE5A07-BE03-405C-8FF3-0DB160C0EAA1}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:59.689969Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:59.6899690Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Locked by",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Locked by",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:24.6744562Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Locked by",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Locked by",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49FE5A07-BE03-405C-8FF3-0DB160C0EAA1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:10.7021118Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Locked by",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Locked by",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
   }
 ]

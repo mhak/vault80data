@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:08:30.6579151Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-forum",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-forum",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{1A7E5016-FB60-4047-96BE-3477E2481F16}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:24:34.502178Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:24:34.5021780Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-forum",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-forum",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -37,15 +37,15 @@
     "itemId": "{1A7E5016-FB60-4047-96BE-3477E2481F16}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:39:42.643664Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:39:42.6436640Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-forum",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-forum",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:54.2055474Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-forum",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-forum",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A7E5016-FB60-4047-96BE-3477E2481F16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:55.8583445Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-forum",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-forum",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:54.6735249Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "LinkedIn Share",
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/LinkedIn Share",
     "commandType": "Item",
-    "template": "Goal"
+    "template": "Goal",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:04.5035328Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "LinkedIn Share",
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/LinkedIn Share",
     "commandType": "Item",
-    "template": "Goal"
+    "template": "Goal",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:21.3149680Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "LinkedIn Share",
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/LinkedIn Share",
     "commandType": "Item",
-    "template": "Goal"
+    "template": "Goal",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E971E2BF-06BE-4DC7-BFBE-5464A5E68326}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:31.7337583Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn Share",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/LinkedIn Share",
+    "commandType": "Item",
+    "template": "Goal",
+    "sourceControlRevisionId": null
   }
 ]

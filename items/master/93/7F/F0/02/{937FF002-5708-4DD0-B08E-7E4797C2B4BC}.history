@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:08:51.1527266Z",
-    "label": "Created",
-    "sourceControlRevisionId": "880f40689060b30ca57a98e7851e0ca669904c5a",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "New items Friday",
     "itemPath": "/sitecore/content/Home/New items Friday",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "880f40689060b30ca57a98e7851e0ca669904c5a"
   },
   {
     "eventType": "Saved",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:08:51.6683919Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "7ef6f216e44c4455416ed0b0a572204976b188e8",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "New items Friday",
     "itemPath": "/sitecore/content/Home/New items Friday",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "7ef6f216e44c4455416ed0b0a572204976b188e8"
   },
   {
     "eventType": "Saved",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:08:51.9183756Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "d0de6ada30f7e0e5dc3807a938f96f932ca04146",
+    "label": null,
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "sitecore\\admin",
     "itemName": "New items Friday",
     "itemPath": "/sitecore/content/Home/New items Friday",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "d0de6ada30f7e0e5dc3807a938f96f932ca04146"
   },
   {
     "eventType": "VersionAdded",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:08:52.0121431Z",
-    "label": "Version 1 Added",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "sitecore\\admin",
     "itemName": "New items Friday",
     "itemPath": "/sitecore/content/Home/New items Friday",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{937FF002-5708-4DD0-B08E-7E4797C2B4BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:43.4056141Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New items Friday",
+    "itemPath": "/sitecore/content/Home/New items Friday",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]

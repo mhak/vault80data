@@ -7,12 +7,13 @@
     "language": "en",
     "timestamp": "2016-04-08T17:32:23.4454617Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -22,12 +23,13 @@
     "language": "en",
     "timestamp": "2016-04-08T17:32:23.7119181Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -35,14 +37,15 @@
     "itemId": "{B5E2B4B9-0D0E-45D9-AF7C-FA759EFCAAFA}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-08T17:32:23.945405Z",
+    "timestamp": "2016-04-08T17:32:23.9454050Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -52,12 +55,13 @@
     "language": "en",
     "timestamp": "2016-04-08T17:32:24.1642611Z",
     "label": null,
-    "sourceControlRevisionId": "",
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": null,
@@ -67,12 +71,13 @@
     "language": "en",
     "timestamp": "2016-04-11T16:22:10.4658069Z",
     "label": null,
-    "sourceControlRevisionId": "3750f0448c472ae295c5974d74095df4417be0da",
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
-    "commandType": "Item"
+    "commandType": "Item",
+    "template": null,
+    "sourceControlRevisionId": "3750f0448c472ae295c5974d74095df4417be0da"
   },
   {
     "eventType": "Snapshot",
@@ -81,14 +86,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:03:24.9079302Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "adf944ee24cc98d72f46a776724ad30c7304329d",
+    "label": null,
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "adf944ee24cc98d72f46a776724ad30c7304329d"
   },
   {
     "eventType": "Saved",
@@ -97,14 +102,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:37.0959429Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "6922d19e9b7d1b7f6a1889286c1b81ae45c35557",
+    "label": null,
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "6922d19e9b7d1b7f6a1889286c1b81ae45c35557"
   },
   {
     "eventType": "Snapshot",
@@ -113,14 +118,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:21:21.2516336Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -129,14 +134,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:35.7994201Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -145,13 +150,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:46.1899859Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Item",
     "itemPath": "/sitecore/content/Home/Sample Item",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5E2B4B9-0D0E-45D9-AF7C-FA759EFCAAFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:43.4835352Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Item",
+    "itemPath": "/sitecore/content/Home/Sample Item",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]

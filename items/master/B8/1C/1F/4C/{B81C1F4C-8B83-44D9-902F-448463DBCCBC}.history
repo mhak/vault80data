@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:13.4860195Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Always Evaluate",
     "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Always Evaluate",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:33.0026607Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Always Evaluate",
     "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Always Evaluate",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:54.7213333Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Always Evaluate",
     "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Always Evaluate",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B81C1F4C-8B83-44D9-902F-448463DBCCBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:26.4999079Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Always Evaluate",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Always Evaluate",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]

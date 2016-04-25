@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:12.7203842Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Thailand",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Thailand",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{A2BF4E5C-4DCC-48A4-92F4-35F8E8CDF980}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:31.659266Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:31.6592660Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Thailand",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Thailand",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:53.2368751Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Thailand",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Thailand",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2BF4E5C-4DCC-48A4-92F4-35F8E8CDF980}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:23.8428046Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thailand",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Thailand",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
   }
 ]

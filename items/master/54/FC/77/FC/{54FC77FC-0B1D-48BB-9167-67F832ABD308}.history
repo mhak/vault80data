@@ -5,15 +5,15 @@
     "itemId": "{54FC77FC-0B1D-48BB-9167-67F832ABD308}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:30.283812Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:30.2838120Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ISP Name",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:58.5964463Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ISP Name",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:23.3618558Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ISP Name",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54FC77FC-0B1D-48BB-9167-67F832ABD308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:08.8741966Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ISP Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
   }
 ]

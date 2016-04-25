@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:06:29.1270301Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Unknown 128x128",
     "itemPath": "/sitecore/media library/Experience Explorer/Presets/Unknown 128x128",
     "commandType": "Item",
-    "template": "Jpeg"
+    "template": "Jpeg",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:23:48.6424894Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Unknown 128x128",
     "itemPath": "/sitecore/media library/Experience Explorer/Presets/Unknown 128x128",
     "commandType": "Item",
-    "template": "Jpeg"
+    "template": "Jpeg",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:41.0026532Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Unknown 128x128",
     "itemPath": "/sitecore/media library/Experience Explorer/Presets/Unknown 128x128",
     "commandType": "Item",
-    "template": "Jpeg"
+    "template": "Jpeg",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:52.2681009Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Unknown 128x128",
     "itemPath": "/sitecore/media library/Experience Explorer/Presets/Unknown 128x128",
     "commandType": "Item",
-    "template": "Jpeg"
+    "template": "Jpeg",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{715C5BB4-3584-4510-8815-C42F88B1034E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:53.1554859Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unknown 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Unknown 128x128",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null
   }
 ]

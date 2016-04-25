@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:55.3143569Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "Twitter Share Buttons",
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Share Buttons",
     "commandType": "Item",
-    "template": "Campaign"
+    "template": "Campaign",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:05.4555948Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "Twitter Share Buttons",
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Share Buttons",
     "commandType": "Item",
-    "template": "Campaign"
+    "template": "Campaign",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:22.5493263Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "Twitter Share Buttons",
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Share Buttons",
     "commandType": "Item",
-    "template": "Campaign"
+    "template": "Campaign",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A221152F-E51C-419D-A09A-DE1C4185FFDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:33.8271897Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Share Buttons",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Share Buttons",
+    "commandType": "Item",
+    "template": "Campaign",
+    "sourceControlRevisionId": null
   }
 ]

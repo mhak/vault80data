@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:03:58.8923944Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ExperienceEditor",
     "itemPath": "/sitecore/layout/Layouts/System/FXM/ExperienceEditor",
     "commandType": "Item",
-    "template": "Layout"
+    "template": "Layout",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:21:48.4551145Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ExperienceEditor",
     "itemPath": "/sitecore/layout/Layouts/System/FXM/ExperienceEditor",
     "commandType": "Item",
-    "template": "Layout"
+    "template": "Layout",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:36.8307277Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ExperienceEditor",
     "itemPath": "/sitecore/layout/Layouts/System/FXM/ExperienceEditor",
     "commandType": "Item",
-    "template": "Layout"
+    "template": "Layout",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:47.2212284Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ExperienceEditor",
     "itemPath": "/sitecore/layout/Layouts/System/FXM/ExperienceEditor",
     "commandType": "Item",
-    "template": "Layout"
+    "template": "Layout",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C72C238F-018E-469E-9440-3EDD7420A8C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:45.7022110Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExperienceEditor",
+    "itemPath": "/sitecore/layout/Layouts/System/FXM/ExperienceEditor",
+    "commandType": "Item",
+    "template": "Layout",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:23.7360516Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "sitecore\\admin",
     "itemName": "New Tab",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab",
     "commandType": "Item",
-    "template": "Open Result Type"
+    "template": "Open Result Type",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{9EF07D53-DC1E-4542-9466-543EA7F58603}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:48.846504Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:48.8465040Z",
+    "label": null,
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "sitecore\\admin",
     "itemName": "New Tab",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab",
     "commandType": "Item",
-    "template": "Open Result Type"
+    "template": "Open Result Type",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:12.6284003Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
     "activeUser": "sitecore\\admin",
     "itemName": "New Tab",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab",
     "commandType": "Item",
-    "template": "Open Result Type"
+    "template": "Open Result Type",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EF07D53-DC1E-4542-9466-543EA7F58603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:53.1864949Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Tab",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab",
+    "commandType": "Item",
+    "template": "Open Result Type",
+    "sourceControlRevisionId": null
   }
 ]

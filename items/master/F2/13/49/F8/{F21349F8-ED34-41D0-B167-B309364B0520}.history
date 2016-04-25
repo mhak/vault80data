@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:08.9862527Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Guinea-Bissau",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea-Bissau",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{F21349F8-ED34-41D0-B167-B309364B0520}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:25.51805Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:25.5180500Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Guinea-Bissau",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea-Bissau",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:46.6430748Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Guinea-Bissau",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea-Bissau",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F21349F8-ED34-41D0-B167-B309364B0520}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:13.9208726Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guinea-Bissau",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea-Bissau",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:17.9547783Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Is Content Test",
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test",
     "commandType": "Item",
-    "template": "Rule Container"
+    "template": "Rule Container",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:39.3780635Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Is Content Test",
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test",
     "commandType": "Item",
-    "template": "Rule Container"
+    "template": "Rule Container",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:02.2213776Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Is Content Test",
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test",
     "commandType": "Item",
-    "template": "Rule Container"
+    "template": "Rule Container",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CF6A4D2-3C30-4410-8EEE-F8D3FACE6FB6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:37.7492667Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Content Test",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test",
+    "commandType": "Item",
+    "template": "Rule Container",
+    "sourceControlRevisionId": null
   }
 ]

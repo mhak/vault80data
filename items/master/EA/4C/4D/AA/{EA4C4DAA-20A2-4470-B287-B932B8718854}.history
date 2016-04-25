@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:05:21.9081277Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Google +1 Button",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Google Plus One Button",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{EA4C4DAA-20A2-4470-B287-B932B8718854}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:22:55.001882Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:22:55.0018820Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Google +1 Button",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Google Plus One Button",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:39.0964964Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Google +1 Button",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Google Plus One Button",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:49.7369381Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Google +1 Button",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Google Plus One Button",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA4C4DAA-20A2-4470-B287-B932B8718854}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:49.4835461Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google +1 Button",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Sharing/Google Plus One Button",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null
   }
 ]

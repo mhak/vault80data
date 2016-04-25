@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:16.1891704Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Top Leads By Activity - Unclassified",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Activity - Unclassified",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:36.7837248Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Top Leads By Activity - Unclassified",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Activity - Unclassified",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:59.1431529Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Top Leads By Activity - Unclassified",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Activity - Unclassified",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B03BB007-FB91-44E2-A3AE-A3B6DBD99F82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:33.1084110Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top Leads By Activity - Unclassified",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Activity - Unclassified",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
   }
 ]

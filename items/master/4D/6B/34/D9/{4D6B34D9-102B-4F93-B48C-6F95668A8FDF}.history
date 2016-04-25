@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:07:51.0504237Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-digital-events",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-digital-events",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:20.4392147Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-digital-events",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-digital-events",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:42.1118305Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-digital-events",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-digital-events",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:53.6436394Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-digital-events",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-digital-events",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D6B34D9-102B-4F93-B48C-6F95668A8FDF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:54.9989985Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-digital-events",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-digital-events",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
   }
 ]

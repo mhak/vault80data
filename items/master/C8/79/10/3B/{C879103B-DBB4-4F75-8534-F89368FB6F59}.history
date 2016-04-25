@@ -5,15 +5,15 @@
     "itemId": "{C879103B-DBB4-4F75-8534-F89368FB6F59}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:30.876715Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:30.8767150Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visibility",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Visibility",
     "commandType": "Item",
-    "template": "Visibility"
+    "template": "Visibility",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:59.3150192Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visibility",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Visibility",
     "commandType": "Item",
-    "template": "Visibility"
+    "template": "Visibility",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:24.2524441Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visibility",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Visibility",
     "commandType": "Item",
-    "template": "Visibility"
+    "template": "Visibility",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C879103B-DBB4-4F75-8534-F89368FB6F59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:10.1084009Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Visibility",
+    "commandType": "Item",
+    "template": "Visibility",
+    "sourceControlRevisionId": null
   }
 ]

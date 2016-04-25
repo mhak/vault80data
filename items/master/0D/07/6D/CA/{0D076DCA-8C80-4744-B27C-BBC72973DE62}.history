@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:06:05.9553163Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "No Silverlight Support",
     "itemPath": "/sitecore/layout/Simulators/iPad/No Silverlight Support",
     "commandType": "Item",
-    "template": "No Silverlight Support Trait"
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:23:29.6424811Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "No Silverlight Support",
     "itemPath": "/sitecore/layout/Simulators/iPad/No Silverlight Support",
     "commandType": "Item",
-    "template": "No Silverlight Support Trait"
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:40.2540393Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "No Silverlight Support",
     "itemPath": "/sitecore/layout/Simulators/iPad/No Silverlight Support",
     "commandType": "Item",
-    "template": "No Silverlight Support Trait"
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:51.2369265Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "No Silverlight Support",
     "itemPath": "/sitecore/layout/Simulators/iPad/No Silverlight Support",
     "commandType": "Item",
-    "template": "No Silverlight Support Trait"
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0D076DCA-8C80-4744-B27C-BBC72973DE62}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:51.4367097Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Silverlight Support",
+    "itemPath": "/sitecore/layout/Simulators/iPad/No Silverlight Support",
+    "commandType": "Item",
+    "template": "No Silverlight Support Trait",
+    "sourceControlRevisionId": null
   }
 ]

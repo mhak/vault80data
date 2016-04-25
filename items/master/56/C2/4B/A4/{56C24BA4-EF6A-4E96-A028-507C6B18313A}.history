@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:05.8454088Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Decrease the Profile Value",
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Decrease the Profile Value",
     "commandType": "Item",
-    "template": "Engagement Automation Action"
+    "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:20.7685061Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Decrease the Profile Value",
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Decrease the Profile Value",
     "commandType": "Item",
-    "template": "Engagement Automation Action"
+    "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:40.5028173Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Decrease the Profile Value",
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Decrease the Profile Value",
     "commandType": "Item",
-    "template": "Engagement Automation Action"
+    "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56C24BA4-EF6A-4E96-A028-507C6B18313A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:05.6348404Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Decrease the Profile Value",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Decrease the Profile Value",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
+    "sourceControlRevisionId": null
   }
 ]

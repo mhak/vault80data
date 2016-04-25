@@ -5,15 +5,15 @@
     "itemId": "{2C955495-0D56-4D80-8942-A4A4E53A3B18}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:19.064174Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:19.0641740Z",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "060 - Business Partner",
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/060 - Business Partner",
     "commandType": "Item",
-    "template": "Visitor Identification"
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:41.5338995Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "060 - Business Partner",
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/060 - Business Partner",
     "commandType": "Item",
-    "template": "Visitor Identification"
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:04.4087355Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
     "activeUser": "sitecore\\admin",
     "itemName": "060 - Business Partner",
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/060 - Business Partner",
     "commandType": "Item",
-    "template": "Visitor Identification"
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C955495-0D56-4D80-8942-A4A4E53A3B18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:40.9678800Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "060 - Business Partner",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/060 - Business Partner",
+    "commandType": "Item",
+    "template": "Visitor Identification",
+    "sourceControlRevisionId": null
   }
 ]

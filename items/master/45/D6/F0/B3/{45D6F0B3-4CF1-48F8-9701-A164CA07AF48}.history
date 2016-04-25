@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:18.7833786Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "IP",
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:41.0496622Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "IP",
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:03.8931496Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "IP",
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45D6F0B3-4CF1-48F8-9701-A164CA07AF48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:40.2177684Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IP",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]

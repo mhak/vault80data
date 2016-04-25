@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:36.1584187Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visit language",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Visit language",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{DCEAF329-D74D-42E5-9023-452E08CDE246}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:41:07.830745Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:41:07.8307450Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visit language",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Visit language",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:33.4243045Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visit language",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Visit language",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCEAF329-D74D-42E5-9023-452E08CDE246}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:23.7958467Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit language",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Visit language",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
   }
 ]

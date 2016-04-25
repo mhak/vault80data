@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:43.9393034Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visibility",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Sitecore Query/Visibility",
     "commandType": "Item",
-    "template": "Visibility"
+    "template": "Visibility",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:19.5338827Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visibility",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Sitecore Query/Visibility",
     "commandType": "Item",
-    "template": "Visibility"
+    "template": "Visibility",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:47.0962221Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visibility",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Sitecore Query/Visibility",
     "commandType": "Item",
-    "template": "Visibility"
+    "template": "Visibility",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D641DF8-5159-47A8-A018-7309B76EF8C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:42.5458780Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Sitecore Query/Visibility",
+    "commandType": "Item",
+    "template": "Visibility",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:15:19.4243945Z",
-    "label": "Created",
-    "sourceControlRevisionId": "0306ad79d8d1c37c9609dcdb362d7626c9bd885f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Testing Vault",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
     "commandType": "Item",
-    "template": "Pattern Card"
+    "template": "Pattern Card",
+    "sourceControlRevisionId": "0306ad79d8d1c37c9609dcdb362d7626c9bd885f"
   },
   {
     "eventType": "Saved",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:15:19.5649872Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "34c2e9c603393550f6c26e5447064860ea5b30d4",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Testing Vault",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
     "commandType": "Item",
-    "template": "Pattern Card"
+    "template": "Pattern Card",
+    "sourceControlRevisionId": "34c2e9c603393550f6c26e5447064860ea5b30d4"
   },
   {
     "eventType": "VersionAdded",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:15:19.6120139Z",
-    "label": "Version 1 Added",
-    "sourceControlRevisionId": "9a8e7b92b0e4b033913b666c88ac2678810d0308",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Testing Vault",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
     "commandType": "Item",
-    "template": "Pattern Card"
+    "template": "Pattern Card",
+    "sourceControlRevisionId": "9a8e7b92b0e4b033913b666c88ac2678810d0308"
   },
   {
     "eventType": "Saved",
@@ -54,14 +54,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:15:44.4711938Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "708b1291324c8bca3a1a811b72770b37c2989565",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Testing Vault",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
     "commandType": "Item",
-    "template": "Pattern Card"
+    "template": "Pattern Card",
+    "sourceControlRevisionId": "708b1291324c8bca3a1a811b72770b37c2989565"
   },
   {
     "eventType": "Saved",
@@ -70,14 +70,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:16:35.8461788Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Testing Vault",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
     "commandType": "Item",
-    "template": "Pattern Card"
+    "template": "Pattern Card",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -86,14 +86,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:11.6904956Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Testing Vault",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
     "commandType": "Item",
-    "template": "Pattern Card"
+    "template": "Pattern Card",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -102,13 +102,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:29.9896454Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Testing Vault",
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
     "commandType": "Item",
-    "template": "Pattern Card"
+    "template": "Pattern Card",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CA092F7-7476-4F08-A187-D6D35F414331}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:47.2490584Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testing Vault",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
+    "commandType": "Item",
+    "template": "Pattern Card",
+    "sourceControlRevisionId": null
   }
 ]

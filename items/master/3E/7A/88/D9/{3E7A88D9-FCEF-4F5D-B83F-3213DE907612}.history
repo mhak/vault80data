@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:16.5485051Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visit Pages",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Pages",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:37.3012093Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visit Pages",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Pages",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:59.7993030Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Visit Pages",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Pages",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E7A88D9-FCEF-4F5D-B83F-3213DE907612}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:34.0460192Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Pages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Pages",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
   }
 ]

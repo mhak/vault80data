@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:39.8453976Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-productdisplay",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-productdisplay",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{76B92A23-6D99-4B3D-BE0B-37FE5F143202}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:39:43.362126Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:39:43.3621260Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-productdisplay",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-productdisplay",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:55.0338398Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ch-productdisplay",
     "itemPath": "/sitecore/media library/System/Channel Images/ch-productdisplay",
     "commandType": "Item",
-    "template": "Image"
+    "template": "Image",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76B92A23-6D99-4B3D-BE0B-37FE5F143202}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:56.9833264Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-productdisplay",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-productdisplay",
+    "commandType": "Item",
+    "template": "Image",
+    "sourceControlRevisionId": null
   }
 ]

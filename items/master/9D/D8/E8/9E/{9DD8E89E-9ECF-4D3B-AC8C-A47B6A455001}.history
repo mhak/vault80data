@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:23.1267362Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Text",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Text",
     "commandType": "Item",
-    "template": "Search Control Type"
+    "template": "Search Control Type",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:48.0025023Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Text",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Text",
     "commandType": "Item",
-    "template": "Search Control Type"
+    "template": "Search Control Type",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:11.6118435Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Text",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Text",
     "commandType": "Item",
-    "template": "Search Control Type"
+    "template": "Search Control Type",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DD8E89E-9ECF-4D3B-AC8C-A47B6A455001}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:51.8115908Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Text",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Text",
+    "commandType": "Item",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null
   }
 ]

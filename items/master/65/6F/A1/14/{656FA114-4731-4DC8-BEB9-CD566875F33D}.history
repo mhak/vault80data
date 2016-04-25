@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:12.5954145Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Syrian Arab Republic",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Syrian Arab Republic",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:31.4870329Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Syrian Arab Republic",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Syrian Arab Republic",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:52.9875538Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Syrian Arab Republic",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Syrian Arab Republic",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{656FA114-4731-4DC8-BEB9-CD566875F33D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:23.5616024Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Syrian Arab Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Syrian Arab Republic",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
   }
 ]

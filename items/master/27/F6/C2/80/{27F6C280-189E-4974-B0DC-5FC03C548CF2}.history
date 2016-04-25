@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:09:02.8404064Z",
-    "label": "Created",
-    "sourceControlRevisionId": "fe3bff7719a51aaea6ac0cecde9b4a0a30d65174",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Another",
     "itemPath": "/sitecore/content/Home/Another",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "fe3bff7719a51aaea6ac0cecde9b4a0a30d65174"
   },
   {
     "eventType": "Saved",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:09:02.9341251Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "f91c6bd3fa542aa0354065a58affdd0ec4c029e0",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Another",
     "itemPath": "/sitecore/content/Home/Another",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "f91c6bd3fa542aa0354065a58affdd0ec4c029e0"
   },
   {
     "eventType": "Saved",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:09:03.0277372Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "b2861d21fcba9dbb37aa8a225025d201de486157",
+    "label": null,
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "sitecore\\admin",
     "itemName": "Another",
     "itemPath": "/sitecore/content/Home/Another",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "b2861d21fcba9dbb37aa8a225025d201de486157"
   },
   {
     "eventType": "VersionAdded",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:09:03.0593773Z",
-    "label": "Version 1 Added",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
     "activeUser": "sitecore\\admin",
     "itemName": "Another",
     "itemPath": "/sitecore/content/Home/Another",
     "commandType": "Item",
-    "template": "Sample Item"
+    "template": "Sample Item",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27F6C280-189E-4974-B0DC-5FC03C548CF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:43.3273751Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Another",
+    "itemPath": "/sitecore/content/Home/Another",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]

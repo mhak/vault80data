@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:42.5797859Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Item Version CM",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Item Version CM",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:17.3930791Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Item Version CM",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Item Version CM",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:44.7680678Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Item Version CM",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Item Version CM",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B396D486-63DB-4F62-8DF1-DB0989191848}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:39.0770877Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Version CM",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Item Version CM",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
   }
 ]

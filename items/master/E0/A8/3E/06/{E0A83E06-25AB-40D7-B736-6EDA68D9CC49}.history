@@ -5,15 +5,15 @@
     "itemId": "{E0A83E06-25AB-40D7-B736-6EDA68D9CC49}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:04:09.814428Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "timestamp": "2016-04-19T02:04:09.8144280Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__formbegin",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__formbegin",
     "commandType": "Item",
-    "template": "Head Placeholder Setting"
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:21:56.6268243Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__formbegin",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__formbegin",
     "commandType": "Item",
-    "template": "Head Placeholder Setting"
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:37.1118162Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__formbegin",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__formbegin",
     "commandType": "Item",
-    "template": "Head Placeholder Setting"
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:47.5338173Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__formbegin",
     "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__formbegin",
     "commandType": "Item",
-    "template": "Head Placeholder Setting"
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0A83E06-25AB-40D7-B736-6EDA68D9CC49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:46.1867276Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__formbegin",
+    "itemPath": "/sitecore/layout/Placeholder Settings/App Center Sync/__formbegin",
+    "commandType": "Item",
+    "template": "Head Placeholder Setting",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:05:20.0954059Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with Twitter",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:22:53.5957841Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with Twitter",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -37,15 +37,15 @@
     "itemId": "{AD486F6B-AA44-49FE-8B66-8D4B63C0E477}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:39:39.049534Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:39:39.0495340Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with Twitter",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:49.6748107Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Login with Twitter",
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
     "commandType": "Item",
-    "template": "Sublayout"
+    "template": "Sublayout",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD486F6B-AA44-49FE-8B66-8D4B63C0E477}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:49.4052154Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Twitter",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
+    "commandType": "Item",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null
   }
 ]

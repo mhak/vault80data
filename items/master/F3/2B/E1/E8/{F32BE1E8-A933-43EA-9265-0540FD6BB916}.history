@@ -5,15 +5,15 @@
     "itemId": "{F32BE1E8-A933-43EA-9265-0540FD6BB916}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:24:43.704773Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:24:43.7047730Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Toolbox",
     "itemPath": "/sitecore/system/Toolbox",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{F32BE1E8-A933-43EA-9265-0540FD6BB916}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:39:48.002613Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:39:48.0026130Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Toolbox",
     "itemPath": "/sitecore/system/Toolbox",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:00.4087188Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Toolbox",
     "itemPath": "/sitecore/system/Toolbox",
     "commandType": "Item",
-    "template": "Node"
+    "template": "Node",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F32BE1E8-A933-43EA-9265-0540FD6BB916}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:04.0790751Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Toolbox",
+    "itemPath": "/sitecore/system/Toolbox",
+    "commandType": "Item",
+    "template": "Node",
+    "sourceControlRevisionId": null
   }
 ]

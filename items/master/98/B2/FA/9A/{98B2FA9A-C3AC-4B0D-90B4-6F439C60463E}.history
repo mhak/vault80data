@@ -5,15 +5,15 @@
     "itemId": "{98B2FA9A-C3AC-4B0D-90B4-6F439C60463E}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:35.314336Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:35.3143360Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Set Winner",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner",
     "commandType": "Item",
-    "template": "Action"
+    "template": "Action",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:06.4712463Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Set Winner",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner",
     "commandType": "Item",
-    "template": "Action"
+    "template": "Action",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:32.0024311Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Set Winner",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner",
     "commandType": "Item",
-    "template": "Action"
+    "template": "Action",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98B2FA9A-C3AC-4B0D-90B4-6F439C60463E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:21.5927323Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Winner",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
   }
 ]

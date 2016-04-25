@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:58.7203985Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
     "activeUser": "sitecore\\admin",
     "itemName": "Login Goal Experience",
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Goals/Login",
     "commandType": "Item",
-    "template": "GoalMap"
+    "template": "GoalMap",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:09.9868146Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
     "activeUser": "sitecore\\admin",
     "itemName": "Login Goal Experience",
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Goals/Login",
     "commandType": "Item",
-    "template": "GoalMap"
+    "template": "GoalMap",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:27.9715302Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
     "activeUser": "sitecore\\admin",
     "itemName": "Login Goal Experience",
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Goals/Login",
     "commandType": "Item",
-    "template": "GoalMap"
+    "template": "GoalMap",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{11EFCE5E-966B-4F02-B85C-CCD2AD8E16EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:43.6086466Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login Goal Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Goals/Login",
+    "commandType": "Item",
+    "template": "GoalMap",
+    "sourceControlRevisionId": null
   }
 ]

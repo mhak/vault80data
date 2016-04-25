@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:56.0174206Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
     "activeUser": "sitecore\\admin",
     "itemName": "All visits By Page URL",
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Page URL/All visits By Page URL",
     "commandType": "Item",
-    "template": "Segment"
+    "template": "Segment",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{30E2C2BB-63C5-43D2-B616-8488C93C971F}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:06.471251Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:06.4712510Z",
+    "label": null,
     "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
     "activeUser": "sitecore\\admin",
     "itemName": "All visits By Page URL",
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Page URL/All visits By Page URL",
     "commandType": "Item",
-    "template": "Segment"
+    "template": "Segment",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:23.7681401Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
     "activeUser": "sitecore\\admin",
     "itemName": "All visits By Page URL",
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Page URL/All visits By Page URL",
     "commandType": "Item",
-    "template": "Segment"
+    "template": "Segment",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30E2C2BB-63C5-43D2-B616-8488C93C971F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:36.1241459Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All visits By Page URL",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Pages/By Page URL/All visits By Page URL",
+    "commandType": "Item",
+    "template": "Segment",
+    "sourceControlRevisionId": null
   }
 ]

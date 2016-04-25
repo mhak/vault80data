@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:46.0486986Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Clear Script Cache",
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Script Cache",
     "commandType": "Item",
-    "template": "Rule"
+    "template": "Rule",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:22.7836715Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Clear Script Cache",
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Script Cache",
     "commandType": "Item",
-    "template": "Rule"
+    "template": "Rule",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:50.7212448Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Clear Script Cache",
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Script Cache",
     "commandType": "Item",
-    "template": "Rule"
+    "template": "Rule",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61F081A0-229F-4E95-8748-37B41540893D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:48.2647216Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clear Script Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Script Cache",
+    "commandType": "Item",
+    "template": "Rule",
+    "sourceControlRevisionId": null
   }
 ]

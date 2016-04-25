@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:24.2987075Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Layout",
     "itemPath": "/sitecore/system/Settings/Layouts/Presets/Sample Layout",
     "commandType": "Item",
-    "template": "Layout Preset"
+    "template": "Layout Preset",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{1C15E081-9842-4DA2-ACF3-E7ED7D5B0651}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:49.799474Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:49.7994740Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Layout",
     "itemPath": "/sitecore/system/Settings/Layouts/Presets/Sample Layout",
     "commandType": "Item",
-    "template": "Layout Preset"
+    "template": "Layout Preset",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:13.6587408Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Sample Layout",
     "itemPath": "/sitecore/system/Settings/Layouts/Presets/Sample Layout",
     "commandType": "Item",
-    "template": "Layout Preset"
+    "template": "Layout Preset",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C15E081-9842-4DA2-ACF3-E7ED7D5B0651}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:54.7648307Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Layout",
+    "itemPath": "/sitecore/system/Settings/Layouts/Presets/Sample Layout",
+    "commandType": "Item",
+    "template": "Layout Preset",
+    "sourceControlRevisionId": null
   }
 ]

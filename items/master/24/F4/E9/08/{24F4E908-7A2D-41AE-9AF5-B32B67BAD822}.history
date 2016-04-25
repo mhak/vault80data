@@ -5,15 +5,15 @@
     "itemId": "{24F4E908-7A2D-41AE-9AF5-B32B67BAD822}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:08.751643Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:08.7516430Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Gibraltar",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gibraltar",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:25.1278529Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Gibraltar",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gibraltar",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:46.1899359Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Gibraltar",
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gibraltar",
     "commandType": "Item",
-    "template": "Country"
+    "template": "Country",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24F4E908-7A2D-41AE-9AF5-B32B67BAD822}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:13.2489920Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gibraltar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gibraltar",
+    "commandType": "Item",
+    "template": "Country",
+    "sourceControlRevisionId": null
   }
 ]

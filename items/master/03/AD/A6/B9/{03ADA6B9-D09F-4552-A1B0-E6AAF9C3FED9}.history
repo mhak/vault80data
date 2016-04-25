@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:04:36.2672998Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Feeds",
     "itemPath": "/sitecore/layout/Renderings/System/Feeds",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:22:20.7672743Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Feeds",
     "itemPath": "/sitecore/layout/Renderings/System/Feeds",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -37,15 +37,15 @@
     "itemId": "{03ADA6B9-D09F-4552-A1B0-E6AAF9C3FED9}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:39:37.893479Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:39:37.8934790Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Feeds",
     "itemPath": "/sitecore/layout/Renderings/System/Feeds",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:48.4086752Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Feeds",
     "itemPath": "/sitecore/layout/Renderings/System/Feeds",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03ADA6B9-D09F-4552-A1B0-E6AAF9C3FED9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:47.5614708Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feeds",
+    "itemPath": "/sitecore/layout/Renderings/System/Feeds",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]

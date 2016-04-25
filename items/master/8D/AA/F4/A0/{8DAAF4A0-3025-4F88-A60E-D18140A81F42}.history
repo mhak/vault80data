@@ -5,15 +5,15 @@
     "itemId": "{8DAAF4A0-3025-4F88-A60E-D18140A81F42}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-22T16:09:13.62182Z",
-    "label": "Created",
-    "sourceControlRevisionId": "bedfc5ee8430e638953082bb16ca8372efa55783",
+    "timestamp": "2016-04-22T16:09:13.6218200Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tests",
     "itemPath": "/sitecore/content/Home/Tests",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "bedfc5ee8430e638953082bb16ca8372efa55783"
   },
   {
     "eventType": "Saved",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:09:13.7153154Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "b2b73b36777bdb25cbae34675790f1df6141056f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tests",
     "itemPath": "/sitecore/content/Home/Tests",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "b2b73b36777bdb25cbae34675790f1df6141056f"
   },
   {
     "eventType": "VersionAdded",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-22T16:09:13.7620769Z",
-    "label": "Version 1 Added",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Tests",
     "itemPath": "/sitecore/content/Home/Tests",
     "commandType": "Item",
-    "template": "Folder"
+    "template": "Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8DAAF4A0-3025-4F88-A60E-D18140A81F42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:43.7958760Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tests",
+    "itemPath": "/sitecore/content/Home/Tests",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]

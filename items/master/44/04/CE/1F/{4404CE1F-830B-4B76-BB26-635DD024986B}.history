@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:51.6738797Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Other automation",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Automation Programs/Other automation",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:59.7993885Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Other automation",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Automation Programs/Other automation",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:16.0493661Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Other automation",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Automation Programs/Other automation",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4404CE1F-830B-4B76-BB26-635DD024986B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:23.2336934Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other automation",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Automation Programs/Other automation",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
   }
 ]

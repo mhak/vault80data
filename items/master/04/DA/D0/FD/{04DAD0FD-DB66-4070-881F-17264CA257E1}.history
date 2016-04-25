@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:06:24.1111456Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "cover",
     "itemPath": "/sitecore/media library/Default Website/cover",
     "commandType": "Item",
-    "template": "Jpeg"
+    "template": "Jpeg",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{04DAD0FD-DB66-4070-881F-17264CA257E1}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:23:44.861372Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:23:44.8613720Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "cover",
     "itemPath": "/sitecore/media library/Default Website/cover",
     "commandType": "Item",
-    "template": "Jpeg"
+    "template": "Jpeg",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -37,15 +37,15 @@
     "itemId": "{04DAD0FD-DB66-4070-881F-17264CA257E1}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:39:40.815209Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:39:40.8152090Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "cover",
     "itemPath": "/sitecore/media library/Default Website/cover",
     "commandType": "Item",
-    "template": "Jpeg"
+    "template": "Jpeg",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:51.7838924Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "cover",
     "itemPath": "/sitecore/media library/Default Website/cover",
     "commandType": "Item",
-    "template": "Jpeg"
+    "template": "Jpeg",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04DAD0FD-DB66-4070-881F-17264CA257E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:52.2179386Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "cover",
+    "itemPath": "/sitecore/media library/Default Website/cover",
+    "commandType": "Item",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null
   }
 ]

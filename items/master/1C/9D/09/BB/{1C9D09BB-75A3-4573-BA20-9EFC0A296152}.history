@@ -5,15 +5,15 @@
     "itemId": "{1C9D09BB-75A3-4573-BA20-9EFC0A296152}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:02.986227Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:02.9862270Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageEvents",
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Onsite Behavior/PageEvents",
     "commandType": "Item",
-    "template": "Control"
+    "template": "Control",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:16.5498314Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageEvents",
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Onsite Behavior/PageEvents",
     "commandType": "Item",
-    "template": "Control"
+    "template": "Control",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:35.4089439Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "PageEvents",
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Onsite Behavior/PageEvents",
     "commandType": "Item",
-    "template": "Control"
+    "template": "Control",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C9D09BB-75A3-4573-BA20-9EFC0A296152}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:56.4678958Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "PageEvents",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Onsite Behavior/PageEvents",
+    "commandType": "Item",
+    "template": "Control",
+    "sourceControlRevisionId": null
   }
 ]

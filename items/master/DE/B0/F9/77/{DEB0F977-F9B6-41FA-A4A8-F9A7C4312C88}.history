@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:16.6892163Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Organization Visitors",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visitors",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:37.5338081Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Organization Visitors",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visitors",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:00.0650661Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Organization Visitors",
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visitors",
     "commandType": "Item",
-    "template": "ReportQuery"
+    "template": "ReportQuery",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DEB0F977-F9B6-41FA-A4A8-F9A7C4312C88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:34.4211680Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organization Visitors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visitors",
+    "commandType": "Item",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null
   }
 ]

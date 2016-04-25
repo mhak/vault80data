@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:03:39.1579091Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Default",
     "itemPath": "/sitecore/layout/Devices/Default",
     "commandType": "Item",
-    "template": "Device"
+    "template": "Device",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:21:32.548654Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "93dde0288852385b554c26c74d46be22c1d6020b",
+    "timestamp": "2016-04-19T02:21:32.5486540Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Default",
     "itemPath": "/sitecore/layout/Devices/Default",
     "commandType": "Item",
-    "template": "Device"
+    "template": "Device",
+    "sourceControlRevisionId": "93dde0288852385b554c26c74d46be22c1d6020b"
   },
   {
     "eventType": "Saved",
@@ -37,15 +37,15 @@
     "itemId": "{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:14:17.237093Z",
-    "label": "Saved",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-21T20:14:17.2370930Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Default",
     "itemPath": "/sitecore/layout/Devices/Default",
     "commandType": "Item",
-    "template": "Device"
+    "template": "Device",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -54,14 +54,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:36.2055572Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "d85baa69b5f6045fab0cece3de44026a7469400a",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Default",
     "itemPath": "/sitecore/layout/Devices/Default",
     "commandType": "Item",
-    "template": "Device"
+    "template": "Device",
+    "sourceControlRevisionId": "d85baa69b5f6045fab0cece3de44026a7469400a"
   },
   {
     "eventType": "Published",
@@ -70,14 +70,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T21:14:52.9555489Z",
-    "label": "Published(SingleItem)",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Default",
     "itemPath": "/sitecore/layout/Devices/Default",
     "commandType": "Item",
-    "template": "Device"
+    "template": "Device",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -86,13 +86,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:46.6121854Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Default",
     "itemPath": "/sitecore/layout/Devices/Default",
     "commandType": "Item",
-    "template": "Device"
+    "template": "Device",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:44.7337687Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/layout/Devices/Default",
+    "commandType": "Item",
+    "template": "Device",
+    "sourceControlRevisionId": null
   }
 ]

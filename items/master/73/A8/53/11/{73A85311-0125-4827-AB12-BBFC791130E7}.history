@@ -5,15 +5,15 @@
     "itemId": "{73A85311-0125-4827-AB12-BBFC791130E7}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:14.829987Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:14.8299870Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Stars",
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Stars",
     "commandType": "Item",
-    "template": "Profile Key Control"
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:35.1592161Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Stars",
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Stars",
     "commandType": "Item",
-    "template": "Profile Key Control"
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:57.1587177Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Stars",
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Stars",
     "commandType": "Item",
-    "template": "Profile Key Control"
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73A85311-0125-4827-AB12-BBFC791130E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:30.3741827Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Stars",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Key Controls/Stars",
+    "commandType": "Item",
+    "template": "Profile Key Control",
+    "sourceControlRevisionId": null
   }
 ]

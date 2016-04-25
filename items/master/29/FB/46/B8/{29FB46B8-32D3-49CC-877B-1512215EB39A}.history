@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:30.5174576Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Region",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Region",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:58.8306143Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Region",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Region",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:23.6275748Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Region",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Region",
     "commandType": "Item",
-    "template": "Condition"
+    "template": "Condition",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29FB46B8-32D3-49CC-877B-1512215EB39A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:09.2489621Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Region",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Region",
+    "commandType": "Item",
+    "template": "Condition",
+    "sourceControlRevisionId": null
   }
 ]

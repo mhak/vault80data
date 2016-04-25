@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:52.0804457Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Email purchased list",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Email purchased list",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:00.4246303Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Email purchased list",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Email purchased list",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:16.7526887Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Email purchased list",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Email purchased list",
     "commandType": "Item",
-    "template": "Channel"
+    "template": "Channel",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8D1E13E-F697-417C-A53D-E3C3130A05FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:24.2177003Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Email purchased list",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Email Campaigns/Email purchased list",
+    "commandType": "Item",
+    "template": "Channel",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:23.0485505Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Color Picker",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Color Picker",
     "commandType": "Item",
-    "template": "Search Control Type"
+    "template": "Search Control Type",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:47.8620742Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Color Picker",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Color Picker",
     "commandType": "Item",
-    "template": "Search Control Type"
+    "template": "Search Control Type",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:11.4714477Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Color Picker",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Color Picker",
     "commandType": "Item",
-    "template": "Search Control Type"
+    "template": "Search Control Type",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC4B9F51-63D2-499B-9F13-C261906354C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:51.5927245Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Color Picker",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Color Picker",
+    "commandType": "Item",
+    "template": "Search Control Type",
+    "sourceControlRevisionId": null
   }
 ]

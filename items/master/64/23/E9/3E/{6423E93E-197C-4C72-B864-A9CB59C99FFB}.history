@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:58.6580713Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
     "activeUser": "sitecore\\admin",
     "itemName": "Home Landing Experience",
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/Home Landing",
     "commandType": "Item",
-    "template": "VisitMap"
+    "template": "VisitMap",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{6423E93E-197C-4C72-B864-A9CB59C99FFB}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:40:09.877687Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:40:09.8776870Z",
+    "label": null,
     "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
     "activeUser": "sitecore\\admin",
     "itemName": "Home Landing Experience",
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/Home Landing",
     "commandType": "Item",
-    "template": "VisitMap"
+    "template": "VisitMap",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:27.8776242Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
     "activeUser": "sitecore\\admin",
     "itemName": "Home Landing Experience",
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/Home Landing",
     "commandType": "Item",
-    "template": "VisitMap"
+    "template": "VisitMap",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6423E93E-197C-4C72-B864-A9CB59C99FFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:43.4212125Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Landing Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/Home Landing",
+    "commandType": "Item",
+    "template": "VisitMap",
+    "sourceControlRevisionId": null
   }
 ]

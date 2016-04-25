@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:06:09.1424351Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "No Flash Support",
     "itemPath": "/sitecore/layout/Simulators/iPhone/No Flash Support",
     "commandType": "Item",
-    "template": "No Flash Support Trait"
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:23:32.3612445Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "No Flash Support",
     "itemPath": "/sitecore/layout/Simulators/iPhone/No Flash Support",
     "commandType": "Item",
-    "template": "No Flash Support Trait"
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:40.3462173Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "No Flash Support",
     "itemPath": "/sitecore/layout/Simulators/iPhone/No Flash Support",
     "commandType": "Item",
-    "template": "No Flash Support Trait"
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:51.3306239Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "No Flash Support",
     "itemPath": "/sitecore/layout/Simulators/iPhone/No Flash Support",
     "commandType": "Item",
-    "template": "No Flash Support Trait"
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09726803-2905-4F21-AC8A-5D95F904DBC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:51.5771552Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Flash Support",
+    "itemPath": "/sitecore/layout/Simulators/iPhone/No Flash Support",
+    "commandType": "Item",
+    "template": "No Flash Support Trait",
+    "sourceControlRevisionId": null
   }
 ]

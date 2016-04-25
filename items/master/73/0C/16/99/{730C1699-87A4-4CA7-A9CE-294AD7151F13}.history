@@ -5,15 +5,15 @@
     "itemId": "{730C1699-87A4-4CA7-A9CE-294AD7151F13}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:06:19.454777Z",
-    "label": "Snapshot - Base snapshot",
-    "sourceControlRevisionId": "",
+    "timestamp": "2016-04-19T02:06:19.4547770Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Files",
     "itemPath": "/sitecore/media library/Files",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": ""
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:23:40.5800309Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Files",
     "itemPath": "/sitecore/media library/Files",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -38,14 +38,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:40.6743151Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Files",
     "itemPath": "/sitecore/media library/Files",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -54,13 +54,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:54:51.6277907Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Files",
     "itemPath": "/sitecore/media library/Files",
     "commandType": "Item",
-    "template": "Media folder"
+    "template": "Media folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{730C1699-87A4-4CA7-A9CE-294AD7151F13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:08:52.0148030Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Files",
+    "itemPath": "/sitecore/media library/Files",
+    "commandType": "Item",
+    "template": "Media folder",
+    "sourceControlRevisionId": null
   }
 ]

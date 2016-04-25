@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:24:51.0488131Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Digital Events",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital Events",
     "commandType": "Item",
-    "template": "Channel Group"
+    "template": "Channel Group",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:39:58.8463479Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Digital Events",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital Events",
     "commandType": "Item",
-    "template": "Channel Group"
+    "template": "Channel Group",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:55:15.0025199Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Digital Events",
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital Events",
     "commandType": "Item",
-    "template": "Channel Group"
+    "template": "Channel Group",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5C434D2-3F1F-4977-96C0-3423CBBDE79F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:09:21.7959604Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Digital Events",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Digital Events",
+    "commandType": "Item",
+    "template": "Channel Group",
+    "sourceControlRevisionId": null
   }
 ]

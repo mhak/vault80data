@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:32.7985386Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Remove rule element from rendering",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Remove rule element from rendering",
     "commandType": "Item",
-    "template": "Action"
+    "template": "Action",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{EDDE9129-8CF8-4630-A625-56BA8E38489E}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:41:02.658762Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:41:02.6587620Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Remove rule element from rendering",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Remove rule element from rendering",
     "commandType": "Item",
-    "template": "Action"
+    "template": "Action",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:27.4243559Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Remove rule element from rendering",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Remove rule element from rendering",
     "commandType": "Item",
-    "template": "Action"
+    "template": "Action",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EDDE9129-8CF8-4630-A625-56BA8E38489E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:14.8898888Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove rule element from rendering",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Remove rule element from rendering",
+    "commandType": "Item",
+    "template": "Action",
+    "sourceControlRevisionId": null
   }
 ]

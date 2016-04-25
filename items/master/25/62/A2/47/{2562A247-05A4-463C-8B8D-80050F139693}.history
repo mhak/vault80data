@@ -5,15 +5,15 @@
     "itemId": "{2562A247-05A4-463C-8B8D-80050F139693}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:25:26.3454Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:25:26.3454000Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segment Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder",
     "commandType": "Item",
-    "template": "Element Folder"
+    "template": "Element Folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:53.0650421Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segment Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder",
     "commandType": "Item",
-    "template": "Element Folder"
+    "template": "Element Folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:17.1901611Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Segment Builder",
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder",
     "commandType": "Item",
-    "template": "Element Folder"
+    "template": "Element Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2562A247-05A4-463C-8B8D-80050F139693}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:59.8588382Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Segment Builder",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder",
+    "commandType": "Item",
+    "template": "Element Folder",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:22.8141654Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Recently Modified",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recent Items",
     "commandType": "Item",
-    "template": "Dropdown List"
+    "template": "Dropdown List",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:40:47.4877299Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Recently Modified",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recent Items",
     "commandType": "Item",
-    "template": "Dropdown List"
+    "template": "Dropdown List",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:11.0654455Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Recently Modified",
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recent Items",
     "commandType": "Item",
-    "template": "Dropdown List"
+    "template": "Dropdown List",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{795842D3-3D69-49C3-8A42-B261868FA58F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:10:51.0147840Z",
+    "label": "Snapshot - MAGNUS",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Recently Modified",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recent Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
+    "sourceControlRevisionId": null
   }
 ]
