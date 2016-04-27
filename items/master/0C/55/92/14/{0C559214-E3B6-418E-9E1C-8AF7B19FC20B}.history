@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:57.7674196Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "$name",
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tag/$name",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:39.7838335Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "$name",
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tag/$name",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:09.6274597Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "$name",
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tag/$name",
     "commandType": "Item",
-    "template": "Tag"
+    "template": "Tag",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C559214-E3B6-418E-9E1C-8AF7B19FC20B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:14.9208768Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tag/$name",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C559214-E3B6-418E-9E1C-8AF7B19FC20B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:25.4332490Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tag/$name",
+    "commandType": "Item",
+    "template": "Tag",
+    "sourceControlRevisionId": null
   }
 ]

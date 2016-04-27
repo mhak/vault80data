@@ -5,15 +5,15 @@
     "itemId": "{7DA84762-F9A9-4404-A9CB-224BF0098546}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:36.142303Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:36.1423030Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Provider/Data",
     "commandType": "Item",
-    "template": "Template section"
+    "template": "Template section",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:42:33.1907961Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Provider/Data",
     "commandType": "Item",
-    "template": "Template section"
+    "template": "Template section",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:58:08.7211953Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Provider/Data",
     "commandType": "Item",
-    "template": "Template section"
+    "template": "Template section",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DA84762-F9A9-4404-A9CB-224BF0098546}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:13:38.9209047Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Provider/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7DA84762-F9A9-4404-A9CB-224BF0098546}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:36:07.9798447Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Map Provider/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
   }
 ]

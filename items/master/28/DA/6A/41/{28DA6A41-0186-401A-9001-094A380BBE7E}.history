@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:26:09.4079711Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/__Standard Values",
     "commandType": "Item",
-    "template": "Session End Rule"
+    "template": "Session End Rule",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:56.3621592Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/__Standard Values",
     "commandType": "Item",
-    "template": "Session End Rule"
+    "template": "Session End Rule",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:28.5963149Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/__Standard Values",
     "commandType": "Item",
-    "template": "Session End Rule"
+    "template": "Session End Rule",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28DA6A41-0186-401A-9001-094A380BBE7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:41.7961221Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/__Standard Values",
+    "commandType": "Item",
+    "template": "Session End Rule",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28DA6A41-0186-401A-9001-094A380BBE7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:57.7611538Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/__Standard Values",
+    "commandType": "Item",
+    "template": "Session End Rule",
+    "sourceControlRevisionId": null
   }
 ]

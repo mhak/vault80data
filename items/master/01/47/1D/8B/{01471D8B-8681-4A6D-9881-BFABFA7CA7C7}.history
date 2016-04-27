@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:26:54.1115138Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Container Posting Configuration",
     "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration",
     "commandType": "Item",
-    "template": "Template"
+    "template": "Template",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{01471D8B-8681-4A6D-9881-BFABFA7CA7C7}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:42:58.002423Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:42:58.0024230Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Container Posting Configuration",
     "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration",
     "commandType": "Item",
-    "template": "Template"
+    "template": "Template",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:58:36.0961919Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Container Posting Configuration",
     "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration",
     "commandType": "Item",
-    "template": "Template"
+    "template": "Template",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01471D8B-8681-4A6D-9881-BFABFA7CA7C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:14:16.1865980Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Container Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01471D8B-8681-4A6D-9881-BFABFA7CA7C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:36:56.2924861Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Container Posting Configuration",
+    "itemPath": "/sitecore/templates/System/Social/Posting Configuration/Container Posting Configuration",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
   }
 ]

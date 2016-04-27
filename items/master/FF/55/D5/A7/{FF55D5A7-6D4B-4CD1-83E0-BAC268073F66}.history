@@ -5,15 +5,15 @@
     "itemId": "{FF55D5A7-6D4B-4CD1-83E0-BAC268073F66}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:46.830501Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:46.8305010Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Type",
     "itemPath": "/sitecore/templates/System/Rules/Action/Script/Type",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{FF55D5A7-6D4B-4CD1-83E0-BAC268073F66}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:42:48.252424Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:42:48.2524240Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Type",
     "itemPath": "/sitecore/templates/System/Rules/Action/Script/Type",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:58:24.4407508Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Type",
     "itemPath": "/sitecore/templates/System/Rules/Action/Script/Type",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF55D5A7-6D4B-4CD1-83E0-BAC268073F66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:14:01.3584883Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/System/Rules/Action/Script/Type",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF55D5A7-6D4B-4CD1-83E0-BAC268073F66}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:36:35.8397001Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/System/Rules/Action/Script/Type",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

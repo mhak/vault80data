@@ -5,15 +5,15 @@
     "itemId": "{870A6B2A-4CAC-490B-8791-195B1FC464E5}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:03.377154Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:03.3771540Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Description",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition/General/Description",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:47.6430527Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Description",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition/General/Description",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:19.0963151Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Description",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition/General/Description",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{870A6B2A-4CAC-490B-8791-195B1FC464E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:27.9052871Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition/General/Description",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{870A6B2A-4CAC-490B-8791-195B1FC464E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:40.9649839Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Base/Taxon Definition/General/Description",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

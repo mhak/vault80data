@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:49.7985713Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rich Text",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Rich Text",
     "commandType": "Item",
-    "template": "Field Type Validation Rules"
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:29.1899918Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rich Text",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Rich Text",
     "commandType": "Item",
-    "template": "Field Type Validation Rules"
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:57.2059092Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Rich Text",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Rich Text",
     "commandType": "Item",
-    "template": "Field Type Validation Rules"
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E07B7B4F-989F-4AF0-A577-B41D94BA183A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:57.6083362Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rich Text",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Rich Text",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E07B7B4F-989F-4AF0-A577-B41D94BA183A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:04.6361354Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rich Text",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Rich Text",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null
   }
 ]

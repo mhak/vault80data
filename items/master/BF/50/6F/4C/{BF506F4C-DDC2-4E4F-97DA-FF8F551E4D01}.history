@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:26:11.2203914Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/__Standard Values",
     "commandType": "Item",
-    "template": "Rebuild Index Command"
+    "template": "Rebuild Index Command",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:59.0024669Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/__Standard Values",
     "commandType": "Item",
-    "template": "Rebuild Index Command"
+    "template": "Rebuild Index Command",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:31.4712775Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/__Standard Values",
     "commandType": "Item",
-    "template": "Rebuild Index Command"
+    "template": "Rebuild Index Command",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF506F4C-DDC2-4E4F-97DA-FF8F551E4D01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:45.9365447Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/__Standard Values",
+    "commandType": "Item",
+    "template": "Rebuild Index Command",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF506F4C-DDC2-4E4F-97DA-FF8F551E4D01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:35:02.9329449Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/__Standard Values",
+    "commandType": "Item",
+    "template": "Rebuild Index Command",
+    "sourceControlRevisionId": null
   }
 ]

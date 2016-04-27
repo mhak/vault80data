@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:27:01.4860142Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Validation Rules",
     "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules",
     "commandType": "Item",
-    "template": "Template section"
+    "template": "Template section",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:43:07.3153625Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Validation Rules",
     "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules",
     "commandType": "Item",
-    "template": "Template section"
+    "template": "Template section",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:58:46.5808093Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Validation Rules",
     "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules",
     "commandType": "Item",
-    "template": "Template section"
+    "template": "Template section",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7AB9BFD-1600-4F7C-82DF-2D75D5317128}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:14:30.2490327Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Rules",
+    "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7AB9BFD-1600-4F7C-82DF-2D75D5317128}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:37:14.4800278Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Rules",
+    "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
   }
 ]

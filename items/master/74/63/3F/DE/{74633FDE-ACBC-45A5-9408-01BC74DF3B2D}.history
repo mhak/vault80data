@@ -5,15 +5,15 @@
     "itemId": "{74633FDE-ACBC-45A5-9408-01BC74DF3B2D}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:36.7674Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:36.7674000Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Consumed Assets",
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Onsite Behaviour/Consumed Assets",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:42:34.1743124Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Consumed Assets",
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Onsite Behaviour/Consumed Assets",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:58:09.7524934Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Consumed Assets",
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Onsite Behaviour/Consumed Assets",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74633FDE-ACBC-45A5-9408-01BC74DF3B2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:13:40.4520979Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Consumed Assets",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Onsite Behaviour/Consumed Assets",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74633FDE-ACBC-45A5-9408-01BC74DF3B2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:36:09.6205787Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Consumed Assets",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Onsite Behaviour/Consumed Assets",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

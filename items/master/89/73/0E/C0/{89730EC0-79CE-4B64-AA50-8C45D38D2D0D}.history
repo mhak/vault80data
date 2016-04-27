@@ -5,15 +5,15 @@
     "itemId": "{89730EC0-79CE-4B64-AA50-8C45D38D2D0D}",
     "version": 2,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:41.814473Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:41.8144730Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Access Key",
     "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/Access Key",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 2,
     "language": "en",
     "timestamp": "2016-04-21T20:42:41.7680792Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Access Key",
     "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/Access Key",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 2,
     "language": "en",
     "timestamp": "2016-04-21T23:58:17.3618066Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Access Key",
     "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/Access Key",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89730EC0-79CE-4B64-AA50-8C45D38D2D0D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-25T23:13:51.5458850Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Access Key",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/Access Key",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89730EC0-79CE-4B64-AA50-8C45D38D2D0D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-27T00:36:23.4642174Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Access Key",
+    "itemPath": "/sitecore/templates/System/Ribbon/Chunk/Data/Access Key",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

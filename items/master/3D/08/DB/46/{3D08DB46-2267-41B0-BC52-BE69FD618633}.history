@@ -5,15 +5,15 @@
     "itemId": "{3D08DB46-2267-41B0-BC52-BE69FD618633}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:29.548554Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:29.5485540Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Cacheable",
     "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/Cacheable",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{3D08DB46-2267-41B0-BC52-BE69FD618633}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:42:24.205712Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:42:24.2057120Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Cacheable",
     "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/Cacheable",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:58.4868172Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Cacheable",
     "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/Cacheable",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D08DB46-2267-41B0-BC52-BE69FD618633}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:13:24.9142036Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cacheable",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/Cacheable",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D08DB46-2267-41B0-BC52-BE69FD618633}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:35:50.4957564Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cacheable",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/Cacheable",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

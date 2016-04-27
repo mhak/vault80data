@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:26:10.5487325Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Definition/Data",
     "commandType": "Item",
-    "template": "Template section"
+    "template": "Template section",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{3D156EFC-265D-420E-823B-A26658E8CFAE}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:41:57.955721Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:41:57.9557210Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Definition/Data",
     "commandType": "Item",
-    "template": "Template section"
+    "template": "Template section",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:30.3649325Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Data",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Definition/Data",
     "commandType": "Item",
-    "template": "Template section"
+    "template": "Template section",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D156EFC-265D-420E-823B-A26658E8CFAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:44.3430056Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Definition/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D156EFC-265D-420E-823B-A26658E8CFAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:35:00.9485692Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Definition/Data",
+    "commandType": "Item",
+    "template": "Template section",
+    "sourceControlRevisionId": null
   }
 ]

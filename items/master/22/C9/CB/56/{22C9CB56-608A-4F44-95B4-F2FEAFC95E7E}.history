@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:49.8330648Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "TreeList",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeList",
     "commandType": "Item",
-    "template": "Field Type Validation Rules"
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{22C9CB56-608A-4F44-95B4-F2FEAFC95E7E}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:41:29.236812Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:41:29.2368120Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "TreeList",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeList",
     "commandType": "Item",
-    "template": "Field Type Validation Rules"
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:56:57.2524332Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "TreeList",
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeList",
     "commandType": "Item",
-    "template": "Field Type Validation Rules"
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22C9CB56-608A-4F44-95B4-F2FEAFC95E7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:11:57.6710121Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TreeList",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeList",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22C9CB56-608A-4F44-95B4-F2FEAFC95E7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:04.7454658Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TreeList",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeList",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:26:01.9704012Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset Taxonomy/__Standard Values",
     "commandType": "Item",
-    "template": "Asset Taxonomy"
+    "template": "Asset Taxonomy",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{C45070DA-6C67-4BAA-A9FD-C5503F002DCB}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:41:45.846209Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:41:45.8462090Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset Taxonomy/__Standard Values",
     "commandType": "Item",
-    "template": "Asset Taxonomy"
+    "template": "Asset Taxonomy",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:16.8774392Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset Taxonomy/__Standard Values",
     "commandType": "Item",
-    "template": "Asset Taxonomy"
+    "template": "Asset Taxonomy",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C45070DA-6C67-4BAA-A9FD-C5503F002DCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:24.8895829Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset Taxonomy/__Standard Values",
+    "commandType": "Item",
+    "template": "Asset Taxonomy",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C45070DA-6C67-4BAA-A9FD-C5503F002DCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:37.2772068Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Asset/Asset Taxonomy/__Standard Values",
+    "commandType": "Item",
+    "template": "Asset Taxonomy",
+    "sourceControlRevisionId": null
   }
 ]

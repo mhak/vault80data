@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:26:16.6582104Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Setting group",
     "itemPath": "/sitecore/templates/System/Html editor/Setting group",
     "commandType": "Item",
-    "template": "Template"
+    "template": "Template",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:42:06.2055438Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Setting group",
     "itemPath": "/sitecore/templates/System/Html editor/Setting group",
     "commandType": "Item",
-    "template": "Template"
+    "template": "Template",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:39.3774441Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Setting group",
     "itemPath": "/sitecore/templates/System/Html editor/Setting group",
     "commandType": "Item",
-    "template": "Template"
+    "template": "Template",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2A1FF6C-6B1F-41EF-B2E1-AA598CF7335F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:57.2022810Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Setting group",
+    "itemPath": "/sitecore/templates/System/Html editor/Setting group",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2A1FF6C-6B1F-41EF-B2E1-AA598CF7335F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:35:17.2457827Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Setting group",
+    "itemPath": "/sitecore/templates/System/Html editor/Setting group",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:53.1267867Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__OnSave",
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave",
     "commandType": "Item",
-    "template": "Command"
+    "template": "Command",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:33.6743218Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__OnSave",
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave",
     "commandType": "Item",
-    "template": "Command"
+    "template": "Command",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:02.6118532Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__OnSave",
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave",
     "commandType": "Item",
-    "template": "Command"
+    "template": "Command",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62B79128-155C-4210-A4D2-EEC62BB51603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:05.0770944Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__OnSave",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62B79128-155C-4210-A4D2-EEC62BB51603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:13.3860790Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__OnSave",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave",
+    "commandType": "Item",
+    "template": "Command",
+    "sourceControlRevisionId": null
   }
 ]

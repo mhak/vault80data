@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:25:53.1735522Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Auto Submit Action",
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave/Auto Submit Action",
     "commandType": "Item",
-    "template": "Auto Submit Action"
+    "template": "Auto Submit Action",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:33.7212632Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Auto Submit Action",
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave/Auto Submit Action",
     "commandType": "Item",
-    "template": "Auto Submit Action"
+    "template": "Auto Submit Action",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:02.6800429Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Auto Submit Action",
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave/Auto Submit Action",
     "commandType": "Item",
-    "template": "Auto Submit Action"
+    "template": "Auto Submit Action",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1FB1A877-17A5-4A92-9ACB-82E8A9AD752A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:05.1396943Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Submit Action",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave/Auto Submit Action",
+    "commandType": "Item",
+    "template": "Auto Submit Action",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1FB1A877-17A5-4A92-9ACB-82E8A9AD752A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:13.4799074Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Submit Action",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave/Auto Submit Action",
+    "commandType": "Item",
+    "template": "Auto Submit Action",
+    "sourceControlRevisionId": null
   }
 ]

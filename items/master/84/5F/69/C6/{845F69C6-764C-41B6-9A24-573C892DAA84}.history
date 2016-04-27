@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:26:10.8922754Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Page Level Test Value/__Standard Values",
     "commandType": "Item",
-    "template": "Page Level Test Value"
+    "template": "Page Level Test Value",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -21,15 +21,15 @@
     "itemId": "{845F69C6-764C-41B6-9A24-573C892DAA84}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-21T20:41:58.502807Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "timestamp": "2016-04-21T20:41:58.5028070Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Page Level Test Value/__Standard Values",
     "commandType": "Item",
-    "template": "Page Level Test Value"
+    "template": "Page Level Test Value",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:30.9564143Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Page Level Test Value/__Standard Values",
     "commandType": "Item",
-    "template": "Page Level Test Value"
+    "template": "Page Level Test Value",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{845F69C6-764C-41B6-9A24-573C892DAA84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:45.1865332Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Page Level Test Value/__Standard Values",
+    "commandType": "Item",
+    "template": "Page Level Test Value",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{845F69C6-764C-41B6-9A24-573C892DAA84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:35:01.9646372Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Page Level Test Value/__Standard Values",
+    "commandType": "Item",
+    "template": "Page Level Test Value",
+    "sourceControlRevisionId": null
   }
 ]

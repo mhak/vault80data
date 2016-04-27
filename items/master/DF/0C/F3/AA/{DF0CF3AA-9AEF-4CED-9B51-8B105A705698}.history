@@ -5,15 +5,15 @@
     "itemId": "{DF0CF3AA-9AEF-4CED-9B51-8B105A705698}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:13.330143Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:13.3301430Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Create Suggested Tests If No Wizard",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Launch Create Test Dialog Action/Settings/Create Suggested Tests If No Wizard",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:42:01.3930495Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Create Suggested Tests If No Wizard",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Launch Create Test Dialog Action/Settings/Create Suggested Tests If No Wizard",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:34.1454046Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Create Suggested Tests If No Wizard",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Launch Create Test Dialog Action/Settings/Create Suggested Tests If No Wizard",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF0CF3AA-9AEF-4CED-9B51-8B105A705698}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:49.7802416Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Create Suggested Tests If No Wizard",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Launch Create Test Dialog Action/Settings/Create Suggested Tests If No Wizard",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF0CF3AA-9AEF-4CED-9B51-8B105A705698}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:35:08.1361059Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Create Suggested Tests If No Wizard",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Launch Create Test Dialog Action/Settings/Create Suggested Tests If No Wizard",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

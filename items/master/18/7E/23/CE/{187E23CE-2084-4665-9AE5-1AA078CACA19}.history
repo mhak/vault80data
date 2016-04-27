@@ -5,15 +5,15 @@
     "itemId": "{187E23CE-2084-4665-9AE5-1AA078CACA19}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:01.377075Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:01.3770750Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Channel",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel",
     "commandType": "Item",
-    "template": "Template Folder"
+    "template": "Template Folder",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:44.9557308Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Channel",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel",
     "commandType": "Item",
-    "template": "Template Folder"
+    "template": "Template Folder",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:15.8618814Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Channel",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel",
     "commandType": "Item",
-    "template": "Template Folder"
+    "template": "Template Folder",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{187E23CE-2084-4665-9AE5-1AA078CACA19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:23.5157390Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Channel",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{187E23CE-2084-4665-9AE5-1AA078CACA19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:35.6673768Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Channel",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel",
+    "commandType": "Item",
+    "template": "Template Folder",
+    "sourceControlRevisionId": null
   }
 ]

@@ -5,15 +5,15 @@
     "itemId": "{94CAC870-4996-49E3-8890-62DBA37CFD77}",
     "version": 2,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:44.876648Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:44.8766480Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ID",
     "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data/ID",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 2,
     "language": "en",
     "timestamp": "2016-04-21T20:42:45.5807923Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ID",
     "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data/ID",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 2,
     "language": "en",
     "timestamp": "2016-04-21T23:58:21.4558996Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "ID",
     "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data/ID",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94CAC870-4996-49E3-8890-62DBA37CFD77}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-25T23:13:57.2802367Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data/ID",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94CAC870-4996-49E3-8890-62DBA37CFD77}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-27T00:36:30.6360641Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data/ID",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:26:02.1423555Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom Group/__Standard Values",
     "commandType": "Item",
-    "template": "Custom Group"
+    "template": "Custom Group",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:41:46.1278529Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom Group/__Standard Values",
     "commandType": "Item",
-    "template": "Custom Group"
+    "template": "Custom Group",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:17.2057293Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "__Standard Values",
     "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom Group/__Standard Values",
     "commandType": "Item",
-    "template": "Custom Group"
+    "template": "Custom Group",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B3AAC56-399A-44E7-9080-9EB5F89AE2F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:25.3429860Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom Group/__Standard Values",
+    "commandType": "Item",
+    "template": "Custom Group",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B3AAC56-399A-44E7-9080-9EB5F89AE2F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:34:37.7766887Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Custom/Custom Group/__Standard Values",
+    "commandType": "Item",
+    "template": "Custom Group",
+    "sourceControlRevisionId": null
   }
 ]

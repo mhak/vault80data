@@ -6,14 +6,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T02:26:12.4726424Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Content Testing Prediction Accounts",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Value/Data/Content Testing Prediction Accounts",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:42:00.1902248Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Content Testing Prediction Accounts",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Value/Data/Content Testing Prediction Accounts",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:57:32.8308065Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Content Testing Prediction Accounts",
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Value/Data/Content Testing Prediction Accounts",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5A401FB-39DF-42FB-A5AA-1E2219F78B67}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:12:47.9055201Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Testing Prediction Accounts",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Value/Data/Content Testing Prediction Accounts",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5A401FB-39DF-42FB-A5AA-1E2219F78B67}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:35:05.4502880Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Testing Prediction Accounts",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Value/Data/Content Testing Prediction Accounts",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]

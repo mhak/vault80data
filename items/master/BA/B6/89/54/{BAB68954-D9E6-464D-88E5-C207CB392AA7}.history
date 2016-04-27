@@ -5,15 +5,15 @@
     "itemId": "{BAB68954-D9E6-464D-88E5-C207CB392AA7}",
     "version": 1,
     "language": "en",
-    "timestamp": "2016-04-19T02:26:35.829849Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "timestamp": "2016-04-19T02:26:35.8298490Z",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Preset Persona",
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona",
     "commandType": "Item",
-    "template": "Template"
+    "template": "Template",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T20:42:32.6903375Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Preset Persona",
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona",
     "commandType": "Item",
-    "template": "Template"
+    "template": "Template",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-21T23:58:08.2389449Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Preset Persona",
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona",
     "commandType": "Item",
-    "template": "Template"
+    "template": "Template",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAB68954-D9E6-464D-88E5-C207CB392AA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-25T23:13:38.2647940Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset Persona",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAB68954-D9E6-464D-88E5-C207CB392AA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-04-27T00:36:07.1829962Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Preset Persona",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset Persona",
+    "commandType": "Item",
+    "template": "Template",
+    "sourceControlRevisionId": null
   }
 ]

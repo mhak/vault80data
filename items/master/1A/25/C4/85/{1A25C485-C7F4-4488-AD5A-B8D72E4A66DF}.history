@@ -6,14 +6,14 @@
     "version": 2,
     "language": "en",
     "timestamp": "2016-04-19T02:26:32.2985544Z",
-    "label": "Snapshot - Baseline",
-    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Model",
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Model",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "29e6673b1f09c37303105de657496e3de792912f"
   },
   {
     "eventType": "Snapshot",
@@ -22,14 +22,14 @@
     "version": 2,
     "language": "en",
     "timestamp": "2016-04-21T20:42:27.8620127Z",
-    "label": "Snapshot - JULIA",
-    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e",
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Model",
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Model",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "19bcd1905414a5b5f1b87b1b8c1c4dbcf762c46e"
   },
   {
     "eventType": "Snapshot",
@@ -38,13 +38,45 @@
     "version": 2,
     "language": "en",
     "timestamp": "2016-04-21T23:58:02.7848987Z",
-    "label": "Snapshot - MARTIN",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "Model",
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Model",
     "commandType": "Item",
-    "template": "Template field"
+    "template": "Template field",
+    "sourceControlRevisionId": "06466e8e9fffa6448c60482622751b5ae680991c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A25C485-C7F4-4488-AD5A-B8D72E4A66DF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-25T23:13:30.7823078Z",
+    "label": null,
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Model",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Model",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": "df2f1760a219688d720c0826832f69d846f232c9"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A25C485-C7F4-4488-AD5A-B8D72E4A66DF}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-04-27T00:35:57.5580151Z",
+    "label": "Snapshot - VASA",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Model",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Model",
+    "commandType": "Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null
   }
 ]
