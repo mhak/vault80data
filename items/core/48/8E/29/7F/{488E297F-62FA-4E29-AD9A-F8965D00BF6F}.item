@@ -48,11 +48,15 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 7999
+content-length: 8854
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
     <r id="{DAFAFFB8-74AF-4141-A96A-70B16834CEC6}" par="PageCodeScriptFileName=%2fsitecore%2fshell%2fclient%2fApplications%2fVault%2fCommon%2fScripts%2fXSpeakControllerRollback.js" ph="Page.Code" uid="{237256AA-9D30-463E-9ED1-90CFF092FCF6}" />
+    <r id="{B60FB581-44D1-4372-86A2-D6E494F020E1}" par="HeaderText=Are+you+sure%3f&amp;Id=dwConfirmRollbackAll&amp;Size=%7bC2E3A7F7-BD13-4312-A6A7-C03E08951DCC%7d&amp;IsAnimated=0" ph="Page.Body" uid="{FFF41FE5-DE2C-4C3A-9EA1-3859A07FB0D5}" />
+    <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblAreYouSure&amp;Text=Are+you+sure+you+wish+to+rollback+all+items%3f" ph="dwConfirmRollbackAll.Content" uid="{CFA36477-DBBB-4292-8F7F-3832F26B3F41}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processRollbackAllItems()&amp;Id=btnYes&amp;Text=Yes" ph="dwConfirmRollbackAll.Buttons" uid="{01C4C77A-94DF-42E2-A2BE-240AD4921349}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=hide%3adwConfirmRollbackAll&amp;Id=btnNo&amp;Text=No" ph="dwConfirmRollbackAll.Buttons" uid="{F11D858A-B959-4B42-86B1-9CC1E60D0783}" />
     <r id="{BE007891-2D9C-4E67-943C-752DBA0C041F}" ph="Page.Body" uid="{F373AD1A-6282-4295-96D7-3E29D6EE88B3}" />
     <r id="{7A69C522-7E99-4630-A25A-5D571505862A}" par="Id=GlobalLogo" ph="GlobalHeader.StartButton" uid="{A340B9F2-9FD0-4767-9B0B-62D7C8B0E5C7}" />
     <r id="{EA28ED83-0F59-4BB9-AA95-6FAC9C3385D6}" par="Id=NavigationToggler" ph="GlobalHeader.NavigationToggler" uid="{0330E088-D1C0-4394-8F5B-5F2E0F577D5E}" />
@@ -84,11 +88,11 @@ content-length: 7999
     <r id="{5DA9D7E0-3D7E-40EC-A1B9-DFBACB764646}" par="Id=DeployedList&amp;VerificationLevelToDisplay=DEPLOYED" ph="DeployedItemsAccordian.Body" uid="{465C8E72-D7E4-481F-B584-DFB82C686A77}" />
     <r ds="{8AA7E454-9E01-47E4-B103-1573CC83AE3E}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=ErrorAccordian&amp;IsCollapsible=1&amp;IsOpen=0" ph="RowPanel1.Content" uid="{5D1D3331-100E-4B0C-B14C-5E5B903D9CE0}" />
     <r id="{E6EEB869-EB0D-4D5D-9730-E2E5E2DDB7CF}" par="Id=ErrorList&amp;VerificationLevelToDisplay=ERROR" ph="ErrorAccordian.Body" uid="{9A17AB6A-1DFC-4C6D-99C0-0BCC09B93972}" />
-    <r ds="{4878FF14-2A6D-473E-A617-1197031946A9}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=SevereAccordian&amp;IsCollapsible=1&amp;IsOpen=0" ph="RowPanel1.Content" uid="{5D1D3331-100E-4B0C-B14C-5E5B903D9CE0}" />
+    <r ds="{75E6A3D7-AB52-462A-A11F-5B90CC3C2CFC}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=SevereAccordian&amp;IsCollapsible=1&amp;IsOpen=0" ph="RowPanel1.Content" uid="{5D1D3331-100E-4B0C-B14C-5E5B903D9CE0}" />
     <r id="{5DA9D7E0-3D7E-40EC-A1B9-DFBACB764646}" par="Id=SevereList&amp;VerificationLevelToDisplay=SEVERE" ph="SevereAccordian.Body" uid="{E410A225-8D4A-4A6A-81F0-1A1CD9B14162}" />
     <r ds="{A1424C42-3CB6-455D-A896-F8DF2A4BD5CE}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=WarningAccordian&amp;IsCollapsible=1&amp;IsOpen=0" ph="RowPanel1.Content" uid="{5D1D3331-100E-4B0C-B14C-5E5B903D9CE0}" />
     <r id="{5DA9D7E0-3D7E-40EC-A1B9-DFBACB764646}" par="Id=WarningList&amp;VerificationLevelToDisplay=WARNING" ph="WarningAccordian.Body" uid="{1DE98BCC-D2FB-47EE-8F1A-469BCA21DF05}" />
-    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processRollbackAllItems()%3b&amp;Id=RollbackAllButton&amp;ButtonType=Primary&amp;Text=Rollback+All+Items" ph="RowPanel1.Content" uid="{8A6C606B-7494-45C3-A23F-062146B951C2}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=show%3adwConfirmRollbackAll&amp;Id=RollbackAllButton&amp;ButtonType=Primary&amp;Text=Rollback+All+Items" ph="RowPanel1.Content" uid="{8A6C606B-7494-45C3-A23F-062146B951C2}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.processRollbackSelectedItems()%3b&amp;Id=RollbackSelectedButton&amp;ButtonType=Primary&amp;Text=Rollback+Selected+Items" ph="RowPanel1.Content" uid="{8A6C606B-7494-45C3-A23F-062146B951C2}" />
     <r ds="{0E016F34-96EE-4EED-B3D4-AD0F535A0EAB}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=RollbackCompleteAccordian&amp;IsCollapsible=1&amp;IsOpen=0" ph="RowPanel1.Content" uid="{5D1D3331-100E-4B0C-B14C-5E5B903D9CE0}" />
     <r id="{E6EEB869-EB0D-4D5D-9730-E2E5E2DDB7CF}" par="Id=RollbackList&amp;VerificationLevelToDisplay=DEPLOYED" ph="RollbackCompleteAccordian.Body" uid="{9A17AB6A-1DFC-4C6D-99C0-0BCC09B93972}" />
@@ -98,7 +102,7 @@ content-length: 7999
 ----version----
 language: en
 version: 1
-revision: 086c3737-7416-47b4-8f25-48b9ae9d180f
+revision: 833cd353-e7c4-4c7e-a680-73558b230a65
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -120,14 +124,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-086c3737-7416-47b4-8f25-48b9ae9d180f
+833cd353-e7c4-4c7e-a680-73558b230a65
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160407T004052Z
+20160414T172904Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
