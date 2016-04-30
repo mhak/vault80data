@@ -10,6 +10,13 @@ template: {F62B4CD7-754C-4461-810F-2B6BD2C92A0D}
 templatekey: Tab
 
 ----field----
+field: {C8503EF2-0FD2-43C2-BE3E-C08CBA915CC9}
+name: IsHidden
+key: ishidden
+content-length: 1
+
+1
+----field----
 field: {DEAB3795-056F-4421-ADF0-758844461B72}
 name: Placeholder Name
 key: placeholder name
@@ -27,17 +34,17 @@ content-length: 3
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 3466
+content-length: 3479
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-    <r ds="{7960C4FF-5B9E-4FC9-8576-3E6B1E39DA82}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=SelectedItemsExpander&amp;ContentHeight=700px&amp;IsCollapsible=0" uid="{AE354A8C-58FB-46B3-85BB-8B05FD95492B}" />
+    <r ds="{7960C4FF-5B9E-4FC9-8576-3E6B1E39DA82}" id="{442BD093-FBAD-4E36-BC08-489E16C82D08}" par="Id=SelectedItemsExpander&amp;ContentHeight=700px&amp;IsCollapsible=0&amp;IsOpen=1" uid="{AE354A8C-58FB-46B3-85BB-8B05FD95492B}" />
     <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=AddItems&amp;PaddingType=Bottom" ph="SelectedItemsExpander.ActionBar" uid="{A8101495-2104-4C15-A8D2-31FA99B942FE}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.rulesWindow()&amp;Id=BuildRulesButton&amp;ButtonType=Default&amp;Text=Set+Item+Filters&amp;Dimension=Normal" ph="AddItems.Content" uid="{395A7450-586D-414C-85E9-69F2344D2E31}" />
     <r id="{1169C5EF-E49C-4B59-848D-9C9204E40D12}" par="UseBundle=0&amp;RuleItemId=%7b9073E0CE-F9C3-4183-BE9C-35D827F2A80C%7d&amp;Id=BuildRulesButtonRule&amp;LoadMode=Immediately&amp;TargetControl=DCTRulesList&amp;Trigger=change%3aruleXml&amp;Field=Rule" ph="SelectedItemsExpander.Body" uid="{FCC81CAD-5BEF-4829-A198-117A385B4AB1}" />
     <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanelFacets&amp;ApplyGridColumsToAllSizes=1&amp;GridColumns=4&amp;ContentAlign=Left" ph="SelectedItemsExpander.Body" uid="{6044C6D9-D5D3-4CB4-8B2A-5212D8982475}" />
     <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanelListing&amp;ApplyGridColumsToAllSizes=1&amp;GridColumns=8" ph="SelectedItemsExpander.Body" uid="{F8631515-01BB-4C83-A88E-288C625D7AB7}" />
-    <r id="{D457B771-D551-4C81-9D63-20B00BF671D4}" par="PageSize=10&amp;Language=%24context_language&amp;Id=VaultDeploymentItemFilteredDataSource&amp;Formatting=%24convert_date_to_friendly_format&amp;SelectedFacets=%7bBinding+FilterControl1.SelectedFacets%7d&amp;Database=%24context_contentdatabase&amp;SearchConfigItemId=%7bF5F3C7ED-6854-470D-A30B-AF3A543B81F5%7d&amp;Fields=_latestversion&amp;Sorting=%7bBinding+ListControl1.Sorting%7d&amp;FacetsRootItemId=%7b592460D4-094A-479D-8075-70F754AF0E99%7d&amp;Url=%2fapi%2fsitecore%2fVault%2f&amp;ExcludedItems=%7bBinding+ListControl1.ExcludedItems%7d&amp;MethodName=GetDeploymentItems" ph="SelectedItemsExpander.Body_" uid="{D7BA1A0B-28F9-4EAE-8689-11D90D4738E7}" />
+    <r id="{D457B771-D551-4C81-9D63-20B00BF671D4}" par="PageSize=10&amp;Id=VaultDeploymentItemFilteredDataSource&amp;Formatting=%24convert_date_to_friendly_format&amp;SelectedFacets=%7bBinding+FilterControl1.SelectedFacets%7d&amp;Database=%24context_contentdatabase&amp;SearchConfigItemId=%7bF5F3C7ED-6854-470D-A30B-AF3A543B81F5%7d&amp;Fields=_latestversion&amp;Sorting=%7bBinding+ListControl1.Sorting%7d&amp;FacetsRootItemId=%7b592460D4-094A-479D-8075-70F754AF0E99%7d&amp;Language=%24context_language&amp;Url=%2fapi%2fsitecore%2fVault%2f&amp;ExcludedItems=%7bBinding+ListControl1.ExcludedItems%7d&amp;MethodName=GetDeploymentItems" ph="SelectedItemsExpander.Body_" uid="{D7BA1A0B-28F9-4EAE-8689-11D90D4738E7}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.rulesWindow()&amp;Id=EditRulesButton&amp;IsVisible=0&amp;ButtonType=Default&amp;Text=Edit+Filters&amp;Dimension=Normal" ph="AddItems.Content" uid="{395A7450-586D-414C-85E9-69F2344D2E31}" />
     <r id="{7FC8A6CB-804C-4C52-BB88-38AE4648E506}" par="Id=VaultRulesList" ph="ColumnPanelListing.Content" uid="{413D8E39-F319-4344-B166-BB733DD3EB53}" />
     <r id="{9B00BB85-3894-4FBD-8522-3C467FDEB050}" par="Id=FilterControl1&amp;Facets=%7bBinding+VaultDeploymentItemFilteredDataSource.Facets%7d" ph="ColumnPanelFacets.Content_" uid="{9B93B91B-6EF0-4539-A66F-8548BBB3CD43}" />
@@ -47,7 +54,7 @@ content-length: 3466
 ----version----
 language: en
 version: 1
-revision: 55892b16-7d4d-49a9-a352-319a0e6032ac
+revision: 3648245b-0f18-4499-88db-46a2960357ee
 
 ----field----
 field: {AEA872FB-AA91-4D1A-B877-3CA6FBBB4FD4}
@@ -76,18 +83,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-55892b16-7d4d-49a9-a352-319a0e6032ac
+3648245b-0f18-4499-88db-46a2960357ee
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160319T022342Z
+20160430T001829Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
