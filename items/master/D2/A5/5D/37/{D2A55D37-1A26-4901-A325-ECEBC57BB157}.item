@@ -2,7 +2,7 @@
 version: 1
 id: {D2A55D37-1A26-4901-A325-ECEBC57BB157}
 database: master
-path: /sitecore/content/Home/More carts for the people/Receipt/Checkout
+path: /sitecore/content/Home/Copy of Tests/More carts for the people/New items Friday/Receipt/Checkout
 parent: {C3E8E41D-80E6-484E-8E3A-8BC6A192D675}
 name: Checkout
 master: {00000000-0000-0000-0000-000000000000}
@@ -19,15 +19,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 3171a009-2556-4ee0-b215-c02d632d37c1
+revision: 83db3748-b7ec-464a-8bfe-526787a01e85
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
 name: Title
 key: title
-content-length: 21
+content-length: 27
 
-Checkoutthis out dude
+Checkoutthis out dude nijno
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3171a009-2556-4ee0-b215-c02d632d37c1
+83db3748-b7ec-464a-8bfe-526787a01e85
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160426T203350Z
+20160503T173924Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
