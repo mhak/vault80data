@@ -2,7 +2,7 @@
 version: 1
 id: {C3E8E41D-80E6-484E-8E3A-8BC6A192D675}
 database: master
-path: /sitecore/content/Home/Copy of Copy of Copy of Copy of Copy of Tests/Copy of Copy of Copy of Copy of Tests/Copy of Copy of Copy of Tests/Copy of Copy of Tests/Copy of Tests/More carts for the people/New items Friday/Receipt
+path: /sitecore/content/Home/Copy of Tests/More carts for the people/New items Friday/Receipt
 parent: {937FF002-5708-4DD0-B08E-7E4797C2B4BC}
 name: Receipt
 master: {00000000-0000-0000-0000-000000000000}
@@ -19,15 +19,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: df5b9ea2-7f74-42f0-96ab-3cb0da0db4de
+revision: d599c66a-fef1-49e2-bb83-244f8dfff24f
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
 name: Title
 key: title
-content-length: 10
+content-length: 17
 
-Receipt yo
+Receipt yo 9ihjio
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-df5b9ea2-7f74-42f0-96ab-3cb0da0db4de
+d599c66a-fef1-49e2-bb83-244f8dfff24f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160427T155804Z
+20160503T173910Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
