@@ -41,7 +41,7 @@ content-length: 0
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 17320
+content-length: 17245
 
 <r>
   <d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{4F72A793-BDBC-4262-9523-6AADD8FEA487}">
@@ -50,18 +50,20 @@ content-length: 17320
     <r id="{A1AC5E61-CCEF-4E22-848E-C728D7BEFBDD}" par="PageSize=20&amp;Id=dlDataSource" ph="Page.Body" uid="{09423A82-C058-42AC-9401-ECEA3C9C9113}" />
     <r id="{B60FB581-44D1-4372-86A2-D6E494F020E1}" par="HeaderText=Advanced&amp;Id=dwAdvanced" ph="Page.Body" uid="{F2A46295-BB8C-443C-86B1-5F339FAA140F}" />
     <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblQuery&amp;Text=Query" ph="dwAdvanced.Content" uid="{DB9B86DA-BFAA-434B-B63F-DAA68BDA704F}" />
-    <r id="{9918B36C-92ED-4EB8-A95A-009E2523C672}" par="Rows=10&amp;Id=txtAdvancedQuery&amp;IsVisible=1&amp;IsEnabled=1" ph="dwAdvanced.Content" uid="{704D936D-A415-4F36-8DA9-2C1DA5DB7EED}" />
+    <r id="{9918B36C-92ED-4EB8-A95A-009E2523C672}" par="Text=%7bBinding+dlDataSource.query%7d&amp;Rows=10&amp;Id=txtAdvancedQuery&amp;IsVisible=1&amp;IsEnabled=1" ph="dwAdvanced.Content" uid="{704D936D-A415-4F36-8DA9-2C1DA5DB7EED}" />
     <r id="{73C16115-8B56-43AF-8EA3-4D704FCDA127}" par="Id=Separator2" ph="dwAdvanced.Content" uid="{C8E73056-AB34-45B3-8152-63C252F09330}" />
     <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=RowPanel1" ph="dwAdvanced.Content" uid="{4D284CA1-0A75-466D-8BA8-5056F35BB4FC}" />
     <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanel1&amp;GridColumns=8" ph="RowPanel1.Content" uid="{AE2DE631-13D2-4CBB-B81F-95497192AEA5}" />
     <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblColumns&amp;Text=Columns" ph="ColumnPanel1.Content" uid="{9BCC7464-DBE3-4251-933F-10BF23A5C4EC}" />
-    <r id="{327FD09D-41D6-4F15-8B18-611799364853}" par="Id=MultiSelectList1&amp;PageScriptFileName=%2fsitecore%2fshell%2fclient%2fSpeak%2fAssets%2flib%2fui%2f1.1%2fbehaviors%2fMultiSelectList.js&amp;Name=MultiSelectList" ph="ColumnPanel1.Content" uid="{2ED9B465-4AF8-4289-97DD-E9733A0A0950}" />
-    <r id="{ACE0AFD6-3DE0-42CF-8E62-4E68CD810A8D}" par="Id=ListControl1&amp;TileHtmlFileName=%2fsitecore%2fshell%2fclient%2fBusiness+Component+Library%2fLayouts%2fRenderings%2fListsAndGrids%2fListControls%2fDefaultTile.cshtml" ph="ColumnPanel1.Content" uid="{A8113A2C-A3B1-4AD6-A7E5-FAEF133E26B0}" />
+    <r id="{D3C7F925-3268-4F4D-8996-9D088344F7A3}" par="Id=lbColumns&amp;DisplayFieldName=Text&amp;ValueFieldName=Value&amp;Multiple=true" ph="ColumnPanel1.Content" uid="{E3BCC6C9-880D-4CF1-9AE4-4CCF427FED8B}" />
     <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=ColumnPanel2&amp;GridColumns=4" ph="RowPanel1.Content" uid="{FFA74852-1763-4C2A-B894-97C26F2ED0A9}" />
     <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblOther&amp;Text=Other" ph="ColumnPanel2.Content" uid="{DE78E393-85A3-42C5-814D-ABFD93218374}" />
-    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bOrder" ph="ColumnPanel2.Content" uid="{6B1FB47C-B39C-4DBD-82EA-8A4C23AE3D47}" />
-    <r id="{3824DAB6-745A-468A-9D75-044591E72FB5}" par="Id=chkGroupEvents&amp;Text=Group+Events" ph="bOrder.Content" uid="{CEF09DA3-80DC-4770-A90F-7168A0A8B294}" />
-    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Id=btnAdvancedApply&amp;Text=Apply" ph="dwAdvanced.Buttons" uid="{B3059452-9ED4-4A73-B718-A5BD1142E09D}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bOther" ph="ColumnPanel2.Content" uid="{6B1FB47C-B39C-4DBD-82EA-8A4C23AE3D47}" />
+    <r id="{F6C9F461-FCAF-47DC-AA01-C8C64C2EFFB8}" par="Id=bRemove&amp;PaddingType=Top&amp;UsePadding=1&amp;ShowBorder=0" ph="ColumnPanel2.Content" uid="{F4360958-A7CC-4E15-82A3-5FF456B9D1C8}" />
+    <r id="{3824DAB6-745A-468A-9D75-044591E72FB5}" par="Id=chkGroupEvents&amp;Text=Group+Events" ph="bOther.Content" uid="{CEF09DA3-80DC-4770-A90F-7168A0A8B294}" />
+    <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=show%3adwConfirmRemove&amp;Id=hlRemoveReport&amp;Text=Remove+Report" ph="bRemove.Content" uid="{C647CE2D-2F0B-4BAD-B48C-33D8F15F1574}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.advancedApply()&amp;Id=btnAdvancedApply&amp;Text=Apply" ph="dwAdvanced.Buttons" uid="{B3059452-9ED4-4A73-B718-A5BD1142E09D}" />
+    <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=hide%3adwAdvanced&amp;Id=btnAdvancedCancel&amp;Text=Cancel" ph="dwAdvanced.Buttons" uid="{9B19487D-60C8-4AF6-A7D5-2DDFEEAC4B71}" />
     <r id="{B60FB581-44D1-4372-86A2-D6E494F020E1}" par="HeaderText=Report&amp;Id=dwConfirmRemove&amp;Size=%7bC2E3A7F7-BD13-4312-A6A7-C03E08951DCC%7d" ph="Page.Body" uid="{F55ECF86-5436-40CB-A183-BDBBBAD5E344}" />
     <r id="{98316BB6-F3F5-4E6F-81F0-79F173D151D8}" par="Id=lblAreYouSure&amp;Text=Are+you+sure+you+wish+to+remove+this+report%3f" ph="dwConfirmRemove.Content" uid="{100C882B-711C-4532-90CF-B8F4A67B8B0C}" />
     <r id="{913AB005-2527-4C2D-9827-FB3A8DFB135C}" par="Click=javascript%3aapp.removeReport()&amp;Id=btnRemoveYes&amp;Text=Yes" ph="dwConfirmRemove.Buttons" uid="{865313E9-F2BA-464F-8F0C-62124D2CCA7E}" />
@@ -93,8 +95,6 @@ content-length: 17320
     <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=javascript%3aapp.saveReportClick()&amp;Id=hlSave&amp;Text=Save" ph="aeTopReport.ActionBar" uid="{DF63DF51-59C1-496D-A16D-5FDF7FF3D63D}" />
     <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=txtSeparator&amp;Text=+%7c+" ph="aeTopReport.ActionBar" uid="{745232E9-3A03-43E3-898C-A754D307C8FE}" />
     <r id="{162FC747-B9E6-4FCE-A96C-1EFE125643F2}" par="Click=show%3adwAdvanced&amp;Id=hlAdvance&amp;Text=Advanced" ph="aeTopReport.ActionBar" uid="{DF63DF51-59C1-496D-A16D-5FDF7FF3D63D}" />
-    <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=txtSeparator2&amp;Text=+%7c+" ph="aeTopReport.ActionBar" uid="{745232E9-3A03-43E3-898C-A754D307C8FE}" />
-    <r id="{7717EB6C-9F90-4C58-826D-5E87722A0318}" par="Id=txtNumOfCommands&amp;Text=0&amp;Tooltip=Number+of+commands+in+queue" ph="aeTopReport.ActionBar" uid="{E092F7DD-123D-414B-80B7-6560ECED018C}" />
     <r id="{C4393722-39FA-4869-9582-3A8EB8983A0D}" par="Id=rowFilters" ph="aeTopReportContainer.Content" uid="{137076DC-6BCF-4DA5-92DD-B110F2887946}" />
     <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=colSelector&amp;GridColumns=6" ph="rowFilters.Content" uid="{705A7D9D-907A-4032-A254-A32591A229FC}" />
     <r id="{5CB208F6-1860-426B-8221-FAA85B329848}" par="Id=colFilter&amp;GridColumns=6" ph="rowFilters.Content" uid="{705A7D9D-907A-4032-A254-A32591A229FC}" />
@@ -146,7 +146,7 @@ content-length: 0
 ----version----
 language: en
 version: 1
-revision: 4e9f1c5d-3f47-44ca-951b-ec72a5f9693e
+revision: b63bd6b0-e81e-4d15-adbe-bc2aaa64a113
 
 ----field----
 field: {7205A57F-93B4-413A-AA9A-6B16BBC59565}
@@ -168,14 +168,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4e9f1c5d-3f47-44ca-951b-ec72a5f9693e
+b63bd6b0-e81e-4d15-adbe-bc2aaa64a113
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160502T202933Z
+20160504T174218Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
