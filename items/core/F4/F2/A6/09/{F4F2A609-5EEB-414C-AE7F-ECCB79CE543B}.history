@@ -6,13 +6,29 @@
     "version": 1,
     "language": "en",
     "timestamp": "2016-04-19T01:55:06.9079553Z",
-    "label": "Installed from package - {0}",
-    "sourceControlRevisionId": null,
+    "label": null,
     "workflowState": "",
     "activeUser": "sitecore\\admin",
     "itemName": "VaultTime",
     "itemPath": "/sitecore/content/Applications/Desktop/Tray/VaultTime",
     "commandType": "Label",
-    "template": "Toolbutton"
+    "template": "Toolbutton",
+    "sourceControlRevisionId": "10ed52bf5b7e20f19c69a4e2cb8526ac9b3deba7"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F4F2A609-5EEB-414C-AE7F-ECCB79CE543B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-10T19:54:40.1160050Z",
+    "label": "Installed from package - {0}",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultTime",
+    "itemPath": "/sitecore/content/Applications/Desktop/Tray/VaultTime",
+    "commandType": "Label",
+    "template": "Toolbutton",
+    "sourceControlRevisionId": null
   }
 ]
