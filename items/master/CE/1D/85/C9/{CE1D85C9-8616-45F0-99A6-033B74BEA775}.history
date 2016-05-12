@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Channel",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE1D85C9-8616-45F0-99A6-033B74BEA775}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:26.6893742Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Channel",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Channel",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

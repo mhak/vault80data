@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Method Rendering/$name",
     "commandType": "Item",
     "template": "Method Rendering",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89BD0D7C-07BF-4780-AD61-4D936EEA3510}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:13.3843577Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Method Rendering/$name",
+    "commandType": "Item",
+    "template": "Method Rendering",
     "sourceControlRevisionId": null
   }
 ]

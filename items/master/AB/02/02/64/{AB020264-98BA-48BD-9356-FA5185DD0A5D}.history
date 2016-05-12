@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Peru",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB020264-98BA-48BD-9356-FA5185DD0A5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:35.7607812Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Peru",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Peru",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Item Buckets Enabled",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58FC232E-C94E-4CDD-A41C-1633BBACB407}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:57.6231711Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Buckets Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Item Buckets Enabled",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/contains",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E67477C-440C-4BCA-A358-3D29AED89F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:26.5678541Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "contains",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/contains",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

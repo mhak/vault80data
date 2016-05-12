@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Subitems Sorting",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B01EB085-82BC-4D79-B15F-90EAB9E98062}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:10.6622941Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Subitems Sorting",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

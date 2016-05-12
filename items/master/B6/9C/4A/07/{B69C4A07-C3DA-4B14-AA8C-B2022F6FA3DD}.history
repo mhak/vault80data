@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Original Winner",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B69C4A07-C3DA-4B14-AA8C-B2022F6FA3DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:59.5409225Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Original Winner",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Original Winner",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

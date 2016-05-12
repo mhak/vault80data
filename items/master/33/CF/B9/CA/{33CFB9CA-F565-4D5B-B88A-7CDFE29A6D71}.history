@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33CFB9CA-F565-4D5B-B88A-7CDFE29A6D71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:44.8204390Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Control Panel",
+    "itemPath": "/sitecore/system/Marketing Control Panel",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

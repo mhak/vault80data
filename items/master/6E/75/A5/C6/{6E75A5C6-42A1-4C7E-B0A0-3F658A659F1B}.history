@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E75A5C6-42A1-4C7E-B0A0-3F658A659F1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:09.2340676Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/templates/Branches/System/Rules",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

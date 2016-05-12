@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/List Manager/All Lists",
     "commandType": "Item",
     "template": "List Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC799B34-8423-48AC-A2FE-D128E6300659}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:13.9729318Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Lists",
+    "itemPath": "/sitecore/system/List Manager/All Lists",
+    "commandType": "Item",
+    "template": "List Folder",
     "sourceControlRevisionId": null
   }
 ]

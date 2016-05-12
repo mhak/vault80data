@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End/Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{600A084F-ABA6-4A71-9825-BA02BD61B2A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:56.3718213Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

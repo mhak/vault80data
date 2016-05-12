@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/English language",
     "commandType": "Item",
     "template": "VisitMap",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8690C11C-621B-4515-AD63-267CD82A4FF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:48.8626122Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "English Language Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/English language",
+    "commandType": "Item",
+    "template": "VisitMap",
     "sourceControlRevisionId": null
   }
 ]

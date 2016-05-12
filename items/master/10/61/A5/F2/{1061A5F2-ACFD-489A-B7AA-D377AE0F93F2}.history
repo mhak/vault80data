@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Globalization",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1061A5F2-ACFD-489A-B7AA-D377AE0F93F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:08.9544942Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Globalization",
+    "itemPath": "/sitecore/templates/Branches/System/Globalization",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

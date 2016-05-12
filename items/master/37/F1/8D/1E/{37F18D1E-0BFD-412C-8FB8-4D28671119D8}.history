@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Add New Template",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{37F18D1E-0BFD-412C-8FB8-4D28671119D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:13.2073227Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add New Template",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Add New Template",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

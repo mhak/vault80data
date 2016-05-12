@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F22A1570-EE5E-4607-ACE6-8AB2E45A0DD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:00.6253521Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Candidate Check Action",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

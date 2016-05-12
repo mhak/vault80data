@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Failures",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42DFC2E6-7BF8-4599-B804-B08713D2B5EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:53.5418148Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Failures",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Failures",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tag",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A9B6300-4652-477C-A4B5-B2A64E86B29F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:05.4512765Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tag",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tag",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

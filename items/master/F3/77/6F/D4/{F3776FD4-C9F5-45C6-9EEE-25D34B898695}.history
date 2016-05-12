@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visits",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3776FD4-C9F5-45C6-9EEE-25D34B898695}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:53.4617726Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organization Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

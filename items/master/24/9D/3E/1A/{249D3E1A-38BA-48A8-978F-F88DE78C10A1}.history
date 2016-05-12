@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Hungary",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{249D3E1A-38BA-48A8-978F-F88DE78C10A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:28.5679658Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hungary",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Hungary",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

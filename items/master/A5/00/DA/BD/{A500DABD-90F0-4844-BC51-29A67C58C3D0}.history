@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Proxies",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A500DABD-90F0-4844-BC51-29A67C58C3D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:10.2872040Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Proxies",
+    "itemPath": "/sitecore/system/Settings/Proxies",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

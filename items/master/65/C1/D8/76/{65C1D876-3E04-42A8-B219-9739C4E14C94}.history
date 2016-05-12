@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Business Name",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65C1D876-3E04-42A8-B219-9739C4E14C94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:42.3969713Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Business Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Business Name",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

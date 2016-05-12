@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Profile Value",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3BC1CC2-0724-4F7C-82A1-832F138431B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:03.0614956Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Profile Value",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

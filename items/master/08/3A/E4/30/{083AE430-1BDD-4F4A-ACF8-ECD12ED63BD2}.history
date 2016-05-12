@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{083AE430-1BDD-4F4A-ACF8-ECD12ED63BD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:25.6415434Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Macros",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

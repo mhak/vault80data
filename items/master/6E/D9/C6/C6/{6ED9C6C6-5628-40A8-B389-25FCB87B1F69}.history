@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Not Found Urls Previous Referrers",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6ED9C6C6-5628-40A8-B389-25FCB87B1F69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:49.8534906Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Not Found Urls Previous Referrers",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Not Found Urls Previous Referrers",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

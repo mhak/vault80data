@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessTokenSecret",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{205D2427-99AE-4012-8200-011745C48D30}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:16.7031779Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AccessTokenSecret",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessTokenSecret",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

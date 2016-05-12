@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function",
     "commandType": "Item",
     "template": "Profile",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA06B827-C6F2-4748-BD75-AA178B770E83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:55.9084677Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Function",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function",
+    "commandType": "Item",
+    "template": "Profile",
     "sourceControlRevisionId": null
   }
 ]

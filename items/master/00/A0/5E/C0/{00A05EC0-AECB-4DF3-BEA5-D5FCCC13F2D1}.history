@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Extern Link Target",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00A05EC0-AECB-4DF3-BEA5-D5FCCC13F2D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:42.6225426Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extern Link Target",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Extern Link Target",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

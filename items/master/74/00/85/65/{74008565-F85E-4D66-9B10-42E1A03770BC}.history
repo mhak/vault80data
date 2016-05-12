@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Views/Lock View",
     "commandType": "Item",
     "template": "View",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74008565-F85E-4D66-9B10-42E1A03770BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:21.7823077Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lock View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Lock View",
+    "commandType": "Item",
+    "template": "View",
     "sourceControlRevisionId": null
   }
 ]

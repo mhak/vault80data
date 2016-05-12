@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version CM/Version Count",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{105D5494-5EB1-498D-83BB-6AC63A3AA69B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:48.9770795Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Version Count",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version CM/Version Count",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

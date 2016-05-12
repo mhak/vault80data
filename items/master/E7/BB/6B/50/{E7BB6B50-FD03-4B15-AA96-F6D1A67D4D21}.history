@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Engagement Plans",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7BB6B50-FD03-4B15-AA96-F6D1A67D4D21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:32.3103200Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Plans",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Engagement Plans",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

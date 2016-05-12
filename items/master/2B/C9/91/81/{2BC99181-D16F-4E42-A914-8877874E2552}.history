@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-google-search",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BC99181-D16F-4E42-A914-8877874E2552}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:34.4392614Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-google-search",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-google-search",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Paid",
     "commandType": "Item",
     "template": "Traffic Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7E77613-B890-4A8A-A983-747635727733}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:59.3131212Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Paid",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Paid",
+    "commandType": "Item",
+    "template": "Traffic Type",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{093BC2D6-8B96-464C-89D8-FD57E2CB05F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:25.8252660Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

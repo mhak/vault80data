@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Macao",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E12E6798-8D9B-43A8-9C35-0CE87406CD95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:31.3314881Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Macao",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Macao",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

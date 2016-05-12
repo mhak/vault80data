@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Boost",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC8F14E8-026D-4858-A441-21E25A292398}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:09.2533830Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Boost",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Boost",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

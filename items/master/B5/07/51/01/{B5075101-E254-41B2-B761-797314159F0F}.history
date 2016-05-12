@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Flag List",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5075101-E254-41B2-B761-797314159F0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:18.1749501Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flag List",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Flag List",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

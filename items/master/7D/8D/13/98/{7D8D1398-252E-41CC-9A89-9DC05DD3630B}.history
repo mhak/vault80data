@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Users In State/Users In State",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D8D1398-252E-41CC-9A89-9DC05DD3630B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:06.8940157Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Users In State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Users In State/Users In State",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

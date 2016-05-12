@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Dictionary",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{504AE189-9F36-4C62-9767-66D73D6C3084}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:44.5129803Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dictionary",
+    "itemPath": "/sitecore/system/Dictionary",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

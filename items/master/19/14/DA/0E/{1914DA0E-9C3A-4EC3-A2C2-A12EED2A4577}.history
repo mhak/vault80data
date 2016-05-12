@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Apps/App usage",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1914DA0E-9C3A-4EC3-A2C2-A12EED2A4577}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:21.1272146Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App usage",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Apps/App usage",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

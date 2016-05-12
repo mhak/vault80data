@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Page Editor",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32F344EE-3C38-4173-A0C4-7BE248A96C35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:14.7914243Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Page Editor",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

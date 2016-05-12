@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Subgroup Round Robin Sticky",
     "commandType": "Item",
     "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E06B64F-6EA7-495C-AA66-7B69F7B94C19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:43.7638405Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Subgroup Round Robin Sticky",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Subgroup Round Robin Sticky",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
     "sourceControlRevisionId": null
   }
 ]

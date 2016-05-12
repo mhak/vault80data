@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Google",
     "commandType": "Item",
     "template": "Sublayout",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FB707BA-6254-4074-98A2-DD822D7414A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:25.0144534Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Login with Google",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Google",
+    "commandType": "Item",
+    "template": "Sublayout",
     "sourceControlRevisionId": null
   }
 ]

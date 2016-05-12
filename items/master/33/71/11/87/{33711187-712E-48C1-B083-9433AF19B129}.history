@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Protected",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33711187-712E-48C1-B083-9433AF19B129}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:45.3490586Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Protected",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Protected",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

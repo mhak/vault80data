@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Portal",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BDC7BCDE-AFB6-4694-AE2C-40F3EB544FAC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:21.6849280Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Portal",
+    "itemPath": "/sitecore/templates/System/Portal",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

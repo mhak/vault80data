@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Security/Presets/Remove Inherit",
     "commandType": "Item",
     "template": "Security Preset",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74A590B5-CC32-4777-8ADE-7369C753B7FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:38.2457397Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Inherit",
+    "itemPath": "/sitecore/system/Settings/Security/Presets/Remove Inherit",
+    "commandType": "Item",
+    "template": "Security Preset",
     "sourceControlRevisionId": null
   }
 ]

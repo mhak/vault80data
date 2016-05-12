@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Mime Type",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:00.3435854Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mime Type",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Mime Type",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

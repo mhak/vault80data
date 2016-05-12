@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Is Member Of Network",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B532DFA7-398E-412E-A4C1-153FFACD3847}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:56.4523674Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Member Of Network",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Is Member Of Network",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Botswana",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5469BC9A-7B4D-469D-AA49-E9D9AF9C111A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:21.5065045Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Botswana",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Botswana",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

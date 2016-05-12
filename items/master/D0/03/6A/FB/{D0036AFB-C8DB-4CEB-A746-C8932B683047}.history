@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Australia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0036AFB-C8DB-4CEB-A746-C8932B683047}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:19.7057332Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Australia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Australia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

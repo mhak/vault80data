@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Audio",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D56DB3AA-7373-4651-837E-8D3977A0B544}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:57.6510849Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Audio",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Audio",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

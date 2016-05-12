@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Clustering Data By Test Id",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EDBAC161-27CE-4DE7-B2AB-03DC4216A546}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:53.8904103Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clustering Data By Test Id",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Clustering Data By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

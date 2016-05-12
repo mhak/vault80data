@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Referral Information",
     "commandType": "Item",
     "template": "Accordion",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF4407AE-6BFF-47D3-B65A-AB1B9AA2C8AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:08.4120860Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referral Information",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Referral Information",
+    "commandType": "Item",
+    "template": "Accordion",
     "sourceControlRevisionId": null
   }
 ]

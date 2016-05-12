@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Virgin Islands US",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6338AB01-6346-4303-9E7E-16F2D4A17AA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:42.5529246Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Virgin Islands US",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Virgin Islands US",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

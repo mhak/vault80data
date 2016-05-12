@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B960CBE4-381F-4A2B-9F44-A43C7A991A0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:09.1603210Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RSS Feed",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

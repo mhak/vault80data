@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Profile Not Empty",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6CA2AD4-36F7-4AC7-A26F-48DF128C9CC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:53.3499679Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Profile Not Empty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Profile Not Empty",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

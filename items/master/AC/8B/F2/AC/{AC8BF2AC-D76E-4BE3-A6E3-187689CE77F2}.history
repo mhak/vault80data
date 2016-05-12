@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/File/Properties/Format",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC8BF2AC-D76E-4BE3-A6E3-187689CE77F2}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:08.3658156Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Format",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Properties/Format",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

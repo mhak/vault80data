@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Like",
     "commandType": "Item",
     "template": "Goal",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FE65DCC7-4A2A-4C31-BCA9-3BC9F1630373}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:34.2794194Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Like",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Like",
+    "commandType": "Item",
+    "template": "Goal",
     "sourceControlRevisionId": null
   }
 ]

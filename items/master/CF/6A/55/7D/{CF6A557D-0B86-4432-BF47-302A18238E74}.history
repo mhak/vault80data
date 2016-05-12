@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/Submit",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF6A557D-0B86-4432-BF47-302A18238E74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:55.7837305Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Submit",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/Submit",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

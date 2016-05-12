@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/layout/Devices/Feed",
     "commandType": "Item",
     "template": "Device",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73966209-F1B6-43CA-853A-F1DB1C9A654B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:18.8711408Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Feed",
+    "itemPath": "/sitecore/layout/Devices/Feed",
+    "commandType": "Item",
+    "template": "Device",
     "sourceControlRevisionId": null
   }
 ]

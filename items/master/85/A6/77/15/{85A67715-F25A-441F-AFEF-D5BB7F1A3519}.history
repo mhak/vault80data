@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Branch",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85A67715-F25A-441F-AFEF-D5BB7F1A3519}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:08.8221252Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Branch",
+    "itemPath": "/sitecore/templates/Branches/System/Branch",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

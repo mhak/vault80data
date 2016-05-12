@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Hidden",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1B8E79B-1ED4-4AD3-B970-5E523768514C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:45.0016018Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hidden",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Hidden",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

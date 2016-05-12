@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/__Task Schedule",
     "commandType": "Item",
     "template": "Schedule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C34554C-B669-4978-A85B-0B3328042B07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:51.6575383Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Task Schedule",
+    "itemPath": "/sitecore/system/Tasks/Schedules/__Task Schedule",
+    "commandType": "Item",
+    "template": "Schedule",
     "sourceControlRevisionId": null
   }
 ]

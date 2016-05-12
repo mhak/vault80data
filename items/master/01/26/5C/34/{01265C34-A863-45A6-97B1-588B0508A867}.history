@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01265C34-A863-45A6-97B1-588B0508A867}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:18.7364553Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presentation",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

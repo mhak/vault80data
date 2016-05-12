@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Schedule",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50BE51F8-746D-4DC2-9C3B-B14ABC5CE9B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:29.3112277Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Schedule",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Schedule",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

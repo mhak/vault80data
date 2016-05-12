@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/DNS Address",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B8A92957-24C2-488C-BA93-E3B608A6E9C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:42.6646312Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DNS Address",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/DNS Address",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

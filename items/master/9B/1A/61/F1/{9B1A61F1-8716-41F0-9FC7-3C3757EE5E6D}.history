@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Outcomes/Contact Has Registered Outcome During Any Interaction with Value",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B1A61F1-8716-41F0-9FC7-3C3757EE5E6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:49.3236636Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Has Registered Outcome During Any Interaction with Value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Outcomes/Contact Has Registered Outcome During Any Interaction with Value",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

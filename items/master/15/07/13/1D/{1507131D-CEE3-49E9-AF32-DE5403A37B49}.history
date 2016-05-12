@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Action/Data/Parameters",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1507131D-CEE3-49E9-AF32-DE5403A37B49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:52.0516538Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Parameters",
+    "itemPath": "/sitecore/templates/System/Workflow/Action/Data/Parameters",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

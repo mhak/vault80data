@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Europe",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35AA265E-BF8B-45E6-9D92-2BF0C3A2C4B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:25.2612491Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Europe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Europe",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

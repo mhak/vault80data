@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Has Email",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10DC9B65-3C17-43BA-ABD1-5A5A0DE7FE7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:52.7729232Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has Email",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Has Email",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

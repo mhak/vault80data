@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Command",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC2CF483-11AE-4C35-AAA8-C4796423A501}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:36.3906927Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command",
+    "itemPath": "/sitecore/templates/System/Ribbon/Command",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

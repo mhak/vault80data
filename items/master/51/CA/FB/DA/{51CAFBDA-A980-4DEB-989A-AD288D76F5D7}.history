@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Experience",
     "commandType": "Item",
     "template": "Accordion",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51CAFBDA-A980-4DEB-989A-AD288D76F5D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:08.1318097Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Experience",
+    "commandType": "Item",
+    "template": "Accordion",
     "sourceControlRevisionId": null
   }
 ]

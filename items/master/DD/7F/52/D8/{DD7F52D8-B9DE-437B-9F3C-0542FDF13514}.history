@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Social/Networks/LinkedIn",
     "commandType": "Item",
     "template": "Network",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD7F52D8-B9DE-437B-9F3C-0542FDF13514}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:50.7152676Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/system/Social/Networks/LinkedIn",
+    "commandType": "Item",
+    "template": "Network",
     "sourceControlRevisionId": null
   }
 ]

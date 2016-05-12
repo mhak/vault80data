@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Home/Another",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27F6C280-189E-4974-B0DC-5FC03C548CF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:14.4813757Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Another",
+    "itemPath": "/sitecore/content/Home/Another",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]

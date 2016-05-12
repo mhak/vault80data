@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Completed/Auto Publish",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD124BD9-37C2-49C4-8BC2-1CB96E94D873}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:54.4102355Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Publish",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Completed/Auto Publish",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

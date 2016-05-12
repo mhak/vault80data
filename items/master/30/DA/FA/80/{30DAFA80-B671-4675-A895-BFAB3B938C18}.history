@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Timor-Leste",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30DAFA80-B671-4675-A895-BFAB3B938C18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:40.5723833Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Timor-Leste",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Timor-Leste",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

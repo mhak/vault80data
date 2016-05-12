@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/Data/Index Name",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA048109-7407-43BA-987E-E21888BF42DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:57.0814976Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Index Name",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/Data/Index Name",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

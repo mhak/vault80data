@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Duration/StartDate",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD4720D7-9ED6-4438-959B-7B1C5C32C10B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:33.7249597Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "StartDate",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Duration/StartDate",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

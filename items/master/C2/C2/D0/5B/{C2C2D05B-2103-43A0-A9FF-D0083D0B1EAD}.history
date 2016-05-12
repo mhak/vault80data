@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012/11/14/09/48/Test Tag",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2C2D05B-2103-43A0-A9FF-D0083D0B1EAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:21.4278881Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Tag",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012/11/14/09/48/Test Tag",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

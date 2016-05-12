@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Must be Upper Case",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6D374A4-10BD-4B8B-94A6-5B1053E1E2C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:44.3313917Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Must be Upper Case",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Must be Upper Case",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

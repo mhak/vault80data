@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C591E630-93F4-46F3-9F11-551F6A3AA37C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:56.0557835Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approve with Test",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

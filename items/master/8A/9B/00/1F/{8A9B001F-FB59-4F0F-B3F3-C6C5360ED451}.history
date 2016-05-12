@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Date-Time Has Passed",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A9B001F-FB59-4F0F-B3F3-C6C5360ED451}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:35.5377686Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Date-Time Has Passed",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Date-Time Has Passed",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

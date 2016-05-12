@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Valid Bucket Query",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{02C8CEAE-B153-4D5F-BA44-B30F365DF5E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:40.5701004Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Valid Bucket Query",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Valid Bucket Query",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

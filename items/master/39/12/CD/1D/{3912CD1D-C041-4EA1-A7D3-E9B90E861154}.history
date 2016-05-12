@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Norway",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3912CD1D-C041-4EA1-A7D3-E9B90E861154}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:34.9535209Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Norway",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Norway",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

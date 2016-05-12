@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Content Editor Warnings",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A86A6E2B-8E8B-4FC6-947F-D6593D1F82AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:23.4864402Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Editor Warnings",
+    "itemPath": "/sitecore/system/Settings/Rules/Content Editor Warnings",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

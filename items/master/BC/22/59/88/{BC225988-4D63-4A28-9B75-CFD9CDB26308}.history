@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/Comment",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC225988-4D63-4A28-9B75-CFD9CDB26308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:54.1640378Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment",
+    "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/Comment",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

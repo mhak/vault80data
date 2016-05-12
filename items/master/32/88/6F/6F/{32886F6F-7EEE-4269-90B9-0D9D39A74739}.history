@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nigeria",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32886F6F-7EEE-4269-90B9-0D9D39A74739}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:34.6038063Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nigeria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nigeria",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

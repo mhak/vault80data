@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/FatalError",
     "commandType": "Item",
     "template": "Validation Result",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{920DD571-F0A9-4600-976F-C690636AB97C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:37.3468391Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FatalError",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/FatalError",
+    "commandType": "Item",
+    "template": "Validation Result",
     "sourceControlRevisionId": null
   }
 ]

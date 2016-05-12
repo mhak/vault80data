@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Page Assets",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78BBCDEB-0C56-4310-BD71-E3DCB63000F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:50.3535110Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Assets",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Page Assets",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/TestChannelType/TestChannelGroup/TestChannel",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AF02959-C624-48AD-8181-167C182801E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:33.8585006Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TestChannel",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/TestChannelType/TestChannelGroup/TestChannel",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Profile Key/Data/MinValue",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{271D7B0F-446C-4F24-BFE7-E33C20BF7A41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:50.1246378Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MinValue",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Key/Data/MinValue",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

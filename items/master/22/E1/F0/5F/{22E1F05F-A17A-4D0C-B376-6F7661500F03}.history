@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/ends with",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22E1F05F-A17A-4D0C-B376-6F7661500F03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:27.0141729Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ends with",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/ends with",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

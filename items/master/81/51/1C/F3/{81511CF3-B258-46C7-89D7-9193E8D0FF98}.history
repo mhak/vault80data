@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook",
     "commandType": "Item",
     "template": "Campaign Category",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81511CF3-B258-46C7-89D7-9193E8D0FF98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:35.1650542Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook",
+    "commandType": "Item",
+    "template": "Campaign Category",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/social/Messages",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DBB82699-FEE0-4A1E-9B52-FACC436925C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:44.2159753Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Messages",
+    "itemPath": "/sitecore/social/Messages",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

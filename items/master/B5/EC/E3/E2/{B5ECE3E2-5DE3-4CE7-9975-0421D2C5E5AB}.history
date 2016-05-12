@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Estonia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5ECE3E2-5DE3-4CE7-9975-0421D2C5E5AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:25.0524368Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Estonia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Estonia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

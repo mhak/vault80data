@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC095310-746F-4C1B-A73F-941863564DC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:14.5696942Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

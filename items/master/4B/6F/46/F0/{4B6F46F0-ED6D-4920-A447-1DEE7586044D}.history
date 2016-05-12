@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Country/Data/Country Code",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B6F46F0-ED6D-4920-A447-1DEE7586044D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:34.6513882Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Country Code",
+    "itemPath": "/sitecore/templates/System/Analytics/Country/Data/Country Code",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

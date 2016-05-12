@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Language Template",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8355EB8A-44EC-47FC-8FFD-6412C400A397}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:09.0963089Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Language Template",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Language Template",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

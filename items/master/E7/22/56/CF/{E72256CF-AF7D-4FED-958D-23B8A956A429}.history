@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Visitor Tags",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E72256CF-AF7D-4FED-958D-23B8A956A429}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:52.8015918Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits Visitor Tags",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Visitor Tags",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

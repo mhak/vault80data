@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - News",
     "commandType": "Item",
     "template": "Traffic Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57E36ADA-364F-4EBD-9AC0-9EACB67A5490}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:58.6999493Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referred - News",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - News",
+    "commandType": "Item",
+    "template": "Traffic Type",
     "sourceControlRevisionId": null
   }
 ]

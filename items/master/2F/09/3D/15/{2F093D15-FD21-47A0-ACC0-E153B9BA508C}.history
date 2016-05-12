@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Archiving/Archived item/Data/Item ID",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F093D15-FD21-47A0-ACC0-E153B9BA508C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:05.7072417Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item ID",
+    "itemPath": "/sitecore/templates/System/Archiving/Archived item/Data/Item ID",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

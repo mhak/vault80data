@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/StringOperator",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51D4A8DC-5824-463D-B54A-11D7CAAFB8CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:10.6649368Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "StringOperator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/StringOperator",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

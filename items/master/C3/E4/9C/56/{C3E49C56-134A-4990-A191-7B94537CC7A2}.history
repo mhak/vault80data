@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Social/Klout",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3E49C56-134A-4990-A191-7B94537CC7A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:50.1857219Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Klout",
+    "itemPath": "/sitecore/system/Social/Klout",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

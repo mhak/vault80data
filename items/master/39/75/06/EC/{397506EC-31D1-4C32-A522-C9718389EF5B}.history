@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Contact Overview/Contact Overview",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{397506EC-31D1-4C32-A522-C9718389EF5B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:06.3227082Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Contact Overview/Contact Overview",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

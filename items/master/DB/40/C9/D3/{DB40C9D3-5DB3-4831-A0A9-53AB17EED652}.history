@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB40C9D3-5DB3-4831-A0A9-53AB17EED652}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:51.5658094Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

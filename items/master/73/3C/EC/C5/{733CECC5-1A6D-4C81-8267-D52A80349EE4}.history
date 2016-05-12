@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset",
     "commandType": "Item",
     "template": "Asset Taxonomy",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{733CECC5-1A6D-4C81-8267-D52A80349EE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:16.6559739Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Asset",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset",
+    "commandType": "Item",
+    "template": "Asset Taxonomy",
     "sourceControlRevisionId": null
   }
 ]

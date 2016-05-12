@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Barbados",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB050F46-EA3E-4217-8FEC-C79FA39E6143}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:20.5740558Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Barbados",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Barbados",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

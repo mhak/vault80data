@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Slow Pages/Visits",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{019833FD-A3D4-4FA7-A75E-433E5B020D6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:06.6985629Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Slow Pages/Visits",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Reminder is after Archive Date",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF985F3B-6D87-40AC-B4CA-1D38DEB1419B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:48.9054822Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reminder is after Archive Date",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Reminder is after Archive Date",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

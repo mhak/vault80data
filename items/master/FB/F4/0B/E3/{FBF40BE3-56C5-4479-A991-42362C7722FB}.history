@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guernsey",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBF40BE3-56C5-4479-A991-42362C7722FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:27.7534928Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guernsey",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guernsey",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

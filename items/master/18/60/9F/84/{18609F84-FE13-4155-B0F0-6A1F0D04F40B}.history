@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Vietnam",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18609F84-FE13-4155-B0F0-6A1F0D04F40B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:42.3946633Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vietnam",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Vietnam",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

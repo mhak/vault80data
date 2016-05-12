@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Conditional Renderings",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43E51D9B-77F5-416F-908E-D59609FDDE37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:22.4569822Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Conditional Renderings",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Conditional Renderings",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

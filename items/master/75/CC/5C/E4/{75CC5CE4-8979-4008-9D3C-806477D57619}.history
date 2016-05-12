@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/layout/Layouts",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75CC5CE4-8979-4008-9D3C-806477D57619}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:17.8172627Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/layout/Layouts",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

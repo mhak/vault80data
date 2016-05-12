@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Account/Review/Workflow",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A77ED059-B590-4518-8B51-D7397FC0DAE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:15.8094320Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Review/Workflow",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

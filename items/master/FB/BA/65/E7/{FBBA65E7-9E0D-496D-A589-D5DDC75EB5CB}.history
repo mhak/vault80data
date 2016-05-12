@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Winning Combination for Testing Cluster",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBBA65E7-9E0D-496D-A589-D5DDC75EB5CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:55.6579361Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Winning Combination for Testing Cluster",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Winning Combination for Testing Cluster",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

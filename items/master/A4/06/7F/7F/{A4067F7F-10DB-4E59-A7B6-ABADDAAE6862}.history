@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4067F7F-10DB-4E59-A7B6-ABADDAAE6862}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:28.6386858Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Hierarchy",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

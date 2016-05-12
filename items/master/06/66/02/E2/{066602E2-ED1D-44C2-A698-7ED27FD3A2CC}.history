@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is equal to",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{066602E2-ED1D-44C2-A698-7ED27FD3A2CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:25.4808838Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is equal to",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

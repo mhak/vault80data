@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/File/Media/File Path",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A50B93FD-C413-4065-AEC7-5EA8CE107200}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:07.6129553Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Path",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Media/File Path",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

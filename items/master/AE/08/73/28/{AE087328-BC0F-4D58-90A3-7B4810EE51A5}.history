@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AE087328-BC0F-4D58-90A3-7B4810EE51A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:27.9247965Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoIP",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

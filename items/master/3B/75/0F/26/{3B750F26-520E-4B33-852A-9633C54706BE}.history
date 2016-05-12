@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Views",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B750F26-520E-4B33-852A-9633C54706BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:07.6605702Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Views",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

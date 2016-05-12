@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/OrderBy",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCF3B8FC-1FD2-4BBA-834F-188A39F98035}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:51.9174136Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "OrderBy",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/OrderBy",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

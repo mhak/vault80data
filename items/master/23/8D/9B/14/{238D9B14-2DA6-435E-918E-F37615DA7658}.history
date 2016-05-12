@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Bucket",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "f173fde2bcf1480267a29d00a602e291f3e0e425"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{238D9B14-2DA6-435E-918E-F37615DA7658}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:56.9733651Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bucket",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Bucket",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

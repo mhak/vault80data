@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/DateTime",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{90A6FE48-F3E0-42F3-A18A-EDAA7DB9CA57}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:03.5407499Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DateTime",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/DateTime",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

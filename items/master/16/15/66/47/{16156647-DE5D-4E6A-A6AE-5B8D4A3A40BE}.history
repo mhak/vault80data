@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Author",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16156647-DE5D-4E6A-A6AE-5B8D4A3A40BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:10.1126502Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Author",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Author",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

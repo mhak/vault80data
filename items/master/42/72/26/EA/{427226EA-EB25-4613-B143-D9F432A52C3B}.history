@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{427226EA-EB25-4613-B143-D9F432A52C3B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:55.9070701Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session End",
+    "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

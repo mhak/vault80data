@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Search Engine - Organic Branded",
     "commandType": "Item",
     "template": "Traffic Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46C98287-C050-428B-ADAE-0A79EBD10BF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:58.2880105Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Engine - Organic Branded",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Search Engine - Organic Branded",
+    "commandType": "Item",
+    "template": "Traffic Type",
     "sourceControlRevisionId": null
   }
 ]

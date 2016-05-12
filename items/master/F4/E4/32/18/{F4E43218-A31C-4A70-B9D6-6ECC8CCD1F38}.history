@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Social/Networks/Google Plus",
     "commandType": "Item",
     "template": "Network",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4E43218-A31C-4A70-B9D6-6ECC8CCD1F38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:50.8087646Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google+",
+    "itemPath": "/sitecore/system/Social/Networks/Google Plus",
+    "commandType": "Item",
+    "template": "Network",
     "sourceControlRevisionId": null
   }
 ]

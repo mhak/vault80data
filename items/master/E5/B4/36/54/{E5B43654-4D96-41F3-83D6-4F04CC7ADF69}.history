@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Bucket Item Template",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E5B43654-4D96-41F3-83D6-4F04CC7ADF69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:31.1056210Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bucket Item Template",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Bucket Item Template",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Suriname",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03CA9368-76CD-4F00-8050-FC92415D545E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:39.6916538Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suriname",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Suriname",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Analyst",
     "commandType": "Item",
     "template": "Traffic Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2F7F38C-8161-432E-B3A0-E80D2F7F443C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:59.0554447Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referred - Analyst",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Analyst",
+    "commandType": "Item",
+    "template": "Traffic Type",
     "sourceControlRevisionId": null
   }
 ]

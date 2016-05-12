@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing/Apply Profile Score to All Items",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F695124-3C59-4196-9FD6-ACC32F24AC52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:19.9226083Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Apply Profile Score to All Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing/Apply Profile Score to All Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

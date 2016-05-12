@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Configure Standard Values",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E2FCBF1-8E21-4DD9-932F-BAFAC7D97F3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:13.7309164Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Configure Standard Values",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Configure Standard Values",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

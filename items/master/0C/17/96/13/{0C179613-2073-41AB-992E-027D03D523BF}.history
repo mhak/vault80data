@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Search",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C179613-2073-41AB-992E-027D03D523BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:47.0371632Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Search",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

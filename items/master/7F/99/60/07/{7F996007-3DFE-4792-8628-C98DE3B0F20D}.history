@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Type and Assembly",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F996007-3DFE-4792-8628-C98DE3B0F20D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:44.0316277Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type and Assembly",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Type and Assembly",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

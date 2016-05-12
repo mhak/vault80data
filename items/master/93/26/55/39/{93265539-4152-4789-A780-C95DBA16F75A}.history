@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ukraine",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93265539-4152-4789-A780-C95DBA16F75A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:41.6234069Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ukraine",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ukraine",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

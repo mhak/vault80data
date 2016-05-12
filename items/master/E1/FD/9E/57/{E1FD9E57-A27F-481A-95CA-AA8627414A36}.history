@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1FD9E57-A27F-481A-95CA-AA8627414A36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:50.4903836Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FDAMediaFolder",
+    "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

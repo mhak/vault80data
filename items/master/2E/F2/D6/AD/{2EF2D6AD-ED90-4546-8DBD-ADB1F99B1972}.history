@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/ID3/Comment",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2EF2D6AD-ED90-4546-8DBD-ADB1F99B1972}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:04.7975545Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/ID3/Comment",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

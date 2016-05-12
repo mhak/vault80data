@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Standard Values/Has Name Macro",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B6D11E14-2506-4B96-B50F-4F8EF9ECE892}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:49.7786073Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has Name Macro",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Standard Values/Has Name Macro",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

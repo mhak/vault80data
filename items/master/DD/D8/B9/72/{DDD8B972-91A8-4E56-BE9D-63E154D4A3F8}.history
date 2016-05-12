@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Monaco",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDD8B972-91A8-4E56-BE9D-63E154D4A3F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:33.1293530Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Monaco",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Monaco",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

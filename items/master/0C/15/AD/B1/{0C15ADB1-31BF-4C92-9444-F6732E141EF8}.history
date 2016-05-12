@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/ValidatorResult",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C15ADB1-31BF-4C92-9444-F6732E141EF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:11.3753876Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ValidatorResult",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/ValidatorResult",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

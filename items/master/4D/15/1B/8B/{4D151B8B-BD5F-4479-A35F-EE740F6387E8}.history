@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D151B8B-BD5F-4479-A35F-EE740F6387E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:57.7432761Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Log Message",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

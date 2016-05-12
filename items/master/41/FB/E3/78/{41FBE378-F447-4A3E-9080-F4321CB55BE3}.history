@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal/Renew",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{41FBE378-F447-4A3E-9080-F4321CB55BE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:57.9669284Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Renew",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal/Renew",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

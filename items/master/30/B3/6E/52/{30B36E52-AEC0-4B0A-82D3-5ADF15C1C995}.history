@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Argentina",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30B36E52-AEC0-4B0A-82D3-5ADF15C1C995}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:19.2038933Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Argentina",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Argentina",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

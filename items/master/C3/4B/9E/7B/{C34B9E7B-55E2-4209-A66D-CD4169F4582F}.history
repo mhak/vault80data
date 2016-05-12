@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/End Transaction",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C34B9E7B-55E2-4209-A66D-CD4169F4582F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:37.8278640Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/End Transaction",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

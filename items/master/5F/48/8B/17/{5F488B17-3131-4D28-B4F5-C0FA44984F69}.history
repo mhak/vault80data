@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Purchase",
     "commandType": "Item",
     "template": "Outcome Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F488B17-3131-4D28-B4F5-C0FA44984F69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:44.7760101Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Purchase",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Purchase",
+    "commandType": "Item",
+    "template": "Outcome Type",
     "sourceControlRevisionId": null
   }
 ]

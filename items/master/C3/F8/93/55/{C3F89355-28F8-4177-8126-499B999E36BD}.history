@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uruguay",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3F89355-28F8-4177-8126-499B999E36BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:41.9991102Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Uruguay",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uruguay",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

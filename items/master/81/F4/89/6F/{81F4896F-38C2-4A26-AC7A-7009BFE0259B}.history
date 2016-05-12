@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81F4896F-38C2-4A26-AC7A-7009BFE0259B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:28.8102019Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

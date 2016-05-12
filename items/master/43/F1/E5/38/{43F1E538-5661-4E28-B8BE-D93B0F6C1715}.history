@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Click",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43F1E538-5661-4E28-B8BE-D93B0F6C1715}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:34.1016201Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost per Click",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Click",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

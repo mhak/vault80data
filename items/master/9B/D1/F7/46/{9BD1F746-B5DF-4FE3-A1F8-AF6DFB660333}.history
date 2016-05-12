@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Entry Page",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9BD1F746-B5DF-4FE3-A1F8-AF6DFB660333}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:04.5100004Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Entry Page",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Entry Page",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

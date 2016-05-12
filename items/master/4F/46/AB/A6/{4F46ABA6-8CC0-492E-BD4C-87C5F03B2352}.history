@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F46ABA6-8CC0-492E-BD4C-87C5F03B2352}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:11.8167394Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Client Side Hooks",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

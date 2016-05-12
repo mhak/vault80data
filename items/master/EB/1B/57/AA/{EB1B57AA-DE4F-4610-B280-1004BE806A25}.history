@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB1B57AA-DE4F-4610-B280-1004BE806A25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:13.2528553Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Month",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{816F72B0-DBE1-4D39-A68E-682FFC31133E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:35.6128374Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Day of Month",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Month",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

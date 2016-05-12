@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54FC77FC-0B1D-48BB-9167-67F832ABD308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:42.8896519Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ISP Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

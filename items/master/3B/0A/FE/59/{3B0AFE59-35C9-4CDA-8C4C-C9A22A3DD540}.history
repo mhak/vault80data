@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/San Marino",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B0AFE59-35C9-4CDA-8C4C-C9A22A3DD540}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:37.4953939Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "San Marino",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/San Marino",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

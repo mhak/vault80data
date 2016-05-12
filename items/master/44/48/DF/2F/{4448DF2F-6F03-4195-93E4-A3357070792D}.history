@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Activity - Classified",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4448DF2F-6F03-4195-93E4-A3357070792D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:51.6883113Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top Leads By Activity - Classified",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Activity - Classified",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

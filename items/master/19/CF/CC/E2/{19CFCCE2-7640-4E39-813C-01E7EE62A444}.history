@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/ProfileKey",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19CFCCE2-7640-4E39-813C-01E7EE62A444}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:10.2948017Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ProfileKey",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/ProfileKey",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

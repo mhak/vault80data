@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Year",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CDF85973-AE7A-436D-A475-2B1F7F178E5F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:13.1196177Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Year",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Year",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

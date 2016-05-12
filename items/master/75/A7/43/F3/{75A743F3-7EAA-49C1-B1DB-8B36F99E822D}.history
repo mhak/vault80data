@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cameroon",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75A743F3-7EAA-49C1-B1DB-8B36F99E822D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:22.2408624Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cameroon",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cameroon",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

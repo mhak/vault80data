@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Create Date Author",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD375467-6234-4D71-8737-34D4CD21BD27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:08.2699813Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Creation Date & Author",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Create Date Author",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

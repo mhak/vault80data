@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Visit",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18C2D156-9B7B-494F-ADB2-2D0D9113000E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:32.9143812Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Visit",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Social/Message/Message/Metadata/Posted Date",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94924CBE-15C3-4FE1-AF5C-2D8B1B474697}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:23.0622968Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Posted Date",
+    "itemPath": "/sitecore/templates/System/Social/Message/Message/Metadata/Posted Date",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

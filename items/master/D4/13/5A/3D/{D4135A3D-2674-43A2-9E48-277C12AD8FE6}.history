@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Greece",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4135A3D-2674-43A2-9E48-277C12AD8FE6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:27.1576830Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Greece",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Greece",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

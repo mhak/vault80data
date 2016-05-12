@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Bucketing",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E83B087-DB39-4DAE-8726-5C35E4E1B677}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:23.1455756Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bucketing",
+    "itemPath": "/sitecore/system/Settings/Rules/Bucketing",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Test Lab",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA1B87AC-0853-45F0-AE13-41F969540134}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:16.0491404Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Lab",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Test Lab",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

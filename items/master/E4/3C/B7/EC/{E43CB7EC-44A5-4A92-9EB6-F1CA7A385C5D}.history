@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Remove Tests Action",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E43CB7EC-44A5-4A92-9EB6-F1CA7A385C5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:00.5003645Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Tests Action",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Remove Tests Action",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

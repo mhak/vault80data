@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/Properties/Album",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7833428C-0E27-4720-90CC-178FFCEB07C1}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:05.0681546Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Album",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/Properties/Album",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

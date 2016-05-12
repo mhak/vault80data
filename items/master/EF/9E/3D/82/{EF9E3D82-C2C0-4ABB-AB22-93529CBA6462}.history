@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/IncludeStandardTemplateFields",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF9E3D82-C2C0-4ABB-AB22-93529CBA6462}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:13.4277376Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IncludeStandardTemplateFields",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/IncludeStandardTemplateFields",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

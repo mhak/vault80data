@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/UpdatedBy",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF89B9F9-F0EF-41B4-8311-E154C1C67AB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:11.6556867Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UpdatedBy",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/UpdatedBy",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

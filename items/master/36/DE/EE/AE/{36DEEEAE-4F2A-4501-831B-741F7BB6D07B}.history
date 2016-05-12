@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Outcomes",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{36DEEEAE-4F2A-4501-831B-741F7BB6D07B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:55.3181387Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Outcomes",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Outcomes",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

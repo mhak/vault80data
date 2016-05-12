@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Links",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{366A7C36-122B-4709-B556-38F1F18F3089}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:47.5744659Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Links",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Links",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

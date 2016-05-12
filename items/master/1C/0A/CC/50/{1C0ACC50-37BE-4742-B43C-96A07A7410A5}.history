@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Workflow",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C0ACC50-37BE-4742-B43C-96A07A7410A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:51.6768710Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Workflow/Workflow",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

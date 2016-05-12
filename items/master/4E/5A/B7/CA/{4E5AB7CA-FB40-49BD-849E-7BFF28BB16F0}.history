@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Eritrea",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E5AB7CA-FB40-49BD-849E-7BFF28BB16F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:24.9431266Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Eritrea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Eritrea",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

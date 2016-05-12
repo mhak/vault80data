@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Goals",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F09A46C-00AF-47EC-8A6B-4375EDA7759E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:52.4931249Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Goals",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

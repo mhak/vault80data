@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gabon",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47505D26-7500-4EB1-8403-B15A2B0CF836}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:26.5317535Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gabon",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gabon",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Analytics",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E635C68-A2AA-47CD-A297-7DA9B05D56FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:08.6796288Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Analytics",
+    "itemPath": "/sitecore/templates/Branches/System/Analytics",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

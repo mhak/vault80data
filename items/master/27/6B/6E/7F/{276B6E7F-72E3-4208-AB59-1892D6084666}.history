@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Security/Security Preset",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{276B6E7F-72E3-4208-AB59-1892D6084666}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:08.7382954Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security Preset",
+    "itemPath": "/sitecore/templates/System/Security/Security Preset",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Role",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B88D5A83-A909-4BC5-90E7-7A8804348CFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:53.6505393Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Role",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Role",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

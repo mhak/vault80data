@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Session begin",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D5B2803-8945-4AAB-BA47-8E380DFA1334}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:47.1239215Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Session begin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Session begin",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

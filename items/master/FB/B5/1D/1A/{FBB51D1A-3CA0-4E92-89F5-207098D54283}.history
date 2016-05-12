@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Layout",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBB51D1A-3CA0-4E92-89F5-207098D54283}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:11.1780463Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Layout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Layout",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

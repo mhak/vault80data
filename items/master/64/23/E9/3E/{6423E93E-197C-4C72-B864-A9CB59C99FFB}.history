@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/Home Landing",
     "commandType": "Item",
     "template": "VisitMap",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6423E93E-197C-4C72-B864-A9CB59C99FFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:49.1295128Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Landing Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/Home Landing",
+    "commandType": "Item",
+    "template": "VisitMap",
     "sourceControlRevisionId": null
   }
 ]

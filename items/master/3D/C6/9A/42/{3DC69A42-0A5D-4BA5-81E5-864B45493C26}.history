@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Seychelles",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DC69A42-0A5D-4BA5-81E5-864B45493C26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:38.0408530Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Seychelles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Seychelles",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCA73DEE-D66C-4534-B86E-2CA23DF3EA25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:34.0416665Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

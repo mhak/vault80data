@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Expired",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C3B393D-FA75-46AC-95E5-49DC2E1C3D35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:57.4257985Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Expired",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Expired",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

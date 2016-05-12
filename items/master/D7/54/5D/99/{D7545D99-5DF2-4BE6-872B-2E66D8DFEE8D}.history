@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow",
     "commandType": "Item",
     "template": "Workflow",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7545D99-5DF2-4BE6-872B-2E66D8DFEE8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:53.6174893Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Message Workflow",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow",
+    "commandType": "Item",
+    "template": "Workflow",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Zip/Properties/File Count",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2611ED8C-ECFF-4449-B25A-20D84B62363A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:05.2370710Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Count",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Zip/Properties/File Count",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

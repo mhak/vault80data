@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score/Lead",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{178107BF-4294-4FA4-A0DA-30BDE00A1346}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:58.0402769Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lead",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score/Lead",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

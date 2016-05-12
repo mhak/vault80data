@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DE79160-73EF-43B7-A438-8949138ADB45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:34.1334998Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

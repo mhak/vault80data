@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Path Analyzer",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{871ED8FD-29C1-4A30-B682-8116A8E5672C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:47.7480226Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Path Analyzer",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Path Analyzer",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

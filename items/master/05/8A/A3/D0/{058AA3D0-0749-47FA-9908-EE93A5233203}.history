@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Contact Classification",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{058AA3D0-0749-47FA-9908-EE93A5233203}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:54.6720775Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Contact Classification",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Contact Classification",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

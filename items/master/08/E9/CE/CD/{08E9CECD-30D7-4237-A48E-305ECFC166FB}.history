@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Andorra",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08E9CECD-30D7-4237-A48E-305ECFC166FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:18.6941130Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Andorra",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Andorra",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

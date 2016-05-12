@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action/__Standard Values",
     "commandType": "Item",
     "template": "Test Candidate Check Action",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0CB779E-5187-4E8B-B089-61C5581DE454}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:02.9163012Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Test Candidate Check Action",
     "sourceControlRevisionId": null
   }
 ]

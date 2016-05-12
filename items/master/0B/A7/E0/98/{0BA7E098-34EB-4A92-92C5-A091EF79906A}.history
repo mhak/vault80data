@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Device Name",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BA7E098-34EB-4A92-92C5-A091EF79906A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:34.2704635Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Device Name",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

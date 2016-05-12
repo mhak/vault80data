@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Notification",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A7F45D9-4CBB-4AB8-962E-EE11B78EF618}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:21.4496948Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Notification",
+    "itemPath": "/sitecore/templates/System/Notification",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

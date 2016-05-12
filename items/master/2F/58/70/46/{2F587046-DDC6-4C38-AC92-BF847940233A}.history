@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Palestinian Territory",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F587046-DDC6-4C38-AC92-BF847940233A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:35.3908740Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Palestinian Territory",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Palestinian Territory",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

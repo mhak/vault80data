@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Rule visibility",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4D11BFB-3337-4712-AFD7-9D6BC8B325AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:31.8859568Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Rule visibility",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

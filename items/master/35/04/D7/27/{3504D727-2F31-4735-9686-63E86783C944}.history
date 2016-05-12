@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test/Winner Found",
     "commandType": "Item",
     "template": "Rule Container",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3504D727-2F31-4735-9686-63E86783C944}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:58.0935449Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Winner Found",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test/Winner Found",
+    "commandType": "Item",
+    "template": "Rule Container",
     "sourceControlRevisionId": null
   }
 ]

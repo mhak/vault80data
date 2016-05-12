@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/User Defined",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FCD09AF6-9BA4-4092-BDD1-C1FCDD54276B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:09.9785626Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Defined",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/User Defined",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

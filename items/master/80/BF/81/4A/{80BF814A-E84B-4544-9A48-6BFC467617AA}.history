@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{80BF814A-E84B-4544-9A48-6BFC467617AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:59.4660716Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MongoDb",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

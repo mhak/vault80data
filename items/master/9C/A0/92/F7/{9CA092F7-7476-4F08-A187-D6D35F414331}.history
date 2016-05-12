@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
     "commandType": "Item",
     "template": "Pattern Card",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CA092F7-7476-4F08-A187-D6D35F414331}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:57.4017861Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Testing Vault",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
+    "commandType": "Item",
+    "template": "Pattern Card",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/String Field",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDCA586D-ACEF-48DB-87F8-8ADAAFF6DC9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:52.0814387Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "String Field",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/String Field",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

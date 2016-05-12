@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Senegal",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85387808-47A0-453E-93C7-4B5DD27F0D55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:37.8312901Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Senegal",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Senegal",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

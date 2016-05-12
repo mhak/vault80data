@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Location",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A34F2EFE-CF7A-4BF3-86DC-589B33C1B236}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:10.9408828Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Location",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Location",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Updated Date",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87A830FB-4E2F-4F76-896B-F20CFA2374DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:09.8605425Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Updated Date",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Updated Date",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

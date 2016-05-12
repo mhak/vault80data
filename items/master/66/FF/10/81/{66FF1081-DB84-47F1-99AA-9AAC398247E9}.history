@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Spaces/Remove Spaces",
     "commandType": "Item",
     "template": "Menu item",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66FF1081-DB84-47F1-99AA-9AAC398247E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:45.0683591Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Spaces",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Spaces/Remove Spaces",
+    "commandType": "Item",
+    "template": "Menu item",
     "sourceControlRevisionId": null
   }
 ]

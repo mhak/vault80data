@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Austria",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{169E9B44-C588-425E-ACAB-2D6962B349BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:19.8356371Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Austria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Austria",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

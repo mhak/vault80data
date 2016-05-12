@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Height",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:02.7254198Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Height",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Height",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

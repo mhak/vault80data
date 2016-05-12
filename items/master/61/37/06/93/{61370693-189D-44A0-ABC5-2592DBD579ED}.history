@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/Global Visit No",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61370693-189D-44A0-ABC5-2592DBD579ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:05.6745582Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global Visit No",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visitor/Global Visit No",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

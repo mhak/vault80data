@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Xhtml",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB57D0E7-5202-4C3D-838B-314F2B95A2CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:40.9472633Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Xhtml",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Xhtml",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

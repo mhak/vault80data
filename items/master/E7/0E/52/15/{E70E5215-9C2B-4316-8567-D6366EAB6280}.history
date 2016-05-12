@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Serbia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E70E5215-9C2B-4316-8567-D6366EAB6280}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:37.9084800Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Serbia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Serbia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

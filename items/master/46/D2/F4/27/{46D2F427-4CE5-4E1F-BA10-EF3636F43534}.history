@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/layout/Devices/Print",
     "commandType": "Item",
     "template": "Device",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46D2F427-4CE5-4E1F-BA10-EF3636F43534}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:18.6863924Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Print",
+    "itemPath": "/sitecore/layout/Devices/Print",
+    "commandType": "Item",
+    "template": "Device",
     "sourceControlRevisionId": null
   }
 ]

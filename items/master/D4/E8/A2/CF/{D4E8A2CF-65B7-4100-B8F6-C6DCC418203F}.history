@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mali",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4E8A2CF-65B7-4100-B8F6-C6DCC418203F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:31.9036583Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mali",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mali",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

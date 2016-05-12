@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Archiving",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82CF4B07-CCDD-4DA3-9ACD-F5474D345372}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:19.8159499Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Archiving",
+    "itemPath": "/sitecore/templates/System/Archiving",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

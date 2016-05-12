@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012",
     "commandType": "Item",
     "template": "Bucket",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54C48BE2-7532-4343-B4CA-8B6D65C18AD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:20.9033753Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "2012",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012",
+    "commandType": "Item",
+    "template": "Bucket",
     "sourceControlRevisionId": null
   }
 ]

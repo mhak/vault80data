@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Order",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{732F96AC-2796-472A-917A-EFB209CF535B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:33.9393320Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Order",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Order",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Personalization Visits By Range",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58F3132C-6C6B-416D-BCCC-527CA1ED33D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:54.7869948Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization Visits By Range",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Personalization Visits By Range",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

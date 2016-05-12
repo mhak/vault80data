@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Facets",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5AF8370F-9B98-4666-B850-DAD4D458A86D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:32.3828263Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facets",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Facets",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

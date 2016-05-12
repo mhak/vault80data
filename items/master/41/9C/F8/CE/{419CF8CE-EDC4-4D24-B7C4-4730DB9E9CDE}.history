@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Analytics Enabled",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{419CF8CE-EDC4-4D24-B7C4-4730DB9E9CDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:57.2179676Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Analytics Enabled",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Analytics Enabled",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

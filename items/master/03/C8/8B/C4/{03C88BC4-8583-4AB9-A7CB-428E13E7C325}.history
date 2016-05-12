@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Engagement Value Points",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03C88BC4-8583-4AB9-A7CB-428E13E7C325}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:01.7001982Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Value Points",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Engagement Value Points",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

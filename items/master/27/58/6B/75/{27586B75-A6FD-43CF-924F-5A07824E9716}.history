@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information",
     "commandType": "Item",
     "template": "Accordion",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27586B75-A6FD-43CF-924F-5A07824E9716}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:06.9962222Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Information",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information",
+    "commandType": "Item",
+    "template": "Accordion",
     "sourceControlRevisionId": null
   }
 ]

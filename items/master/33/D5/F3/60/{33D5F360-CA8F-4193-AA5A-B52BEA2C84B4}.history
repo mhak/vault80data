@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor/Administrator",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33D5F360-CA8F-4193-AA5A-B52BEA2C84B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:54.0794117Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Administrator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor/Administrator",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Indexing and Search/Global Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7070DB0-DDCF-4F86-90D4-825DC18BC57E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:39.8340023Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Global Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Indexing and Search/Global Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/New Page Visitors",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B9FF220-2B1D-4508-88CF-F23A31007805}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:49.6738190Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Page Visitors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/New Page Visitors",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

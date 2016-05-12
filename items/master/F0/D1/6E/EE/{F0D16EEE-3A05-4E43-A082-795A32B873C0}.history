@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Condition",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0D16EEE-3A05-4E43-A082-795A32B873C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:52.8034934Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Condition",
+    "itemPath": "/sitecore/templates/System/Rules/Condition",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

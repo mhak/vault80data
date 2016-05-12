@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/starts with",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDD7C6B1-622A-4362-9CFF-DDE9866C68EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:27.1067912Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "starts with",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/starts with",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

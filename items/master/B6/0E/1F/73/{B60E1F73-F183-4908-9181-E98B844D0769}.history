@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Accounts",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B60E1F73-F183-4908-9181-E98B844D0769}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:41.8910838Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Empty Accounts",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Accounts",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/ZipCode",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB540BF1-B2EB-47C9-A55F-F01B2FCA5851}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:01.1569715Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ZipCode",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/ZipCode",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

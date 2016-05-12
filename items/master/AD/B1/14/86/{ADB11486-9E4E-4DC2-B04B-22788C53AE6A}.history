@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Root item only",
     "commandType": "Item",
     "template": "Item",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADB11486-9E4E-4DC2-B04B-22788C53AE6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:22.9659672Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Root item only",
+    "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Root item only",
+    "commandType": "Item",
+    "template": "Item",
     "sourceControlRevisionId": null
   }
 ]

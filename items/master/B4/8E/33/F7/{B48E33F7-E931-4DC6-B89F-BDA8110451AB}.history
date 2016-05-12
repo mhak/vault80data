@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Workflow/Workflow has final state",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B48E33F7-E931-4DC6-B89F-BDA8110451AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:49.8715430Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow has final state",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Workflow/Workflow has final state",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Social/Networks",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{696279A6-1462-4E4C-ACEF-77233C571F1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:50.2708311Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Networks",
+    "itemPath": "/sitecore/system/Social/Networks",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

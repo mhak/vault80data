@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Maps Coordinates",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A34104CA-F461-4A2E-A87B-22B9679D2739}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:50.1572089Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organization Maps Coordinates",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Maps Coordinates",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

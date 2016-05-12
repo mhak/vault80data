@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Bucket",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9649925-64C2-4EF9-AA66-CF20D6925929}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:08.1840153Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bucket",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Bucket",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

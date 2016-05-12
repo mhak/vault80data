@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Edit/Edit Message",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DEC8F91-C45B-4E38-A6C7-01F1F865F2C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:59.7458654Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Message",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Edit/Edit Message",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

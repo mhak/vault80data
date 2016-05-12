@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab Not Selected",
     "commandType": "Item",
     "template": "Open Result Type",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03A6F40D-AA49-41DD-A5AC-74A2724174A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:20.2940539Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Tab Not Selected",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab Not Selected",
+    "commandType": "Item",
+    "template": "Open Result Type",
     "sourceControlRevisionId": null
   }
 ]

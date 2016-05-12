@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Templates/New Template",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78CF88BA-6957-4366-8368-12F3CED0184F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:17.0630089Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Template",
+    "itemPath": "/sitecore/templates/Branches/System/Templates/New Template",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

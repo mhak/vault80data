@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Toolbar",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A1A3B48-3434-4E5A-8F05-AD6E1687D888}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:38.2356655Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Toolbar",
+    "itemPath": "/sitecore/templates/System/Ribbon/Toolbar",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

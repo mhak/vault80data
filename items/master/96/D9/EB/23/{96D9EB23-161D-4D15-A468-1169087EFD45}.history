@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval/Edit/Edit Message",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96D9EB23-161D-4D15-A468-1169087EFD45}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:02.0428560Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Message",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval/Edit/Edit Message",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

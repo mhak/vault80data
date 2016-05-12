@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Script Cache",
     "commandType": "Item",
     "template": "Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61F081A0-229F-4E95-8748-37B41540893D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:34.2906292Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clear Script Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Script Cache",
+    "commandType": "Item",
+    "template": "Rule",
     "sourceControlRevisionId": null
   }
 ]

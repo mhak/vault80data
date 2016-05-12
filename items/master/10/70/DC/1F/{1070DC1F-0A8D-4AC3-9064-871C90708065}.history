@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Traffic Type/Data/Value",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1070DC1F-0A8D-4AC3-9064-871C90708065}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:03.3138131Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Value",
+    "itemPath": "/sitecore/templates/System/Analytics/Traffic Type/Data/Value",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

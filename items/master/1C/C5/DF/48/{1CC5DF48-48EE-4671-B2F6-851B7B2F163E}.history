@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Security",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CC5DF48-48EE-4671-B2F6-851B7B2F163E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:54:22.3909721Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security",
+    "itemPath": "/sitecore/templates/System/Security",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

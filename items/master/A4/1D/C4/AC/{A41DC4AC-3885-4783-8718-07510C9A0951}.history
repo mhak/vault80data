@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Warning",
     "commandType": "Item",
     "template": "Validation Result",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A41DC4AC-3885-4783-8718-07510C9A0951}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:37.6240986Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Warning",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Warning",
+    "commandType": "Item",
+    "template": "Validation Result",
     "sourceControlRevisionId": null
   }
 ]

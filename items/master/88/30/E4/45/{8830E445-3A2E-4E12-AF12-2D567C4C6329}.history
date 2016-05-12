@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators/ascending",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8830E445-3A2E-4E12-AF12-2D567C4C6329}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:25.9672570Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ascending",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators/ascending",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

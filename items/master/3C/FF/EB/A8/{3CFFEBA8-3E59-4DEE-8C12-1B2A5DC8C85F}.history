@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Load Item",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CFFEBA8-3E59-4DEE-8C12-1B2A5DC8C85F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:14.3518502Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Load Item",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Load Item",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

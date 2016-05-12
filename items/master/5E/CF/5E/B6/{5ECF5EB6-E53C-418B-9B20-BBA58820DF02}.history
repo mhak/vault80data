@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Campaigns/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5ECF5EB6-E53C-418B-9B20-BBA58820DF02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:37.9415381Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Campaigns/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

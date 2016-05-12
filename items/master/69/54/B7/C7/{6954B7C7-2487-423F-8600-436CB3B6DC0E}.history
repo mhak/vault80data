@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Size",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6954B7C7-2487-423F-8600-436CB3B6DC0E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:00.4621944Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Size",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Size",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Insert Rules",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{083CC92D-03B7-46FB-BCE2-1C9DDAEB89DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:09.9442454Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Insert Rules",
+    "itemPath": "/sitecore/system/Settings/Insert Rules",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ireland",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC15683B-6A88-45FC-A6B7-67BCB413DF65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:29.1401044Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ireland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ireland",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

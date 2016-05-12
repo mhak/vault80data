@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98B2FA9A-C3AC-4B0D-90B4-6F439C60463E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:00.0089780Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Winner",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

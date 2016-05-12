@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Spain",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD9430CB-848E-4E9C-87A6-1A081E2FE977}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:39.4447547Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Spain",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Spain",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

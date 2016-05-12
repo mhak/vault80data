@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Visit Detail/Visit Detail",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{301D9665-31F6-4FF1-AB24-586459A0F664}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:06.9693122Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Detail",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Visit Detail/Visit Detail",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

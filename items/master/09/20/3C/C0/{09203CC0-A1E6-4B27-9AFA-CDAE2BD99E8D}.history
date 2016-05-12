@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Filters",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09203CC0-A1E6-4B27-9AFA-CDAE2BD99E8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:11.1141705Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Filters",
+    "itemPath": "/sitecore/system/Settings/Analytics/Filters",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

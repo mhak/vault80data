@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Not Found Urls",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{570E1A7B-1343-4121-B878-9B8D3E1B2902}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:49.7654113Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Not Found Urls",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Not Found Urls",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

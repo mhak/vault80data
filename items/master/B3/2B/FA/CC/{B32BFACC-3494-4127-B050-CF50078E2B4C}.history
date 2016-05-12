@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Scope",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B32BFACC-3494-4127-B050-CF50078E2B4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:56.5852240Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Scope",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Scope",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

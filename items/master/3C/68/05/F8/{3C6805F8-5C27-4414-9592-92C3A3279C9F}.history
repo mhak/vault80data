@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap/Scope/TargetAsset",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C6805F8-5C27-4414-9592-92C3A3279C9F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:29.0371610Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetAsset",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/AssetMap/Scope/TargetAsset",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

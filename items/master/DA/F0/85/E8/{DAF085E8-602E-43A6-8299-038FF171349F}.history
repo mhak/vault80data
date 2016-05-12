@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DAF085E8-602E-43A6-8299-038FF171349F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:58.3621854Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Jpeg",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

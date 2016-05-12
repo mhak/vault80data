@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Oman",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17B5DF8B-1512-4B4A-89EC-1E88D9471579}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:35.0422481Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Oman",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Oman",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

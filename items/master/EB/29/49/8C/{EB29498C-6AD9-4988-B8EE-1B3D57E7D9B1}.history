@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Treelist",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB29498C-6AD9-4988-B8EE-1B3D57E7D9B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:11.1131380Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Treelist",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Treelist",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

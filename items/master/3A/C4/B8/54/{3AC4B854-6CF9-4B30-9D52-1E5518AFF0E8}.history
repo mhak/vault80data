@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Action/Script",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3AC4B854-6CF9-4B30-9D52-1E5518AFF0E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:54.4419449Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Script",
+    "itemPath": "/sitecore/templates/System/Rules/Action/Script",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

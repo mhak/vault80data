@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Page Views By Item Id",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33A4181C-6FF1-4A4E-9B42-8F7A54F70699}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:54.6102723Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Views By Item Id",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Page Views By Item Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

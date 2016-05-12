@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Netherlands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{541DEF44-D42D-45F2-991E-293F7E65BF57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:34.1155201Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Netherlands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Netherlands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

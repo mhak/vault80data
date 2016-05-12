@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks/sort",
     "commandType": "Item",
     "template": "Clientside Hook",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1B3B270-7006-4F3B-84F2-3D3239FB47B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:13.0062916Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sort",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks/sort",
+    "commandType": "Item",
+    "template": "Clientside Hook",
     "sourceControlRevisionId": null
   }
 ]

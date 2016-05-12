@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Unit ContactData",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D7298E4-AE17-4AE5-86EB-51FE080EBC92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:52.1893781Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unit ContactData",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Unit ContactData",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

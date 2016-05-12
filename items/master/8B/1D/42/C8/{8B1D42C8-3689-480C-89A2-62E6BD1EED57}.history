@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Spaces",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B1D42C8-3689-480C-89A2-62E6BD1EED57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:44.4593170Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "No Spaces",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Spaces",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security/Owned By Non Existing User",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD44D084-8C07-4E03-96A3-D17BC9A87268}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:49.6701424Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Owned By Non Existing User",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security/Owned By Non Existing User",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

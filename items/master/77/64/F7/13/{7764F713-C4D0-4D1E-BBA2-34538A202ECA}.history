@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages Visits",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7764F713-C4D0-4D1E-BBA2-34538A202ECA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:50.9403207Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

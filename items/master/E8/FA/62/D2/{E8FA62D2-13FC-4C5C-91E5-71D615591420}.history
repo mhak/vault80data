@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/LocationDescription",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8FA62D2-13FC-4C5C-91E5-71D615591420}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:56:00.7265473Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LocationDescription",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/LocationDescription",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

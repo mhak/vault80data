@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Subitems Sorting/Logical",
     "commandType": "Item",
     "template": "Child Sorting",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA1DECB2-B4F2-4AE0-99A8-30FDED9B8B50}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:39.0376515Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Logical",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Logical",
+    "commandType": "Item",
+    "template": "Child Sorting",
     "sourceControlRevisionId": null
   }
 ]

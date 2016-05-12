@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gambia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9EFCF77-D3AF-4954-8543-2416BBF0A02F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:26.6567243Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Gambia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gambia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

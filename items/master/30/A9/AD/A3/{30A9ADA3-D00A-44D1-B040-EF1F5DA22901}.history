@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30A9ADA3-D00A-44D1-B040-EF1F5DA22901}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:25.7372523Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Obsolete",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

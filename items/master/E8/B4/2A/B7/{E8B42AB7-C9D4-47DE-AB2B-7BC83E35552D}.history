@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kazakhstan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8B42AB7-C9D4-47DE-AB2B-7BC83E35552D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:29.9291559Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kazakhstan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kazakhstan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

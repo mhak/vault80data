@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Tweet",
     "commandType": "Item",
     "template": "Goal",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B6F2891-22A2-4AD6-8033-3E3504F481B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:49:34.9492920Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tweet",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Tweet",
+    "commandType": "Item",
+    "template": "Goal",
     "sourceControlRevisionId": null
   }
 ]

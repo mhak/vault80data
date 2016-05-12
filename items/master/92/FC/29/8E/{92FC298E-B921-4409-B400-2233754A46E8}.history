@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ethiopia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92FC298E-B921-4409-B400-2233754A46E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:50:25.1440612Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ethiopia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ethiopia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

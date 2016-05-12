@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Tasks",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF58CA2C-3E59-44E0-82C1-97FF9B98535F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:45.3536314Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tasks",
+    "itemPath": "/sitecore/system/Tasks",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

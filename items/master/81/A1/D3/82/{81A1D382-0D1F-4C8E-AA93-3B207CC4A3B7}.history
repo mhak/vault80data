@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Top Traffic Sources Coming to this Page",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81A1D382-0D1F-4C8E-AA93-3B207CC4A3B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:03.2466423Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top Traffic Sources Coming to this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Top Traffic Sources Coming to this Page",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is less than or equal to",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E1FC840-5919-4C66-8182-A33A1039EDBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:52:25.7876096Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is less than or equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is less than or equal to",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

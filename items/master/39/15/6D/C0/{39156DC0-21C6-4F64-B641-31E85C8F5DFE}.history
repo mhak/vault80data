@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Workflow/Draft",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39156DC0-21C6-4F64-B641-31E85C8F5DFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:54.4805295Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Draft",
+    "itemPath": "/sitecore/system/Workflows/Analytics Workflow/Draft",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

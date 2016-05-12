@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cacheable",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9409DA1-2614-4CFF-AD9B-6ED1A1688B33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:11.5323127Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cacheable",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cacheable",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

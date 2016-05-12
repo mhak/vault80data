@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Docx",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BB0411F-50CD-4C21-AD8F-1FCDE7C3AFFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:55:57.9666915Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Docx",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Docx",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Security/Presets",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{834AF83B-D89E-4D8B-8EDD-D89240D29AA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:38.1568620Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Presets",
+    "itemPath": "/sitecore/system/Settings/Security/Presets",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

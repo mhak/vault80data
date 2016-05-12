@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Sample Sublayout",
     "commandType": "Item",
     "template": "Sublayout",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{885B8314-7D8C-4CBB-8000-01421EA8F406}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:48:24.4715979Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Sublayout",
+    "commandType": "Item",
+    "template": "Sublayout",
     "sourceControlRevisionId": null
   }
 ]

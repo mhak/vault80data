@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/templates/System/Experience Analytics/Branches/Dimension/$name",
     "commandType": "Item",
     "template": "Dimension",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F478FEFD-CAA0-4B24-8991-4E6FD0F3D94E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:57:57.6796414Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Branches/Dimension/$name",
+    "commandType": "Item",
+    "template": "Dimension",
     "sourceControlRevisionId": null
   }
 ]

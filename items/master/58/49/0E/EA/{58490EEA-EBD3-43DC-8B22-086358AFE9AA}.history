@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Marketing Workflows",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58490EEA-EBD3-43DC-8B22-086358AFE9AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:24.2373850Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Workflows",
+    "itemPath": "/sitecore/system/Settings/Rules/Marketing Workflows",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

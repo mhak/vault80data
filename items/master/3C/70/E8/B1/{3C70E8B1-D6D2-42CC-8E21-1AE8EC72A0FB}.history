@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Segment/Deployed",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:57.0691737Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Deployed",
+    "itemPath": "/sitecore/system/Workflows/Segment/Deployed",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

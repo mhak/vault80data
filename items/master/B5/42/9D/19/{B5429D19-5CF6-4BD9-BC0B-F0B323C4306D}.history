@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Database Name",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "3f259c98a5bb056a02acbb32ba6ebd3168d6102c"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5429D19-5CF6-4BD9-BC0B-F0B323C4306D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:51:34.1701625Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Database Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Database Name",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

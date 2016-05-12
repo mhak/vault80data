@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Workflow",
     "commandType": "Item",
     "template": "Workflow",
+    "sourceControlRevisionId": "0103c1ccd6100e6ab647f411685bfc19f191a415"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{689E2994-4656-4C58-9112-7826CB46EE69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-12T22:53:53.0540336Z",
+    "label": "Snapshot - Amir",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Analytics Workflow",
+    "itemPath": "/sitecore/system/Workflows/Analytics Workflow",
+    "commandType": "Item",
+    "template": "Workflow",
     "sourceControlRevisionId": null
   }
 ]
