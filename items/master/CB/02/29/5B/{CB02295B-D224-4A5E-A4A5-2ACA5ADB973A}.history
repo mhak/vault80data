@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home/Splash",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "aa95269c9c578f4f0ae1029cd92edc48648e0b4a"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{CB02295B-D224-4A5E-A4A5-2ACA5ADB973A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:28.3857500Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Splash",
+    "itemPath": "/sitecore/content/Home/Splash",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
