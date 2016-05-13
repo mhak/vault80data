@@ -12,8 +12,22 @@ templatekey: Navigation Item
 ----version----
 language: en
 version: 1
-revision: e9423416-4d1c-45ee-aa3e-62847299ec49
+revision: e395af61-89de-4584-8ba3-0813bd9d186a
 
+----field----
+field: {B64BEEC6-0D5B-47A2-B972-7A0A3C4F3D39}
+name: Name
+key: name
+content-length: 7
+
+Savings
+----field----
+field: {6AD23FA0-5D8E-4D8E-A7CB-724731E7A888}
+name: Link
+key: link
+content-length: 168
+
+<link id="{5F85D77D-D60A-4DD0-B02A-DDDD46A29F92}" querystring="" text="" linktype="internal" url="/Home/My-Banking/Savings" title="" class="" target="Active Browser" />
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -27,7 +41,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T192923Z
+20160407T230802Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -41,7 +55,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e9423416-4d1c-45ee-aa3e-62847299ec49
+e395af61-89de-4584-8ba3-0813bd9d186a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
