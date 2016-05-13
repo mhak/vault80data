@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Sign-Up-Content",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "9bba3b5d342809749531a54433c6bb74b2eedf0f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8786970B-61B9-4E52-B339-121DEB7624AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:09.0170726Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign-Up-Content",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Sign-Up-Content",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
