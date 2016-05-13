@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Title",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "c3454728773b3a79fc54345aade87ccb9ac9bd10"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{B2C188D1-E2D5-4C72-9E58-6155199D026D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:08.7849125Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal Banking Title",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Title",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
