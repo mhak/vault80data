@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu/Credit and Loads",
     "commandType": "Item",
     "template": "Banking Menu List",
+    "sourceControlRevisionId": "60fa66a34e6ec5a0f12df1c789b0e2c683ec1a73"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{42CB8B1E-0DB5-46D6-B5EB-BCE2EAA0462C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:51.7382573Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Credit and Loads",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu/Credit and Loads",
+    "commandType": "Item",
+    "template": "Banking Menu List",
     "sourceControlRevisionId": null
   }
 ]
