@@ -12,36 +12,62 @@ templatekey: Promotion
 ----version----
 language: en
 version: 1
-revision: e37a1eb7-e782-47e4-8217-ee872d315be4
+revision: 63a01a2c-85e7-48cb-be21-bda767d51452
+
+----field----
+field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
+name: Promotion Text
+key: promotion text
+content-length: 900
+
+
+<section class="wealth-hero component">
+    <div class="wealth-hero__inner">
+        
+		<figure class="wealth-hero__image-container">
+			<img src="/Assets/images/charts/my-wealth/Wealth_Hero.png" srcset="/Assets/images/charts/my-wealth/Wealth_Hero@2x.png 2x" alt="">
+		</figure>
+		
+		<div class="wealth-hero__text-container">
+			<h4>Objective</h4>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et accusantium reprehenderit aliquam numquam, fuga, natus, fugiat odit distinctio illo at unde cupiditate commodi quo quis laboriosam veritatis quod. Nostrum, incidunt!</p>
+
+			<h4>Primary Portfolio</h4>
+
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro sed adipisci repudiandae laudantium dolore! Optio perferendis illo dolorum similique, soluta eum cupiditate, assumenda consequatur maiores quod commodi nulla recusandae quasi?</p>
+		</div>
+    </div>
+</section>
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T192911Z
+20160328T025451Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-e37a1eb7-e782-47e4-8217-ee872d315be4
+63a01a2c-85e7-48cb-be21-bda767d51452
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
