@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/LoginView",
     "commandType": "Item",
     "template": "View rendering",
+    "sourceControlRevisionId": "832d5c86bd5d1e9d7c90224ed8c34e64f17e2275"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FF0F0B68-A9CC-4C5B-8468-96FED069B70E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:38.3478532Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "LoginView",
+    "itemPath": "/sitecore/layout/Renderings/Demo/LoginView",
+    "commandType": "Item",
+    "template": "View rendering",
     "sourceControlRevisionId": null
   }
 ]
