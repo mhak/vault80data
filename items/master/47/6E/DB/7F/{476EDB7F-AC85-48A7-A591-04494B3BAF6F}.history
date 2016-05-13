@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Sign-Up",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "f3eee72360ea58e2f9ea8dc3f76e0292fe942d9a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{476EDB7F-AC85-48A7-A591-04494B3BAF6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:32.7208107Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign-Up",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Sign-Up",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
