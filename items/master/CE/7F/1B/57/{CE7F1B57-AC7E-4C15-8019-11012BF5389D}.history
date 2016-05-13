@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Page Titles",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "6c00697f09599013b4040d1e95565ededf7a7697"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CE7F1B57-AC7E-4C15-8019-11012BF5389D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:10.7747244Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Page Titles",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Page Titles",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
