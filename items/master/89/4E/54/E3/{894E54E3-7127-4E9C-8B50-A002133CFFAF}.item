@@ -12,36 +12,63 @@ templatekey: Promotion
 ----version----
 language: en
 version: 1
-revision: b27d67c4-59d3-45c6-a337-6fe409600921
+revision: 38a88736-1770-4075-be76-34bbef11985a
+
+----field----
+field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
+name: Promotion Text
+key: promotion text
+content-length: 1295
+
+<section class="component free-trial">
+<header class="component-header">
+<h3 class="component-header__title">Wakitol Free Trial</h3>
+</header>
+<div class="free-trial__inner component__inner">
+<div class="columns columns--50-50 flexed">
+<div class="column free-trial__item">
+<h4>Upload your Epic record to get started.</h4>
+<br>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum reprehenderit est quibusdam, ea dolore, incidunt excepturi animi. Asperiores perferendis veniam cumque, autem eos tempora recusandae quae deserunt numquam natus commodi.  Ipsum, magnam facilis, dolor eaque quae laborum vitae nobis debitis dolores quod earum sit et unde, omnis magni qui, nesciunt! Cupiditate, illo? Iusto, provident, a ex corrupti beatae eligendi asperiores.</p>
+<br>
+<p><a id="open_btn" class="btn btn--white text-uppercase">Upload</a></p>
+</div>
+<div class="column free-trial__item">
+<img alt="" src="/Assets/images/charts/my-health/Chart_graphic.png" srcset="/Assets/images/charts/my-health/Chart_graphic@2x.png 2x" width="483" height="268">
+<p class="text-left">* Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum praesentium blanditiis, dolor neque esse quasi minus. Officiis nesciunt dolorem, molestias deleniti sapiente maxime.</p>
+</div>
+</div>
+</div>
+</section>
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T192910Z
+20160328T025152Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-b27d67c4-59d3-45c6-a337-6fe409600921
+38a88736-1770-4075-be76-34bbef11985a
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
