@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Banking Settings/Busines Banking Menu/Banking",
     "commandType": "Item",
     "template": "Banking Menu List",
+    "sourceControlRevisionId": "023bdb17601eceb11cd4c15106b36de1e8620582"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{D23F51EE-2202-4403-B975-D391011A1B19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:51.8880635Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Busines Banking Menu/Banking",
+    "commandType": "Item",
+    "template": "Banking Menu List",
     "sourceControlRevisionId": null
   }
 ]
