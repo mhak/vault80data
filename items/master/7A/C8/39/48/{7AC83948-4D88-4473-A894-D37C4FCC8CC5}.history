@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Testimonial",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "b80dc91a91877054c86069c5c4a9124c2e19fb6e"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7AC83948-4D88-4473-A894-D37C4FCC8CC5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:05.0162747Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business - Testimonial",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Testimonial",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
