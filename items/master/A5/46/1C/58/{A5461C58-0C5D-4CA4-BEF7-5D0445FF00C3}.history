@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal - Logged In",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "c7d0c8c9751fbcb576576af59a1f8400d1f869a5"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{A5461C58-0C5D-4CA4-BEF7-5D0445FF00C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:08.0388179Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal - Logged In",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal - Logged In",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
