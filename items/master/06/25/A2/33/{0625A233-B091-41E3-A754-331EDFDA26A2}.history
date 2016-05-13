@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Banking Settings",
     "commandType": "Item",
     "template": "Settings",
+    "sourceControlRevisionId": "3a3fe70bf90a2e4a3776242ea4a36d8bfeabf9fc"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{0625A233-B091-41E3-A754-331EDFDA26A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:48.5719113Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Settings",
+    "itemPath": "/sitecore/content/Global/Banking Settings",
+    "commandType": "Item",
+    "template": "Settings",
     "sourceControlRevisionId": null
   }
 ]
