@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Home/CREATE",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": "bc9de95a494ed1c8a931a28bb39396bec89b0e7f"
+    "sourceControlRevisionId": "c7cb2525d4d20f658fa4f85b2d60564effee3877"
+  },
+  {
+    "eventType": "VaultRestored",
+    "database": "master",
+    "itemId": "{C4EAFE34-919E-49B0-9F71-E075AC602802}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T01:25:37.9631438Z",
+    "label": "Restored",
+    "workflowState": "{46DA5376-10DC-4B66-B464-AFDAA29DE84F}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CREATE",
+    "itemPath": "/sitecore/content/Home/CREATE",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null
   }
 ]
