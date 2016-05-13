@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Navigation Folder/Privacy Policy",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "29653c7a7a5f74a7f98e5dac9f2b953989a689c9"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F3DACF48-EAD7-4A95-A9CF-96921FE6C163}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:18.1361492Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Privacy Policy",
+    "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Navigation Folder/Privacy Policy",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
