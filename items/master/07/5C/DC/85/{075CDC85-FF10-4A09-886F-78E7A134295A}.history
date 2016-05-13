@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/Sign-In",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "69e9b023718604dfe62a087d167092c5413e6963"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{075CDC85-FF10-4A09-886F-78E7A134295A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:28.1731927Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign-In",
+    "itemPath": "/sitecore/content/Home/Sign-In",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
