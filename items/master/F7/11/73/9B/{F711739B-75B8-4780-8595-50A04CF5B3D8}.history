@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu",
     "commandType": "Item",
     "template": "Banking Menu",
+    "sourceControlRevisionId": "963a58db1be2dec3bd14a89a7d72e8a3547e43bf"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{F711739B-75B8-4780-8595-50A04CF5B3D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:51.0717837Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal Banking Menu",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu",
+    "commandType": "Item",
+    "template": "Banking Menu",
     "sourceControlRevisionId": null
   }
 ]
