@@ -12,36 +12,324 @@ templatekey: Promotion
 ----version----
 language: en
 version: 1
-revision: a5d10cac-8296-41fc-ba43-e65fffbbe128
+revision: 3182cb45-561d-494d-a399-88cdec137aab
+
+----field----
+field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
+name: Promotion Text
+key: promotion text
+content-length: 9795
+
+
+
+
+<style>
+.business-help__item {
+	display: inline-block;
+	height:100%;
+	text-align: center;
+	
+}
+.business-help__inner{
+	background-color: #FAFAFA;
+	height:200px;
+}
+
+.business-help__inner .helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.business-help__item img {
+    vertical-align: middle;
+    max-height: 300px;
+    max-width: 160px;
+}
+
+.business-help__item h4 {
+	line-height:24px;
+	font-size:20px;
+	color: #BA9E0C;
+}
+.business-help .component-header{
+border:0;
+}
+
+.business-help .component-header__title {
+font-size:30px;
+line-height:36px;
+}
+
+.multi-item-carousel .carousel-inner > .item {
+  -webkit-transition: 500ms ease-in-out left;
+  transition: 500ms ease-in-out left;
+}
+.multi-item-carousel .carousel-inner .active.left {
+  left: -25%;
+  background-image:none;
+}
+.multi-item-carousel .carousel-inner .active.right {
+  left: 25%;
+  background-image:none;
+}
+.multi-item-carousel .carousel-inner .next {
+  left: 25%;
+}
+.multi-item-carousel .carousel-inner .prev {
+  left: -25%;
+}
+@media all and (transform-3d), (-webkit-transform-3d) {
+  .multi-item-carousel .carousel-inner > .item {
+    -webkit-transition: 500ms ease-in-out all;
+    transition: 500ms ease-in-out all;
+    -webkit-backface-visibility: visible;
+            backface-visibility: visible;
+    -webkit-transform: none!important;
+            transform: none!important;
+  }
+}
+.multi-item-carousel .carousel-control.left,
+.multi-item-carousel .carousel-control.right {
+  background-image: none;
+  top:60px;
+}
+.multi-item-carousel .img-responsive{display:inline-block;}
+.multi-item-carousel .img-responsive{display:inline-block;}
+.multi-item-carousel h4{ color:#BA9E0C; font-size:20px;line-height:24px;padding-top:10px;}
+</style>
+
+    <section class="component business-help">
+      <header class="component-header">
+        <h3 class="component-header__title">How may we help you?</h3>
+      </header>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="component__inner business-help__inner">
+            <div class="carousel slide multi-item-carousel" id="theCarousel">
+            <div class="carousel-inner" style="width:80%;top:34px;left:10%;text-align:center;">
+              <div class="item active">
+                <div class="col-xs-3">
+                  <a href="#1">
+                    <img src="/assets/images/business/mobile.svg" class="img-responsive">
+                  </a>
+                  <h4 style="vertical-align:top;">Mobile Banking</h4>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-xs-3">
+                  <a href="#1">
+                    <img src="/assets/images/business/merchant.svg" class="img-responsive" style="vertical-align:bottom;padding-bottom:20px;">
+                  </a>
+                  <h4>Merchant Services</h4>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-xs-3">
+                  <a href="#1">
+                    <img src="/assets/images/business/pay.svg" class="img-responsive">
+                  </a>
+                  <h4>Payroll Services</h4>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-xs-3">
+                  <a href="#1">
+                    <img src="/assets/images/business/business.svg" class="img-responsive">
+                  </a>
+                  <h4>Small Business Loans</h4>
+                </div>
+              </div>
+              <div class="item">
+                <div class="col-xs-3">
+                  <a href="#1">
+                    <img src="/assets/images/business/building.svg" class="img-responsive">
+                  </a>
+                  <h4>Real Estate / Construction</h4>
+                </div>
+              </div>
+            </div>
+            <a class="left carousel-control" href="#theCarousel" data-slide="prev">
+              <img src="/assets/images/business/arrow_left.svg">
+            </a> 
+            <a class="right carousel-control" href="#theCarousel" data-slide="next">
+              <img src="/assets/images/business/arrow_right.svg">
+            </a></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+<style>
+    .disclosures{
+        background: white;
+    }
+
+    .disclosures .line{
+        padding: 2px 0;
+    }
+</style>
+
+<section class="component">
+    <div class="component__inner" style="background-image: url(/assets/images/business/testimonial_img.png);color:#FAFAFA;padding:0;">
+		<div style="padding:30px 0 30px 36px;background:linear-gradient(to right, rgba(0,0 ,0, 1), rgba(0,0,0,0));height:100%;width:70%;">
+		<h2 style="font-size:40px;line-height:40px;padding-top:">SMALL BUSINESS <br>SOLUTIONS. REAL RESULTS</h2>
+		<h4 style="max-width: 350px; margin-top: 40px;color:#FAFAFA;font-size:22px;line-height:24px;" class="quote-component__quote"><em>Healthy + Wealthy helped us get the added capital to expand to our next location.</em></h4>
+		<p style="margin-left:239px; max-width:190px;font-size:14px;line-height:17px;">Karen Oakwood - Bon Bakery
+Healthy + Wealthy since 2015</p>
+		<a style="line-height:24px;display:inline-block;margin-top:10px;background-color: #04ADC1; border-radius:30px;font-size:20px;color:#242424;padding:7px 22px 9px 23px;height:40px;width:200px;">Watch the Video</a>
+		</div>
+	</div>
+</section>
+
+<style>
+.news-insights h4 {
+	color:#484848;padding-top:20px;
+}
+
+.quote-component__quote:before {
+    color: #FAFAFA;
+}
+</style>
+<section class="component performance news-insights">
+        <div class="component__inner performance__inner" style="padding-top:18px;">
+		<div class="columns columns--50-50">
+			<div class=" col-xs-4">
+				<img src="/assets/images/business/post1.png">
+				<h4> New trends in mobile banking</h4>
+				<p>
+				Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+				</p>
+			</div>
+
+			<div class=" col-xs-4">
+				<img src="/assets/images/business/post2.png">
+				<h4>Online banking made easier</h4>
+				<p>
+				Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+				</p>
+
+			</div>
+
+			<div class=" col-xs-4">
+				<img src="/assets/images/business/post3.png">
+				<h4>Tips for entrepreneurs</h4>
+				<p>
+				Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.
+				</p>
+			</div>
+		</div>
+    </div>
+
+
+    <footer class="component-footer collapsable js-collapsable">
+        <div class="component__inner component-footer__inner">
+            <a href="#" class="btn btn--blue btn--squared collapsable--trigger collapsable-arrow--light text-uppercase js-collapsable--trigger">MORE NEWS &amp; INSIGHTS</a>
+
+            <div class="component-footer__collapsable collapsable--target js-collapsable--target">
+                    <div class="line">
+                        This should always show
+                    </div>
+                    <div class="line">
+                        This should show if the page has the text 'My' in the name.
+                    </div>
+                    <div class="line">
+                        Performance specific disclosure
+                    </div>
+            </div>
+        </div>
+    </footer>
+</section><style>
+    .disclosures{
+        background: white;
+    }
+
+    .disclosures .line{
+        padding: 2px 0;
+    }
+</style>
+
+
+<section class="featured-boxes component">
+    <div class="featured-box">
+        
+		<ul class="media-list">
+			<li class="media-list__item">
+				<figure class="media-list__image-container">
+					<img src="/Assets/images/icons/Chart.png" srcset="/Assets/images/icons/Chart@2x.png 2x" alt="chart icon" class="media-list__image">
+				</figure>
+
+				<div class="media-list__text-block">
+					<h3 class="media-list__item-title">See your investments grow</h3>
+
+					<p class="media-list__item-description">Lorem ipsum dolor sit amet, testing consectetur adipisicing elit. Accusantium tempore nesciunt unde voluptates deserunt hic incidunt, quibusdam facere architecto, id test ipsam veritatis voluptatibus molestias fuga dolore quam quae est! Ipsa!</p>
+				</div>
+			</li>
+			
+			<li class="media-list__item">
+				<figure class="media-list__image-container">
+					<img src="/Assets/images/icons/Money.png" srcset="/Assets/images/icons/Money@2x.png 2x" alt="money icon" class="media-list__image">
+				</figure>
+
+				<div class="media-list__text-block">
+					<h3 class="media-list__item-title">Headline 2</h3>
+
+					<p class="media-list__item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores repellat, consectetur eligendi necessitatibus reiciendis reprehenderit porro expedita consequuntur vitae dolorem beatae commodi adipisci cupiditate qui quisquam blanditiis praesentium labore enim.</p>
+				</div>
+			</li>
+		</ul>
+
+    </div>
+    
+    <div class="featured-box">
+    	<div class="email-signup">
+	        <h3 class="email-signup__title">Get started today!  Sign up to build your profile.</h3>
+			
+			<form action="" class="email-signup__form">
+				<input type="email" placeholder="Email Address">
+
+				<input type="password" placeholder="Create Password">
+
+				<input type="password" placeholder="Confirm Password">
+				
+				<div class="email-signup__buttons">
+					<button class="btn btn--white">Submit</button>
+				</div>
+			</form>
+		</div>
+    </div>
+</section>
+
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T192905Z
+20160415T232050Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-a5d10cac-8296-41fc-ba43-e65fffbbe128
+3182cb45-561d-494d-a399-88cdec137aab
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
