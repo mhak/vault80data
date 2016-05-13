@@ -12,36 +12,118 @@ templatekey: Promotion
 ----version----
 language: en
 version: 1
-revision: 0f0850f8-08f7-42be-be2b-be155433596a
+revision: 31408e0a-7061-403d-a34a-98f972bed8a8
 
+----field----
+field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
+name: Promotion Text
+key: promotion text
+content-length: 11056
+
+<style type="text/css">
+    .left-arrow-img {
+    display: inline-block;
+    width: 7px;
+    height: 14px;
+    margin: 0 0 0 3px;
+    fill: #ab8421;
+    }
+
+.pwm-icon-style{
+   width: 45px;
+    height: 45px;
+    fill: #D2D1CB;
+    display: inline-block;
+
+}
+
+</style>
+
+<div class="grid_2 forPrintPWD" style="display: inline; float: left; position: relative; margin-left: 15px; margin-right: 15px; width: 222px; color: #4b4b4b; font-family: HelveticaNeueW01-55Roma, Arial, Helvetica, sans-serif; font-size: 15px; line-height: 21px; background-color: #ffffff;">
+<div class="pwm-sidebar" style="margin: 30px 0px; padding: 10px 15px 15px; background-color: #f2f1ef;">
+<h2 class="banner-uppercase-title category-title padT20" style="font-size: 12px; margin: 7px 0px; padding: 20px 0px 0px; font-weight: normal; font-stretch: normal; font-family: HelveticaNeueW01-75Bold, Arial, Helvetica, sans-serif; text-transform: uppercase; line-height: 13px; letter-spacing: 1px; white-space: nowrap;">SERVICES AND FEATURES</h2>
+<hr class="dark-gray-divide" style="border-style: none none solid; border-bottom-color: #93918e; margin: 0px;">
+<div class="title-paragraph-module goldHeader mixedCaseHeading extra-line-height ">
+<h2 style="margin: 0px; padding: 0px;"><a class="tpm-title anchorTag" href="https://www.firstrepublic.com/wealthmanagement/investment-management-services" style="color: #ab8421; font-weight: normal; font-stretch: normal; font-size: 19px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: block; width: 201.594px; padding-top: 20px; padding-bottom: 15px;">Investment Management Services</a></h2>
+<div>First Republic Investment Management, an SEC Registered Investment Advisor, offers objective, individualized wealth management solutions. Our portfolio managers deliver customized investment advice to individuals, companies, governmental entities and many nonprofit organizations.</div>
+</div>
+<div class="title-paragraph-module goldHeader mixedCaseHeading extra-line-height ">
+<h2 style="margin: 0px; padding: 0px;"><a class="tpm-title anchorTag" href="https://www.firstrepublic.com/wealthmanagement/brokerage-services" style="color: #ab8421; font-weight: normal; font-stretch: normal; font-size: 19px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: block; width: 201.594px; padding-top: 20px; padding-bottom: 15px;">Brokerage Services</a></h2>
+<div>At First Republic Securities Company, LLC (Member FINRA/SIPC) we tailor investment solutions for our clients. Because we don't have proprietary mutual fund products, we are able to provide a broad range of brokerage, trading and custody services.</div>
+</div>
+<div class="title-paragraph-module goldHeader mixedCaseHeading extra-line-height ">
+<h2 style="margin: 0px; padding: 0px;"><a class="tpm-title anchorTag" href="https://www.firstrepublic.com/wealthmanagement/trust-services" style="color: #ab8421; font-weight: normal; font-stretch: normal; font-size: 19px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: block; width: 201.594px; padding-top: 20px; padding-bottom: 15px;">Trust Services</a></h2>
+<div>First Republic Trust Company and First Republic Trust Company of Delaware LLC take a hands-on, personalized approach to a variety of trust services, managing sensitive matters with expertise, objectivity and thoughtful decision-making.</div>
+</div>
+<div class="featured-services-banner" style="padding-top: 43px;">
+<div class="link-wrapper" style="padding: 0px 0px 3px;"><a class="link-font-style" href="https://www.firstrepublic.com/wealthmanagement/featured-service/endowment-management" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif;">Endowment Management<span class="left-arrow-img"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewbox="0 0 7.1 14" enable-background="new 0 0 7.1 14" xml:space="preserve" class="svg replaced-svg">
+<path stroke-width="0" d="m7.03906,6.92366l-7.03906,-6.92366l3.80801,6.92366m0,0.11539l-3.80801,6.92366l7.03906,-6.92366"></path>
+</svg></span></a></div>
+<div class="link-wrapper" style="padding: 0px 0px 3px;"><a class="link-font-style" href="https://www.firstrepublic.com/wealthmanagement/featured-service/financial-planning" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif;">Financial Planning<span class="left-arrow-img"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewbox="0 0 7.1 14" enable-background="new 0 0 7.1 14" xml:space="preserve" class="svg replaced-svg">
+<path stroke-width="0" d="m7.03906,6.92366l-7.03906,-6.92366l3.80801,6.92366m0,0.11539l-3.80801,6.92366l7.03906,-6.92366"></path>
+</svg></span></a></div>
+<div class="link-wrapper" style="padding: 0px 0px 3px;"><a class="link-font-style" href="https://www.firstrepublic.com/wealthmanagement/featured-service/personal-cfo-services" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif;">Personal CFO Services&nbsp;<span class="left-arrow-img"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewbox="0 0 7.1 14" enable-background="new 0 0 7.1 14" xml:space="preserve" class="svg replaced-svg">
+<path stroke-width="0" d="m7.03906,6.92366l-7.03906,-6.92366l3.80801,6.92366m0,0.11539l-3.80801,6.92366l7.03906,-6.92366"></path>
+</svg></span></a></div>
+<div class="link-wrapper" style="padding: 0px 0px 3px;"><a class="link-font-style" href="https://www.firstrepublic.com/foreign-exchange" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif;">Foreign Exchange<span class="left-arrow-img"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewbox="0 0 7.1 14" enable-background="new 0 0 7.1 14" xml:space="preserve" class="svg replaced-svg">
+<path stroke-width="0" d="m7.03906,6.92366l-7.03906,-6.92366l3.80801,6.92366m0,0.11539l-3.80801,6.92366l7.03906,-6.92366"></path>
+</svg></span></a></div>
+</div>
+<h2 class="banner-uppercase-title category-title resources" style="font-size: 12px; margin: 46px 0px 7px; padding: 0px; font-weight: normal; font-stretch: normal; font-family: HelveticaNeueW01-75Bold, Arial, Helvetica, sans-serif; text-transform: uppercase; line-height: 13px; letter-spacing: 1px; white-space: nowrap;">RESOURCES</h2>
+<hr class="dark-gray-divide" style="border-style: none none solid; border-bottom-color: #93918e; margin: 0px;">
+<div class="featured-resources-banner " style="padding-top: 20px;">
+<div>
+<div class="category-link-widget noPrintBlock"><a class="clw-link lower-spacing" href="https://www.firstrepublic.com/content/uploads/PrivateWealthCategoryPage/Quarterly%20Update%20(PDF)_459237434.pdf" target="_blank" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: block; margin-top: 1px; margin-bottom: 8px;">Quarterly Update (PDF)</a><a class="clw-link lower-spacing" href="https://www.firstrepublic.com/resource/week-in-review" style="color: #ab8421; font-stretch: normal; font-size: 17px; line-height: 20px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif; display: block; margin-top: 1px; margin-bottom: 8px;">Week in Review</a></div>
+</div>
+</div>
+</div>
+<div class="pwm-sidebar open-an-account-module noPrintBlock" style="position: relative; margin: 30px 0px; padding: 10px 15px 15px; background-color: #f2f1ef;">
+<h2 class="module_header padT20" style="font-size: 19px; margin: 0px; padding: 20px 0px 0px; font-weight: normal; font-stretch: normal; line-height: 23px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif;">Want to Learn More?</h2>
+<hr class="dark-gray-divide" style="border-style: none none solid; border-bottom-color: #93918e; margin: 0px;">
+<div class="padT18 title-paragraph-module" style="padding-top: 18px;">Our professionals welcome the opportunity to develop<br>
+a customized wealth management solution. Please call us at<br>
+(800)&nbsp;392-1400.</div>
+<div class="padT30 contact-you-wrapper" style="padding-top: 30px;"><a href="/en/All%20In%20One/Have%20us%20contact%20you" class="header-nav-selector contact-us-link" style="color: #ab8421; font-stretch: normal; font-size: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif;"><span class="pwm-icon-style"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" x="0" y="0" viewbox="0 0 14.2 9.2" enable-background="new 0 0 14.2 9.2" xml:space="preserve" class="svg replaced-svg">
+<path d="M6.9 2c0 1.1-0.9 2-2 2 -1.1 0-2-0.9-2-2 0-1.1 0.9-2 2-2C5.9 0 6.9 0.9 6.9 2M11.6 3.4c0 0.7-0.6 1.4-1.3 1.4 -0.7 0-1.4-0.6-1.4-1.4 0-0.7 0.6-1.3 1.4-1.3C11 2.1 11.6 2.7 11.6 3.4M4.8 5C2.4 5 0.4 6.9 0 9.2h0.5C1.2 7.7 3 6.6 4.8 6.6c1.8 0 3.6 1.1 4.3 2.6h0.5C9.3 6.9 7.3 5 4.8 5M9.9 7.2c0.2 0 0.2 0 0.5 0 1.4 0 2.9 0.9 3.4 2.1h0.4c-0.3-1.9-1.9-3.3-3.8-3.3C9.9 5.9 9.5 6 9.2 6.1 9.2 6.1 9.6 6.6 9.9 7.2"></path>
+</svg></span>&nbsp;Have Us Contact You</a></div>
+<div class="padT18 contact-office-wrapper" style="padding-top: 18px;"><a href="https://www.firstrepublic.com/team" class="header-nav-selector office-link link-left-spacing" style="color: #ab8421; font-stretch: normal; font-size: 18px; font-family: adobe-garamond-pro, 'Times New Roman', Times, serif;"><span class="pwm-icon-style"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewbox="0 0 15.8 8.6" xml:space="preserve" class="svg replaced-svg"><g>
+<path id="svg_2" d="m6.4,1.9c0,1.1 -0.9,1.9 -1.9,1.9c-1.1,0 -1.9,-0.8 -1.9,-1.9c0,-1.1 0.8,-1.9 1.9,-1.9c1.1,0 1.9,0.8 1.9,1.9"></path>
+<path id="svg_3" d="m7.9,0c-0.5,0 -0.9,0.2 -1.3,0.5c0.4,0.4 0.6,0.9 0.6,1.4c0,0.6 -0.2,1.1 -0.6,1.4c0.3,0.3 0.8,0.5 1.3,0.5c1.1,0 1.9,-0.9 1.9,-1.9c0,-1.1 -0.8,-1.9 -1.9,-1.9z"></path>
+<path id="svg_4" d="m11.3,0c-0.5,0 -0.9,0.2 -1.3,0.5c0.4,0.3 0.7,0.8 0.7,1.4c0,0.6 -0.2,1.1 -0.6,1.4c0.3,0.3 0.8,0.5 1.3,0.5c1.1,0 1.9,-0.9 1.9,-1.9c-0.1,-1.1 -0.9,-1.9 -2,-1.9z"></path>
+<path id="svg_5" d="m4.5,4.7c-2.3,0 -4.2,1.7 -4.5,3.9l0.5,0c0.7,-1.4 2.3,-2.5 4,-2.5c1.7,0 3.4,1 4,2.5l0.5,0c-0.3,-2.2 -2.2,-3.9 -4.5,-3.9"></path>
+<path id="svg_6" d="m7.9,4.7c-0.4,0 -0.9,0.1 -1.3,0.2c0.8,0.2 1.5,0.7 2.1,1.3c1.4,0.3 2.7,1.2 3.2,2.4l0.5,0c-0.3,-2.2 -2.2,-3.9 -4.5,-3.9z"></path>
+<path id="svg_7" d="m11.3,4.7c-0.4,0 -0.9,0.1 -1.3,0.2c0.8,0.2 1.5,0.7 2.1,1.3c1.4,0.3 2.7,1.2 3.2,2.4l0.5,0c-0.3,-2.2 -2.2,-3.9 -4.5,-3.9z"></path>
+</g></svg></span>&nbsp;Meet the Team</a></div>
+</div>
+</div>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T192924Z
+20160213T024627Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-0f0850f8-08f7-42be-be2b-be155433596a
+31408e0a-7061-403d-a34a-98f972bed8a8
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
