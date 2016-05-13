@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PB Campaign",
     "commandType": "Item",
     "template": "Promotion Folder",
+    "sourceControlRevisionId": "5efc9bf6531f3b8a5a3bbb35800b7bef05874c09"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{92F26BF2-F775-4F5B-A528-0D094665B7A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:24.0590597Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "PB Campaign",
+    "itemPath": "/sitecore/content/Global/Promotions/PB Campaign",
+    "commandType": "Item",
+    "template": "Promotion Folder",
     "sourceControlRevisionId": null
   }
 ]
