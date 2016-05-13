@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Sign-Up-Content",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "10fe34ddb65c66db199cad9c12a79dedd24e5fbd"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{8786970B-61B9-4E52-B339-121DEB7624AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:08.9970658Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign-Up-Content",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Sign-Up-Content",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
