@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Carousel",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "d3b5171754e7d5d6b13c8460ad569405d9432ae9"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2ADB595F-3035-4354-AE72-E735CF47EB26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:04.5378326Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business - Carousel",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Carousel",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
