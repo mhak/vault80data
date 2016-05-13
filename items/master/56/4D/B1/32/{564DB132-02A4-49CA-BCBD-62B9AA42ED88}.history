@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home/Disclosure1",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "ad01b380cd8268528d2c1d67b8eaf3663afd4488"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{564DB132-02A4-49CA-BCBD-62B9AA42ED88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:26.6226226Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosure1",
+    "itemPath": "/sitecore/content/Home/Disclosure1",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
