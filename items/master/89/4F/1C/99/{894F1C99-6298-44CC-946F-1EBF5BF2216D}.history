@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/FRBBanking",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "c6682e02a5c624a0c8d70b50636eb74630641bcf"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{894F1C99-6298-44CC-946F-1EBF5BF2216D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:25.8815079Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FRBBanking",
+    "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/FRBBanking",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
