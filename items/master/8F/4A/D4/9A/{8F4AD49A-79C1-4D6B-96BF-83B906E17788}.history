@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Checking",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "5b0d32519ff67ca11a9fc9a673f4abb72936a2b1"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{8F4AD49A-79C1-4D6B-96BF-83B906E17788}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:20.2135530Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business-Checking",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Checking",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
