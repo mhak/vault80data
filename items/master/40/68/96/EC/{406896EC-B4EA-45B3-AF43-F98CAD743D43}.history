@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Disclosures/Sectional Disclosures",
     "commandType": "Item",
     "template": "Dislcosures Folder",
+    "sourceControlRevisionId": "e05eee3e5e40fddd3b6eb0bbbe68fa69ce6c66b9"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{406896EC-B4EA-45B3-AF43-F98CAD743D43}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:52.7823425Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sectional Disclosures",
+    "itemPath": "/sitecore/content/Global/Disclosures/Sectional Disclosures",
+    "commandType": "Item",
+    "template": "Dislcosures Folder",
     "sourceControlRevisionId": null
   }
 ]
