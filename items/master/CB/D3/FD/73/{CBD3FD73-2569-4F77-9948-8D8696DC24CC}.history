@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo 2x",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "5a74cb9ea5aed2a63352ffee4c38eb2b2efbfca7"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CBD3FD73-2569-4F77-9948-8D8696DC24CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:25:24.6919317Z",
+    "label": "Installed from package - Healthy Wealthy templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo 2x",
+    "itemPath": "/sitecore/templates/Demo/Site Header/Header Section/Logo 2x",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
