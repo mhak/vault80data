@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PB Landing Sidebar Test",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "d66c27a789787adef4b3ff7cf37eb65fa234ff66"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{904F855F-E762-4A6E-B228-8379D16160CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:24.5347955Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "PB Landing Sidebar Test",
+    "itemPath": "/sitecore/content/Global/Promotions/PB Landing Sidebar Test",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
