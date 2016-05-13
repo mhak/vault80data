@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Form Header",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "0b7e36fb0f8b57df7c1b4d4b8b31f1dc4140fb09"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7816AD7B-90BC-4F57-8804-464FEA06224B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:05.9868146Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Form Header",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Form Header",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
