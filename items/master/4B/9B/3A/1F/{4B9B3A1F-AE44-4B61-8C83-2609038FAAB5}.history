@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/Ryland Pacific",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "836fb56b861d28c55f8b481ac272184a1630ef5c"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4B9B3A1F-AE44-4B61-8C83-2609038FAAB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:26.0992426Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Ryland Pacific",
+    "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/Ryland Pacific",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
