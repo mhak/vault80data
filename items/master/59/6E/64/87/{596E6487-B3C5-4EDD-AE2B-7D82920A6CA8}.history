@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Savings",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "a4ae7ab3d049f5915ea277933e2e6ac50ae36389"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{596E6487-B3C5-4EDD-AE2B-7D82920A6CA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:20.5322975Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business-Savings",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Savings",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
