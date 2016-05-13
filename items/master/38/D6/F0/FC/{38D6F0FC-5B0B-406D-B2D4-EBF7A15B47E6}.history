@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Footer",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "c55ae3480657d0b4dd4f91571bee9cea76e28de7"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{38D6F0FC-5B0B-406D-B2D4-EBF7A15B47E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:25:25.6109540Z",
+    "label": "Installed from package - Healthy Wealthy templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Site Footer",
+    "itemPath": "/sitecore/templates/Demo/Site Footer",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
