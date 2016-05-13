@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Wealth",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "1392ee0675970290b1fd4900f0dc45f406689ade"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{20BC4793-D65C-4EBD-B222-C07C5E509C89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:29.7743811Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "My-Wealth",
+    "itemPath": "/sitecore/content/Home/My-Wealth",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
