@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Health Overview",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "14cd5c067921ece72625002d66b2710d912898ed"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B80FF247-2CBA-4D7B-8A39-B17448CC9773}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:09.9891647Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Health Overview",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Health Overview",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
