@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Home/TestVault",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "33cd9fefd50bd5475cc559decbce856baceef9cf"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{AAC1F451-6C85-4692-B642-D7EED8C8F7D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:29.0769002Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "TestVault",
+    "itemPath": "/sitecore/content/Home/TestVault",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
