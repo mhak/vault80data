@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Header/__Standard Values",
     "commandType": "Item",
     "template": "Site Header",
+    "sourceControlRevisionId": "1d1f207167ed7097d5148afdfeafe0b93b9df0fd"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3BC971A1-5F49-4F9E-BD46-BC06E6D23F8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:25:24.1201237Z",
+    "label": "Installed from package - Healthy Wealthy templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/Demo/Site Header/__Standard Values",
+    "commandType": "Item",
+    "template": "Site Header",
     "sourceControlRevisionId": null
   }
 ]
