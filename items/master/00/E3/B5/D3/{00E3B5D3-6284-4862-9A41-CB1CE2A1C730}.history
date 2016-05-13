@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "2b7e8d3b5df57575109fbbdb04d3941f54da814b"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{00E3B5D3-6284-4862-9A41-CB1CE2A1C730}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:48.3613983Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Global",
+    "itemPath": "/sitecore/content/Global",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
