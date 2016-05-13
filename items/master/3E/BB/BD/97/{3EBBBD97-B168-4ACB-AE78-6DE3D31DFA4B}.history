@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Navigation Folder/About",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "23cd0fc95ff20a909385c1de8fa891edc860b13f"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{3EBBBD97-B168-4ACB-AE78-6DE3D31DFA4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:19.0473328Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "About",
+    "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Navigation Folder/About",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
