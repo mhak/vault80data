@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/What Interests You",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "e9c746475788dbbbe65ccff792597a6175141cc1"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{B088E095-FE77-4DE7-84EE-35060A969BF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:09.3835761Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "What Interests You",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/What Interests You",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
