@@ -12,15 +12,36 @@ templatekey: Site Footer
 ----version----
 language: en
 version: 1
-revision: c65fc072-6fcc-4c77-819c-9e12cbe12498
+revision: 6c1ace0a-543d-4420-9388-736de2213d1c
 
+----field----
+field: {6A4518D8-61B5-41BE-B821-E5D556DE059F}
+name: FooterLogo
+key: footerlogo
+content-length: 58
+
+<image mediaid="{089D9F98-2708-4A91-B537-0ED75B82EA99}" />
+----field----
+field: {A195C6FE-DF4A-4374-BECE-3F794D5D2A93}
+name: FooterLogo2x
+key: footerlogo2x
+content-length: 58
+
+<image mediaid="{4E4B1E9F-966B-4C55-871C-AD88A90689DE}" />
+----field----
+field: {F0EB5F89-1D04-45E7-9D11-F46AEEE71B85}
+name: Copyright
+key: copyright
+content-length: 50
+
+&copy; 2016 Healthy Wealthy.  All rights reserved.
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T192917Z
+20160407T190357Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -34,7 +55,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c65fc072-6fcc-4c77-819c-9e12cbe12498
+6c1ace0a-543d-4420-9388-736de2213d1c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
