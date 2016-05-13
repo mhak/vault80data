@@ -9,10 +9,136 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {99595FA3-1836-4333-9B99-B650273820B9}
 templatekey: HealthWealthPage
 
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 319
+
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{39029125-28C0-4FDD-83CF-965ECB4C21BB}"><p:d /></r><r uid="{AC9B0F05-E96A-4AD3-86BC-C083CAE9AE3F}" s:id="{B4C376C9-F77F-4C69-BC51-555112C46D77}" s:ph="content" /><r uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}"><p:d /></r></d></r>
 ----version----
 language: en
 version: 1
-revision: 98f8b318-c345-48e9-8c3e-a60aa97d9f63
+revision: 2726983f-812b-4534-b100-c614169a60cf
+
+----field----
+field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
+name: Title
+key: title
+content-length: 0
+
+
+----field----
+field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
+name: Body
+key: body
+content-length: 3620
+
+      <div class="row" style="background-color:white;">
+        <div class="col-lg-12">
+          <style>
+    @media screen and (min-width: 768px) {
+                .hero {
+                        height:1000px;
+                        background-size: 100% auto;
+                        background-repeat: no-repeat;
+                }
+
+    @media screen and (max-width: 1439px) {
+                .hero {
+                        background-image: url(/assets/images/splash/hero.png); 
+                        background-size: 100% auto;
+                        background-repeat: no-repeat;
+
+                }
+
+        }
+    @media screen and (min-width: 1440px) {
+                .hero {
+                background-image: url(/assets/images/splash/hero.png);
+                max-height:none;
+                background-size: 100% auto;
+                background-repeat: no-repeat;
+                }
+
+                .site-content{
+                padding-bottom: 0px;
+                max-height:none;
+                height: auto !important; /* real browsers */
+                min-height: 100%; /* real browsers */
+                }
+    }
+
+    .containerbox
+    {
+    display: -webkit-box;      /* OLD - iOS 6-, Safari 3.1-6 */
+    display: -moz-box;         /* OLD - Firefox 19- (buggy but mostly works) */
+    display: -webkit-flex;     /* NEW - Chrome */
+    display: flex;             /* NEW, Spec - Opera 12.1, Firefox 20+ */
+    -webkit-box-flex-direction: row;
+    -moz-box-flex-direction: row;
+    -webkit-flex-direction: row;
+    flex-direction: row;
+    height:100%;
+    }
+
+    .box {
+    background:rgba(0,0,0,.3);
+    box-shadow: 1px 1px grey;
+    -webkit-border-radius:10px;
+    border-radius:5px;
+    width:800px;
+    height:400px;
+    margin: auto;
+        color:#FAFAFA;
+    }
+    .boxwrapper{
+    background: url(/~/media/Images/Demo/Group.ashx) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% auto;
+        background-repeat: no-repeat;
+    height: auto !important; /* real browsers */
+    min-height: 100%; /* real browsers */
+    }
+    .btn{
+    height:40px;
+    width:200px;
+    display:inline-block;
+    border-radius:30px;
+    line-height:40px;
+    font-size:20px;
+    line-height:24px;
+        background-color:#B7E081;
+        margin:10px;
+    }
+    a.btn{
+    color:#242424;
+    background-color: #B7E081;
+    }
+</style>
+          <!-- Begin: Hero Component -->
+          <section class="hero component">
+            <div class="containerbox">
+              <div class="box" style="text-align: center;margin-top:250px;">
+                <img alt="" height="49" width="289" style="margin-top:52px;" src="/assets/images/splash/Logo-Light.svg">
+                <div style="margin-top: 61px; font-family: helvetica; color: #FAFAFA; font-size: 44px; line-height: 44px;">
+                Personalized banking for all</div>
+                <div style="margin-top: 19px; margin-top: 20px; font-family: helvetica; color: #FAFAFA; font-size: 20px; line-height: 24px;">
+
+                  <em>What kind of banking interests you?</em>
+                </div>
+                <div style="margin-top:40px;">
+                <a href="/my-banking?type=personal" class="btn">Personal Banking</a> 
+                <a href="/my-banking?type=business" class="btn">Business Banking</a> 
+                <a href="/my-banking?type=investment" class="btn">Investment</a></div>
+              </div>
+            </div>
+          </section>
+          <!-- End:   Hero Component -->
+        </div>
+      </div>
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -20,21 +146,21 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T192928Z
+20160414T172753Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 14
 
-extranet\Anonymous
+sitecore\admin
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-98f8b318-c345-48e9-8c3e-a60aa97d9f63
+2726983f-812b-4534-b100-c614169a60cf
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
