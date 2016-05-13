@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "1ad98343bc1c91dbb979f9f0c2ca9cce90e9651a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A7F9F6AC-E626-45F2-8E27-FCDA01A44B0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:33.2890236Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business-Banking",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
