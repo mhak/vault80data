@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Navigation Folder/My Wealth",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "bdb5d2dc7c5bafe6be594d50bf20959e77c2d6f2"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{412709C3-3766-4FC4-987D-5EDD1CE58648}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:17.9065463Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "My Wealth",
+    "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Navigation Folder/My Wealth",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
