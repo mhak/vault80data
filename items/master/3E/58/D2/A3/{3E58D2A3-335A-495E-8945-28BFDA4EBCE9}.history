@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Content",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "e9a9353955e4f44e0457347ce569efdfc6607971"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{3E58D2A3-335A-495E-8945-28BFDA4EBCE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:08.4785377Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal Banking Content",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Content",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
