@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Health Hero",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "72ef9dca91826baad4f1ee8ffb66c89e4b7f86a2"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6AD2CCD2-1748-484D-A8D6-94F34778077E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:09.7644484Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Health Hero",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Health Hero",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
