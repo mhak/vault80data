@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/WffmView",
     "commandType": "Item",
     "template": "View rendering",
+    "sourceControlRevisionId": "63bbc7f7b8c372ffbede001db6b0476c2eef5ca6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{235AC15C-FDC9-4359-837E-85100F94106D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:39.4221694Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "WffmView",
+    "itemPath": "/sitecore/layout/Renderings/Demo/WffmView",
+    "commandType": "Item",
+    "template": "View rendering",
     "sourceControlRevisionId": null
   }
 ]
