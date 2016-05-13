@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business Banking Content",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "e1f0382e2da95ab6513303b33698f76954c071f0"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{0A76F5CE-8B89-4694-BF46-F2BFC08D96B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:05.2837782Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business Banking Content",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business Banking Content",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
