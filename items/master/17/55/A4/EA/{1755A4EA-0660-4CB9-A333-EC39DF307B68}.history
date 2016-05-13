@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Banking Settings/Busines Banking Menu/Credit and Loans",
     "commandType": "Item",
     "template": "Banking Menu List",
+    "sourceControlRevisionId": "3b485d58d6f84c41e92e95f0f63d45c136ad7815"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{1755A4EA-0660-4CB9-A333-EC39DF307B68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:52.1404594Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Credit and Loans",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Busines Banking Menu/Credit and Loans",
+    "commandType": "Item",
+    "template": "Banking Menu List",
     "sourceControlRevisionId": null
   }
 ]
