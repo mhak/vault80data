@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/Header/Header",
     "commandType": "Item",
     "template": "Controller rendering",
+    "sourceControlRevisionId": "639937a352f8c06cfcae45cca24e6adb18ba7881"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F8478A12-F095-4EB0-A529-1615251F7EAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:39.6419214Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Header",
+    "itemPath": "/sitecore/layout/Renderings/Demo/Header/Header",
+    "commandType": "Item",
+    "template": "Controller rendering",
     "sourceControlRevisionId": null
   }
 ]
