@@ -12,43 +12,63 @@ templatekey: Disclosure Item
 ----version----
 language: en
 version: 1
-revision: 4bae02a7-4f6f-4495-ab85-e241c39855f6
+revision: 9ca0103f-67cb-4876-9c57-34900d846a01
 
+----field----
+field: {CE42EB5E-D639-42E5-955D-AC23926A08DE}
+name: Rules
+key: rules
+content-length: 291
+
+<ruleset>
+  <rule uid="{B4E338DC-2AE8-427B-9F1E-3894F32F743E}">
+    <conditions>
+      <condition id="{944E1C68-CAF1-468E-87DC-CE85D168D961}" uid="6EBF92B64CEC4FF0A933945D5930D521" operatorid="{2E67477C-440C-4BCA-A358-3D29AED89F47}" value="My" />
+    </conditions>
+  </rule>
+</ruleset>
+----field----
+field: {BC70D541-7655-4227-B8CD-862D773EB5EE}
+name: Text
+key: text
+content-length: 59
+
+This should show if the page has the text 'My' in the name.
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T192855Z
+20160325T212711Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-4bae02a7-4f6f-4495-ab85-e241c39855f6
+9ca0103f-67cb-4876-9c57-34900d846a01
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160513T192855Z
+20160513T192856Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
