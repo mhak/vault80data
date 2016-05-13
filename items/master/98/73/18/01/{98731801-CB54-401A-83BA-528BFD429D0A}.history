@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "5491c10569538a869ee72a9718b4ffdc9dc5f500"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{98731801-CB54-401A-83BA-528BFD429D0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:30.7488954Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free-Checking",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
