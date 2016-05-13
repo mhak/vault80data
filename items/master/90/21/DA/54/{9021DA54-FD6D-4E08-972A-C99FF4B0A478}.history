@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PWM Sidebar Test",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "0d03d3f1dedc116713778d2937309f2c84e7054e"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9021DA54-FD6D-4E08-972A-C99FF4B0A478}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:25.2172880Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "PWM Sidebar Test",
+    "itemPath": "/sitecore/content/Global/Promotions/PWM Sidebar Test",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
