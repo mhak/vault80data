@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Savings",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "b90b6c4753ce6b8354436ea289ab43d2638c4cdf"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{596E6487-B3C5-4EDD-AE2B-7D82920A6CA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:20.6146737Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business-Savings",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Savings",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
