@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Free Checking Campaign",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "202f07cb79de38cb46f5b0f3adc26f5fc0e5601d"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{32618A77-4B6D-4FFE-BFC3-AE681BF4844B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:06.3864761Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free Checking Campaign",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Free Checking Campaign",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
