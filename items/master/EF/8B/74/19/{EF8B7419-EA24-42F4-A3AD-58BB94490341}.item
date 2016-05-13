@@ -9,10 +9,17 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {7EE0975B-0698-493E-B3A2-0B2EF33D0522}
 templatekey: Rendering Folder
 
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+-25
 ----version----
 language: en
 version: 1
-revision: 9a9bcf4a-6ad8-4eba-8c23-7b5ff696d2e6
+revision: f123f37f-1718-452e-ac28-852fea0f7c05
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -20,7 +27,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T192936Z
+20160407T231415Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -34,7 +41,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9a9bcf4a-6ad8-4eba-8c23-7b5ff696d2e6
+f123f37f-1718-452e-ac28-852fea0f7c05
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
