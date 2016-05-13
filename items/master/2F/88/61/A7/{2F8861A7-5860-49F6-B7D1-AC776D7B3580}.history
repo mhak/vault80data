@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Disclosures/Sectional Disclosures/Yield Disclosure",
     "commandType": "Item",
     "template": "Disclosure Item",
+    "sourceControlRevisionId": "2fa78fdc2edb929d05eaac4dfce4163f8077b35f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2F8861A7-5860-49F6-B7D1-AC776D7B3580}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:00.8042281Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Yield Disclosure",
+    "itemPath": "/sitecore/content/Global/Disclosures/Sectional Disclosures/Yield Disclosure",
+    "commandType": "Item",
+    "template": "Disclosure Item",
     "sourceControlRevisionId": null
   }
 ]
