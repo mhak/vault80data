@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "01d77e328e7c3d82d8c565868e8f79639b4ef857"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{C3E8E41D-80E6-484E-8E3A-8BC6A192D675}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:17:57.0578567Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Receipt",
+    "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "01d77e328e7c3d82d8c565868e8f79639b4ef857"
   }
 ]
