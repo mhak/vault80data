@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business Credit Card",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "a3187c392241c5c85b08d919964addf8a4118de4"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4EDCFBA2-6DAB-447B-813B-C0E6A8EC468F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:19.8793447Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business Credit Card",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business Credit Card",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
