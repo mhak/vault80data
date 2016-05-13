@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/LoggedInView",
     "commandType": "Item",
     "template": "View rendering",
+    "sourceControlRevisionId": "0773ae16fe2231028f3286444f7fc284aca27e6e"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{235239EB-895C-46F9-8EC9-2422D725CF5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:37.9695770Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "LoggedInView",
+    "itemPath": "/sitecore/layout/Renderings/Demo/LoggedInView",
+    "commandType": "Item",
+    "template": "View rendering",
     "sourceControlRevisionId": null
   }
 ]
