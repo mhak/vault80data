@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Checking",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "7fd6cef2a96897f4215a1d96fc419faef2c03053"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{04D39354-9316-4F19-8539-CD4841932CEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:22.9714147Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal-Checking",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Checking",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
