@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "eb902c4b325353180f6e1c96539d9bb51a1c14cc"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{98731801-CB54-401A-83BA-528BFD429D0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:30.7801645Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free-Checking",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
