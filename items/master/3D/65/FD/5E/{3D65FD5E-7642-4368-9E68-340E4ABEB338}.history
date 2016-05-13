@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt/Checkout/Sample Item/Shopping",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "d92b7300f605e07e2f3a86f64e8e42056cbc08e4"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{3D65FD5E-7642-4368-9E68-340E4ABEB338}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:17:56.0984629Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Shopping",
+    "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt/Checkout/Sample Item/Shopping",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "d92b7300f605e07e2f3a86f64e8e42056cbc08e4"
   }
 ]
