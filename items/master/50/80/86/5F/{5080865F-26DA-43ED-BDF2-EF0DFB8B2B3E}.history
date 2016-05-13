@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/Default",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "963ee9aeaf2bf4ad2ee659849089f42ba1494da2"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{5080865F-26DA-43ED-BDF2-EF0DFB8B2B3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:25.6359858Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Default",
+    "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/Default",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
