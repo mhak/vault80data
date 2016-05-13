@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Health",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "c3c2d9daa9f90953714934a65f3bd6dcd7be4433"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C6BE0D17-51A0-44D8-8D8B-CC32BE34CC6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:15.6459573Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "My Health",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Health",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
