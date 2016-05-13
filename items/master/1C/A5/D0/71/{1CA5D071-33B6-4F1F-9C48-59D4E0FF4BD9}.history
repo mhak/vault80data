@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking-Landing",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "677016ff20ec4e2a8a4f9d1a33d33b8c95524dbb"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1CA5D071-33B6-4F1F-9C48-59D4E0FF4BD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:31.4852394Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free-Checking-Landing",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking-Landing",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
