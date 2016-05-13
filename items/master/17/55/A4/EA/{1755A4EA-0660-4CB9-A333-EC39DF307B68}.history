@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Banking Settings/Busines Banking Menu/Credit and Loans",
     "commandType": "Item",
     "template": "Banking Menu List",
+    "sourceControlRevisionId": "fd20125fda7f9402cea649edf351162609356ca5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1755A4EA-0660-4CB9-A333-EC39DF307B68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:52.2314955Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Credit and Loans",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Busines Banking Menu/Credit and Loans",
+    "commandType": "Item",
+    "template": "Banking Menu List",
     "sourceControlRevisionId": null
   }
 ]
