@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Title",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "a7c25ba3e525b700cac1e0b0b37a03ce506c396d"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B2C188D1-E2D5-4C72-9E58-6155199D026D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:08.7991021Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal Banking Title",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Title",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
