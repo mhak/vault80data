@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home/Sign-In",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "68ea591ca9de423dd2745455feefb8d9f9bbef24"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{075CDC85-FF10-4A09-886F-78E7A134295A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:28.0446382Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign-In",
+    "itemPath": "/sitecore/content/Home/Sign-In",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
