@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Online-and-Mobile-Banking",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "39aca21de3c1fd0741df35ba726960566c29b3b7"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{B2FE1A6E-9190-4347-8A54-A2A020C4C123}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:31.7948779Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Online-and-Mobile-Banking",
+    "itemPath": "/sitecore/content/Home/My-Banking/Online-and-Mobile-Banking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
