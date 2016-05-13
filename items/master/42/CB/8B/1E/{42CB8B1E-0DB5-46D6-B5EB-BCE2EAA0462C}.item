@@ -12,8 +12,22 @@ templatekey: Banking Menu List
 ----version----
 language: en
 version: 1
-revision: 00a7bdd7-fe28-4f00-af6a-604352f9d0d0
+revision: 84ec8e84-77dd-4eac-bb59-dd8ea385fa0b
 
+----field----
+field: {D70E97C1-65F9-4C4A-AB0D-AF4F14125680}
+name: Name
+key: name
+content-length: 13
+
+Credit &Loans
+----field----
+field: {96843B17-9B81-4A90-AEB1-47F756542F53}
+name: Banking Navigation List
+key: banking navigation list
+content-length: 77
+
+{5023195C-1DC5-4F3F-B407-9E9511664A59}|{0C0FE963-7340-4196-A6EC-DF5C49E0EB2D}
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -27,7 +41,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T192851Z
+20160407T233050Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -41,7 +55,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-00a7bdd7-fe28-4f00-af6a-604352f9d0d0
+84ec8e84-77dd-4eac-bb59-dd8ea385fa0b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
