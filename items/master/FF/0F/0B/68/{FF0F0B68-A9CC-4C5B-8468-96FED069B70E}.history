@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/LoginView",
     "commandType": "Item",
     "template": "View rendering",
+    "sourceControlRevisionId": "8710432b98a18d833f9a2885f0cb25777dea6530"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{FF0F0B68-A9CC-4C5B-8468-96FED069B70E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:38.2511919Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "LoginView",
+    "itemPath": "/sitecore/layout/Renderings/Demo/LoginView",
+    "commandType": "Item",
+    "template": "View rendering",
     "sourceControlRevisionId": null
   }
 ]
