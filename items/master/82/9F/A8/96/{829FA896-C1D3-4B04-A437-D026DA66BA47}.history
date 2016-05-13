@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Page with disclosure in name",
     "commandType": "Item",
     "template": "Disclosure Item",
+    "sourceControlRevisionId": "8ae3d294f29bbdc6ad9e08fba0fd39c572a8ec3b"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{829FA896-C1D3-4B04-A437-D026DA66BA47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:56.0229116Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Page with disclosure in name",
+    "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Page with disclosure in name",
+    "commandType": "Item",
+    "template": "Disclosure Item",
     "sourceControlRevisionId": null
   }
 ]
