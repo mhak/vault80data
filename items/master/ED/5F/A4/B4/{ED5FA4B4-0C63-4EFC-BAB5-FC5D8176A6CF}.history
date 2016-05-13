@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking/Checking",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "e478c31b398a448ddc17f1f7421637c35c56d85a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{ED5FA4B4-0C63-4EFC-BAB5-FC5D8176A6CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:33.9853629Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Checking",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking/Checking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
