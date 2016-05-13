@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/Banking Menu",
     "commandType": "Item",
     "template": "Rendering Folder",
+    "sourceControlRevisionId": "e89c5789bc362afd94b000bca104e749bfab6947"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{EF8B7419-EA24-42F4-A3AD-58BB94490341}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:36.7610173Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Menu",
+    "itemPath": "/sitecore/layout/Renderings/Demo/Banking Menu",
+    "commandType": "Item",
+    "template": "Rendering Folder",
     "sourceControlRevisionId": null
   }
 ]
