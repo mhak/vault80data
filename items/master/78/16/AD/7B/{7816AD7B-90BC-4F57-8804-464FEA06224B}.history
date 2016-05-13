@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Form Header",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "c81eee55c21f3a61336da5fed94dee146189b0b9"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{7816AD7B-90BC-4F57-8804-464FEA06224B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:05.6703191Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Form Header",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Form Header",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
