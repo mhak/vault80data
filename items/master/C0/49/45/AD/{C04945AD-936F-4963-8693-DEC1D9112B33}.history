@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Commercial Loans",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "f2c83b571e797133442d4e20be103d3dcc59c70d"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C04945AD-936F-4963-8693-DEC1D9112B33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:20.9202984Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Commercial Loans",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Commercial Loans",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
