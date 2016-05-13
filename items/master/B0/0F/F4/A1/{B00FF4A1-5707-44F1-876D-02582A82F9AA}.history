@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/Navigation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "7bce3c8e0c6dc2aa86a030b47d16493c3ec15367"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{B00FF4A1-5707-44F1-876D-02582A82F9AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:49.9207862Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/content/Global/Navigation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
