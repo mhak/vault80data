@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Lists",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "fe5078d509767aa08802774e789dc2ceba8921bd"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9C01B63B-0BB7-4417-8B86-78C503D53BA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:49.7671181Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Lists",
+    "itemPath": "/sitecore/content/Global/Lists",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
