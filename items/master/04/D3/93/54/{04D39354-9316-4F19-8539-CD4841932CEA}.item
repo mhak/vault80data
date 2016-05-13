@@ -12,8 +12,22 @@ templatekey: Navigation Item
 ----version----
 language: en
 version: 1
-revision: 77fe0157-e1b6-4b47-a3f1-e62296803ca6
+revision: 06c50cc8-157d-46c2-a33c-22e7888e4f2c
 
+----field----
+field: {B64BEEC6-0D5B-47A2-B972-7A0A3C4F3D39}
+name: Name
+key: name
+content-length: 8
+
+Checking
+----field----
+field: {6AD23FA0-5D8E-4D8E-A7CB-724731E7A888}
+name: Link
+key: link
+content-length: 169
+
+<link id="{1C9A1085-CF49-46A0-A1FD-1C62381FE967}" querystring="" text="" linktype="internal" url="/Home/My-Banking/Checking" title="" class="" target="Active Browser" />
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -27,7 +41,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T192922Z
+20160407T230744Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -41,7 +55,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-77fe0157-e1b6-4b47-a3f1-e62296803ca6
+06c50cc8-157d-46c2-a33c-22e7888e4f2c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated

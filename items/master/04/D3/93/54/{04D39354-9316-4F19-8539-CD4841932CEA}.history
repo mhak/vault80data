@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Checking",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "b7f16f81a8e140bdbeb01129307c9d0ad9d9cb6d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{04D39354-9316-4F19-8539-CD4841932CEA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:22.9517041Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal-Checking",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Checking",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
