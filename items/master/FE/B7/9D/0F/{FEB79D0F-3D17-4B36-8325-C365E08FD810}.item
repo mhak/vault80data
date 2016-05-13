@@ -12,8 +12,29 @@ templatekey: Site Header
 ----version----
 language: en
 version: 1
-revision: 88e82bce-b9a0-4683-9fe5-1b7285db49ab
+revision: 9e707e31-b269-4ef2-9839-adb6a5e2306b
 
+----field----
+field: {E73797A1-4C29-45EF-9E52-92B4940FED1A}
+name: Title
+key: title
+content-length: 10
+
+Site Title
+----field----
+field: {810DEBE4-DD83-46B3-9B6B-3174478BB46E}
+name: Logo
+key: logo
+content-length: 58
+
+<image mediaid="{1002F6EA-0666-454B-95DC-22A7222D3196}" />
+----field----
+field: {CBD3FD73-2569-4F77-9948-8D8696DC24CC}
+name: Logo 2x
+key: logo 2x
+content-length: 58
+
+<image mediaid="{82E3DB3D-D490-4D58-B2CE-9D40E009DB0B}" />
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -27,7 +48,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T192913Z
+20160406T171146Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -41,7 +62,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-88e82bce-b9a0-4683-9fe5-1b7285db49ab
+9e707e31-b269-4ef2-9839-adb6a5e2306b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
