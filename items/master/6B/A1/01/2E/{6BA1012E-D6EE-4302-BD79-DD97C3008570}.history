@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/Home/test",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "66368cf1045a0a3bd37ab56ae3ea314175fee1cb"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{6BA1012E-D6EE-4302-BD79-DD97C3008570}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:03.5064705Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "test",
+    "itemPath": "/sitecore/content/Global/HealthWealth/Home/test",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
