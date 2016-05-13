@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home/My-Health",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "e555e892fbc40327ef2e1ac1a2a179b3f4143d3a"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{BA282F27-7BDF-4BA5-925C-378E8FE8E390}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:29.2595308Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "My-Health",
+    "itemPath": "/sitecore/content/Home/My-Health",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
