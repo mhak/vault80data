@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Credit Cards",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "6f2cb638fa8585607413ca508bd721829fdca3d6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{5023195C-1DC5-4F3F-B407-9E9511664A59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:21.1434966Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Credit Cards",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Credit Cards",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
