@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "7681c1981e450c52657abec51020ec582f8366a0"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B00FF4A1-5707-44F1-876D-02582A82F9AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:49.9325063Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Navigation",
+    "itemPath": "/sitecore/content/Global/Navigation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
