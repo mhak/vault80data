@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/What Interests You",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "997134fc2674e5433fec38f8fb275991d321d3f3"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B088E095-FE77-4DE7-84EE-35060A969BF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:09.5263842Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "What Interests You",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/What Interests You",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
