@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Site Footer",
     "commandType": "Item",
     "template": "Site Footer",
+    "sourceControlRevisionId": "cf4f2a28889c1a3ba792cb3f68a5bb781e29d082"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{57D02FA0-098D-4BCC-ACBA-E4274E364D54}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:17.4183967Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Site Footer",
+    "itemPath": "/sitecore/content/Global/Home Settings/Footers Folder/Site Footer",
+    "commandType": "Item",
+    "template": "Site Footer",
     "sourceControlRevisionId": null
   }
 ]
