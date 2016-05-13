@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Retirement",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "c0b374fe2d0270be6910e07b106c26bbf6282e1f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3FB7AD81-99ED-49AF-A50E-B9528C4E9FC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:35.1762681Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Retirement",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Retirement",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
