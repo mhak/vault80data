@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/TestVault",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "955295e5189efceeb381c7d942249472d8e92f90"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{AAC1F451-6C85-4692-B642-D7EED8C8F7D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:29.1048829Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "TestVault",
+    "itemPath": "/sitecore/content/Home/TestVault",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
