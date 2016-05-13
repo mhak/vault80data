@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Money-Markets",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "6bbbc99129be064e609d7955870a2c3514068e04"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{57EFD1C0-89EE-4F12-A45F-5D5143E1CEE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:23.3202247Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal-Money-Markets",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Money-Markets",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
