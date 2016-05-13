@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/Lists",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "f20c6078a4174cb9f6b69a5b17a542e2cd207faf"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{9C01B63B-0BB7-4417-8B86-78C503D53BA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:49.7521748Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Lists",
+    "itemPath": "/sitecore/content/Global/Lists",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
