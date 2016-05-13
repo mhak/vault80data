@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Checking",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "2d8cb080be2897862c9af526772c3a34f53009e5"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{1C9A1085-CF49-46A0-A1FD-1C62381FE967}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:31.0164180Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Checking",
+    "itemPath": "/sitecore/content/Home/My-Banking/Checking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
