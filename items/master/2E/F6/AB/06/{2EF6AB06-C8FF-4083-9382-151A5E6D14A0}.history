@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-CDs",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "a0186517653e9fc8d03de19815f972134d0b08a9"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{2EF6AB06-C8FF-4083-9382-151A5E6D14A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:22.6607562Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal-CDs",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-CDs",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
