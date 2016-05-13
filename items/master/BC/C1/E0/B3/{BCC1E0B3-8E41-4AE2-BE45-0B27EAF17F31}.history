@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Investor Banking Title",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "39c7b364f471e54dda2860a6818e5f90f02dd08b"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BCC1E0B3-8E41-4AE2-BE45-0B27EAF17F31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:06.7262125Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Investor Banking Title",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Investor Banking Title",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
