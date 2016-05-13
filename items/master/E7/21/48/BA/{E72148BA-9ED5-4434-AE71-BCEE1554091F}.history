@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Wealth Overview",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "d1b7e9f1feaeaf83cd0e8e41c4e6eac2640124b2"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{E72148BA-9ED5-4434-AE71-BCEE1554091F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:11.6015502Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Wealth Overview",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Wealth Overview",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

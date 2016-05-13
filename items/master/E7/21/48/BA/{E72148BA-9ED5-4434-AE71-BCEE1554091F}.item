@@ -12,36 +12,84 @@ templatekey: Promotion
 ----version----
 language: en
 version: 1
-revision: af20ccf2-8fd8-4f40-af6f-1e652df02ffa
+revision: 704788ce-5eaf-47f1-8f00-51b031ee8c66
+
+----field----
+field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
+name: Promotion Text
+key: promotion text
+content-length: 2809
+
+
+<section class="component overview">
+
+    <header class="component-header">
+        <h3 class="component-header__title">Overview</h3>
+    </header>
+
+    <div class="overview__inner component__inner">
+    	<ul class="overview__list">
+    		<li class="overview__item">
+    			<h4 class="item-title"><a href="#">Fund overview</a></h4>
+    			<p class="item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor minima ipsam repudiandae vel ex eaque, voluptas, non consectetur velit tempore, enim mollitia possimus molestiae impedit quod, perferendis provident ullam necessitatibus!</p>
+    		</li>
+    		
+    		<li class="overview__item">
+    			<h4 class="item-title"><a href="#">Active Management</a></h4>
+    			<p class="item-description">Voluptatem aperiam dolorem error porro sed dolor, harum, voluptas fuga ducimus odit pariatur quos magnam officiis odio ad doloremque, reprehenderit quidem quasi inventore. Fugit sit modi, asperiores quia earum ipsum.</p>
+    		</li>
+    		
+    		<li class="overview__item">
+    			<h4 class="item-title"><a href="#">Why invest in this fund?</a></h4>
+    			<p class="item-description">Voluptate et ducimus nesciunt expedita minima ipsam tempore quis voluptatibus reiciendis, quam nisi architecto atque iure. Adipisci optio illum magni, asperiores neque officiis blanditiis natus, libero veniam vel, sequi voluptas! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam laboriosam, temporibus hic sit odio ducimus at ad iusto cum facere. Laboriosam ducimus officiis quod, dolore temporibus ratione dolorem voluptas officia?</p>
+    		</li>
+    		
+    		<li class="overview__item">
+    			<h4 class="item-title"><a href="#">Primary Benchmark</a></h4>
+    			<p class="item-description">Recusandae numquam impedit ex assumenda, voluptates tempora facere nulla quasi, blanditiis ullam velit animi illo. Libero totam rem est cum alias facere. Nam beatae, laudantium magnam, delectus fuga quae natus.</p>
+    		</li>
+    		
+    		<li class="overview__item">
+    			<h4 class="item-title"><a href="#">How we can guide you</a></h4>
+    			<p class="item-description">Quae aspernatur sit error ex mollitia distinctio voluptate rem quaerat repudiandae optio impedit qui, eligendi molestias hic sequi minima exercitationem, rerum pariatur praesentium odit veritatis consequuntur! Eius asperiores ut alias?</p>
+    		</li>
+
+    		<li class="overview__item">
+    			<h4 class="item-title"><a href="#">Dividend Frequency</a></h4>
+    			<p class="item-description">Fugit, veniam rerum culpa nam modi doloribus doloremque, iure nisi, quidem aperiam, voluptatem minus! Expedita impedit recusandae, quis reprehenderit quia illo consequatur, quae repellendus, dolorem tempore quisquam a, nostrum harum.</p>
+    		</li>
+    	</ul>
+    </div>
+</section>
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T192911Z
+20160328T025515Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-af20ccf2-8fd8-4f40-af6f-1e652df02ffa
+704788ce-5eaf-47f1-8f00-51b031ee8c66
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
