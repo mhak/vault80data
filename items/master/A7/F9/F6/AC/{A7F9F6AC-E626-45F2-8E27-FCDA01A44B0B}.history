@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "8697df637c3e15b9bd82004629fd0fe4c0f84a4a"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{A7F9F6AC-E626-45F2-8E27-FCDA01A44B0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:33.1346381Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business-Banking",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
