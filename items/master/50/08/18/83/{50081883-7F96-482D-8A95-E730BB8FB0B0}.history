@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Investments",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "8d91bdffd83e351b0e31e1021aadc66a0ca0de2b"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{50081883-7F96-482D-8A95-E730BB8FB0B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:34.9218514Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Investments",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Investments",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
