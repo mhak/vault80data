@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/content/Home/Another",
     "commandType": "Item",
     "template": "Sample Item",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "82cf12c3cf52beab62b197457e5515c04f33f0e8"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{27F6C280-189E-4974-B0DC-5FC03C548CF2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:17:54.2353155Z",
+    "label": "Deleted",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Another",
+    "itemPath": "/sitecore/content/Home/Another",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": "82cf12c3cf52beab62b197457e5515c04f33f0e8"
   }
 ]
