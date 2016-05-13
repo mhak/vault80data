@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Investment-Wealth-Transfer",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "f08a36c5d272e552e29b1cf915650f2229213401"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{545D4ECA-8196-42D7-AE60-32C10118343B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:22.5237947Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Investment-Wealth-Transfer",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Investment-Wealth-Transfer",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
