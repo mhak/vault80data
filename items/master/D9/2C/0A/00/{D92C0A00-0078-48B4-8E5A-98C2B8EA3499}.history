@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Savings",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "b7ce3d170b70b178cb87e784e0e24eddfc007fdb"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{D92C0A00-0078-48B4-8E5A-98C2B8EA3499}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:23.5151672Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal-Savings",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Savings",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
