@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Performance",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "c309ce51a1547f375bc847add6ccf6eb5a5d9de1"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4910D8A7-1054-448E-88E6-EEF3F279C880}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:11.0239028Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Performance",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Performance",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
