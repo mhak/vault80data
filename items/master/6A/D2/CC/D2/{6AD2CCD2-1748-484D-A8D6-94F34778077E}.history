@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Health Hero",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "a1294b92a0bf2b446bf6dd36dc9c60897b479a88"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{6AD2CCD2-1748-484D-A8D6-94F34778077E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:09.6679645Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Health Hero",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Health Hero",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
