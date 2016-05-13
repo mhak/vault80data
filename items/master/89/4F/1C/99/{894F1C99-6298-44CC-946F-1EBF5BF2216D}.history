@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/FRBBanking",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "fcd389ed47842153aad1401570b61f43c331f28e"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{894F1C99-6298-44CC-946F-1EBF5BF2216D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:25.8520721Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "FRBBanking",
+    "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/FRBBanking",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
