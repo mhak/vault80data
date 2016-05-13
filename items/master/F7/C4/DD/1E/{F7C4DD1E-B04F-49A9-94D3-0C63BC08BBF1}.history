@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/Home",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "2e6b2bac5d7ea55d2ea06ade80dcd741eacf2c67"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{F7C4DD1E-B04F-49A9-94D3-0C63BC08BBF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:14.3497211Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/Home",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
