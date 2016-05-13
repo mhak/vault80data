@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Yields",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "8febced89e24f7e93856f5bebea9ca0b977e76eb"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{556540E4-8D32-4BED-A33B-4DFC7F9EC744}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:11.7922993Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Yields",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Yields",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
