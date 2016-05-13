@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Wakitol Trials",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "4e5d73cf42ca3777076f047025f311c9f459713a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{894E54E3-7127-4E9C-8B50-A002133CFFAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:10.4929871Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Wakitol Trials",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Wakitol Trials",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
