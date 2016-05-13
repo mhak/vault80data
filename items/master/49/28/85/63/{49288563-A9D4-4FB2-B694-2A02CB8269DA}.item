@@ -12,36 +12,66 @@ templatekey: Disclosure Item
 ----version----
 language: en
 version: 1
-revision: 20b5ad30-7349-46d2-a637-030bbaae3b10
+revision: f599f099-857f-498a-92dc-1899b13ef78b
 
+----field----
+field: {758BA01C-DA3C-4991-8795-D1675602B4E5}
+name: Specific Pages
+key: specific pages
+content-length: 38
+
+{BA282F27-7BDF-4BA5-925C-378E8FE8E390}
+----field----
+field: {BC70D541-7655-4227-B8CD-862D773EB5EE}
+name: Text
+key: text
+content-length: 1640
+
+<p><strong>Approved Uses</strong><br />
+WAKITOL&reg; &nbsp;is a prescription medicine that is injected into software developers and used to temporarily motivate them to continue to code.<br />
+<br />
+<strong>IMPORTANT SAFETY INFORMATION</strong><br />
+WAKITOL&reg; &nbsp;may cause serious side effects that can be life threatening. Get medical help right away if you have any of these problems any time (hours to weeks) after injection of WAKITOL&reg;:<br />
+<br />
+Problems sitting, speaking, or living, can be severe and result in loss of employment. You are at the highest risk if these problems are pre-existing before injection. Problems may last for several months.<br />
+<br />
+WAKITOL&reg; may cause loss of strength or general muscle weakness, vision problems, or dizziness within hours to weeks of taking WAKITOL&reg; . If this happens, do not drive a car, operate machinery, or text message anyone you might want to date later.<br />
+<br />
+Serious and/or immediate allergic reactions have been reported. They include: itching, rash, red itchy welts, wheezing, asthma symptoms, or dizziness or feeling faintly like a cog in a huge machine. Get medical help right away if you are wheezing or have asthma symptoms, or if you die suddenly.<br />
+<br />
+Other side effects of WAKITOL&reg; include: discomfort or pain at the injection site; headache; and eye problems: double vision, blurred vision, drooping eyelids, and swelling of your eyelids. Basically it&rsquo;s going to hurt.<br />
+<br />
+For more information refer to the Medication Guide or talk with your doctor.<br />
+<br />
+To report a side effect, please IM your PM.</p>
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T192854Z
+20160325T202824Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-20b5ad30-7349-46d2-a637-030bbaae3b10
+f599f099-857f-498a-92dc-1899b13ef78b
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
