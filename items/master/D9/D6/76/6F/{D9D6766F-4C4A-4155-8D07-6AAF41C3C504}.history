@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Banking",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "485c1cf74a9e25dc4d6e110698c80242d2b04e42"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D9D6766F-4C4A-4155-8D07-6AAF41C3C504}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:20.0848672Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business-Banking",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Banking",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
