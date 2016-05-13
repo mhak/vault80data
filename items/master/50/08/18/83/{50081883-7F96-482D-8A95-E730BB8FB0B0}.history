@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Investments",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "60f0ebd4410593c277351b816029af7f17fb9246"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{50081883-7F96-482D-8A95-E730BB8FB0B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:34.7885045Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Investments",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Investments",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
