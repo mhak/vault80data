@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu",
     "commandType": "Item",
     "template": "Banking Menu",
+    "sourceControlRevisionId": "530d7e553edd2bc93be9115e3cde477106635973"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F711739B-75B8-4780-8595-50A04CF5B3D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:51.0877504Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal Banking Menu",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu",
+    "commandType": "Item",
+    "template": "Banking Menu",
     "sourceControlRevisionId": null
   }
 ]
