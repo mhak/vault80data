@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Form submitted",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE22484A-DB17-4918-AB61-BA813FAFD464}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:45.4727924Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Form submitted",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Form submitted",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Geo IP/City Condition",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5867B80-2275-4F49-814B-38CFE0F5A423}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:35.2519632Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "City Condition",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Geo IP/City Condition",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

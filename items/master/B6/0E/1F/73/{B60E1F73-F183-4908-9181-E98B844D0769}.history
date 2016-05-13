@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Accounts",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B60E1F73-F183-4908-9181-E98B844D0769}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:10.0013260Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Empty Accounts",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social/Empty Accounts",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

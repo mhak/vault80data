@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Automation State/Has Automation State",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F3FBBC2-B7ED-4821-950D-03A599AA47FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:34.7246285Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Has Automation State",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Automation State/Has Automation State",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

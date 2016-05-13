@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/File Size",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E344C026-8575-496D-8CDF-7741891D0786}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:15.8219759Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "File Size",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/File Size",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

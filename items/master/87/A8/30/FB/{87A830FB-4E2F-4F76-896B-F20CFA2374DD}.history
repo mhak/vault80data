@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Updated Date",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{87A830FB-4E2F-4F76-896B-F20CFA2374DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:17.0747734Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Updated Date",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Updated Date",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

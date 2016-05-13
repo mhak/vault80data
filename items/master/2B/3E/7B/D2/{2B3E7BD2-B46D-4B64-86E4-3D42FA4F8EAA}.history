@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Add to Favorites",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B3E7BD2-B46D-4B64-86E4-3D42FA4F8EAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:21.1840218Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add to Favorites",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Add to Favorites",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

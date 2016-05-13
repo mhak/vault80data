@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Command",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC2CF483-11AE-4C35-AAA8-C4796423A501}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-13T18:28:15.1345614Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command",
+    "itemPath": "/sitecore/templates/System/Ribbon/Command",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

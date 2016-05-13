@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Opportunity",
     "commandType": "Item",
     "template": "Outcome Definition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BF6B8EE3-9FFB-4C58-9CB4-301C1C710F89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:35.9038270Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Opportunity",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Opportunity",
+    "commandType": "Item",
+    "template": "Outcome Definition",
     "sourceControlRevisionId": null
   }
 ]

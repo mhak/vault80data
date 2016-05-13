@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E1FD9E57-A27F-481A-95CA-AA8627414A36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:29:27.0696591Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FDAMediaFolder",
+    "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

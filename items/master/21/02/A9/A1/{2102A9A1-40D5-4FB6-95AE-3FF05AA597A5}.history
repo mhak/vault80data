@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Liberia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2102A9A1-40D5-4FB6-95AE-3FF05AA597A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:27.0034229Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Liberia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Liberia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

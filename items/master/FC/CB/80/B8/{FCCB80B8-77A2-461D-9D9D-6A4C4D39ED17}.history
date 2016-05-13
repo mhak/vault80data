@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Max Length 40",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FCCB80B8-77A2-461D-9D9D-6A4C4D39ED17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:09.4173707Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Max Length 40",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Max Length 40",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

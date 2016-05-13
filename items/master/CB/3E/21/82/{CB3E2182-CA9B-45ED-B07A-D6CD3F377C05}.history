@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Christmas Island",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB3E2182-CA9B-45ED-B07A-D6CD3F377C05}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:16.0200507Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Christmas Island",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Christmas Island",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

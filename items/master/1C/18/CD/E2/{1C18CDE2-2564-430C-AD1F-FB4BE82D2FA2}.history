@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages that Report Errors",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C18CDE2-2564-430C-AD1F-FB4BE82D2FA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:52.6436634Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pages that Report Errors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages that Report Errors",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

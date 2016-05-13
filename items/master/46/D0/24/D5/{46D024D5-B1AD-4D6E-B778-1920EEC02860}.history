@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guatemala",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46D024D5-B1AD-4D6E-B778-1920EEC02860}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:22.7461306Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guatemala",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guatemala",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

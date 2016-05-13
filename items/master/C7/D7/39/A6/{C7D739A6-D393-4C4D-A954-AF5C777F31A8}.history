@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7D739A6-D393-4C4D-A954-AF5C777F31A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:07.2008940Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Subreports",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

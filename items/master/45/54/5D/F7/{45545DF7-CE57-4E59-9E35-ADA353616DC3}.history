@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Local Searches Leading to this Page",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45545DF7-CE57-4E59-9E35-ADA353616DC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:07.3278870Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Local Searches Leading to this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Local Searches Leading to this Page",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

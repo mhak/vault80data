@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Toolbox/Renderings/Renderings",
     "commandType": "Item",
     "template": "Reference",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C350490-76CA-411A-B178-45B9C264A836}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:22.9904081Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Renderings",
+    "itemPath": "/sitecore/system/Toolbox/Renderings/Renderings",
+    "commandType": "Item",
+    "template": "Reference",
     "sourceControlRevisionId": null
   }
 ]

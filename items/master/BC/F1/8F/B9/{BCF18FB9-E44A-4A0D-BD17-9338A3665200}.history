@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Report Schedule/Data/Last Run",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCF18FB9-E44A-4A0D-BD17-9338A3665200}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:24.8930895Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Last Run",
+    "itemPath": "/sitecore/templates/System/Analytics/Report Schedule/Data/Last Run",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

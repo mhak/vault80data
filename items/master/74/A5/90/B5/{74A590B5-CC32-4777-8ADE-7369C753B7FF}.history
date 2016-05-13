@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Security/Presets/Remove Inherit",
     "commandType": "Item",
     "template": "Security Preset",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74A590B5-CC32-4777-8ADE-7369C753B7FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:05.9027363Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Inherit",
+    "itemPath": "/sitecore/system/Settings/Security/Presets/Remove Inherit",
+    "commandType": "Item",
+    "template": "Security Preset",
     "sourceControlRevisionId": null
   }
 ]

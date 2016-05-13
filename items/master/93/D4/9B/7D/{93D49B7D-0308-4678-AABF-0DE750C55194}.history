@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Download Brochure",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93D49B7D-0308-4678-AABF-0DE750C55194}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:15.2575331Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Download Brochure",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Download Brochure",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

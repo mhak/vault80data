@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{734DDBC7-F58E-4C2A-B9BF-89D4254F8611}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:22.9742558Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guinea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guinea",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cyprus",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75368A5E-4BE9-4997-9EC7-B034CF4B9088}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:17.4850317Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cyprus",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cyprus",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

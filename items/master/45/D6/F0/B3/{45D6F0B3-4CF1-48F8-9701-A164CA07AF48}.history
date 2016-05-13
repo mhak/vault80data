@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45D6F0B3-4CF1-48F8-9701-A164CA07AF48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:04.2976441Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "IP",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Views/Lock View",
     "commandType": "Item",
     "template": "View",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{74008565-F85E-4D66-9B10-42E1A03770BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:29.4710634Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lock View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/Lock View",
+    "commandType": "Item",
+    "template": "View",
     "sourceControlRevisionId": null
   }
 ]

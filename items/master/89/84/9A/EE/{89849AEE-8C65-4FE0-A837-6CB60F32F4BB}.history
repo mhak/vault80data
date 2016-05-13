@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits with Failure",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89849AEE-8C65-4FE0-A837-6CB60F32F4BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:50.7642490Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest Visits with Failure",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits with Failure",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

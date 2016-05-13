@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B7249F4-A85E-4768-8537-7C9798985764}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:01.2509684Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Automation",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Value - Unclassified",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5BC372F-30EB-4251-87D2-BB22350E4510}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:53.9343518Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top Leads By Value - Unclassified",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Value - Unclassified",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Social/Klout/Applications",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B034C98-9E6B-4F76-99F6-BACF2C9A97D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:19.8774576Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Applications",
+    "itemPath": "/sitecore/system/Social/Klout/Applications",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

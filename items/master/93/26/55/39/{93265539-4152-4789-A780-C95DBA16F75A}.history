@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ukraine",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93265539-4152-4789-A780-C95DBA16F75A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:41.8246315Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ukraine",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ukraine",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

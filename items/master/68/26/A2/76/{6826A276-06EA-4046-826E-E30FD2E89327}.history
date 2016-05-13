@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Clear Script Cache",
     "commandType": "Item",
     "template": "Script",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6826A276-06EA-4046-826E-E30FD2E89327}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:05.0133592Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Clear Script Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Clear Script Cache",
+    "commandType": "Item",
+    "template": "Script",
     "sourceControlRevisionId": null
   }
 ]

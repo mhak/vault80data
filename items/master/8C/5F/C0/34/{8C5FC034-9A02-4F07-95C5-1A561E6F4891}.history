@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/ResetButtonText",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C5FC034-9A02-4F07-95C5-1A561E6F4891}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:33.0537345Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ResetButtonText",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/ResetButtonText",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

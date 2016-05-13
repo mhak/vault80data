@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Tasks/Schedules",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A705D262-5714-4880-9962-051E25F1416D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:20.9064680Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Schedules",
+    "itemPath": "/sitecore/system/Tasks/Schedules",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A881CBF-5D01-43D9-94A2-E43700B7E169}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:16.2756333Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Personalization Visits By Range",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58F3132C-6C6B-416D-BCCC-527CA1ED33D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:57.2499174Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization Visits By Range",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Personalization Visits By Range",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

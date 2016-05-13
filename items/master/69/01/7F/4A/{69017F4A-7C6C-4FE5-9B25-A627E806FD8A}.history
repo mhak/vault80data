@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tajikistan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69017F4A-7C6C-4FE5-9B25-A627E806FD8A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:39.9876419Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tajikistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tajikistan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

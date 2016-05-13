@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Put in Basket",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C808CDB5-EACD-4FCC-95B8-A9821EC35209}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:18.3496956Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Put in Basket",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Put in Basket",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

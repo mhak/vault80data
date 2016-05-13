@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Send E-Mail Message",
     "commandType": "Item",
     "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC62A688-AE9E-4462-ABD4-73E28782D74A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:09.1572287Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Send E-Mail Message",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Send E-Mail Message",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
     "sourceControlRevisionId": null
   }
 ]

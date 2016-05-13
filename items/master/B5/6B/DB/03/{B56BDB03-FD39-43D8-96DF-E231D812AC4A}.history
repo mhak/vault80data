@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Site Statistics By Test Id",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B56BDB03-FD39-43D8-96DF-E231D812AC4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:57.4765285Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Site Statistics By Test Id",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Site Statistics By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

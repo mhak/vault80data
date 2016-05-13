@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-linkedin",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BBB88A6F-24C2-4D9E-9C26-F6D27E3F7308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:11.6272666Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-linkedin",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-linkedin",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

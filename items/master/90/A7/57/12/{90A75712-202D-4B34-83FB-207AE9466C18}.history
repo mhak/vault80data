@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Tracking/Tags/Default",
     "commandType": "Item",
     "template": "Tags Definition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{90A75712-202D-4B34-83FB-207AE9466C18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:57.2604714Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Tracking/Tags/Default",
+    "commandType": "Item",
+    "template": "Tags Definition",
     "sourceControlRevisionId": null
   }
 ]

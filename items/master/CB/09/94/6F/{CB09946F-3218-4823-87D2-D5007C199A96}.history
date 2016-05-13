@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Properties/Dimensions",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB09946F-3218-4823-87D2-D5007C199A96}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-13T18:27:43.8354115Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dimensions",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Properties/Dimensions",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

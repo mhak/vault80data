@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Slovakia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65DB1B5E-215B-421D-B06D-95AC3DC85783}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:37.1449310Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Slovakia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Slovakia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Branches/Command Template",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2613CC1-A748-46A3-A0DB-3774574BD339}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:42.1913751Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Command Template",
+    "itemPath": "/sitecore/templates/System/Branches/Command Template",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

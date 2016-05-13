@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Bad Pages/Visits",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4220EC5A-FAC6-4E9B-817E-378FB0C8A35C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:11.3476062Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Bad Pages/Visits",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

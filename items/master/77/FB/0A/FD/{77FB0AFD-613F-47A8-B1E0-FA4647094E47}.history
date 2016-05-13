@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Viewer/NoPageEventsTriggered",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77FB0AFD-613F-47A8-B1E0-FA4647094E47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:41.6685937Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NoPageEventsTriggered",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Viewer/NoPageEventsTriggered",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

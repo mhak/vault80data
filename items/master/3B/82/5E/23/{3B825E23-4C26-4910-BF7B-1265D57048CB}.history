@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Hotkey",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B825E23-4C26-4910-BF7B-1265D57048CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:27:55.1818528Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Hotkey",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Hotkey",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

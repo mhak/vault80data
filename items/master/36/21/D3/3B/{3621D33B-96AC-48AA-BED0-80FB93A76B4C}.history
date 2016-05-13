@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Pattern",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3621D33B-96AC-48AA-BED0-80FB93A76B4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:23.5529670Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Pattern",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Pattern",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

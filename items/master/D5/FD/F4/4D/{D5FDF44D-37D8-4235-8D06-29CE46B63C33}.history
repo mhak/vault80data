@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register for event",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5FDF44D-37D8-4235-8D06-29CE46B63C33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:47.3980801Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register for event",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register for event",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

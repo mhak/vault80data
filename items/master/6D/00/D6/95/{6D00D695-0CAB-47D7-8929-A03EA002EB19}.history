@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Value",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D00D695-0CAB-47D7-8929-A03EA002EB19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:26.0154770Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Multivariate Test Value",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Value",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

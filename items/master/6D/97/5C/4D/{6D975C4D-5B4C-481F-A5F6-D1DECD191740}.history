@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Extension May Not Start with a Dot",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D975C4D-5B4C-481F-A5F6-D1DECD191740}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:10.8909546Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Extension May Not Start with a Dot",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Extension May Not Start with a Dot",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

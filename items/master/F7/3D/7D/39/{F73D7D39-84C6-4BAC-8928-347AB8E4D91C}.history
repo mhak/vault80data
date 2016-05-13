@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bangladesh",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F73D7D39-84C6-4BAC-8928-347AB8E4D91C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:13.1514448Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Bangladesh",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bangladesh",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

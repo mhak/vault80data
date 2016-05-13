@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Engagement Value Points",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03C88BC4-8583-4AB9-A7CB-428E13E7C325}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:16.3470528Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Engagement Value Points",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Engagement Value Points",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

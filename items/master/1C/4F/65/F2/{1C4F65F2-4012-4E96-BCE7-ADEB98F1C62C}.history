@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/Comment/Comments",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C4F65F2-4012-4E96-BCE7-ADEB98F1C62C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:29:30.8850227Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comments",
+    "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/Comment/Comments",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

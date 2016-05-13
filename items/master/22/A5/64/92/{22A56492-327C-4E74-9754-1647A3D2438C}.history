@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kyrgyzstan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22A56492-327C-4E74-9754-1647A3D2438C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:26.2524686Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kyrgyzstan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kyrgyzstan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

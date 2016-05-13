@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Workflow/Workflow has final state",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B48E33F7-E931-4DC6-B89F-BDA8110451AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:19.1927641Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow has final state",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Workflow/Workflow has final state",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

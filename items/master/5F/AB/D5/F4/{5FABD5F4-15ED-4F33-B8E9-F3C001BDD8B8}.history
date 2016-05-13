@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Home/Secondary Section",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5FABD5F4-15ED-4F33-B8E9-F3C001BDD8B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:19:45.5778294Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Secondary Section",
+    "itemPath": "/sitecore/content/Home/Secondary Section",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

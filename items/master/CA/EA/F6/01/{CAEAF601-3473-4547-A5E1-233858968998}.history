@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CAEAF601-3473-4547-A5E1-233858968998}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:03.1504290Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vendor Specific Filters",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

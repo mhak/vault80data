@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Honduras",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F96B8936-2F00-4102-8F4C-C344763C9A84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:23.6509544Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Honduras",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Honduras",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

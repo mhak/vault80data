@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn",
     "commandType": "Item",
     "template": "Campaign Category",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EEE1033E-B3EB-4267-89D5-96682EF25539}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:16.4759905Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn",
+    "commandType": "Item",
+    "template": "Campaign Category",
     "sourceControlRevisionId": null
   }
 ]

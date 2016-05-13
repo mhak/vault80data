@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Validation/Set Validation Result",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FEB35D83-E2FC-4CEE-8384-348F8A217837}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:15.7680927Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Validation Result",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Validation/Set Validation Result",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

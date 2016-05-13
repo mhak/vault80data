@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD32AD12-69E6-41B6-82B8-712D9DA96DDC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:21.3995208Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Try Finish Test",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Try Finish Test",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

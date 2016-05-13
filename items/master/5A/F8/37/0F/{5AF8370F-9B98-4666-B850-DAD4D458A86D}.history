@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Facets",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5AF8370F-9B98-4666-B850-DAD4D458A86D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:59.1383490Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facets",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Facets",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

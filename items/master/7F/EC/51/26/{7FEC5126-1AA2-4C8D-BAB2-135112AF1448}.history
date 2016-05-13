@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Copy to Data Source Query",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7FEC5126-1AA2-4C8D-BAB2-135112AF1448}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:26.2311330Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Copy to Data Source Query",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Copy to Data Source Query",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

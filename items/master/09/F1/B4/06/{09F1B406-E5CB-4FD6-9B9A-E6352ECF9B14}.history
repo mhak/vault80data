@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Request a Post",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09F1B406-E5CB-4FD6-9B9A-E6352ECF9B14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:29.4336585Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Request a Post",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Request a Post",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

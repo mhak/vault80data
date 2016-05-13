@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Chad",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88304067-9C9C-4EC6-8F36-9AA3A15E08A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:15.6687493Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Chad",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Chad",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

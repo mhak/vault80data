@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-mobile-app",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8500A17E-B355-48C4-ABCB-D93058211315}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:12.3868364Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-mobile-app",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-mobile-app",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

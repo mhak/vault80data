@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/List Manager/All Lists",
     "commandType": "Item",
     "template": "List Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC799B34-8423-48AC-A2FE-D128E6300659}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:52.3283251Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All Lists",
+    "itemPath": "/sitecore/system/List Manager/All Lists",
+    "commandType": "Item",
+    "template": "List Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Owner",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49DBF157-8C47-41D7-BB8F-6B8151B5405C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:43.4586755Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Owner",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Owner",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

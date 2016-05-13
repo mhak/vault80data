@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cambodia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92FCD8A1-4E1B-4F43-A555-9441D40C86DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:15.0485733Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cambodia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cambodia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

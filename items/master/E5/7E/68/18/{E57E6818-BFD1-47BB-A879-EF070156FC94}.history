@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test/Validation Action",
     "commandType": "Item",
     "template": "Validation Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E57E6818-BFD1-47BB-A879-EF070156FC94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:27.1162164Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Action",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test/Validation Action",
+    "commandType": "Item",
+    "template": "Validation Action",
     "sourceControlRevisionId": null
   }
 ]

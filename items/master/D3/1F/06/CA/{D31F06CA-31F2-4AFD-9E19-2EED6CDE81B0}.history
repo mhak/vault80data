@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cuba",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D31F06CA-31F2-4AFD-9E19-2EED6CDE81B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:17.3905525Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cuba",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cuba",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

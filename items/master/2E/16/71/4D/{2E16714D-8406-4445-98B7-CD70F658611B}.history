@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Flash",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E16714D-8406-4445-98B7-CD70F658611B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:27:46.8689061Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flash",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

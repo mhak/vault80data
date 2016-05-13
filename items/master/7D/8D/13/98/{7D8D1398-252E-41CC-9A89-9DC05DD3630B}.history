@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Users In State/Users In State",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D8D1398-252E-41CC-9A89-9DC05DD3630B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:13.4644577Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Users In State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Users In State/Users In State",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

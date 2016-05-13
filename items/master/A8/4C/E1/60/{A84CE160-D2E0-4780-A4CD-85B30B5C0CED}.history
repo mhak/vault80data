@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sudan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A84CE160-D2E0-4780-A4CD-85B30B5C0CED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:38.0725466Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sudan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sudan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

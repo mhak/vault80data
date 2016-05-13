@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Tab Options",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB14B596-67DD-4C93-BE7C-2BDBADEB64C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:14.2310361Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tab Options",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

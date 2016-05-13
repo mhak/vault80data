@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Page Level Test Variable/Data/Device",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D45C2974-43B3-4D5D-91BB-D7C47491DFFE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:30.9090946Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Page Level Test Variable/Data/Device",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

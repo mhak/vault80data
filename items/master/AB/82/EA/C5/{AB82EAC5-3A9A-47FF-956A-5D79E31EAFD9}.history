@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/NetworkProperty",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB82EAC5-3A9A-47FF-956A-5D79E31EAFD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:25.1628882Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "NetworkProperty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/NetworkProperty",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

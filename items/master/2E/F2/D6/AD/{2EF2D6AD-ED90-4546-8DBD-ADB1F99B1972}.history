@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/ID3/Comment",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2EF2D6AD-ED90-4546-8DBD-ADB1F99B1972}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-13T18:27:45.5746503Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Comment",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/ID3/Comment",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Northern Mariana Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96D4DFC3-9257-4E6A-B8C4-DC708A33171E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:32.4859086Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Northern Mariana Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Northern Mariana Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

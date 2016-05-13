@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Costa Rica",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF309513-A452-47FE-A5E3-5A2B0094BEE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:17.0670862Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Costa Rica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Costa Rica",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

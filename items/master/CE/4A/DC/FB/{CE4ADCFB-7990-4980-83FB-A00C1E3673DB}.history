@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Sample Inner Sublayout",
     "commandType": "Item",
     "template": "Sublayout",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE4ADCFB-7990-4980-83FB-A00C1E3673DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:00.0200904Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sample Inner Sublayout",
+    "itemPath": "/sitecore/layout/Sublayouts/Sample Inner Sublayout",
+    "commandType": "Item",
+    "template": "Sublayout",
     "sourceControlRevisionId": null
   }
 ]

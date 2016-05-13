@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Referral Information/Referrer",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB41CA8E-18B3-4FB0-BFA1-9B99C91EBCCF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:28:01.8642495Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referrer",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Referral Information/Referrer",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

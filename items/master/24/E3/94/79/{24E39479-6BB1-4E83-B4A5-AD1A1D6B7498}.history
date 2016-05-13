@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-twitter-post",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24E39479-6BB1-4E83-B4A5-AD1A1D6B7498}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:14.2233176Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-twitter-post",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-twitter-post",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

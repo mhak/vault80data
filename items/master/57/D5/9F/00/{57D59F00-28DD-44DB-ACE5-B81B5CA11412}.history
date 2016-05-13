@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mexico",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57D59F00-28DD-44DB-ACE5-B81B5CA11412}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:29.7388608Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mexico",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mexico",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

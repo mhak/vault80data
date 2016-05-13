@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tag/$name/Visibility",
     "commandType": "Item",
     "template": "Visibility",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B1ECD86C-5B13-4698-A27A-CBE89DC12393}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:41.2595322Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tag/$name/Visibility",
+    "commandType": "Item",
+    "template": "Visibility",
     "sourceControlRevisionId": null
   }
 ]

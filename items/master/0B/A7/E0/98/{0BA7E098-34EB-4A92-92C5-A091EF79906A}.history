@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Device Name",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BA7E098-34EB-4A92-92C5-A091EF79906A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:44.8648646Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Device Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Context/Device Name",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Azerbaijan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5D8EBAF-0B22-469F-987C-95A79CBE4BAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:12.0505976Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Azerbaijan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Azerbaijan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

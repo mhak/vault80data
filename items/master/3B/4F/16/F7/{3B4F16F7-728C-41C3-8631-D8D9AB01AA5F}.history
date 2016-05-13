@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-analyst",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B4F16F7-728C-41C3-8631-D8D9AB01AA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:08.4505271Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-analyst",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-analyst",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

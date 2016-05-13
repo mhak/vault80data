@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/FXM",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{40AC2D94-D9D5-4907-8B3A-346A9DC8BD35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:53.0736766Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Federated Experience Manager",
+    "itemPath": "/sitecore/system/Marketing Control Panel/FXM",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

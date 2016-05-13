@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Satellite Provider",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30C81A23-F496-476D-8F63-93331A1A5FE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:36.3489435Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Satellite Provider",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Satellite Provider",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

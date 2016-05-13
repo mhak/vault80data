@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Campaign Categories Overview",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8746D5D1-C5AF-4A9D-8A06-CE3892A48DEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:05.9365378Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Campaign Categories Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Campaign Categories Overview",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

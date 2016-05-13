@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Edit/Edit Message",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DEC8F91-C45B-4E38-A6C7-01F1F865F2C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:29.5435970Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Edit Message",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft/Edit/Edit Message",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

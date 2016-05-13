@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Profile Value",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3BC1CC2-0724-4F7C-82A1-832F138431B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:17.3257256Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Profile Value",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

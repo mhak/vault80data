@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Insert Options/Item Has Subitems that Are Not In Insert Options",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{373FE811-0C70-4D30-8D0A-FA309C0B5883}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:16.9904391Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item Has Subitems that Are Not In Insert Options",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Insert Options/Item Has Subitems that Are Not In Insert Options",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

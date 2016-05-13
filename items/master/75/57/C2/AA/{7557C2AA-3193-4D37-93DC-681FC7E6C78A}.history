@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Source Value Per Visits",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7557C2AA-3193-4D37-93DC-681FC7E6C78A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:06.4574240Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Source Value Per Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Source Value Per Visits",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

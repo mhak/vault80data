@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/500 - Competitor",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C254664-602F-4C94-BCDE-2FB0E135E51C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:05.5145991Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "500 - Competitor",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/500 - Competitor",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

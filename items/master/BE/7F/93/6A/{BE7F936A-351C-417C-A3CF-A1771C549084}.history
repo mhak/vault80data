@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Long Running Request",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE7F936A-351C-417C-A3CF-A1771C549084}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:16.5498468Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Long Running Request",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Long Running Request",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

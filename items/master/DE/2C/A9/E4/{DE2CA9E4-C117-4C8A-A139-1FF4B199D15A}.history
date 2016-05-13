@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Height",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-13T18:27:43.6077681Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Height",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Height",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

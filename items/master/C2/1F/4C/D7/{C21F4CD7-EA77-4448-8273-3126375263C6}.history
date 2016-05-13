@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MSSQL/State",
     "commandType": "Item",
     "template": "Vendor Specific Filter",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C21F4CD7-EA77-4448-8273-3126375263C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:03.9871111Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MSSQL/State",
+    "commandType": "Item",
+    "template": "Vendor Specific Filter",
     "sourceControlRevisionId": null
   }
 ]

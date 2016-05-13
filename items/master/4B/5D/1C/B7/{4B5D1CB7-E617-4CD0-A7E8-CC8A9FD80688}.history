@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings/Settings/Rule",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B5D1CB7-E617-4CD0-A7E8-CC8A9FD80688}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:27:03.5128257Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Item Buckets Settings/Settings/Rule",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

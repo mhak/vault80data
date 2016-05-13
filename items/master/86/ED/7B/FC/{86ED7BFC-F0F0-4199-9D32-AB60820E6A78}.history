@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Canada",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86ED7BFC-F0F0-4199-9D32-AB60820E6A78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:15.2546188Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Canada",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Canada",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

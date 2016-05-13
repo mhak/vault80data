@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Security/User/Data/Roles",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7115A7D-07A2-42CE-8B38-D64EA4CB6124}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:28:44.5589668Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Roles",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Roles",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

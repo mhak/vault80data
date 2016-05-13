@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Dominican Republic",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D6771C2-C58F-48AE-A2ED-66D9F39B9C6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:17.9537905Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dominican Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Dominican Republic",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/layout/Simulators/HD TV",
     "commandType": "Item",
     "template": "Simulator",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69B47A34-D529-4245-90C0-0858C66582BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:02.5610667Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HD TV",
+    "itemPath": "/sitecore/layout/Simulators/HD TV",
+    "commandType": "Item",
+    "template": "Simulator",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-livechat",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82E5B147-5A49-4DF4-9B82-08D9CE18CC5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:12.0698737Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-livechat",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-livechat",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

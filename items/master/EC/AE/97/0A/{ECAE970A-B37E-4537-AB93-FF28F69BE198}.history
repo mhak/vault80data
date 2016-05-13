@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Searches from Page",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECAE970A-B37E-4537-AB93-FF28F69BE198}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:52.9610139Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Searches from Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Searches from Page",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

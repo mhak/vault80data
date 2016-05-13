@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Social Applications",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA9420CE-E147-4466-A71D-B8AE70AF6D0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:00.5115904Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social Applications",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Social Applications",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

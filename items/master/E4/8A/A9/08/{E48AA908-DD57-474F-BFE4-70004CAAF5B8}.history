@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Vanuatu",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E48AA908-DD57-474F-BFE4-70004CAAF5B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:42.5060563Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vanuatu",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Vanuatu",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

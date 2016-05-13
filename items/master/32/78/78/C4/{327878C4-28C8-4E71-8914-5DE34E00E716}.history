@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Artist",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{327878C4-28C8-4E71-8914-5DE34E00E716}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-13T18:27:44.0512071Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Artist",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Artist",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

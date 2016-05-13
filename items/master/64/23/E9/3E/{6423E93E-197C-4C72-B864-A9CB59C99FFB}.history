@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/Home Landing",
     "commandType": "Item",
     "template": "VisitMap",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6423E93E-197C-4C72-B864-A9CB59C99FFB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:37.8746216Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Home Landing Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits/Home Landing",
+    "commandType": "Item",
+    "template": "VisitMap",
     "sourceControlRevisionId": null
   }
 ]

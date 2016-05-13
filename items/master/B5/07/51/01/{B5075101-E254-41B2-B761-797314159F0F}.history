@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Flag List",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5075101-E254-41B2-B761-797314159F0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:25.0204393Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Flag List",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Flag List",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

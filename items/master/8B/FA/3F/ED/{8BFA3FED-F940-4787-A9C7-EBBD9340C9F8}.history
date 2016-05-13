@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Add or Remove Visitor from Roles",
     "commandType": "Item",
     "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8BFA3FED-F940-4787-A9C7-EBBD9340C9F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:08.2635452Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Add or Remove Visitor from Roles",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Add or Remove Visitor from Roles",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
     "sourceControlRevisionId": null
   }
 ]

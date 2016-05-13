@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Experience Analytics",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF670895-C767-423B-870B-ACC4D960EE83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:31.5414649Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Experience Analytics",
+    "itemPath": "/sitecore/system/Settings/Rules/Experience Analytics",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

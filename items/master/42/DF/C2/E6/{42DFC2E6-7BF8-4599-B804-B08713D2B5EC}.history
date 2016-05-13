@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Failures",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42DFC2E6-7BF8-4599-B804-B08713D2B5EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:55.7411773Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Failures",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Failures",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

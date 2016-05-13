@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{289A8BE8-9D5A-43A7-97BC-DF8E64B33948}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:39.0948272Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Security Editor",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

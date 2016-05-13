@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012",
     "commandType": "Item",
     "template": "Bucket",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54C48BE2-7532-4343-B4CA-8B6D65C18AD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:28.5376748Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "2012",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012",
+    "commandType": "Item",
+    "template": "Bucket",
     "sourceControlRevisionId": null
   }
 ]

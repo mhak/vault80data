@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score/Lead",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{178107BF-4294-4FA4-A0DA-30BDE00A1346}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:43.3626372Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Lead",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score/Lead",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

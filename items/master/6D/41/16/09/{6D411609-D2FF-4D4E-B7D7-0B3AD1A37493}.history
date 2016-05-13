@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Turkmenistan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D411609-D2FF-4D4E-B7D7-0B3AD1A37493}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:41.2354173Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Turkmenistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Turkmenistan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

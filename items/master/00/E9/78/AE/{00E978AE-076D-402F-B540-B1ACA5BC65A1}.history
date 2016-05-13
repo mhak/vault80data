@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00E978AE-076D-402F-B540-B1ACA5BC65A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:19.8227877Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Search Box Dropdown",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

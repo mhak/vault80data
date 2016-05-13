@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Media/Upload Files - Advanced",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{381BEC54-BC94-4FBB-98B3-C56B37237EE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:39.5896882Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Upload Files - Advanced",
+    "itemPath": "/sitecore/templates/Branches/System/Media/Upload Files - Advanced",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

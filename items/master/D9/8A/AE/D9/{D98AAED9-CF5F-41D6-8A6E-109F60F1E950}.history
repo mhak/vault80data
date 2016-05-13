@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register failed",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D98AAED9-CF5F-41D6-8A6E-109F60F1E950}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:47.2022547Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Register failed",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register failed",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

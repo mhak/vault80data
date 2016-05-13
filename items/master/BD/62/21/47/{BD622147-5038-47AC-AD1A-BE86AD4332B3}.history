@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Equatorial Guinea",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD622147-5038-47AC-AD1A-BE86AD4332B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:18.3534566Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Equatorial Guinea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Equatorial Guinea",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

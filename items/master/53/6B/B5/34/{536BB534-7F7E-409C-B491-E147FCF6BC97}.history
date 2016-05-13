@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Visibility/GeoIP visibility",
     "commandType": "Item",
     "template": "Rule Elements Visibility Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{536BB534-7F7E-409C-B491-E147FCF6BC97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:55.5964915Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GeoIP visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Visibility/GeoIP visibility",
+    "commandType": "Item",
+    "template": "Rule Elements Visibility Rule",
     "sourceControlRevisionId": null
   }
 ]

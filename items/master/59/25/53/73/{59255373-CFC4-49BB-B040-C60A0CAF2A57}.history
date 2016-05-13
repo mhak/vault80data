@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Faroe Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59255373-CFC4-49BB-B040-C60A0CAF2A57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:19.1955233Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Faroe Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Faroe Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

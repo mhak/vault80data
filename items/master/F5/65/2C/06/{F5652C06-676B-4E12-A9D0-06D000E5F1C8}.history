@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Process",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5652C06-676B-4E12-A9D0-06D000E5F1C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:41.5814368Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Process",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Process",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

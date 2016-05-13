@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{083AE430-1BDD-4F4A-ACF8-ECD12ED63BD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:34.4793280Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Macros",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

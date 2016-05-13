@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona",
     "commandType": "Item",
     "template": "Profile",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5BDEE45-C945-476F-9EE6-3B8A9255C17E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:41.0335924Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Persona",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona",
+    "commandType": "Item",
+    "template": "Profile",
     "sourceControlRevisionId": null
   }
 ]

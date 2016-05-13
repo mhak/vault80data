@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Tasks/Commands",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EBEC263-B57E-4A3C-A232-7C70519F9908}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:20.7853323Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Commands",
+    "itemPath": "/sitecore/system/Tasks/Commands",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

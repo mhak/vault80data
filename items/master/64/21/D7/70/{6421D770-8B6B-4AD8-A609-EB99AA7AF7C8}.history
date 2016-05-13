@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/MapTypes/Page",
     "commandType": "Item",
     "template": "MapType",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6421D770-8B6B-4AD8-A609-EB99AA7AF7C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:38.2554658Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Visit Experience Map",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/MapTypes/Page",
+    "commandType": "Item",
+    "template": "MapType",
     "sourceControlRevisionId": null
   }
 ]

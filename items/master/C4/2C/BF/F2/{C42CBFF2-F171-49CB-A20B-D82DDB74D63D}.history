@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/UserRoles",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C42CBFF2-F171-49CB-A20B-D82DDB74D63D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:24.7259197Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UserRoles",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/UserRoles",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

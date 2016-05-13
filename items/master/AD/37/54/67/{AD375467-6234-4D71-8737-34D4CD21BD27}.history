@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Create Date Author",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD375467-6234-4D71-8737-34D4CD21BD27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:15.5954129Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Creation Date & Author",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Create Date Author",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

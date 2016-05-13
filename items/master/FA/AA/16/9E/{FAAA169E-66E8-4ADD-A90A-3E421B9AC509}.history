@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Page Events/Tags/Social",
     "commandType": "Item",
     "template": "Tags Definition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FAAA169E-66E8-4ADD-A90A-3E421B9AC509}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:02.4170584Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/system/Settings/Rules/Page Events/Tags/Social",
+    "commandType": "Item",
+    "template": "Tags Definition",
     "sourceControlRevisionId": null
   }
 ]

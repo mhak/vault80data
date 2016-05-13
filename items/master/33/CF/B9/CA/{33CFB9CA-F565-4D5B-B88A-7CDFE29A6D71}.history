@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33CFB9CA-F565-4D5B-B88A-7CDFE29A6D71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:24.1269924Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Marketing Control Panel",
+    "itemPath": "/sitecore/system/Marketing Control Panel",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

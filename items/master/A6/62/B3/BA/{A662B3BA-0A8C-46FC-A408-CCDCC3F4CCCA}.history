@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Antigua and Barbuda",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A662B3BA-0A8C-46FC-A408-CCDCC3F4CCCA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:11.2733826Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Antigua and Barbuda",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Antigua and Barbuda",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

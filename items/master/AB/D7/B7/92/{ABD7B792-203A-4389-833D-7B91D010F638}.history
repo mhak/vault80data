@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Scheduling/MaxDuration",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABD7B792-203A-4389-833D-7B91D010F638}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:33.4470829Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "MaxDuration",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Scheduling/MaxDuration",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

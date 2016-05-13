@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Grenada",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1DDE828C-46F5-4D8D-AC76-97D1D4E5C192}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:22.3384784Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Grenada",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Grenada",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

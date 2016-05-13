@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Debug",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23669FAC-5C34-4B8A-B4EC-9125968F6602}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:17.5825517Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Debug",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Debug",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

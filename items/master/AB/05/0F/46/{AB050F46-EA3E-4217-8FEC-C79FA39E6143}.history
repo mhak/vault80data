@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Barbados",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB050F46-EA3E-4217-8FEC-C79FA39E6143}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:13.2851539Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Barbados",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Barbados",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

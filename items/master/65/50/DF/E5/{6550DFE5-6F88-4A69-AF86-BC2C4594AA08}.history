@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Droplist",
     "commandType": "Item",
     "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6550DFE5-6F88-4A69-AF86-BC2C4594AA08}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:14.2424152Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Droplist",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/Droplist",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
     "sourceControlRevisionId": null
   }
 ]

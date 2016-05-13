@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E75A5C6-42A1-4C7E-B0A0-3F658A659F1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:35.3973432Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/templates/Branches/System/Rules",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Liechtenstein",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08676F6A-8626-4CCA-93EE-F23BF8AFA132}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:27.2115398Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Liechtenstein",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Liechtenstein",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

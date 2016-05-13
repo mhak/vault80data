@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Simulators",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9E97273-9BAF-4140-9E3D-26D4F97E966C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:00.6859070Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Simulators",
+    "itemPath": "/sitecore/system/Settings/Simulators",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

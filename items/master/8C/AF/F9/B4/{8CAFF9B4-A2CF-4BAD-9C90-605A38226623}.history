@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Unlock from Editing",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CAFF9B4-A2CF-4BAD-9C90-605A38226623}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:23.4135723Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Unlock from Editing",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Unlock from Editing",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

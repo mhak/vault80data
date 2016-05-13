@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Security/User/Data/RegionalIsoCode",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{843B2A3C-C798-4F07-88BD-6EE9479F1D1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:28:44.4611101Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "RegionalIsoCode",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/RegionalIsoCode",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Page Editor",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32F344EE-3C38-4173-A0C4-7BE248A96C35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:22.4391873Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Page Editor",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Page Editor",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

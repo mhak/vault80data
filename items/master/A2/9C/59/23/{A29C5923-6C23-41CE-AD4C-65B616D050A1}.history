@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Day",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A29C5923-6C23-41CE-AD4C-65B616D050A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:05.1772800Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost per Day",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Day",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

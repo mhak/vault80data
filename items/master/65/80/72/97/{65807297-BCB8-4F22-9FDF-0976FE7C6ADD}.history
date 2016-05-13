@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Linked Item Has Allowed Template",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65807297-BCB8-4F22-9FDF-0976FE7C6ADD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:11.9338819Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Linked Item Has Allowed Template",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Linked Item Has Allowed Template",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

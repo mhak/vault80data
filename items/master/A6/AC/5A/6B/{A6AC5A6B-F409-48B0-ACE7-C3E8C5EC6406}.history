@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/is not equal to",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6AC5A6B-F409-48B0-ACE7-C3E8C5EC6406}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:43.7791473Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "is not equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/is not equal to",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

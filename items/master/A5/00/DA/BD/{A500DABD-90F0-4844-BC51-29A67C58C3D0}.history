@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Proxies",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A500DABD-90F0-4844-BC51-29A67C58C3D0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:00.2881054Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Proxies",
+    "itemPath": "/sitecore/system/Settings/Proxies",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

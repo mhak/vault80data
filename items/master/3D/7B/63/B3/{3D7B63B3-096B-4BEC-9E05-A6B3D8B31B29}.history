@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Tasks/Commands/Content Testing",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D7B63B3-096B-4BEC-9E05-A6B3D8B31B29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:20.9982539Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Content Testing",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

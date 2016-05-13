@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Pierre and Miquelon",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DF773EA-EE7E-4ECE-8FC5-0832D6A1F58A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:35.6778604Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Saint Pierre and Miquelon",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Pierre and Miquelon",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

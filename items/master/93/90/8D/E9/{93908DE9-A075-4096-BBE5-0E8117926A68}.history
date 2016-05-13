@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-customer-service",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93908DE9-A075-4096-BBE5-0E8117926A68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:09.5382539Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-customer-service",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-customer-service",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

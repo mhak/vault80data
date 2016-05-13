@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81F4896F-38C2-4A26-AC7A-7009BFE0259B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:29:03.8299586Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

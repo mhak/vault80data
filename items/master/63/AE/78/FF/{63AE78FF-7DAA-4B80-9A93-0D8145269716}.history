@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports",
     "commandType": "Item",
     "template": "Report Schedule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63AE78FF-7DAA-4B80-9A93-0D8145269716}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:07.0800924Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reports",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports",
+    "commandType": "Item",
+    "template": "Report Schedule",
     "sourceControlRevisionId": null
   }
 ]

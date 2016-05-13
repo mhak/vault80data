@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Social/Networks/Google Plus",
     "commandType": "Item",
     "template": "Network",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4E43218-A31C-4A70-B9D6-6ECC8CCD1F38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:20.3682981Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google+",
+    "itemPath": "/sitecore/system/Social/Networks/Google Plus",
+    "commandType": "Item",
+    "template": "Network",
     "sourceControlRevisionId": null
   }
 ]

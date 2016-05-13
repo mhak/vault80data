@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Test Types",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F270176-1CA4-474C-9259-01B5250F730E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:02.7989223Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Test Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Types",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

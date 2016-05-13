@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mali",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4E8A2CF-65B7-4100-B8F6-C6DCC418203F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:28.4449251Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mali",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mali",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

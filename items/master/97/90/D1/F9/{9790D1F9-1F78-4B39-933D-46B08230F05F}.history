@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Sandra",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9790D1F9-1F78-4B39-933D-46B08230F05F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:43.0511605Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sandra",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Sandra",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

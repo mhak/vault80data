@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Greenland",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{481309CF-17B1-4D6B-BEDD-3FBA2DF3F042}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:22.2496054Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Greenland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Greenland",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

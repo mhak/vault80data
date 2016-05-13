@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visitors",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DEB0F977-F9B6-41FA-A4A8-F9A7C4312C88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:55.5655479Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Organization Visitors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visitors",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

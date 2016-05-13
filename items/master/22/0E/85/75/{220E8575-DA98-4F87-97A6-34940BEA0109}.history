@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{220E8575-DA98-4F87-97A6-34940BEA0109}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:03.2564793Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Identification Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

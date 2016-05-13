@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Goals",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8A36C49-3C43-405E-A074-8DECB6F483E9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:59.2477147Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Goals",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Goals",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

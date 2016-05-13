@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/FatalError",
     "commandType": "Item",
     "template": "Validation Result",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{920DD571-F0A9-4600-976F-C690636AB97C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:54.4791338Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "FatalError",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/FatalError",
+    "commandType": "Item",
+    "template": "Validation Result",
     "sourceControlRevisionId": null
   }
 ]

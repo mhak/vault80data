@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A79C206-0CD2-4DDD-9DFF-5BF21E002931}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:21.1016715Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calculate Statistical Relevancy",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Calculate Statistical Relevancy",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks/sort",
     "commandType": "Item",
     "template": "Clientside Hook",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1B3B270-7006-4F3B-84F2-3D3239FB47B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:20.8949718Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "sort",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks/sort",
+    "commandType": "Item",
+    "template": "Clientside Hook",
     "sourceControlRevisionId": null
   }
 ]

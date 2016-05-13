@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Test Types/Personalization",
     "commandType": "Item",
     "template": "Test Type",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8B91C434-5AC1-422D-A2E7-44D2DA817753}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:00.3855972Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalization",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Types/Personalization",
+    "commandType": "Item",
+    "template": "Test Type",
     "sourceControlRevisionId": null
   }
 ]

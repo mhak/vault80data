@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7E265978-8C1B-419D-BC06-0B5D101F04DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:03.0285896Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Traffic Type",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

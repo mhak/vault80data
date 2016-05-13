@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Estonia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5ECE3E2-5DE3-4CE7-9975-0421D2C5E5AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:18.6352714Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Estonia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Estonia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

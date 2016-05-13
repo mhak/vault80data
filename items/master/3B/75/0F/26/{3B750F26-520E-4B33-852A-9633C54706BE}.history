@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Views",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B750F26-520E-4B33-852A-9633C54706BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:14.8550532Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Views",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

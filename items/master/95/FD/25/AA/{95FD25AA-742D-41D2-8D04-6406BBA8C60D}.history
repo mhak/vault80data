@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Max Result",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95FD25AA-742D-41D2-8D04-6406BBA8C60D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:29:31.7796331Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Max Result",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Max Result",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

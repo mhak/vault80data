@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Fiji",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A397C163-988D-4392-833F-A2CB5B87A0CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:19.3151167Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fiji",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Fiji",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

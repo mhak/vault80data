@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Central African Republic",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3E17C30-634D-4C3B-A78A-499FA3254772}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:15.5663525Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Central African Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Central African Republic",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

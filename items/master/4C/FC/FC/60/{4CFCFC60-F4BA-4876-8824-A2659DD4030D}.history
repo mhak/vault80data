@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Random",
     "commandType": "Item",
     "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CFCFC60-F4BA-4876-8824-A2659DD4030D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:43.9025142Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Random",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Random",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval/Approve",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF82758D-A2E5-4206-9323-F4409A7BB566}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:31.0529414Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Approve",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval/Approve",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

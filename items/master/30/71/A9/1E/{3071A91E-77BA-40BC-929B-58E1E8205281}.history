@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/DMS",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3071A91E-77BA-40BC-929B-58E1E8205281}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:07.7675547Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DMS",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/DMS",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

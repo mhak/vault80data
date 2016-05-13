@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Philippines",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8333AF72-5A2F-434C-BA28-17249FF159F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:33.6487999Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Philippines",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Philippines",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nauru",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB981BF2-628F-4F71-80AA-4EB834BEA379}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:31.1947528Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nauru",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nauru",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

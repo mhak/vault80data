@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCCBFECC-9953-4C4D-8BFF-B31E288CBDAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:25.7422536Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Information Architecture",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

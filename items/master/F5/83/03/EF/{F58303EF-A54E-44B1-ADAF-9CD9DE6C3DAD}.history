@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F58303EF-A54E-44B1-ADAF-9CD9DE6C3DAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:34.3351459Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Inclusion Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

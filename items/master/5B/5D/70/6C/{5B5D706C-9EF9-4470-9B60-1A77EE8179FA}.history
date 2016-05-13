@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Group",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B5D706C-9EF9-4470-9B60-1A77EE8179FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:28:38.9212224Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Group",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Group",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

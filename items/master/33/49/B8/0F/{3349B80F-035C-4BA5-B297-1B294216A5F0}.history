@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-tryproduct",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3349B80F-035C-4BA5-B297-1B294216A5F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:14.0021583Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-tryproduct",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-tryproduct",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Social/GooglePlus Account",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8578CE74-6D2C-4AA2-B188-DA7926E1281A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:41.7927130Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Google+ Account",
+    "itemPath": "/sitecore/templates/Branches/System/Social/GooglePlus Account",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

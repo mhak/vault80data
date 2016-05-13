@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tokelau",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6474477E-1F7F-4F97-A14D-7664C8F875D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:40.6020851Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tokelau",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tokelau",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

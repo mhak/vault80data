@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Visit Number",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC982665-3BB7-4F26-B04E-BC46872708A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:10.1518594Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Number",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Visit Number",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

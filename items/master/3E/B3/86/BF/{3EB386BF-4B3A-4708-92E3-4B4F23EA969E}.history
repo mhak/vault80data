@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer",
     "commandType": "Item",
     "template": "Dictionary folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EB386BF-4B3A-4708-92E3-4B4F23EA969E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:25.4023552Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExperienceExplorer",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer",
+    "commandType": "Item",
+    "template": "Dictionary folder",
     "sourceControlRevisionId": null
   }
 ]

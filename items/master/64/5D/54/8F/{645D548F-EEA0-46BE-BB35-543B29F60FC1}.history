@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Rebuild Suggested Tests Index",
     "commandType": "Item",
     "template": "Rebuild Index Command",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{645D548F-EEA0-46BE-BB35-543B29F60FC1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:21.2493495Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rebuild Suggested Tests Index",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Rebuild Suggested Tests Index",
+    "commandType": "Item",
+    "template": "Rebuild Index Command",
     "sourceControlRevisionId": null
   }
 ]

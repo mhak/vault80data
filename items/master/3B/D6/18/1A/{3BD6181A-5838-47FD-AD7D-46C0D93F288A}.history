@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Portugal",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BD6181A-5838-47FD-AD7D-46C0D93F288A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:34.0150432Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Portugal",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Portugal",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

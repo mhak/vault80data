@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Benin",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27BE440A-4803-4FD4-A0CC-F6DA87C4DCA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:13.6521383Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Benin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Benin",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

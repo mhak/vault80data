@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Test Types/Component",
     "commandType": "Item",
     "template": "Test Type",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9124CC7E-DF52-45E3-BC29-6D1A669F60F7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:59.9042711Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Component",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Types/Component",
+    "commandType": "Item",
+    "template": "Test Type",
     "sourceControlRevisionId": null
   }
 ]

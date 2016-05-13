@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/United States Minor Outlying Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57337BB8-A18B-4C05-8C6F-140C7C34CE7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:42.2038605Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "United States Minor Outlying Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/United States Minor Outlying Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

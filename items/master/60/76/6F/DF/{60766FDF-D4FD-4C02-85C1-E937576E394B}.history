@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Calendar",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60766FDF-D4FD-4C02-85C1-E937576E394B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:24.4584344Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Calendar",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Calendar",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

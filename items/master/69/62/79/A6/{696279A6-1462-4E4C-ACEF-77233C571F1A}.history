@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Social/Networks",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{696279A6-1462-4E4C-ACEF-77233C571F1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:19.6516276Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Networks",
+    "itemPath": "/sitecore/system/Social/Networks",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

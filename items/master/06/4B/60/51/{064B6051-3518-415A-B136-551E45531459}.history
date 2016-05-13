@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Security/User/Data/Start Url",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{064B6051-3518-415A-B136-551E45531459}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:28:44.6682238Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Start Url",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Start Url",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

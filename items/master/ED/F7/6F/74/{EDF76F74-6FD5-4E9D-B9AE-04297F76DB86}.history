@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/France Metropolitan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EDF76F74-6FD5-4E9D-B9AE-04297F76DB86}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:20.1826225Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "France Metropolitan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/France Metropolitan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/TestChannelType",
     "commandType": "Item",
     "template": "Channel Type",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F23A725-86A5-4AAD-A7AC-EA3D432CE252}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:58.9305114Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TestChannelType",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/TestChannelType",
+    "commandType": "Item",
+    "template": "Channel Type",
     "sourceControlRevisionId": null
   }
 ]

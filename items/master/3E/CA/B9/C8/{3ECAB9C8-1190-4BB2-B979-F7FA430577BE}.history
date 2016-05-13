@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belize",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3ECAB9C8-1190-4BB2-B979-F7FA430577BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:13.5749881Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Belize",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belize",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

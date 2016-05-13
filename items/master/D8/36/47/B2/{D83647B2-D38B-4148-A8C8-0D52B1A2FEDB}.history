@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guadeloupe",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D83647B2-D38B-4148-A8C8-0D52B1A2FEDB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:22.4312597Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Guadeloupe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guadeloupe",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

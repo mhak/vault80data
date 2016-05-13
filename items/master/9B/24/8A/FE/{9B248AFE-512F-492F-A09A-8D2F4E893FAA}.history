@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Valid From Valid To Date Range",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B248AFE-512F-492F-A09A-8D2F4E893FAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:18.0808902Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Valid From Valid To Date Range",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Valid From Valid To Date Range",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

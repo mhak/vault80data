@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-productdisplay",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76B92A23-6D99-4B3D-BE0B-37FE5F143202}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:13.1009357Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-productdisplay",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-productdisplay",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

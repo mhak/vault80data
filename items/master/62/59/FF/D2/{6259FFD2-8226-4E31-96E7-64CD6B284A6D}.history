@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Workflow",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6259FFD2-8226-4E31-96E7-64CD6B284A6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:52.4575865Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Workflow",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/End Transaction",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C34B9E7B-55E2-4209-A66D-CD4169F4582F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:15.3712465Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/End Transaction",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Rule Elements Visibility",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD35FFE6-A608-477B-B775-3C92D3A4BC14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:33.2220186Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Rule Elements Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Rule Elements Visibility",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

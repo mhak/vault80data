@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByDevice",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C98CF969-BA71-42DA-833D-B3FC1368BA27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:27:32.7281999Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaryByDevice",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/VaryByDevice",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

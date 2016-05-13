@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/ExperiencePreset",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6DD2247A-C29C-443C-B832-9D4F21D4A1A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:31.6062806Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExperiencePreset",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/General/Common/ExperiencePreset",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

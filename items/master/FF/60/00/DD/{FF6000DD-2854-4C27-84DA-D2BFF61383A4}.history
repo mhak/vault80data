@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-company-website",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF6000DD-2854-4C27-84DA-D2BFF61383A4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:09.3387402Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-company-website",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-company-website",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

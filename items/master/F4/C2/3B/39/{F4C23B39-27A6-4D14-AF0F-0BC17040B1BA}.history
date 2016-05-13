@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/Auto Publish",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4C23B39-27A6-4D14-AF0F-0BC17040B1BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:24.8223869Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Auto Publish",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/Auto Publish",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

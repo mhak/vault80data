@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/New Zealand",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAC3D136-D7D7-4A86-8AB4-6ED48DFAABEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:31.7131510Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Zealand",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/New Zealand",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

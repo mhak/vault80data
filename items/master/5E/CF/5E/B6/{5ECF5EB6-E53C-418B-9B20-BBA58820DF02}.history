@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Campaigns/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5ECF5EB6-E53C-418B-9B20-BBA58820DF02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:55.3053835Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Campaigns/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

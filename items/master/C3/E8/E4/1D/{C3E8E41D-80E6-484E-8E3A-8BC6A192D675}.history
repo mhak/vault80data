@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3E8E41D-80E6-484E-8E3A-8BC6A192D675}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:19:46.8453477Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Receipt",
+    "itemPath": "/sitecore/content/Home/Tert Section/More carts for the people/New items Friday/Receipt",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]

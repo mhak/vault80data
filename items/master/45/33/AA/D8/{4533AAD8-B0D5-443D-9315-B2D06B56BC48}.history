@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost Base",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4533AAD8-B0D5-443D-9315-B2D06B56BC48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:04.9749738Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cost Base",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost Base",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

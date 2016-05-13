@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Percentage",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3994596D-AB1B-42EF-8360-92A84926404A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:49.4873674Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Percentage",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Percentage",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

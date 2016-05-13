@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/December",
     "commandType": "Item",
     "template": "Standard template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C9BCD53E-599E-4D09-B0A8-7D2E039C9D2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:49.5773548Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "December",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/December",
+    "commandType": "Item",
+    "template": "Standard template",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Version Removed",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E008332-524B-4F37-B0E8-8C0FD9AC70B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:27.7656657Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Version Removed",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Version Removed",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

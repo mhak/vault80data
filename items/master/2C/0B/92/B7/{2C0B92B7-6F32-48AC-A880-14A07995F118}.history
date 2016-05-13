@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Network Account",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C0B92B7-6F32-48AC-A880-14A07995F118}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:28:48.9029101Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Network Account",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

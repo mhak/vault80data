@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tunisia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{981723C2-61F9-472F-A481-16DB7B9D53A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:40.9172225Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Tunisia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tunisia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

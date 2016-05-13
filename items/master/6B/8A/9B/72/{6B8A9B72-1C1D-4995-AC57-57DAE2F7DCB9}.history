@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Niue",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B8A9B72-1C1D-4995-AC57-57DAE2F7DCB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:32.3012691Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Niue",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Niue",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

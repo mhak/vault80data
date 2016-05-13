@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal/Expire",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BBF1CE2-F8A1-4E03-9408-A28EF362DB06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:28.2783719Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Expire",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal/Expire",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve without Test/Remove Tests",
     "commandType": "Item",
     "template": "Remove Tests Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71D34DBD-ADE2-4F45-9835-EA01C2F03000}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:27.3329876Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Remove Tests",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve without Test/Remove Tests",
+    "commandType": "Item",
+    "template": "Remove Tests Action",
     "sourceControlRevisionId": null
   }
 ]

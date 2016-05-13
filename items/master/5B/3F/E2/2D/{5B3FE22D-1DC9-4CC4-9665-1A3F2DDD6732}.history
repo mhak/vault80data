@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B3FE22D-1DC9-4CC4-9665-1A3F2DDD6732}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:43.9066474Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Report Filters",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

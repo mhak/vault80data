@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Original Winner",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B69C4A07-C3DA-4B14-AA8C-B2022F6FA3DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:14.0910950Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Original Winner",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Original Winner",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

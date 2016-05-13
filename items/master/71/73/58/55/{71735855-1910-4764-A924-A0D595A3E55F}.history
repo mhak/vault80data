@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/JourneyMode",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71735855-1910-4764-A924-A0D595A3E55F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:28.9423202Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "JourneyMode",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Common/JourneyMode",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

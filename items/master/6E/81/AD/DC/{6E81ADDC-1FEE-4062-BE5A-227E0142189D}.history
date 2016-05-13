@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/App Center Sync",
     "commandType": "Item",
     "template": "Sublayout Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E81ADDC-1FEE-4062-BE5A-227E0142189D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:19:59.7469337Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "App Center Sync",
+    "itemPath": "/sitecore/layout/Sublayouts/App Center Sync",
+    "commandType": "Item",
+    "template": "Sublayout Folder",
     "sourceControlRevisionId": null
   }
 ]

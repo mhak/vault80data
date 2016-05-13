@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F960E028-5373-48BF-B3B3-9B23FE13C0C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:05.8619557Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dashboard Report",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

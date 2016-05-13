@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/StateProvince",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F40305C2-3624-4DE3-AA21-92D4916ECAED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:09.8794243Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "StateProvince",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/StateProvince",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

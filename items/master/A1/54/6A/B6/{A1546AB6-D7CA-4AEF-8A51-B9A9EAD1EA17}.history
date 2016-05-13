@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nicaragua",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1546AB6-D7CA-4AEF-8A51-B9A9EAD1EA17}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:31.8237247Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Nicaragua",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nicaragua",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

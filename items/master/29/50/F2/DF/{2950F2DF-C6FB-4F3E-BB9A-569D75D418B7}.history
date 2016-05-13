@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Personalize",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2950F2DF-C6FB-4F3E-BB9A-569D75D418B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:22.5826336Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Personalize",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Personalize",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

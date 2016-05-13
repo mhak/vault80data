@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Command/Data/Method",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4BC75539-D5C4-487B-AF35-FF13D62BD286}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:29:03.7302492Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Method",
+    "itemPath": "/sitecore/templates/System/Tasks/Command/Data/Method",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

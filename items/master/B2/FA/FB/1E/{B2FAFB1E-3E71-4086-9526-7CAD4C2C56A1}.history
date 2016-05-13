@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior",
     "commandType": "Item",
     "template": "Behavior",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B2FAFB1E-3E71-4086-9526-7CAD4C2C56A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:00.5098103Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "End Test Behavior",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior",
+    "commandType": "Item",
+    "template": "Behavior",
     "sourceControlRevisionId": null
   }
 ]

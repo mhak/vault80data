@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Suriname",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03CA9368-76CD-4F00-8050-FC92415D545E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:38.1802940Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suriname",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Suriname",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

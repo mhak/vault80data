@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54FC77FC-0B1D-48BB-9167-67F832ABD308}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:23:54.6540977Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ISP Name",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/ISP Name",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

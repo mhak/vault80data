@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/layout/Renderings/App Center Sync/AppEditor",
     "commandType": "Item",
     "template": "Webcontrol",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C07BB689-AF95-4883-9A34-EC29E3EC8ACA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:19:54.5307975Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "AppEditor",
+    "itemPath": "/sitecore/layout/Renderings/App Center Sync/AppEditor",
+    "commandType": "Item",
+    "template": "Webcontrol",
     "sourceControlRevisionId": null
   }
 ]

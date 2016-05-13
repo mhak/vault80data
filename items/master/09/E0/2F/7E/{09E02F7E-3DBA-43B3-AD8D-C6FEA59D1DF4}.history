@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/ID3",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09E02F7E-3DBA-43B3-AD8D-C6FEA59D1DF4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:27:44.9252301Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ID3",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/ID3",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

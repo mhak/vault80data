@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3031702-6BFF-4061-B92D-291E9EC865D5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:00.9698285Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Validation Rules",
+    "itemPath": "/sitecore/system/Settings/Validation Rules",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

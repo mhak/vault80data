@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder/FDA/Referrers",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F6C23D3-331B-49D8-B51B-5385970DC5D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:29:27.3694561Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Referrers",
+    "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder/FDA/Referrers",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

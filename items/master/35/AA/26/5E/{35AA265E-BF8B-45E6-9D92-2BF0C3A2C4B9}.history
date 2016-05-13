@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Europe",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35AA265E-BF8B-45E6-9D92-2BF0C3A2C4B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:18.9203002Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Europe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Europe",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

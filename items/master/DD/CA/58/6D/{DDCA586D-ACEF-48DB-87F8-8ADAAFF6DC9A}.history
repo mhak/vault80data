@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/String Field",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDCA586D-ACEF-48DB-87F8-8ADAAFF6DC9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:06.4328713Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "String Field",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/String Field",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

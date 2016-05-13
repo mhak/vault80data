@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook",
     "commandType": "Item",
     "template": "Campaign Category",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81511CF3-B258-46C7-89D7-9193E8D0FF98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:16.2737999Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook",
+    "commandType": "Item",
+    "template": "Campaign Category",
     "sourceControlRevisionId": null
   }
 ]

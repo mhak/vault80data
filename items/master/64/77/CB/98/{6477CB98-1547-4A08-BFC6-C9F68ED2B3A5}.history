@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/OtherMaps",
     "commandType": "Item",
     "template": "MapGroupFolder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6477CB98-1547-4A08-BFC6-C9F68ED2B3A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:36.9526663Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Other Experience Maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/OtherMaps",
+    "commandType": "Item",
+    "template": "MapGroupFolder",
     "sourceControlRevisionId": null
   }
 ]

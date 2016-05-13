@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kuwait",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3E0D033-E7E0-47DA-BC6B-C9B4A30154D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:26.1499133Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Kuwait",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kuwait",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Globalization",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1061A5F2-ACFD-489A-B7AA-D377AE0F93F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:35.0430157Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Globalization",
+    "itemPath": "/sitecore/templates/Branches/System/Globalization",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

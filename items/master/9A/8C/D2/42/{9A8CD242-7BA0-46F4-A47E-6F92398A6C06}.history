@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Heard Island and McDonald Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A8CD242-7BA0-46F4-A47E-6F92398A6C06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:23.4575888Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Heard Island and McDonald Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Heard Island and McDonald Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

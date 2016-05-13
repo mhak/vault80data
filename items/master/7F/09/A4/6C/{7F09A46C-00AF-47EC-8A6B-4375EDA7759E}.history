@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Goals",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F09A46C-00AF-47EC-8A6B-4375EDA7759E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:54.6749056Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visit Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visit Goals",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

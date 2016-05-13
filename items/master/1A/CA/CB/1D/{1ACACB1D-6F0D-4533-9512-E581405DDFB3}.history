@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Security/User/Data/CanBoost",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1ACACB1D-6F0D-4533-9512-E581405DDFB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:28:43.4435414Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "CanBoost",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/CanBoost",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Thailand",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2BF4E5C-4DCC-48A4-92F4-35F8E8CDF980}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:40.1662553Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thailand",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Thailand",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

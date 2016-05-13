@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Dictionary",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{504AE189-9F36-4C62-9767-66D73D6C3084}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:23.6769840Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dictionary",
+    "itemPath": "/sitecore/system/Dictionary",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

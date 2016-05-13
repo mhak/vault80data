@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Round Robin Sticky",
     "commandType": "Item",
     "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF97428F-3F1D-4421-A3A9-989F5F3401BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:44.0129619Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Round Robin Sticky",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Round Robin Sticky",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
     "sourceControlRevisionId": null
   }
 ]

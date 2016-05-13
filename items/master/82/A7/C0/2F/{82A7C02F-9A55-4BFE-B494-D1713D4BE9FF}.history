@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Suppress Comment",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82A7C02F-9A55-4BFE-B494-D1713D4BE9FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:29:29.5003504Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Suppress Comment",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/Data/Suppress Comment",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

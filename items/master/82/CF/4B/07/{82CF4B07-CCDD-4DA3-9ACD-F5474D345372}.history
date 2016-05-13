@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Archiving",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{82CF4B07-CCDD-4DA3-9ACD-F5474D345372}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:45.2420322Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Archiving",
+    "itemPath": "/sitecore/templates/System/Archiving",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

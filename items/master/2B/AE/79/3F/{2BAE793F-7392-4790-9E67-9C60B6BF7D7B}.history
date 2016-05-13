@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow",
     "commandType": "Item",
     "template": "Workflow",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BAE793F-7392-4790-9E67-9C60B6BF7D7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:23.3281086Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Analytics Testing Workflow",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow",
+    "commandType": "Item",
+    "template": "Workflow",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Remove Tests Action/Settings/Delete Test Definition",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{451A8CBE-E883-460D-A56E-3E452DB4A9F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:38.2496152Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Delete Test Definition",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Remove Tests Action/Settings/Delete Test Definition",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

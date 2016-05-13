@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Social",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78CE30FD-8CAB-4BA4-9E93-30B0A01BEE32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:35.5645271Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Social",
+    "itemPath": "/sitecore/templates/Branches/System/Social",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

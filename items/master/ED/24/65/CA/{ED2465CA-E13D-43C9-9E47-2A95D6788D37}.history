@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Armenia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED2465CA-E13D-43C9-9E47-2A95D6788D37}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:11.4717325Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Armenia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Armenia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include upper value",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BFD3DF4-0156-426F-82A5-29CD1C09457A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:22.6740806Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "include upper value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include upper value",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

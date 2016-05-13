@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/New Page Visitors",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B9FF220-2B1D-4508-88CF-F23A31007805}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:51.0860394Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Page Visitors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/New Page Visitors",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

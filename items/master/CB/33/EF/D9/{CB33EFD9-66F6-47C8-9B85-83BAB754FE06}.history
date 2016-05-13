@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Run Rules",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB33EFD9-66F6-47C8-9B85-83BAB754FE06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:14.2655795Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Run Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Run Rules",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

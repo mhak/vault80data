@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action/__Standard Values",
     "commandType": "Item",
     "template": "Test Candidate Check Action",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0CB779E-5187-4E8B-B089-61C5581DE454}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:38.4345153Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Test Candidate Check Action/__Standard Values",
+    "commandType": "Item",
+    "template": "Test Candidate Check Action",
     "sourceControlRevisionId": null
   }
 ]

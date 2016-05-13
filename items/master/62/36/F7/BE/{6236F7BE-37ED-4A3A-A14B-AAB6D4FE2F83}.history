@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Channel/All visits by Channel",
     "commandType": "Item",
     "template": "Segment",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6236F7BE-37ED-4A3A-A14B-AAB6D4FE2F83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:29.8024487Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All visits by Channel",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Channel/All visits by Channel",
+    "commandType": "Item",
+    "template": "Segment",
     "sourceControlRevisionId": null
   }
 ]

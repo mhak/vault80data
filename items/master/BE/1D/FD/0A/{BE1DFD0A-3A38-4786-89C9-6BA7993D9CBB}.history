@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Martinique",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE1DFD0A-3A38-4786-89C9-6BA7993D9CBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:28.9702976Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Martinique",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Martinique",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

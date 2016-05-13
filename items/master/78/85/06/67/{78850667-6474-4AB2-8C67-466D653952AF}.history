@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Conten Test",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78850667-6474-4AB2-8C67-466D653952AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:24:13.8797900Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Conten Test",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Conten Test",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

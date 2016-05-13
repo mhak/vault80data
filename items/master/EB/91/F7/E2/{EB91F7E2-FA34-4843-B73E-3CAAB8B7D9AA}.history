@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ecuador",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB91F7E2-FA34-4843-B73E-3CAAB8B7D9AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:18.0514429Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ecuador",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ecuador",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

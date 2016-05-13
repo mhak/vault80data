@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Full Page XHtml",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DE34911-96D5-48C3-AFFF-20CFF4D5AB02}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:17.4882795Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Full Page XHtml",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Full Page XHtml",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

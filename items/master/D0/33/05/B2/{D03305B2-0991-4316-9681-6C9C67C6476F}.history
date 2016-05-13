@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D03305B2-0991-4316-9681-6C9C67C6476F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:26:25.1864581Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Analytics/Rules/Session End Rule/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

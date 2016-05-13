@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Branch/New Branch",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AC90A0F0-6618-485B-B03D-64D3E7500D01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:25:36.4113447Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "New Branch",
+    "itemPath": "/sitecore/templates/Branches/System/Branch/New Branch",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

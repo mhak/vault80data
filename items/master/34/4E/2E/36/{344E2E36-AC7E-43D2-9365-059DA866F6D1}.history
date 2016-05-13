@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/American Samoa",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{344E2E36-AC7E-43D2-9365-059DA866F6D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:10.6424920Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "American Samoa",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/American Samoa",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

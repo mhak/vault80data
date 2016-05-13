@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Anguilla",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A42E3281-E1F3-40BB-807D-7C45AC8AC301}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:10.9949879Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Anguilla",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Anguilla",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Conditions/Is Password Validated",
     "commandType": "Item",
     "template": "Engagement Plan Condition",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{711A3CB5-DE23-4CAB-AE78-037594A78C00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:22:09.4988675Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Is Password Validated",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Conditions/Is Password Validated",
+    "commandType": "Item",
+    "template": "Engagement Plan Condition",
     "sourceControlRevisionId": null
   }
 ]

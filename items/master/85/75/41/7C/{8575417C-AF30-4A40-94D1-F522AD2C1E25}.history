@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-youtube-post",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8575417C-AF30-4A40-94D1-F522AD2C1E25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:20:14.4689506Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ch-youtube-post",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-youtube-post",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

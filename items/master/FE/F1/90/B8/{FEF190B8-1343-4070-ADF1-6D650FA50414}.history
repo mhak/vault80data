@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Profile Cards",
     "commandType": "Item",
     "template": "Profile Cards",
+    "sourceControlRevisionId": "0ffa4db236d8ae4329873d84395083ef11e71232"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FEF190B8-1343-4070-ADF1-6D650FA50414}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T18:21:42.3226348Z",
+    "label": "Snapshot - Pre Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Profile Cards",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Profile Cards",
+    "commandType": "Item",
+    "template": "Profile Cards",
     "sourceControlRevisionId": null
   }
 ]
