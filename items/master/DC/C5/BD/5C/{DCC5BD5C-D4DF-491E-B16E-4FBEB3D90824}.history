@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Small Business Loans",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "9e30f1a03507f1bf724291df627cb251d209f6de"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{DCC5BD5C-D4DF-491E-B16E-4FBEB3D90824}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:23.8890944Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Small Business Loans",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Small Business Loans",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
