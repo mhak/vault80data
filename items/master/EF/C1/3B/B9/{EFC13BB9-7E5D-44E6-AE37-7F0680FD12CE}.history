@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PWM Sidebar",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "c975a721b62a9a02ec11961c5a0723e9dc732443"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{EFC13BB9-7E5D-44E6-AE37-7F0680FD12CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:24.9654433Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "PWM Sidebar",
+    "itemPath": "/sitecore/content/Global/Promotions/PWM Sidebar",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
