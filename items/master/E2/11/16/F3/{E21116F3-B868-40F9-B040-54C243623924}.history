@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/templates/Demo/Site Header/Header Section",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "111d64fc69f9aa2a455bb9bb9a4ef4aeb7abb839"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E21116F3-B868-40F9-B040-54C243623924}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:25:24.4364698Z",
+    "label": "Installed from package - Healthy Wealthy templates",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Header Section",
+    "itemPath": "/sitecore/templates/Demo/Site Header/Header Section",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]
