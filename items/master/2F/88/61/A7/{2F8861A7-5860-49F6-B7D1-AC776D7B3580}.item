@@ -12,36 +12,56 @@ templatekey: Disclosure Item
 ----version----
 language: en
 version: 1
-revision: c50f1552-b0f6-4f68-ac52-cd57a0cc9d93
+revision: f80a29e7-18a5-4141-a424-d727e05670c9
 
+----field----
+field: {CE42EB5E-D639-42E5-955D-AC23926A08DE}
+name: Rules
+key: rules
+content-length: 228
+
+<ruleset>
+  <rule uid="{9E7AD380-5DFE-47EC-B453-6651C2396329}">
+    <conditions>
+      <condition id="{4888ABBB-F17D-4485-B14B-842413F88732}" uid="48FE909B90B04D69B70C19CDF81929DE" />
+    </conditions>
+  </rule>
+</ruleset>
+----field----
+field: {BC70D541-7655-4227-B8CD-862D773EB5EE}
+name: Text
+key: text
+content-length: 25
+
+Yield specific disclosure
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
 key: __owner
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160513T192859Z
+20160328T034816Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
 key: __created by
-content-length: 18
+content-length: 12
 
-extranet\Anonymous
+sitecore\jim
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-c50f1552-b0f6-4f68-ac52-cd57a0cc9d93
+f80a29e7-18a5-4141-a424-d727e05670c9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
