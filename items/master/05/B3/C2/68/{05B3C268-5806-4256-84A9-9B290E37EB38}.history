@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/Repeat Visitor Promotion",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "02e25c6e7bb58d7cc483e58f428e99e416ffc754"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{05B3C268-5806-4256-84A9-9B290E37EB38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:25.4420147Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Repeat Visitor Promotion",
+    "itemPath": "/sitecore/content/Global/Promotions/Repeat Visitor Promotion",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
