@@ -45,6 +45,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Banking Overview",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "52b62bcfa94ed862bd3c421c7e99b0a7ddeb022d"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{67B70FDC-2EE9-4C64-9ADA-F52B70E1F31D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:03.9812508Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Overview",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Banking Overview",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]
