@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Page with disclosure in name",
     "commandType": "Item",
     "template": "Disclosure Item",
+    "sourceControlRevisionId": "4912eff5ee574e39357d5e57bae12749ea0c03cf"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{829FA896-C1D3-4B04-A437-D026DA66BA47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:57.0203008Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Page with disclosure in name",
+    "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Page with disclosure in name",
+    "commandType": "Item",
+    "template": "Disclosure Item",
     "sourceControlRevisionId": null
   }
 ]
