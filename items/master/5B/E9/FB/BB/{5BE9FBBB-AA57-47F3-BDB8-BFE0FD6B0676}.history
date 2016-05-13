@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Wealth-Transfer",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "6fbab31b2cf8fc8faef123c580d775b7af73d9b5"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{5BE9FBBB-AA57-47F3-BDB8-BFE0FD6B0676}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:35.3973360Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Wealth-Transfer",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Wealth-Transfer",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
