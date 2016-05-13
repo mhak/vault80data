@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings",
     "commandType": "Item",
     "template": "Settings",
+    "sourceControlRevisionId": "f87713419ef1ce9176b3ddd89092329ec593eeb8"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D49BF37C-0256-4F6A-87DC-0AB8C6426503}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:49.5026807Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home Settings",
+    "itemPath": "/sitecore/content/Global/Home Settings",
+    "commandType": "Item",
+    "template": "Settings",
     "sourceControlRevisionId": null
   }
 ]
