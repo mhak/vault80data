@@ -13,6 +13,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings",
     "commandType": "Item",
     "template": "Settings",
+    "sourceControlRevisionId": "bd485f83c3ebb3257e1b0f93e55094e72dfcaeec"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{D49BF37C-0256-4F6A-87DC-0AB8C6426503}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:28:49.3882630Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home Settings",
+    "itemPath": "/sitecore/content/Global/Home Settings",
+    "commandType": "Item",
+    "template": "Settings",
     "sourceControlRevisionId": null
   }
 ]
