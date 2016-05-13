@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Commercial Loans",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "225cb2b8d579eb2cfc77e594f44a7845380a04a8"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{C04945AD-936F-4963-8693-DEC1D9112B33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:20.8455391Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Commercial Loans",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Commercial Loans",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
