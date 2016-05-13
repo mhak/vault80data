@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/Disclosure2",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "5033e71dadc2cb49e0f79981349bb3f06e9cc6c4"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1E560484-0B7E-4A38-A226-B35A587D1012}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:27.5270148Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Disclosure2",
+    "itemPath": "/sitecore/content/Home/Disclosure2",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
