@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Home Loans",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "4edda01efa0456e834e00b7705914ccac6bc9299"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{0C0FE963-7340-4196-A6EC-DF5C49E0EB2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:21.4435462Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home Loans",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Home Loans",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
