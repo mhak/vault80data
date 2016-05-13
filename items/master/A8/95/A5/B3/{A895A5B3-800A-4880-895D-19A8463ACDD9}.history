@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/TwoColumnView",
     "commandType": "Item",
     "template": "View rendering",
+    "sourceControlRevisionId": "4236e9fea4115e4003db5ac800a90a18b4a2b399"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A895A5B3-800A-4880-895D-19A8463ACDD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:37.8031112Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "TwoColumnView",
+    "itemPath": "/sitecore/layout/Renderings/Demo/TwoColumnView",
+    "commandType": "Item",
+    "template": "View rendering",
     "sourceControlRevisionId": null
   }
 ]
