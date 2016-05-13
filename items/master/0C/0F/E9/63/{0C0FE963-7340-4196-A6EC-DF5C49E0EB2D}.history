@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Home Loans",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "8f1b3a59ef74702809f40c62e57a167a9ab66100"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{0C0FE963-7340-4196-A6EC-DF5C49E0EB2D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:21.3146397Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home Loans",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Home Loans",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
