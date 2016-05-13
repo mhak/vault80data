@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/content/Home/Splash",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "924db7b40ce2f2b1130bb6727e024c268fc7cdaa"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{CB02295B-D224-4A5E-A4A5-2ACA5ADB973A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:28.5016213Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Splash",
+    "itemPath": "/sitecore/content/Home/Splash",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
