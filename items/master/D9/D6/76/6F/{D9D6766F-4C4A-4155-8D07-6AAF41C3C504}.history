@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Banking",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "88ccaf2950875fd56396bd096e03bc4c0592f4e6"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{D9D6766F-4C4A-4155-8D07-6AAF41C3C504}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:20.0013517Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business-Banking",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Banking",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
