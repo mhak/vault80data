@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/media library/Images/Demo",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "8419dc0be6c23f4cca482fdb754fb0c37a05e11b"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{785ED296-4AC0-4E20-BF7F-C3482E0E89F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:51.0676302Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Demo",
+    "itemPath": "/sitecore/media library/Images/Demo",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]
