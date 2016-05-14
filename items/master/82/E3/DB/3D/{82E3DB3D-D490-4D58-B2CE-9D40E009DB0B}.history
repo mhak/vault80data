@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Logo/LogoLight2x",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "89f9c67a0971adda627a3d2ffb60085dfd0438e2"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{82E3DB3D-D490-4D58-B2CE-9D40E009DB0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:12.8053532Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "LogoLight2x",
+    "itemPath": "/sitecore/media library/Images/Demo/Logo/LogoLight2x",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
