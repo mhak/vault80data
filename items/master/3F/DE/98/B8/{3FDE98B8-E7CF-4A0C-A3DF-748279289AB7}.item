@@ -9,10 +9,24 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
 templatekey: Controller rendering
 
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 6
+
+Header
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 6
+
+LogOut
 ----version----
 language: en
 version: 1
-revision: 13c83ea5-49b7-4ad3-a408-92a1169eef4a
+revision: e8534593-fc35-4f1a-884d-cca46c8deb61
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -20,7 +34,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T192939Z
+20160413T231714Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -34,7 +48,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-13c83ea5-49b7-4ad3-a408-92a1169eef4a
+e8534593-fc35-4f1a-884d-cca46c8deb61
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
