@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/firstrepublicbank-logo_hires",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "d0bac30a501c9bf31cbdef9638eaa112784f0bf4"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BD9AB8D5-99CB-4B1B-B2B1-174708CF55FC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:53.5389395Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "firstrepublicbank-logo_hires",
+    "itemPath": "/sitecore/media library/Images/Demo/firstrepublicbank-logo_hires",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
