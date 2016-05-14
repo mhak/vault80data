@@ -189,6 +189,22 @@
     "itemPath": "/sitecore/media library/Files",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "318fa8d15ad95eb4c17ca5a248f769471129cc69"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{730C1699-87A4-4CA7-A9CE-294AD7151F13}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:48.3170932Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Files",
+    "itemPath": "/sitecore/media library/Files",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]
