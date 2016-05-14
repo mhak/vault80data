@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/Images/Social/Connector/Facebook",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "eaaccc433c9ceb36cd35ac39974a462074ff1238"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6AA5AA9F-071A-4808-91AC-709FAAFFB310}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:13.0283991Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Facebook",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
