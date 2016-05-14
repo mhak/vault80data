@@ -10,21 +10,6 @@ template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
 
 ----field----
-field: {40E50ED9-BA07-4702-992E-A912738D32DC}
-name: Blob
-key: blob
-content-length: 668
-
-iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
-jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAadEVYdFNvZnR3YXJlAFBhaW50Lk5FVCB2My41
-LjExR/NCNwAAAVdJREFUSEtjsA6fqwnEG4D4FxD/pxIGmQUyUwNkAYiBTRE18AaQBb/RBKmJf4Ms
-wCZBNUyWBTYRc/8HZK74P3f1uf8Xrj///+jZh//3Hr/7v/voXQy1JFtgEzHvf27z9v/PXn3+jw6e
-vPiIoZ5kC8LyVv+/dOPl/3//oKYiAapY0D376P8Pn3+ADfz85ef/nYfv/J+65NT/yYtO/m+fcRhD
-PckWLN9y+f+fvxDnX7396n8o0EegYMOmFoRJtmDdzmtgw0Hg1MUneA0HYYosOAm0AJsaZEyUBS1T
-D/7vmXsMjM9few41/v//+0/ew8VBuH7SfgwfEWXB63dfoUbiBxdvvqStBZv33cTQS5QFN++9AVsC
-wt9//IYa9///z19/4OIgDErC6HoHRyQj41ELCOJBaQFJVSaJFoCrzC1ogngxiRZsAVmgBcSglgVR
-PiHSApBZQDPnagEAsLeUJ9DC2IoAAAAASUVORK5CYII=
-----field----
 field: {22EAC599-F13B-4607-A89D-C091763A467D}
 name: Width
 key: width
@@ -76,7 +61,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: aec823fe-e884-4656-a500-420b62e11eb5
+revision: 48fcfb91-f324-4bf7-97aa-eb151944a32d
 
 ----field----
 field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
@@ -112,18 +97,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-aec823fe-e884-4656-a500-420b62e11eb5
+48fcfb91-f324-4bf7-97aa-eb151944a32d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 35
+content-length: 16
 
-20140918T094837:635466305170962107Z
+20160513T193012Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
