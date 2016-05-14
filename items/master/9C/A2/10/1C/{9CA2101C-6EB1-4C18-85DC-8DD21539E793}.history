@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/Images/Social",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "f3757fc7939e9b8f4d84cfaac80afd80467dc842"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9CA2101C-6EB1-4C18-85DC-8DD21539E793}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:51.2542620Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Social",
+    "itemPath": "/sitecore/media library/Images/Social",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]
