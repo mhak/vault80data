@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/Header/Logout",
     "commandType": "Item",
     "template": "Controller rendering",
+    "sourceControlRevisionId": "33b796cae9370ccba8fc400cd693d238faea3ab5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3FDE98B8-E7CF-4A0C-A3DF-748279289AB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:39.8483827Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logout",
+    "itemPath": "/sitecore/layout/Renderings/Demo/Header/Logout",
+    "commandType": "Item",
+    "template": "Controller rendering",
     "sourceControlRevisionId": null
   }
 ]
