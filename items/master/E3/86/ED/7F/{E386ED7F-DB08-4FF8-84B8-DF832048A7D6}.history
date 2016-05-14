@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Hero",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "5c77ea59649692b4459a9f3498acbed5654d2411"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{E386ED7F-DB08-4FF8-84B8-DF832048A7D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:00.5647316Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Hero",
+    "itemPath": "/sitecore/media library/Images/Demo/Hero",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
