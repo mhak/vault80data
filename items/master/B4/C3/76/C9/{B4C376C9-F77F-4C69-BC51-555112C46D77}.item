@@ -9,10 +9,31 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {2A3E91A0-7987-44B5-AB34-35C2D9DE83B9}
 templatekey: Controller rendering
 
+----field----
+field: {E64AD073-DFCC-4D20-8C0B-FE5AA6226CD7}
+name: Controller
+key: controller
+content-length: 9
+
+MyBanking
+----field----
+field: {DED9E431-3604-4921-A4B3-A6EC7636A5B6}
+name: Controller Action
+key: controller action
+content-length: 18
+
+SelectCustomerType
+----field----
+field: {1C0AF338-70A8-455F-8366-173135E03BE6}
+name: Placeholder
+key: placeholder
+content-length: 7
+
+content
 ----version----
 language: en
 version: 1
-revision: ac19b045-3f11-4b57-8870-de038d61a040
+revision: 3a718b35-de3a-4eb0-9eb3-226a7215acb7
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -20,7 +41,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T192940Z
+20160414T203822Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -34,7 +55,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-ac19b045-3f11-4b57-8870-de038d61a040
+3a718b35-de3a-4eb0-9eb3-226a7215acb7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
