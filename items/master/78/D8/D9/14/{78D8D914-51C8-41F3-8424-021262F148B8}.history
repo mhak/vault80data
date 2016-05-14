@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/Images/Social/Connector/Twitter",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "f5a071d94cbf9c363287b33c884d28878b66e2bf"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{78D8D914-51C8-41F3-8424-021262F148B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:13.6903566Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Twitter",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Twitter",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
