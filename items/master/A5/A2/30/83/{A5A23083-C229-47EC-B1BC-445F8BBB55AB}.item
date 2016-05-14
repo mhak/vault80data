@@ -10,29 +10,6 @@ template: {F1828A2C-7E5D-4BBD-98CA-320474871548}
 templatekey: Image
 
 ----field----
-field: {40E50ED9-BA07-4702-992E-A912738D32DC}
-name: Blob
-key: blob
-content-length: 1260
-
-iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
-jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAadEVYdFNvZnR3YXJlAFBhaW50Lk5FVCB2My41
-LjExR/NCNwAAAwhJREFUSEu1lGlPU1EQhvtP5A8YSWQTIqACsgWKAWKNBpAQMSECEjWYEiQSDIbg
-EokbEWIkqBHiAmKkBgFNBAWVxS50pZal0Ja20O22fT23UvRyT4kf6ofny8yZec+cmTkCTUFquzov
-mVHlJSOcsDnV+YfaBarseK8qax/+C9nxjIDqCCMhBeYy4zCbHovJtGiMp0RhLGXvFp9ToyAlPlrc
-dqgCbPJvuUlQXRHD+mEI7kUDGLttC6dWCYO4khdHgyogF2VgWfIa1sE+aI9nQ5WzH+buB/A5HcQ+
-EPDT4mhQBbStjXAbl2FoOLdl05Ck9uFB+L1e6FoaOOd3gipgHnkH19IC9HXVUAbt2QlYvtEEn8uJ
-1b4eXkwoqALWYQm85Dn015ug2LSxQj9JRW6zCaZH9znnv5JBkGfEcWxBqAJLzXXw+/1YJQ2eEWVC
-QYJ/ENTN9XBpVZgvF3HOWyX90JUVcGxBqALq/IMwP+6A26CHsbcbUxVFULRchuX9IAy1FewCBc7J
-hcmYKDsK06dRzIirMVlayMtFFWBRC5OgrywJVLOhlMNL3n7x4V3IiU9Jxpg9oyvNh3XgOTzkIvYR
-CdZePOHlCSnA7oI0IxbT6TEw9veS6WGwNjkO6ZmTkGX9riCIbegN5sv4t2ehCrAbPJF3AEpxFZY6
-b8P2cYjsgBM+hsGGRglpzak/00XQFQuhEiZycgThCcySZkoba+FQz8HS00Uaeixg14jSYXv7Cn7G
-A9eKEbPspm+LpcGv4OoleNftWL7TutXMIJrCNFhePoXP7YaefCN/+0LBE3CQMfSYVqE+W0aayfWx
-aC+c/r3l9TU8Hw2egFM2Da9jA/P3bmIqKwEy8mRswxWbv6um6SLWJ8dINamcuFDwBAzny8FY1+Am
-VSw86yI7UIwvR1Lw/UQO5q81wkLGUl9VwonZCX4PCNqi3ECDXUoZGPMKPAt6rI+NwkgE/vXmQagC
-4UTAvi/NEQ7Y3AJJ4m77zOFo0sCYsMLmHCS5BW2REZ239uzyERBmfG2RER2/APG/sUuIpnbXAAAA
-AElFTkSuQmCC
-----field----
 field: {22EAC599-F13B-4607-A89D-C091763A467D}
 name: Width
 key: width
@@ -84,7 +61,7 @@ content-length: 61
 ----version----
 language: en
 version: 1
-revision: 15cbd1a1-b69a-4707-bb17-0053cf1d9357
+revision: 1d8c5b16-a837-4af3-aada-4b15fbd60090
 
 ----field----
 field: {65885C44-8FCD-4A7F-94F1-EE63703FE193}
@@ -127,18 +104,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-15cbd1a1-b69a-4707-bb17-0053cf1d9357
+1d8c5b16-a837-4af3-aada-4b15fbd60090
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 35
+content-length: 16
 
-20140918T094844:635466305243322107Z
+20160513T193013Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
