@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/Images/Social/Connector",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "15e864a53dc63f4df2aec762c57e03f2871990ee"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E45EC7B0-94DD-405C-876A-96E0844FE1FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:12.8532229Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Connector",
+    "itemPath": "/sitecore/media library/Images/Social/Connector",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]
