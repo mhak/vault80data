@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Wealth_Wakitol",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "673584c0e06576975792199bfd14798bd0612f2d"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7C71DB82-6241-41C8-9BBC-85258433C9C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:09.6243782Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Wealth_Wakitol",
+    "itemPath": "/sitecore/media library/Images/Demo/Wealth_Wakitol",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
