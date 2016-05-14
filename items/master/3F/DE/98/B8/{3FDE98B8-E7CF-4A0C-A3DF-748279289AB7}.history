@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/Header/Logout",
     "commandType": "Item",
     "template": "Controller rendering",
+    "sourceControlRevisionId": "9ea52766747eff6a0423157d997363cf46591bba"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{3FDE98B8-E7CF-4A0C-A3DF-748279289AB7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:39.7754098Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logout",
+    "itemPath": "/sitecore/layout/Renderings/Demo/Header/Logout",
+    "commandType": "Item",
+    "template": "Controller rendering",
     "sourceControlRevisionId": null
   }
 ]
