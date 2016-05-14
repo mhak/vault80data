@@ -9,10 +9,59 @@ master: {00000000-0000-0000-0000-000000000000}
 template: {DAF085E8-602E-43A6-8299-038FF171349F}
 templatekey: Jpeg
 
+----field----
+field: {22EAC599-F13B-4607-A89D-C091763A467D}
+name: Width
+key: width
+content-length: 3
+
+500
+----field----
+field: {DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}
+name: Height
+key: height
+content-length: 3
+
+250
+----field----
+field: {C06867FE-9A43-4C7D-B739-48780492D06F}
+name: Extension
+key: extension
+content-length: 3
+
+jpg
+----field----
+field: {6F47A0A5-9C94-4B48-ABEB-42D38DEF6054}
+name: Mime Type
+key: mime type
+content-length: 10
+
+image/jpeg
+----field----
+field: {6954B7C7-2487-423F-8600-436CB3B6DC0E}
+name: Size
+key: size
+content-length: 6
+
+142013
+----field----
+field: {CB09946F-3218-4823-87D2-D5007C199A96}
+name: Dimensions
+key: dimensions
+content-length: 9
+
+500 x 250
+----field----
+field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
+name: __Icon
+key: __icon
+content-length: 61
+
+~/media/F9B408595E704F939B5F3CF44FD5FE7E.ashx?h=16&thn=1&w=16
 ----version----
 language: en
 version: 1
-revision: 041ef3e2-0f5e-48d6-ad19-12436e2d4e44
+revision: 85cf8274-562c-4aa3-8a23-240f2b155b00
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -20,7 +69,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20160513T192949Z
+20160301T050218Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -34,7 +83,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-041ef3e2-0f5e-48d6-ad19-12436e2d4e44
+85cf8274-562c-4aa3-8a23-240f2b155b00
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
