@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/media library/fmblogo",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "657e357c606bc775a7f2b737ff43ebd6656428fc"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{C0CE9253-EFB4-4042-AAE1-C4CB72BEDB1D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:48.9302722Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "fmblogo",
+    "itemPath": "/sitecore/media library/fmblogo",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
