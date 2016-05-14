@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/Files",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "07e0aed4648a5150fe9234f356091a1e6b2f253c"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{730C1699-87A4-4CA7-A9CE-294AD7151F13}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2016-05-13T19:29:48.2185539Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Dateien",
+    "itemPath": "/sitecore/media library/Files",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]
