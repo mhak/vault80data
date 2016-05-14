@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Dark",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "ab2cbaa160c311db3be53adc00bc29f0ae23a007"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{089D9F98-2708-4A91-B537-0ED75B82EA99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:11.8498024Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo-Dark",
+    "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Dark",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
