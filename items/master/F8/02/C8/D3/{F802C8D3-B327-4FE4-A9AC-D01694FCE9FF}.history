@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Disclosures/ComponentWithDisclosuresControllerView",
     "commandType": "Item",
     "template": "Controller rendering",
+    "sourceControlRevisionId": "5978a7c1a739bedfa72adbfc6c6e08a8179994a5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F802C8D3-B327-4FE4-A9AC-D01694FCE9FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:41.5355327Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "ComponentWithDisclosuresControllerView",
+    "itemPath": "/sitecore/layout/Renderings/Disclosures/ComponentWithDisclosuresControllerView",
+    "commandType": "Item",
+    "template": "Controller rendering",
     "sourceControlRevisionId": null
   }
 ]
