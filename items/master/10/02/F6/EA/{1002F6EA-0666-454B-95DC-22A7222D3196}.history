@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Light",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "9f3d1c89359ddf1a0419c8eff3894a81e38b66c5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1002F6EA-0666-454B-95DC-22A7222D3196}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:12.5188218Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo-Light",
+    "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Light",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
