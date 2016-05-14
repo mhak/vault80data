@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Light",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "f4b5432653a01ac095d685a2c8f0af1a388cd97f"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{1002F6EA-0666-454B-95DC-22A7222D3196}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:12.3863911Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo-Light",
+    "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Light",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
