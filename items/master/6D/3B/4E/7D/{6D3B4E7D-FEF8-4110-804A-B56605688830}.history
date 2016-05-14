@@ -205,6 +205,22 @@
     "itemPath": "/sitecore/layout/Renderings/Modules/Web Forms for Marketers/Form",
     "commandType": "Item",
     "template": "Webcontrol",
+    "sourceControlRevisionId": "924e60df991415798f631504058b2981de1c8fd9"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6D3B4E7D-FEF8-4110-804A-B56605688830}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:45.5853854Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Form",
+    "itemPath": "/sitecore/layout/Renderings/Modules/Web Forms for Marketers/Form",
+    "commandType": "Item",
+    "template": "Webcontrol",
     "sourceControlRevisionId": null
   }
 ]
