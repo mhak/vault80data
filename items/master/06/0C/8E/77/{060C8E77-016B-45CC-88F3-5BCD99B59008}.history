@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/Images/Social/Connector/LinkedIn",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "bfc0da78b757ff715c93a608a34eee8ae62a4ce6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{060C8E77-016B-45CC-88F3-5BCD99B59008}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:13.5046774Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/LinkedIn",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
