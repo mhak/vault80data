@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/Images/Social/Connector/Google Plus",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "c05a768019ff15f6927b0ce796a6ed05cb25f756"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{A5A23083-C229-47EC-B1BC-445F8BBB55AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:13.2052365Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Google+",
+    "itemPath": "/sitecore/media library/Images/Social/Connector/Google Plus",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
