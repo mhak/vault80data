@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/media library/fmb logo",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "bd604dad51e2684d0e4826fb5c5ad737e9f309ba"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{035B4F05-3576-4D2A-8E3E-FA6A85BD048E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:48.6149377Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "fmb logo",
+    "itemPath": "/sitecore/media library/fmb logo",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
