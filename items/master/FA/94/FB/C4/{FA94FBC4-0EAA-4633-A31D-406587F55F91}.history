@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Hero2x",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "2effde5b4c4635ac4c2be9cf8d06a79883da2983"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FA94FBC4-0EAA-4633-A31D-406587F55F91}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:07.6587523Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Hero2x",
+    "itemPath": "/sitecore/media library/Images/Demo/Hero2x",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
