@@ -167,7 +167,7 @@ sitecore\admin
 ----version----
 language: ja-JP
 version: 1
-revision: 6ed115e1-0110-4a00-9510-708ec16402ec
+revision: 35a4e1e0-484c-40d4-bd5b-7af7493f720d
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -189,7 +189,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T115351Z
+20150621T113117Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -203,18 +203,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-6ed115e1-0110-4a00-9510-708ec16402ec
+35a4e1e0-484c-40d4-bd5b-7af7493f720d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115351Z
+20160513T192950Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
