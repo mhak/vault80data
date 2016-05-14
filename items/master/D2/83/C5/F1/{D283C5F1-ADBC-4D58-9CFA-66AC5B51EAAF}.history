@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/Footer/Footer",
     "commandType": "Item",
     "template": "Controller rendering",
+    "sourceControlRevisionId": "2edcd6aaa81012108bb719a0f1c95d43d5d7a9d6"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D283C5F1-ADBC-4D58-9CFA-66AC5B51EAAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:40.1506590Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Footer",
+    "itemPath": "/sitecore/layout/Renderings/Demo/Footer/Footer",
+    "commandType": "Item",
+    "template": "Controller rendering",
     "sourceControlRevisionId": null
   }
 ]
