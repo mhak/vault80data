@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Logo",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "87a6729157b897d1f7c34c2bf9e5d32ab409e5e7"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{76DFB871-AE33-4FEC-97D9-685DF9E47DB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:51.6316381Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo",
+    "itemPath": "/sitecore/media library/Images/Demo/Logo",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]
