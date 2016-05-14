@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Dark",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "cef70e01a831d86818990a3e3d9ff313f7636c10"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{089D9F98-2708-4A91-B537-0ED75B82EA99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:30:11.5805726Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Logo-Dark",
+    "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Dark",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]
