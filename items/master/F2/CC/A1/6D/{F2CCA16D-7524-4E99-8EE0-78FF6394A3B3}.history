@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Modules/Web Forms for Marketers/Mvc Form",
     "commandType": "Item",
     "template": "Controller rendering",
+    "sourceControlRevisionId": "d9bee747e1225b38ba1c0451229080af1a0a55dd"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F2CCA16D-7524-4E99-8EE0-78FF6394A3B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:46.2016982Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Mvc Form",
+    "itemPath": "/sitecore/layout/Renderings/Modules/Web Forms for Marketers/Mvc Form",
+    "commandType": "Item",
+    "template": "Controller rendering",
     "sourceControlRevisionId": null
   }
 ]
