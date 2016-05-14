@@ -61,6 +61,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/My Banking/SelectCustomerType",
     "commandType": "Item",
     "template": "Controller rendering",
+    "sourceControlRevisionId": "7d22acb1ddc950501bea50218342656989606339"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B4C376C9-F77F-4C69-BC51-555112C46D77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-13T19:29:40.9398272Z",
+    "label": "Installed from package - Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "SelectCustomerType",
+    "itemPath": "/sitecore/layout/Renderings/Demo/My Banking/SelectCustomerType",
+    "commandType": "Item",
+    "template": "Controller rendering",
     "sourceControlRevisionId": null
   }
 ]
