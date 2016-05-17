@@ -6509,6 +6509,22 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Schedule",
+    "sourceControlRevisionId": "b785db2b3dd56b7cc178fd197214824263ad2af3"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{C7533E65-A1D6-4F99-9F12-0AB157299D80}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-17T19:30:55.3664873Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Calculate Statistical Relevancy",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Calculate Statistical Relevancy",
+    "commandType": "Item",
+    "template": "Schedule",
     "sourceControlRevisionId": null
   }
 ]
