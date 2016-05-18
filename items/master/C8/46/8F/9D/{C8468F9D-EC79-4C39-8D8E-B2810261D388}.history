@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Interested In",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C8468F9D-EC79-4C39-8D8E-B2810261D388}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:10.7815872Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Interested In",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Interested In",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

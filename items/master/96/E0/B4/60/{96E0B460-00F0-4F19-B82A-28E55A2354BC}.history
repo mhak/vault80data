@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test/Duration Reached",
     "commandType": "Item",
     "template": "Rule Container",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96E0B460-00F0-4F19-B82A-28E55A2354BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:43.5749219Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Duration Reached",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Mv Test/Duration Reached",
+    "commandType": "Item",
+    "template": "Rule Container",
     "sourceControlRevisionId": null
   }
 ]

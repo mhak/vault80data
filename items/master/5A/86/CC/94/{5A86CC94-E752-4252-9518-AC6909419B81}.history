@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Workflow",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A86CC94-E752-4252-9518-AC6909419B81}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:29.2610739Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/system/Settings/Workflow",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

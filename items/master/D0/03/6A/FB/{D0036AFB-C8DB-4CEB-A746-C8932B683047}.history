@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Australia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0036AFB-C8DB-4CEB-A746-C8932B683047}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:42.1837062Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Australia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Australia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

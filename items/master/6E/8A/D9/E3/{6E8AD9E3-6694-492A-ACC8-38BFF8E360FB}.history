@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Apps",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E8AD9E3-6694-492A-ACC8-38BFF8E360FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:22.0749349Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Apps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Apps",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

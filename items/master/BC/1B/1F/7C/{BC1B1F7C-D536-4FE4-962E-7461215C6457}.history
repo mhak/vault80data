@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/App Center Sync",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC1B1F7C-D536-4FE4-962E-7461215C6457}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:05:31.6078464Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "App Center Sync",
+    "itemPath": "/sitecore/system/App Center Sync",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

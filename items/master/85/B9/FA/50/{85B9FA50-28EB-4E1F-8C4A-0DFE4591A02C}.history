@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Viewer/ReferralViewerSiteHost",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{85B9FA50-28EB-4E1F-8C4A-0DFE4591A02C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:11.2094078Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ReferralViewerSiteHost",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Viewer/ReferralViewerSiteHost",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

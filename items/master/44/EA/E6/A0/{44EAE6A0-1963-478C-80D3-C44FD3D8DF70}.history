@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules/Persona/Visitor Is Human",
     "commandType": "Item",
     "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44EAE6A0-1963-478C-80D3-C44FD3D8DF70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:04.3160594Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visitor Is Human",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules/Persona/Visitor Is Human",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
     "sourceControlRevisionId": null
   }
 ]

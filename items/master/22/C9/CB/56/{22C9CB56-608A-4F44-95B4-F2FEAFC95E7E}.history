@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeList",
     "commandType": "Item",
     "template": "Field Type Validation Rules",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22C9CB56-608A-4F44-95B4-F2FEAFC95E7E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:33.9029289Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TreeList",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Types/TreeList",
+    "commandType": "Item",
+    "template": "Field Type Validation Rules",
     "sourceControlRevisionId": null
   }
 ]

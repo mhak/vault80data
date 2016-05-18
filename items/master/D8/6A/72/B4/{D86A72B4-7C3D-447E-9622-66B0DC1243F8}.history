@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Deployed",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:47.7103218Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Deployed",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Deployed",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

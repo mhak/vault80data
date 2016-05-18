@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Item Buckets Settings",
     "commandType": "Item",
     "template": "Item Buckets Settings",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{376DA354-62FB-4066-ADE3-439419EAE7A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:59.0946089Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Buckets Settings",
+    "itemPath": "/sitecore/system/Settings/Buckets/Item Buckets Settings",
+    "commandType": "Item",
+    "template": "Item Buckets Settings",
     "sourceControlRevisionId": null
   }
 ]

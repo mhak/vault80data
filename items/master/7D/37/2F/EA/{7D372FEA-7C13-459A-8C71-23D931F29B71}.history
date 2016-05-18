@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Workflows/Has Workflow",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D372FEA-7C13-459A-8C71-23D931F29B71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:24.0992139Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Has Workflow",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Workflows/Has Workflow",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

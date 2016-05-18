@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/900 - Bot - Feed Reader",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19CA7009-4352-4AD4-A0FA-0E9FD90D3025}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:49.8248436Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "900 - Bot - Feed Reader",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/900 - Bot - Feed Reader",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

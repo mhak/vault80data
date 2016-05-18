@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Winning Combination for Testing Cluster",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBBA65E7-9E0D-496D-A589-D5DDC75EB5CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:40.1556258Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Winning Combination for Testing Cluster",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Winning Combination for Testing Cluster",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

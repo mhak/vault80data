@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Report Schedule",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{38EE693F-C33F-45D8-B06E-5E8355655336}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:34.5247451Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Report Schedule",
+    "itemPath": "/sitecore/templates/System/Analytics/Report Schedule",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

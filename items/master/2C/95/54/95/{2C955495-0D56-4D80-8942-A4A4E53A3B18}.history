@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/060 - Business Partner",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C955495-0D56-4D80-8942-A4A4E53A3B18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:49.2554570Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "060 - Business Partner",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/060 - Business Partner",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

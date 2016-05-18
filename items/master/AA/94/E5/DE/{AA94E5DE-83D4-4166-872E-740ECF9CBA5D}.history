@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA94E5DE-83D4-4166-872E-740ECF9CBA5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:17:25.8470157Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Global Validation Rules",
+    "itemPath": "/sitecore/templates/System/Validation/Global Validation Rules",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Date-Time Has Passed",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A9B001F-FB59-4F0F-B3F3-C6C5360ED451}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:40.3773283Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Date-Time Has Passed",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Date-Time Has Passed",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

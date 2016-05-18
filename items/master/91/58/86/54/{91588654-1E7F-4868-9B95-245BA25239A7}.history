@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kenya",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91588654-1E7F-4868-9B95-245BA25239A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:58.2434987Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Kenya",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kenya",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

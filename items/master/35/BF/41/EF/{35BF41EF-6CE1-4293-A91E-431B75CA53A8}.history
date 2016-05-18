@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/France",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35BF41EF-6CE1-4293-A91E-431B75CA53A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:52.2542948Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "France",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/France",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

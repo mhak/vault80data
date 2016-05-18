@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jamaica",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9E2619F3-E8B2-4DAD-97B2-B88337EBCFDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:57.5862881Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Jamaica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jamaica",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

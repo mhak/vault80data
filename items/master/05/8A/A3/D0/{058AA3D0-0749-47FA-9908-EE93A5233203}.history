@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Contact Classification",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{058AA3D0-0749-47FA-9908-EE93A5233203}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:07.9661562Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Contact Classification",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Contact Classification",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

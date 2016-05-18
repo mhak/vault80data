@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Purchase/Product Purchase",
     "commandType": "Item",
     "template": "Outcome Definition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9016E456-95CB-42E9-AD58-997D6D77AE83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:58.9995446Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Product Purchase",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Purchase/Product Purchase",
+    "commandType": "Item",
+    "template": "Outcome Definition",
     "sourceControlRevisionId": null
   }
 ]

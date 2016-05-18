@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Valuable Full Path",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E610018E-15EB-48CA-A6A0-6E04CD5A3167}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:01.8210504Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Most Valuable Full Path",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Valuable Full Path",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

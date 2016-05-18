@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/MapTypes/Page",
     "commandType": "Item",
     "template": "MapType",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6421D770-8B6B-4AD8-A609-EB99AA7AF7C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:01.5022822Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page Visit Experience Map",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/MapTypes/Page",
+    "commandType": "Item",
+    "template": "MapType",
     "sourceControlRevisionId": null
   }
 ]

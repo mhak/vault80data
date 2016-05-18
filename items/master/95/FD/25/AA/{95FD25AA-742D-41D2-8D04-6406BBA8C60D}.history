@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Max Result",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{95FD25AA-742D-41D2-8D04-6406BBA8C60D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:17:40.4651803Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Max Result",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Max Result",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

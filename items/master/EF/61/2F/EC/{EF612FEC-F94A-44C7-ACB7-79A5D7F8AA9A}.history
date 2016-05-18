@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cache Duration",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF612FEC-F94A-44C7-ACB7-79A5D7F8AA9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:13:45.7513722Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cache Duration",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cache Duration",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

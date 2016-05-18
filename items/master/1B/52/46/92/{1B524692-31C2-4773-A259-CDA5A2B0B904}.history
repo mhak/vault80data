@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Slow Pages Visits",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B524692-31C2-4773-A259-CDA5A2B0B904}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:32.3206502Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Slow Pages Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Slow Pages Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

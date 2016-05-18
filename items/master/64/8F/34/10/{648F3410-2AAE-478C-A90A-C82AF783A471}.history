@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bhutan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{648F3410-2AAE-478C-A90A-C82AF783A471}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:44.1175204Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bhutan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bhutan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

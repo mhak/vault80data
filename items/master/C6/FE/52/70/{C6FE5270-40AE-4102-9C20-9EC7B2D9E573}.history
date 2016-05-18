@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Luxembourg",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6FE5270-40AE-4102-9C20-9EC7B2D9E573}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:01.0100978Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Luxembourg",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Luxembourg",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

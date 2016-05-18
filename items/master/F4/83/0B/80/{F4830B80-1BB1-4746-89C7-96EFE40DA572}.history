@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Close - Cancelled",
     "commandType": "Item",
     "template": "Outcome Definition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4830B80-1BB1-4746-89C7-96EFE40DA572}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:58.1546254Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Close - Cancelled",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Close - Cancelled",
+    "commandType": "Item",
+    "template": "Outcome Definition",
     "sourceControlRevisionId": null
   }
 ]

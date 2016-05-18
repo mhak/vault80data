@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Social/Klout/Applications/Default",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AFB4657-8E9D-4C02-BA61-A910B2C1833C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:40.7543544Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Default",
+    "itemPath": "/sitecore/system/Social/Klout/Applications/Default",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

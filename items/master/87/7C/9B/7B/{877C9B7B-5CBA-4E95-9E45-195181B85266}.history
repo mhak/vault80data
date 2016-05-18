@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/June",
     "commandType": "Item",
     "template": "Standard template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{877C9B7B-5CBA-4E95-9E45-195181B85266}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:42.9593707Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "June",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/June",
+    "commandType": "Item",
+    "template": "Standard template",
     "sourceControlRevisionId": null
   }
 ]

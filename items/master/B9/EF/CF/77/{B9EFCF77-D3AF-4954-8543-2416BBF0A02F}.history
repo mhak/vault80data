@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gambia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9EFCF77-D3AF-4954-8543-2416BBF0A02F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:53.0042432Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Gambia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gambia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

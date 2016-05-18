@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Vietnam",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18609F84-FE13-4155-B0F0-6A1F0D04F40B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:17.9935069Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Vietnam",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Vietnam",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

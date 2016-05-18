@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Post Accepted",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A91D062-A7EC-4BBC-B504-C02EFCA999C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:53.7396445Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Post Accepted",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Post Accepted",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

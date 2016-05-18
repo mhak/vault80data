@@ -189,6 +189,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
     "commandType": "Item",
     "template": "Pattern Card",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9CA092F7-7476-4F08-A187-D6D35F414331}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:07.0277342Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Testing Vault",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Pattern Cards/Testing Vault",
+    "commandType": "Item",
+    "template": "Pattern Card",
     "sourceControlRevisionId": null
   }
 ]

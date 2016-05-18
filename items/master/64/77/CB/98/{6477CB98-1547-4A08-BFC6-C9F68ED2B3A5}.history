@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/OtherMaps",
     "commandType": "Item",
     "template": "MapGroupFolder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6477CB98-1547-4A08-BFC6-C9F68ED2B3A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:59.7211650Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Other Experience Maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/OtherMaps",
+    "commandType": "Item",
+    "template": "MapGroupFolder",
     "sourceControlRevisionId": null
   }
 ]

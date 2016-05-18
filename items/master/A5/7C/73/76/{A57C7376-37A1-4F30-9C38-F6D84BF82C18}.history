@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Percentage",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A57C7376-37A1-4F30-9C38-F6D84BF82C18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:25.3197741Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Percentage",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Percentage",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/layout/Devices/Feed",
     "commandType": "Item",
     "template": "Device",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73966209-F1B6-43CA-853A-F1DB1C9A654B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:23.5140077Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Feed",
+    "itemPath": "/sitecore/layout/Devices/Feed",
+    "commandType": "Item",
+    "template": "Device",
     "sourceControlRevisionId": null
   }
 ]

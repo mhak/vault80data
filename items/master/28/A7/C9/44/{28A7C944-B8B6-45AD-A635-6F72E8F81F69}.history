@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Instant Demo",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28A7C944-B8B6-45AD-A635-6F72E8F81F69}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:41.8734154Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Instant Demo",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Instant Demo",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

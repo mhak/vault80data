@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn/LinkedIn Share Buttons",
     "commandType": "Item",
     "template": "Campaign",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9D20BC0A-E391-41C8-9724-3A9E41222A76}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:44.3831556Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "LinkedIn Share Buttons",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn/LinkedIn Share Buttons",
+    "commandType": "Item",
+    "template": "Campaign",
     "sourceControlRevisionId": null
   }
 ]

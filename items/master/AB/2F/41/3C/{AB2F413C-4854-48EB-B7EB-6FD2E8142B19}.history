@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Campaign Group",
     "commandType": "Item",
     "template": "Campaign Group Taxonomy",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB2F413C-4854-48EB-B7EB-6FD2E8142B19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:18.9681637Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign Group",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Campaign Group",
+    "commandType": "Item",
+    "template": "Campaign Group Taxonomy",
     "sourceControlRevisionId": null
   }
 ]

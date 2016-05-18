@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DAA53CA5-8136-462F-8B2A-F66365BE1238}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:31.1361102Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Report Queries",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

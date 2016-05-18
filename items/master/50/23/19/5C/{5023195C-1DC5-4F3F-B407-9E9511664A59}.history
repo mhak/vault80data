@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Credit Cards",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5023195C-1DC5-4F3F-B407-9E9511664A59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:16.7767506Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Credit Cards",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Credit Cards",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

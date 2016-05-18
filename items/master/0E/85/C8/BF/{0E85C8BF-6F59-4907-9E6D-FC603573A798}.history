@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Author Template",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0E85C8BF-6F59-4907-9E6D-FC603573A798}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:59.3665420Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Author Template",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Author Template",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Carousel",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2ADB595F-3035-4354-AE72-E735CF47EB26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:04.0540479Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business - Carousel",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Carousel",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

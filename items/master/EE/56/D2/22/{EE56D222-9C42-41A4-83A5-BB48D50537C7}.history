@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits",
     "commandType": "Item",
     "template": "MapGroup",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EE56D222-9C42-41A4-83A5-BB48D50537C7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:59.8783532Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Visits",
+    "commandType": "Item",
+    "template": "MapGroup",
     "sourceControlRevisionId": null
   }
 ]

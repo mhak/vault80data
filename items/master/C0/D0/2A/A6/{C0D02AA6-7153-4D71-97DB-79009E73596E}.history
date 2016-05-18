@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contact Goals",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0D02AA6-7153-4D71-97DB-79009E73596E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:35.3314460Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Contact Goals",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contact Goals",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

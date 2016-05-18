@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Testing/Tags/Tags Definition",
     "commandType": "Item",
     "template": "Tags Definition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{283CE955-2BDF-4D59-84B1-10A5B5EDDAA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:20.1732694Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tags Definition",
+    "itemPath": "/sitecore/system/Settings/Rules/Testing/Tags/Tags Definition",
+    "commandType": "Item",
+    "template": "Tags Definition",
     "sourceControlRevisionId": null
   }
 ]

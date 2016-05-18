@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Healthy Page",
     "commandType": "Item",
     "template": "Disclosure Item",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49288563-A9D4-4FB2-B694-2A02CB8269DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:03:59.3984000Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Healthy Page",
+    "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Healthy Page",
+    "commandType": "Item",
+    "template": "Disclosure Item",
     "sourceControlRevisionId": null
   }
 ]

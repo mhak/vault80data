@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0F224342-9BCE-4012-A46C-148E7D9419A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:30.0462751Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Marketing Automation Evaluation",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Honduras",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F96B8936-2F00-4102-8F4C-C344763C9A84}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:55.2278711Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Honduras",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Honduras",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

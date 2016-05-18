@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/Artist",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F8F7C90-6737-4B6B-9482-DE34AADA13BA}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-18T19:15:04.8656708Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Artist",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Jpeg/Exif/Artist",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

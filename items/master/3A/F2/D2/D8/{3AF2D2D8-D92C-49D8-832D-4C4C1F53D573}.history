@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Interaction segmentation",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3AF2D2D8-D92C-49D8-832D-4C4C1F53D573}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:52.3734558Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Interaction segmentation",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Interaction segmentation",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

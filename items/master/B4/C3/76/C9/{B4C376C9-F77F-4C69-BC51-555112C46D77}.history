@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/My Banking/SelectCustomerType",
     "commandType": "Item",
     "template": "Controller rendering",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4C376C9-F77F-4C69-BC51-555112C46D77}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:40.7494195Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "SelectCustomerType",
+    "itemPath": "/sitecore/layout/Renderings/Demo/My Banking/SelectCustomerType",
+    "commandType": "Item",
+    "template": "Controller rendering",
     "sourceControlRevisionId": null
   }
 ]

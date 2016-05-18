@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Direct/Direct",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B418E4F2-1013-4B42-A053-B6D4DCA988BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:26.2280739Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Direct",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Direct/Direct",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Movie",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{374D3A99-C098-4CD2-8FBC-DC2D1CA1C904}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:14:58.5677053Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Movie",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Movie",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

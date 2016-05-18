@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Xhtml",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB57D0E7-5202-4C3D-838B-314F2B95A2CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:25.4700608Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Xhtml",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Xhtml",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

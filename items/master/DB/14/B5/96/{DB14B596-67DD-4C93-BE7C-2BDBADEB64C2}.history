@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Tab Options",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB14B596-67DD-4C93-BE7C-2BDBADEB64C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:58.5091250Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tab Options",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

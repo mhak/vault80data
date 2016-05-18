@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Hero",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0763EC48-F1EE-40F6-855F-B807E6E35472}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:59.9203918Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Hero",
+    "itemPath": "/sitecore/media library/Images/Demo/Hero",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

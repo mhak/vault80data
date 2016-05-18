@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA4F6592-596F-42AC-A3D0-7FB7B70D6E00}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:15:06.1751638Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ID3",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

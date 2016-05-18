@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/End Transaction",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C34B9E7B-55E2-4209-A66D-CD4169F4582F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:05:18.2162051Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "End Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/End Transaction",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

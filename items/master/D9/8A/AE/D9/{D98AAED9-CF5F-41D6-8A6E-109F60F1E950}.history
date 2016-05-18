@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register failed",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D98AAED9-CF5F-41D6-8A6E-109F60F1E950}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:24.0013068Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Register failed",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register failed",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

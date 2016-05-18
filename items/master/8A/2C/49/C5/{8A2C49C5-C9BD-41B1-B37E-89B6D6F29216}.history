@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/ID3/Song Title",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A2C49C5-C9BD-41B1-B37E-89B6D6F29216}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:14:56.3333386Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Song Title",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/ID3/Song Title",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

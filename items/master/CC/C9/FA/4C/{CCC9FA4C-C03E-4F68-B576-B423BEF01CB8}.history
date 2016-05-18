@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Simulators/Scale Values",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCC9FA4C-C03E-4F68-B576-B423BEF01CB8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:22.0481865Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Scale Values",
+    "itemPath": "/sitecore/system/Settings/Simulators/Scale Values",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Portal/Portlet",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BEEBC988-14CE-441A-B9E2-2A38D6E4A87D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:15:32.5247515Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Portlet",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

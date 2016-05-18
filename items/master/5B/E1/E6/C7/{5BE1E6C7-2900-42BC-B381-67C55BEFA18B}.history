@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Custom",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5BE1E6C7-2900-42BC-B381-67C55BEFA18B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:01.8450950Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Custom",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Custom",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

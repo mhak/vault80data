@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Angola",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBCF6772-419B-4D98-AC62-3B9E1AE39A7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:40.4212942Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Angola",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Angola",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Day",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A29C5923-6C23-41CE-AD4C-65B616D050A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:47.1751420Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cost per Day",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost per Day",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

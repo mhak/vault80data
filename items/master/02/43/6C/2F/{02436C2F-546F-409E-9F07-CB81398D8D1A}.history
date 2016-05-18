@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/Home",
     "commandType": "Item",
     "template": "Promotion Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{02436C2F-546F-409E-9F07-CB81398D8D1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:01.1440308Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Global/HealthWealth/Home",
+    "commandType": "Item",
+    "template": "Promotion Folder",
     "sourceControlRevisionId": null
   }
 ]

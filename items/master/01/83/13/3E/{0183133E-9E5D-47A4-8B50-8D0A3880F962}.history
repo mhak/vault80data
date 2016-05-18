@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Menus",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0183133E-9E5D-47A4-8B50-8D0A3880F962}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:27.5140348Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Menus",
+    "itemPath": "/sitecore/templates/System/Menus",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

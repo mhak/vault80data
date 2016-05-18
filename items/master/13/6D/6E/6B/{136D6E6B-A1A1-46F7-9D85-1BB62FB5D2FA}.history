@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belarus",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{136D6E6B-A1A1-46F7-9D85-1BB62FB5D2FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:43.3382323Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Belarus",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Belarus",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

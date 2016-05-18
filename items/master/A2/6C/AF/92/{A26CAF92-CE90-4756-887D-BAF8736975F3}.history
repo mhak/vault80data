@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close All",
     "commandType": "Item",
     "template": "Tab Option",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A26CAF92-CE90-4756-887D-BAF8736975F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:16.7679120Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Close All",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close All",
+    "commandType": "Item",
+    "template": "Tab Option",
     "sourceControlRevisionId": null
   }
 ]

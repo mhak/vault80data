@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01265C34-A863-45A6-97B1-588B0508A867}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:12.9193092Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Presentation",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Presentation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

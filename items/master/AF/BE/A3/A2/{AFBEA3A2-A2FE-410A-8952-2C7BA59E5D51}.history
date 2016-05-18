@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Layouts",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AFBEA3A2-A2FE-410A-8952-2C7BA59E5D51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:28.2583272Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/system/Settings/Layouts",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

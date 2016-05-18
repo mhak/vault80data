@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-direct",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61C9FB57-56B0-4DF1-9EF3-658E2BC45177}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:05:08.7376532Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-direct",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-direct",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

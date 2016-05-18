@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Branches",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FBC1147-6B0F-49DA-90CE-38DE0B806B44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:25.6234671Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Branches",
+    "itemPath": "/sitecore/templates/System/Branches",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

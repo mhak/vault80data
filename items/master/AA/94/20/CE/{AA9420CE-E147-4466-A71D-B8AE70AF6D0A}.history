@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Social Applications",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AA9420CE-E147-4466-A71D-B8AE70AF6D0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:14.9739628Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social Applications",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Social Applications",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Subgroup Round Robin Sticky",
     "commandType": "Item",
     "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E06B64F-6EA7-495C-AA66-7B69F7B94C19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:20.0345409Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Subgroup Round Robin Sticky",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Subgroup Round Robin Sticky",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
     "sourceControlRevisionId": null
   }
 ]

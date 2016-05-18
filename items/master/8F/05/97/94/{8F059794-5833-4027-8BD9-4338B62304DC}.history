@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Version Removed",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F059794-5833-4027-8BD9-4338B62304DC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:26.0572734Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Version Removed",
+    "itemPath": "/sitecore/system/Settings/Rules/Version Removed",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

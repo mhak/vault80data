@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/File/Location/Latitude",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{663202AD-DC36-4CDB-B472-577F006AF38B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:15:01.5794389Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Latitude",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Location/Latitude",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

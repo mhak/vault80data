@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer",
     "commandType": "Item",
     "template": "Dictionary folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EB386BF-4B3A-4708-92E3-4B4F23EA969E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:05:36.6565823Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ExperienceExplorer",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer",
+    "commandType": "Item",
+    "template": "Dictionary folder",
     "sourceControlRevisionId": null
   }
 ]

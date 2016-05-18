@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata/Copyright",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6C75788-9E12-4497-830C-C33160664B46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:13:45.4153742Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata/Copyright",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

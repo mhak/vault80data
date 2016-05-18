@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab Not Selected",
     "commandType": "Item",
     "template": "Open Result Type",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03A6F40D-AA49-41DD-A5AC-74A2724174A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:16.5858414Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "New Tab Not Selected",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab Not Selected",
+    "commandType": "Item",
+    "template": "Open Result Type",
     "sourceControlRevisionId": null
   }
 ]

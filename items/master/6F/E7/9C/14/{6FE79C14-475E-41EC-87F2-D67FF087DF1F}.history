@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-faq",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6FE79C14-475E-41EC-87F2-D67FF087DF1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:05:10.6478054Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-faq",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-faq",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

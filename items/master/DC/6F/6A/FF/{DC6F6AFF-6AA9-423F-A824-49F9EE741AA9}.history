@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Long running request",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC6F6AFF-6AA9-423F-A824-49F9EE741AA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:22.3587659Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Long running request",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Long running request",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

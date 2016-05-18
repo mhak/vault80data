@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Renewed",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3955A8B3-E8BC-4E29-982B-B038A484ABF0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:52.6087373Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Renewed",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Renewed",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

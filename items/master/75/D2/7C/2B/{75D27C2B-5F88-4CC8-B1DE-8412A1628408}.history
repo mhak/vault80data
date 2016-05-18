@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/layout/Controllers",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75D27C2B-5F88-4CC8-B1DE-8412A1628408}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:20.8011291Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Controllers",
+    "itemPath": "/sitecore/layout/Controllers",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

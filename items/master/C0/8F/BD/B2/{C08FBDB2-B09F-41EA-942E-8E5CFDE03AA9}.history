@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Segment Builder",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C08FBDB2-B09F-41EA-942E-8E5CFDE03AA9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:25.4819573Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Segment Builder",
+    "itemPath": "/sitecore/system/Settings/Rules/Segment Builder",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

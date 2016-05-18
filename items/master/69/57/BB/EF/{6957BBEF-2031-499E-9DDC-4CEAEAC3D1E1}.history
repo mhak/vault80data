@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Unique Placeholder Key",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6957BBEF-2031-499E-9DDC-4CEAEAC3D1E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:30.3392263Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Unique Placeholder Key",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Unique Placeholder Key",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Put in Basket",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C808CDB5-EACD-4FCC-95B8-A9821EC35209}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:05:24.3470113Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Put in Basket",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Put in Basket",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

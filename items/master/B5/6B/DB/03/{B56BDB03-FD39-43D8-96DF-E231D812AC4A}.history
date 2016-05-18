@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Site Statistics By Test Id",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B56BDB03-FD39-43D8-96DF-E231D812AC4A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:38.9027627Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Site Statistics By Test Id",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Site Statistics By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

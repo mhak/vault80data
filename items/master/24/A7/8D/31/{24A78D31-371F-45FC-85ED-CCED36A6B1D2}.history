@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Entire sub-tree",
     "commandType": "Item",
     "template": "Item",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24A78D31-371F-45FC-85ED-CCED36A6B1D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:21.4495889Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Entire sub-tree",
+    "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Entire sub-tree",
+    "commandType": "Item",
+    "template": "Item",
     "sourceControlRevisionId": null
   }
 ]

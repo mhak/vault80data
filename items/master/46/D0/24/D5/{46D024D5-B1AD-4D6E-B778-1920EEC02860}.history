@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guatemala",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46D024D5-B1AD-4D6E-B778-1920EEC02860}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:54.3051180Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Guatemala",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guatemala",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

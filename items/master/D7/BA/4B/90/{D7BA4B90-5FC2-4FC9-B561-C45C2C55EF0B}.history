@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7BA4B90-5FC2-4FC9-B561-C45C2C55EF0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:55.3090057Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Awaiting Approval",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

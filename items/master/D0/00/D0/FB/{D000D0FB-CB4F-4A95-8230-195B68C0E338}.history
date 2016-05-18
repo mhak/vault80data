@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Experience Analytics/BaseSegment/__Standard Values",
     "commandType": "Item",
     "template": "BaseSegment",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D000D0FB-CB4F-4A95-8230-195B68C0E338}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:17:44.6813209Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/BaseSegment/__Standard Values",
+    "commandType": "Item",
+    "template": "BaseSegment",
     "sourceControlRevisionId": null
   }
 ]

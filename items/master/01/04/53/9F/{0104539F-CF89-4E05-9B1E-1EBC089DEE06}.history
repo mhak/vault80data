@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Rules Cache",
     "commandType": "Item",
     "template": "Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0104539F-CF89-4E05-9B1E-1EBC089DEE06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:15.5022920Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Clear Rules Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Rules Cache",
+    "commandType": "Item",
+    "template": "Rule",
     "sourceControlRevisionId": null
   }
 ]

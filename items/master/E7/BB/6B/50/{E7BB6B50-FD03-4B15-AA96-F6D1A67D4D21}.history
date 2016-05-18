@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Engagement Plans",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E7BB6B50-FD03-4B15-AA96-F6D1A67D4D21}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:12.4134485Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Engagement Plans",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Engagement Plans",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

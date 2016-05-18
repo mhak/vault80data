@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Campaigns/Campaign on current Interaction has custom classification",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0CDF81A-7727-4418-B331-E1AEC80EFAB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:35.7737734Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign on current Interaction has custom classification",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Campaigns/Campaign on current Interaction has custom classification",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

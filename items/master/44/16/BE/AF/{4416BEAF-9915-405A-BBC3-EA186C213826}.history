@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/CMS",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4416BEAF-9915-405A-BBC3-EA186C213826}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:36.7532674Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "CMS",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/CMS",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Auto Suggest List",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8428729B-93B4-4A6B-8E78-603D5986FBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:11.3450806Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Auto Suggest List",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Auto Suggest List",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

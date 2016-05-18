@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Conditional Renderings Actions",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1E448DC-2B1F-4211-A560-81E3D765B2ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:11.9407974Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Conditional Renderings Actions",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Conditional Renderings Actions",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

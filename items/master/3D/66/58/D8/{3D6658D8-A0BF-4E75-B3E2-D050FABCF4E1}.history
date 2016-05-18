@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library",
     "commandType": "Item",
     "template": "Main section",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D6658D8-A0BF-4E75-B3E2-D050FABCF4E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:03:49.3382250Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Media Library",
+    "itemPath": "/sitecore/media library",
+    "commandType": "Item",
+    "template": "Main section",
     "sourceControlRevisionId": null
   }
 ]

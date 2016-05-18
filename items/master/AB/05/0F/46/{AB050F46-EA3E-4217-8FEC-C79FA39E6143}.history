@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Barbados",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB050F46-EA3E-4217-8FEC-C79FA39E6143}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:43.1546422Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Barbados",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Barbados",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

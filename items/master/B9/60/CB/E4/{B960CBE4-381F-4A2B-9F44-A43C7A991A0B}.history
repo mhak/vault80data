@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B960CBE4-381F-4A2B-9F44-A43C7A991A0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:13:41.4427162Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "RSS Feed",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

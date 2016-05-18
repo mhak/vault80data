@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F46ABA6-8CC0-492E-BD4C-87C5F03B2352}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:04.7600962Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Client Side Hooks",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

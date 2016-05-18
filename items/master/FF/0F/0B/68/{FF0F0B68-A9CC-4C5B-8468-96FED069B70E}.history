@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/LoginView",
     "commandType": "Item",
     "template": "View rendering",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF0F0B68-A9CC-4C5B-8468-96FED069B70E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:38.3333596Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "LoginView",
+    "itemPath": "/sitecore/layout/Renderings/Demo/LoginView",
+    "commandType": "Item",
+    "template": "View rendering",
     "sourceControlRevisionId": null
   }
 ]

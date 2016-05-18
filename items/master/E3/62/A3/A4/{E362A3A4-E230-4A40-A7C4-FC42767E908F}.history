@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is less than",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E362A3A4-E230-4A40-A7C4-FC42767E908F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:46.5081726Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "is less than",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is less than",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

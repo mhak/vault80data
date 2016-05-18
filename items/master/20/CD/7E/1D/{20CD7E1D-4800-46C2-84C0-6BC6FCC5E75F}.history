@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Lucia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20CD7E1D-4800-46C2-84C0-6BC6FCC5E75F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:09.1146807Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Saint Lucia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saint Lucia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

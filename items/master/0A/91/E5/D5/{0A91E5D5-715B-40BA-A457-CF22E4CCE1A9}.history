@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Cancel Transaction",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A91E5D5-715B-40BA-A457-CF22E4CCE1A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:05:17.6236024Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cancel Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Cancel Transaction",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

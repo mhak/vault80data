@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Delete Children",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F02DF72-6CC8-4319-A6C4-5B4C841B6251}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:08.3345410Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Delete Children",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Delete Children",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

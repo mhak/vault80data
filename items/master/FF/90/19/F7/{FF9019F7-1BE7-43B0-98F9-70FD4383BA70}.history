@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Channel Group/All visits by Channel Group",
     "commandType": "Item",
     "template": "Segment",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FF9019F7-1BE7-43B0-98F9-70FD4383BA70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:53.1042003Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "All visits by Channel Group",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Channel Group/All visits by Channel Group",
+    "commandType": "Item",
+    "template": "Segment",
     "sourceControlRevisionId": null
   }
 ]

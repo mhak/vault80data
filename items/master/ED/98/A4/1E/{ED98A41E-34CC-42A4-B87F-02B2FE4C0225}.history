@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Tool Button/Data/Click",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED98A41E-34CC-42A4-B87F-02B2FE4C0225}",
+    "version": 3,
+    "language": "en",
+    "timestamp": "2016-05-18T19:16:09.2025382Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Click",
+    "itemPath": "/sitecore/templates/System/Ribbon/Tool Button/Data/Click",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

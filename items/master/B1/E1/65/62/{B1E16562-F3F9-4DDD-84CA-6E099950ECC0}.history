@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Last run",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B1E16562-F3F9-4DDD-84CA-6E099950ECC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:16:59.5384175Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Last run",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Last run",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

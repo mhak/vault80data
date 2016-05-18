@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/South Africa",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1725CC37-A635-4567-8130-AA489D66647E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:11.6019152Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "South Africa",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/South Africa",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

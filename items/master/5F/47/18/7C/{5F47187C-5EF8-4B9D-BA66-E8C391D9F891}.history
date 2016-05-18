@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/010 - Business",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F47187C-5EF8-4B9D-BA66-E8C391D9F891}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:48.2552206Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "010 - Business",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/010 - Business",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

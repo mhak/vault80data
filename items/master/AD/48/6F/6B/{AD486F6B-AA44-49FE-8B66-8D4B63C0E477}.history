@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
     "commandType": "Item",
     "template": "Sublayout",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD486F6B-AA44-49FE-8B66-8D4B63C0E477}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:47.2193923Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Login with Twitter",
+    "itemPath": "/sitecore/layout/Sublayouts/Social/Connector/Login with Twitter",
+    "commandType": "Item",
+    "template": "Sublayout",
     "sourceControlRevisionId": null
   }
 ]

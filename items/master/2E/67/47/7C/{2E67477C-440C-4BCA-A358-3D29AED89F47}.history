@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/contains",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E67477C-440C-4BCA-A358-3D29AED89F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:48.1748705Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "contains",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/contains",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

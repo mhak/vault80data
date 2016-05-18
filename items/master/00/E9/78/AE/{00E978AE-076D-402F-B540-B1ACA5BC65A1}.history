@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{00E978AE-076D-402F-B540-B1ACA5BC65A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:05.0444463Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Search Box Dropdown",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

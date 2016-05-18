@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Remove Insert Option",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B35D4CC-BF85-4F10-8CED-81984EAC2BA5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:52.0745884Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Remove Insert Option",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Remove Insert Option",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

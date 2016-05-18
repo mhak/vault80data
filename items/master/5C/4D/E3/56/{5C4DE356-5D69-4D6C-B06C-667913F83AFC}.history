@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Social/Social Marketer Account",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5C4DE356-5D69-4D6C-B06C-667913F83AFC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:11.3348176Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social Marketer Account",
+    "itemPath": "/sitecore/templates/Branches/System/Social/Social Marketer Account",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

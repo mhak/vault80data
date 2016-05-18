@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E75A5C6-42A1-4C7E-B0A0-3F658A659F1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:01.8880200Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/templates/Branches/System/Rules",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

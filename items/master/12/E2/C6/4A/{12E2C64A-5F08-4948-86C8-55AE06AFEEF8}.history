@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Profile Key/Data/MaxValue",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12E2C64A-5F08-4948-86C8-55AE06AFEEF8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:13:09.3812296Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MaxValue",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Key/Data/MaxValue",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

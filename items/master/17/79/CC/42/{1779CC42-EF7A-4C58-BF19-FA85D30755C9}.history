@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Newsletter Signup",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1779CC42-EF7A-4C58-BF19-FA85D30755C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:42.4114776Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Newsletter Signup",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Newsletter Signup",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

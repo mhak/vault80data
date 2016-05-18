@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Testimonial",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7AC83948-4D88-4473-A894-D37C4FCC8CC5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:04.3783821Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business - Testimonial",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Testimonial",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

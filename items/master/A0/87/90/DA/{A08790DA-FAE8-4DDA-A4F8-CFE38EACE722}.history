@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Country",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A08790DA-FAE8-4DDA-A4F8-CFE38EACE722}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:31.8411510Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Country",
+    "itemPath": "/sitecore/templates/System/Analytics/Country",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security/Owned By Non Existing User",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD44D084-8C07-4E03-96A3-D17BC9A87268}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:39.2415678Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Owned By Non Existing User",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security/Owned By Non Existing User",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

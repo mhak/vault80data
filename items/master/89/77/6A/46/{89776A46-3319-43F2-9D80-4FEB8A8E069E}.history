@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsAuthorFeedback",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89776A46-3319-43F2-9D80-4FEB8A8E069E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:13:01.5474580Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "IsAuthorFeedback",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsAuthorFeedback",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

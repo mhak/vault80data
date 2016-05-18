@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Unknown",
     "commandType": "Item",
     "template": "Traffic Type",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3FF73B44-A28F-42D2-A9B6-840A3E57D85D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:45.7464375Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Unknown",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Unknown",
+    "commandType": "Item",
+    "template": "Traffic Type",
     "sourceControlRevisionId": null
   }
 ]

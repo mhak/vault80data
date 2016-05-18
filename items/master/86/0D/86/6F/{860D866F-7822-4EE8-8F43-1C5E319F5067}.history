@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Turkey",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{860D866F-7822-4EE8-8F43-1C5E319F5067}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:15.5423261Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Turkey",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Turkey",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

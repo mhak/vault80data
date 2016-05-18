@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Security/Security Preset/Data/Security Preset",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D0D809CE-4DAA-4A55-9837-B8EE61478669}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:16:29.9446806Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Security Preset",
+    "itemPath": "/sitecore/templates/System/Security/Security Preset/Data/Security Preset",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

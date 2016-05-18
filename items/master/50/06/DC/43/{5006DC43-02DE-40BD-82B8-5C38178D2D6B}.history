@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Experience Analytics/DimensionFolder/__Standard Values",
     "commandType": "Item",
     "template": "DimensionFolder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5006DC43-02DE-40BD-82B8-5C38178D2D6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:17:45.7044428Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/DimensionFolder/__Standard Values",
+    "commandType": "Item",
+    "template": "DimensionFolder",
     "sourceControlRevisionId": null
   }
 ]

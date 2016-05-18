@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sao Tome and Principe",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0FD780B-E721-47C9-ADA6-63D5F5ED5859}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:09.8831527Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sao Tome and Principe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sao Tome and Principe",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

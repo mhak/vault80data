@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Page Level Test Definition",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F706FDBE-4809-4642-B21D-33003C73E8AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:13.6547233Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page Level Test Definition",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Page Level Test Definition",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

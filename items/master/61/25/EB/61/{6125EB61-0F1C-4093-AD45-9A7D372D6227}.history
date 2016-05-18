@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guyana",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6125EB61-0F1C-4093-AD45-9A7D372D6227}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:54.7327847Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Guyana",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guyana",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

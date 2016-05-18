@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Branches/Insert Rule/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A16FB230-6642-4FC5-B115-1E3A838B1E83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:13:37.3372433Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Branches/Insert Rule/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

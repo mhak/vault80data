@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB40C9D3-5DB3-4831-A0A9-53AB17EED652}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:02.3548285Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

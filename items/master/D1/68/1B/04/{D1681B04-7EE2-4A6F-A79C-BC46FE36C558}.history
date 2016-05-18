@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Proxies/Sample",
     "commandType": "Item",
     "template": "Proxy",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D1681B04-7EE2-4A6F-A79C-BC46FE36C558}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:27.4858835Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sample",
+    "itemPath": "/sitecore/system/Proxies/Sample",
+    "commandType": "Item",
+    "template": "Proxy",
     "sourceControlRevisionId": null
   }
 ]

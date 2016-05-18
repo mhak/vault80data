@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/End Test",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{268CD2A6-0C1B-4795-B842-32401435689C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:46.4135553Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "End Test",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/End Test",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

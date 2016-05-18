@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28D3AE32-CA9C-4755-9D9D-F02CE5873AEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:42.5414277Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Content Testing",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

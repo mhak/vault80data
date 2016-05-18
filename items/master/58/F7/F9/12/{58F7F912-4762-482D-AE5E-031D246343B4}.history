@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahamas",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{58F7F912-4762-482D-AE5E-031D246343B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:42.5814129Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bahamas",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahamas",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

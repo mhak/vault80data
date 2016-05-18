@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Condition in Rule is True",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{534FD1CB-B90A-43A3-ABF1-F5621E7A178D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:12.3011139Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Condition in Rule is True",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Condition in Rule is True",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

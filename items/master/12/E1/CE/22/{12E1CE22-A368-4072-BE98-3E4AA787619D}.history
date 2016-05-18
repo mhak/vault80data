@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mayotte",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12E1CE22-A368-4072-BE98-3E4AA787619D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:02.7562382Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Mayotte",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mayotte",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

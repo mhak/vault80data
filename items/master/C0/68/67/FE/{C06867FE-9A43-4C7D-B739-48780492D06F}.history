@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Extension",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C06867FE-9A43-4C7D-B739-48780492D06F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-18T19:14:50.8890568Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Extension",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Information/Extension",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

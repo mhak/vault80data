@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test/Launch Create Test Dialog",
     "commandType": "Item",
     "template": "Launch Create Test Dialog Action",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{01A01766-8ABC-4B9E-A6EE-3CC8CA9C562D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:50.8851227Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Launch Create Test Dialog",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test/Launch Create Test Dialog",
+    "commandType": "Item",
+    "template": "Launch Create Test Dialog Action",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Preset Types",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83D4DA9A-026B-46CB-AEB3-91D93132E226}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:30.7123019Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Preset Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Aland Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2C918E66-D270-4C70-B55C-207C3F6FC9BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:39.7015327Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Aland Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Aland Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

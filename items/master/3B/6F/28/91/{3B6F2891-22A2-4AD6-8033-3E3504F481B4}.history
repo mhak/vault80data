@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Tweet",
     "commandType": "Item",
     "template": "Goal",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B6F2891-22A2-4AD6-8033-3E3504F481B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:42.6967374Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tweet",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Tweet",
+    "commandType": "Item",
+    "template": "Goal",
     "sourceControlRevisionId": null
   }
 ]

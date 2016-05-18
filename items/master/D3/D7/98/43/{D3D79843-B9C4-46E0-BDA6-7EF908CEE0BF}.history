@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Pattern Matching Types",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3D79843-B9C4-46E0-BDA6-7EF908CEE0BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:30.5853263Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Pattern Matching Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Pattern Matching Types",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

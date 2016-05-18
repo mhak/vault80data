@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/Application",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{26491425-AA5C-40F9-9E0B-C766D273C17E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:16:42.9633939Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Application",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/Application",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

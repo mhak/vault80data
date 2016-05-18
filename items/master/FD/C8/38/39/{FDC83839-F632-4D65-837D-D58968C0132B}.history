@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Tag Repository",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDC83839-F632-4D65-837D-D58968C0132B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:13:59.5807740Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tag Repository",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Tag Repository",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

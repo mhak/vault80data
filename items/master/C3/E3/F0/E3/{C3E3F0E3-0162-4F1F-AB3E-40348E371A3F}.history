@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Subitems Sorting/Reverse",
     "commandType": "Item",
     "template": "Child Sorting",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3E3F0E3-0162-4F1F-AB3E-40348E371A3F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:23.0228062Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reverse",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Reverse",
+    "commandType": "Item",
+    "template": "Child Sorting",
     "sourceControlRevisionId": null
   }
 ]

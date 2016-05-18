@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-analyst",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B4F16F7-728C-41C3-8631-D8D9AB01AA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:05:04.9270921Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-analyst",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-analyst",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

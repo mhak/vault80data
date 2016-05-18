@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Page with disclosure in name",
     "commandType": "Item",
     "template": "Disclosure Item",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{829FA896-C1D3-4B04-A437-D026DA66BA47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:00.2640053Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page with disclosure in name",
+    "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Page with disclosure in name",
+    "commandType": "Item",
+    "template": "Disclosure Item",
     "sourceControlRevisionId": null
   }
 ]

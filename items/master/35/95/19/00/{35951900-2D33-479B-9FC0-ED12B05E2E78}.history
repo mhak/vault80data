@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Exit Page",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{35951900-2D33-479B-9FC0-ED12B05E2E78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:21.2630465Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Exit Page",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Exit Page",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Pattern",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3621D33B-96AC-48AA-BED0-80FB93A76B4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:27.1126355Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Pattern",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Pattern",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

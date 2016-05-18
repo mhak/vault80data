@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Account/Review",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B82E7D0F-47DC-4F9C-9324-DCDE926AC8A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:16:40.3610743Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Review",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Review",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

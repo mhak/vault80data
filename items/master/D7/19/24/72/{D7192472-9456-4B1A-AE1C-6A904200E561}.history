@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Analytics/Profile/$name/Pattern Cards",
     "commandType": "Item",
     "template": "Pattern Cards",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7192472-9456-4B1A-AE1C-6A904200E561}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:02.8089279Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Pattern Cards",
+    "itemPath": "/sitecore/templates/Branches/System/Analytics/Profile/$name/Pattern Cards",
+    "commandType": "Item",
+    "template": "Pattern Cards",
     "sourceControlRevisionId": null
   }
 ]

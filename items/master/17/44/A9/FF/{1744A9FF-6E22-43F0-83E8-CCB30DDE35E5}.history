@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Sticky",
     "commandType": "Item",
     "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1744A9FF-6E22-43F0-83E8-CCB30DDE35E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:19.8958926Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sticky",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Sticky",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
     "sourceControlRevisionId": null
   }
 ]

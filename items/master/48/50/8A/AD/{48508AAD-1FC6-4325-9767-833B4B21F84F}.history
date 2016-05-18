@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Pitcairn",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48508AAD-1FC6-4325-9767-833B4B21F84F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:07.4720177Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Pitcairn",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Pitcairn",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

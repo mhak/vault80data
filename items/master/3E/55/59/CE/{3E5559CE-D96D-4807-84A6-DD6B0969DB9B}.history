@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Testing",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E5559CE-D96D-4807-84A6-DD6B0969DB9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:25.6432074Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Testing",
+    "itemPath": "/sitecore/system/Settings/Rules/Testing",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

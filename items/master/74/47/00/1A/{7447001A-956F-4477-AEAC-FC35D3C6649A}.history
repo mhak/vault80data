@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Logged In",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7447001A-956F-4477-AEAC-FC35D3C6649A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:04.2147993Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business - Logged In",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Logged In",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Filtered by Traffic Type",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C621DA42-0F6C-4D86-B47C-B164E7148D9B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:34.8499708Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits Filtered by Traffic Type",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Filtered by Traffic Type",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

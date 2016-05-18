@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business Banking Title",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EBB1D8C-5696-47E3-BA62-A0E4C692A4D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:04.7866516Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business Banking Title",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business Banking Title",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

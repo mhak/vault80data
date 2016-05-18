@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Create Date Author",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD375467-6234-4D71-8737-34D4CD21BD27}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:59.6458708Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Creation Date & Author",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Create Date Author",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

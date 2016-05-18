@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline",
     "commandType": "Item",
     "template": "Channel Type",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3648772F-0CB9-4B90-9E65-A97B2C729008}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:21.5482668Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Offline",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline",
+    "commandType": "Item",
+    "template": "Channel Type",
     "sourceControlRevisionId": null
   }
 ]

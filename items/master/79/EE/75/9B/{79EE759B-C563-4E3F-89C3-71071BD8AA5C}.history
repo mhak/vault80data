@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{79EE759B-C563-4E3F-89C3-71071BD8AA5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:21.8012207Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ExpEditor",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

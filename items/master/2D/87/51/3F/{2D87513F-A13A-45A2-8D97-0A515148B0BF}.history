@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Tracking",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D87513F-A13A-45A2-8D97-0A515148B0BF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:23.6175924Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Federated Experience Manager - Domain Tracking",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Tracking",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

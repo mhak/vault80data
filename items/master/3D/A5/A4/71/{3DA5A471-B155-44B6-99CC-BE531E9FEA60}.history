@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Copy Visitor to Another Plan",
     "commandType": "Item",
     "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3DA5A471-B155-44B6-99CC-BE531E9FEA60}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:37.8481440Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Copy Visitor to Another Plan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Copy Visitor to Another Plan",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
     "sourceControlRevisionId": null
   }
 ]

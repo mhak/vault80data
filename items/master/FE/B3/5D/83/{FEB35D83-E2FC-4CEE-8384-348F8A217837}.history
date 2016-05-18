@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Validation/Set Validation Result",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FEB35D83-E2FC-4CEE-8384-348F8A217837}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:16.4125630Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Set Validation Result",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Validation/Set Validation Result",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

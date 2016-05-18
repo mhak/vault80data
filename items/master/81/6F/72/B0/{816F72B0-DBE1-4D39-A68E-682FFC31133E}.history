@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Month",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{816F72B0-DBE1-4D39-A68E-682FFC31133E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:40.4633253Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Day of Month",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Day of Month",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

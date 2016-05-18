@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Name Encoded Characters",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6E17B0F-3BFD-4B5E-A396-5FD6830EC080}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:37.5179691Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Name Encoded Characters",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Name Encoded Characters",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

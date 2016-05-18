@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval/Reject",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F33AF8F8-2C87-4F4A-8A4C-4791096E8845}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:56.3286906Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reject",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Awaiting Approval/Reject",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

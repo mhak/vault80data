@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Svalbard and Jan Mayen",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B0736B35-C81E-48A6-B011-51C3DC37B634}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:12.4355595Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Svalbard and Jan Mayen",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Svalbard and Jan Mayen",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Flag List",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5075101-E254-41B2-B761-797314159F0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:12.0816251Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Flag List",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Flag List",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

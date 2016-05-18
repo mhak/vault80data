@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Clear Script Cache",
     "commandType": "Item",
     "template": "Script",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6826A276-06EA-4046-826E-E30FD2E89327}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:02.3619124Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Clear Script Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Clear Script Cache",
+    "commandType": "Item",
+    "template": "Script",
     "sourceControlRevisionId": null
   }
 ]

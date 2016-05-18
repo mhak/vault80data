@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Search Query Builder/Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3A8DF82-D9BE-4C39-9D30-2ABFF8C9EE22}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:18.6245114Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Search Query Builder/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Visitor Tags",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E72256CF-AF7D-4FED-958D-23B8A956A429}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:35.0111114Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits Visitor Tags",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visits Visitor Tags",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

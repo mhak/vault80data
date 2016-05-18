@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gibraltar",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24F4E908-7A2D-41AE-9AF5-B32B67BAD822}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:53.5308302Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Gibraltar",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gibraltar",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/List Manager/Contact List/Data/UseAllDatabase",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08B40FF0-F812-4DCF-83A8-F05E493831F9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:21.9895933Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "UseAllDatabase",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/UseAllDatabase",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

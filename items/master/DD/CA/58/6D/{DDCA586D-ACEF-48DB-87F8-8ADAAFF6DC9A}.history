@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/String Field",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDCA586D-ACEF-48DB-87F8-8ADAAFF6DC9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:04.0951511Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "String Field",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/String Field",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

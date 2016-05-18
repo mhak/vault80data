@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Layout/Layout",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3E44BEA-D36D-4DEB-891D-9F1358C1D59E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:04.8275425Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Layout",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Layout/Layout",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

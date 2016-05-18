@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Puerto Rico",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCA389CA-36E3-4974-8150-3442AE54DF36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:07.9225744Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Puerto Rico",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Puerto Rico",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

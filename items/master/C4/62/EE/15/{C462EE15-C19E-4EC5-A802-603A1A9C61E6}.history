@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Check Box",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C462EE15-C19E-4EC5-A802-603A1A9C61E6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:11.7162219Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Check Box",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Check Box",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

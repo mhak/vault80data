@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session Begin/Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97863A89-6BE2-465A-9C30-8A9A2A30EA68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:40.6420536Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session Begin/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

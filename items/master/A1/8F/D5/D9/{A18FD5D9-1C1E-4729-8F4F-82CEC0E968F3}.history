@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahrain",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A18FD5D9-1C1E-4729-8F4F-82CEC0E968F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:42.7774613Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bahrain",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahrain",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

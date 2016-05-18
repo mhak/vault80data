@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation",
     "commandType": "Item",
     "template": "Navigation Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{542F5659-E9DF-489A-A277-843D9FC380CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:15.5756443Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Banking Navigation",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation",
+    "commandType": "Item",
+    "template": "Navigation Folder",
     "sourceControlRevisionId": null
   }
 ]

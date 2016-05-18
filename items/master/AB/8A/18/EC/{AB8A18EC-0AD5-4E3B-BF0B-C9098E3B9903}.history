@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include lower value",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB8A18EC-0AD5-4E3B-BF0B-C9098E3B9903}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:26.0647808Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "include lower value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include lower value",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Draft",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4916BA5-B87D-4E54-B481-76C188AC9D33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:55.1576797Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Draft",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Draft",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

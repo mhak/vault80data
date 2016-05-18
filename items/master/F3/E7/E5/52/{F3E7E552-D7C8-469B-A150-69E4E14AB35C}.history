@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/ClearOnIndexUpdate",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3E7E552-D7C8-469B-A150-69E4E14AB35C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:14:43.0590351Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ClearOnIndexUpdate",
+    "itemPath": "/sitecore/templates/System/Layout/Sections/Caching/Caching/ClearOnIndexUpdate",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

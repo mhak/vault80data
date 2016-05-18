@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Fields/Field is Empty",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DA0D1AEA-0144-4A40-9AF0-3123526C9163}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:47.7073781Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Field is Empty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Fields/Field is Empty",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

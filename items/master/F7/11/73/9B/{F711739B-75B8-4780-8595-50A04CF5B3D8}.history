@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu",
     "commandType": "Item",
     "template": "Banking Menu",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F711739B-75B8-4780-8595-50A04CF5B3D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:03:56.9593207Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personal Banking Menu",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu",
+    "commandType": "Item",
+    "template": "Banking Menu",
     "sourceControlRevisionId": null
   }
 ]

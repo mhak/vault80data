@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave/Auto Submit Action",
     "commandType": "Item",
     "template": "Auto Submit Action",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1FB1A877-17A5-4A92-9ACB-82E8A9AD752A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:49.0384230Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Auto Submit Action",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave/Auto Submit Action",
+    "commandType": "Item",
+    "template": "Auto Submit Action",
     "sourceControlRevisionId": null
   }
 ]

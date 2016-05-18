@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Czech Republic",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{91C7E3D7-6A69-4EA7-9F1E-58596926CD5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:49.5789771Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Czech Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Czech Republic",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

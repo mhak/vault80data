@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tags",
     "commandType": "Item",
     "template": "Branch",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD67A88F-282C-454F-AADD-1A6339FD6844}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:09.2178214Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Tags",
+    "commandType": "Item",
+    "template": "Branch",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Validators/Validation Rules/__Workflow Validation Rules",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86B52EEF-078E-4D9E-80BF-888287070E6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:17:17.2981920Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Workflow Validation Rules",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Validators/Validation Rules/__Workflow Validation Rules",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

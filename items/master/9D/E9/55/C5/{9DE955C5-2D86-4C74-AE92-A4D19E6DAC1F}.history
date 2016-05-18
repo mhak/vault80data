@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Page - Goals and Events",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DE955C5-2D86-4C74-AE92-A4D19E6DAC1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:52.1067847Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page - Goals and Events",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Page - Goals and Events",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

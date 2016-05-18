@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/British Indian Ocean Territory",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9CAC860-72FE-4202-AC16-7EF8976FFE0B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:44.9380049Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "British Indian Ocean Territory",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/British Indian Ocean Territory",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

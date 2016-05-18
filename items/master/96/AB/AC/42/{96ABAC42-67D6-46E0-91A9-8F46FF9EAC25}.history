@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Location",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96ABAC42-67D6-46E0-91A9-8F46FF9EAC25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:00.8157729Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Location",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Location",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

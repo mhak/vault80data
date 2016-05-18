@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Falkland Islands Malvinas",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D3C46AB-A375-4AAF-9707-ECB1E366596D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:51.7151808Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Falkland Islands Malvinas",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Falkland Islands Malvinas",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

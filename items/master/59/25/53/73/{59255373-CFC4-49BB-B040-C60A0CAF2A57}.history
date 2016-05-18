@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Faroe Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{59255373-CFC4-49BB-B040-C60A0CAF2A57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:51.8443419Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Faroe Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Faroe Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

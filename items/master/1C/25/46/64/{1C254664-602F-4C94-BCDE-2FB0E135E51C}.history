@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/500 - Competitor",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C254664-602F-4C94-BCDE-2FB0E135E51C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:49.3841526Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "500 - Competitor",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/500 - Competitor",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

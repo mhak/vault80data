@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Reset Fields",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCBCD570-DD4A-4152-94CD-C42B4B6EE602}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:10.1155660Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reset Fields",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Reset Fields",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

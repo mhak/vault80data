@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iraq",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7613BD5B-7A53-41B7-96BA-7F836F1D0F6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:56.5413467Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Iraq",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iraq",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

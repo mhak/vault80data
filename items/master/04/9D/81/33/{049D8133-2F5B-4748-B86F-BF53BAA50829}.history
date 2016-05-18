@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Campaigns",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{049D8133-2F5B-4748-B86F-BF53BAA50829}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:22.4495825Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Settings/Rules/Campaigns",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

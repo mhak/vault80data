@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Globalization",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1061A5F2-ACFD-489A-B7AA-D377AE0F93F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:01.4759193Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Globalization",
+    "itemPath": "/sitecore/templates/Branches/System/Globalization",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

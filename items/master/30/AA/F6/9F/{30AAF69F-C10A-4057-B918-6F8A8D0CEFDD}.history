@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Create Desire",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30AAF69F-C10A-4057-B918-6F8A8D0CEFDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:06.2952562Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Create Desire",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Create Desire",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

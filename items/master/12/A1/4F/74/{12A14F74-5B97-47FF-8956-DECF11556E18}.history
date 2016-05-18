@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Security/Security Preset/Data/Overwrite",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12A14F74-5B97-47FF-8956-DECF11556E18}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:16:30.1038533Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Overwrite",
+    "itemPath": "/sitecore/templates/System/Security/Security Preset/Data/Overwrite",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

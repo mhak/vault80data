@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Process",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F5652C06-676B-4E12-A9D0-06D000E5F1C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:05.3030661Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Process",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Focus/Process",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

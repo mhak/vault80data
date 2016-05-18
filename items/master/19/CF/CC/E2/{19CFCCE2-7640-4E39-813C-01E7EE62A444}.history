@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/ProfileKey",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19CFCCE2-7640-4E39-813C-01E7EE62A444}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:27.5267783Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ProfileKey",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/ProfileKey",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

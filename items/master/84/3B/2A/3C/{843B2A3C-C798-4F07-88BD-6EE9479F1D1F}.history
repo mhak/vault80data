@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Security/User/Data/RegionalIsoCode",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{843B2A3C-C798-4F07-88BD-6EE9479F1D1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:16:32.2797098Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "RegionalIsoCode",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/RegionalIsoCode",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

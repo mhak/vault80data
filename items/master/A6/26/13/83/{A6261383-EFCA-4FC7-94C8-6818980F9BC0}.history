@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Goals/Registration Goal",
     "commandType": "Item",
     "template": "GoalMap",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A6261383-EFCA-4FC7-94C8-6818980F9BC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:01.3255365Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{D86A72B4-7C3D-447E-9622-66B0DC1243F8}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Registration Goal Experience",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Goals/Registration Goal",
+    "commandType": "Item",
+    "template": "GoalMap",
     "sourceControlRevisionId": null
   }
 ]

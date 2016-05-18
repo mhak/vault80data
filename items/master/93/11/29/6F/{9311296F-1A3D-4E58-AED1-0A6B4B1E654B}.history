@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score",
     "commandType": "Item",
     "template": "Profile",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9311296F-1A3D-4E58-AED1-0A6B4B1E654B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:07:04.8782906Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Score",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Score",
+    "commandType": "Item",
+    "template": "Profile",
     "sourceControlRevisionId": null
   }
 ]

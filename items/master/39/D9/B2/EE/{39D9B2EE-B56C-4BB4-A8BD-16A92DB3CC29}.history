@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-sales",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39D9B2EE-B56C-4BB4-A8BD-16A92DB3CC29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:05:15.0999839Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-sales",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-sales",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

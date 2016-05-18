@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D151B8B-BD5F-4479-A35F-EE740F6387E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:12.7338024Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Log Message",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Security/Role/Data/Roles",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CCB11355-CD36-4785-BFFA-4F12484348EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:16:29.6158511Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Roles",
+    "itemPath": "/sitecore/templates/System/Security/Role/Data/Roles",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

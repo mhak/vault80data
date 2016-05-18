@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Modules",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{454DD4E0-7D71-4950-AF37-7D28DF9EA1BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:27.6350965Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Modules",
+    "itemPath": "/sitecore/templates/System/Modules",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

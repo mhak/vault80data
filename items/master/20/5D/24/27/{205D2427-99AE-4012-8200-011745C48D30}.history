@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessTokenSecret",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{205D2427-99AE-4012-8200-011745C48D30}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:16:42.6419558Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "AccessTokenSecret",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessTokenSecret",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Top Traffic Sources Coming to this Page",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81A1D382-0D1F-4C8E-AA93-3B207CC4A3B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:52.4183363Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Top Traffic Sources Coming to this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Top Traffic Sources Coming to this Page",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Integer",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{09927E9F-375D-4651-918B-0783B20F8971}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:26.7298223Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Integer",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Integer",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

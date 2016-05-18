@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset Facet 1",
     "commandType": "Item",
     "template": "Custom Taxonomy",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F1D1B39-DB89-47CA-B7D9-20E51E73EEBC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:20.9466303Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Asset Facet 1",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset Facet 1",
+    "commandType": "Item",
+    "template": "Custom Taxonomy",
     "sourceControlRevisionId": null
   }
 ]

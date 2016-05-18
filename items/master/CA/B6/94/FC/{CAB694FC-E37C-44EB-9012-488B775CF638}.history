@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Message",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CAB694FC-E37C-44EB-9012-488B775CF638}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:15:09.7288481Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Message",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Message",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Matching",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F028B87-28DA-4B88-85AE-2285B798F660}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:23.4651914Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Federated Experience Manager - Domain Matching",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Matching",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

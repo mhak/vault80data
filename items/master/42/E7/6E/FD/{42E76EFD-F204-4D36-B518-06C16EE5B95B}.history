@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Database Name",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{42E76EFD-F204-4D36-B518-06C16EE5B95B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:27.6802607Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Database Name",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Database Name",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

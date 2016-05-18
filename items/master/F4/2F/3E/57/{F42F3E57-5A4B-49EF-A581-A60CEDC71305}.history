@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Minimum Length 8",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F42F3E57-5A4B-49EF-A581-A60CEDC71305}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:26.3011172Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Minimum Length 8",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/Minimum Length 8",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

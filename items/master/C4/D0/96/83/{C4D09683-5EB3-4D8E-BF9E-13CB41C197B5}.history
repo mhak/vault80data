@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/List Manager/List Folder",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4D09683-5EB3-4D8E-BF9E-13CB41C197B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:20.8841709Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "List Folder",
+    "itemPath": "/sitecore/templates/List Manager/List Folder",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

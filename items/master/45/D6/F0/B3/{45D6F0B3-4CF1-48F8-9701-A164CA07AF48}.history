@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45D6F0B3-4CF1-48F8-9701-A164CA07AF48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:47.5745509Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "IP",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

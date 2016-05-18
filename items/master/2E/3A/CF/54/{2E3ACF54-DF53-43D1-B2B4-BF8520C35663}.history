@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Wallis and Futuna",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E3ACF54-DF53-43D1-B2B4-BF8520C35663}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:08:18.3920388Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Wallis and Futuna",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Wallis and Futuna",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

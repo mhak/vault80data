@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/List Manager/Contact List/Data/ExcludedSources",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A69F22B-8DB3-453B-B33A-AE1B4D23709D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:12:22.4905843Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ExcludedSources",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/ExcludedSources",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

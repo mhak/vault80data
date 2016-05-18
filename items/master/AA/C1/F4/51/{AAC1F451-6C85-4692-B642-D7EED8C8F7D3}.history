@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Home/TestVault",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAC1F451-6C85-4692-B642-D7EED8C8F7D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:03:51.9613799Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TestVault",
+    "itemPath": "/sitecore/content/Home/TestVault",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

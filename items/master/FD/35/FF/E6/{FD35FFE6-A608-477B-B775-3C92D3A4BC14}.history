@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Rule Elements Visibility",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD35FFE6-A608-477B-B775-3C92D3A4BC14}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:25.2005547Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rule Elements Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Rule Elements Visibility",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

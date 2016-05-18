@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Add Insert Option",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{918FFCF0-F9E1-4DB6-A191-3EFA5A91C583}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:09:51.8608127Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Add Insert Option",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options/Add Insert Option",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

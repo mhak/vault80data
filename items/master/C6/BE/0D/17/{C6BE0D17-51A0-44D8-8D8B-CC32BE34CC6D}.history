@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Health",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6BE0D17-51A0-44D8-8D8B-CC32BE34CC6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:11.1081332Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "My Health",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Health",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

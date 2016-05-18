@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Original Winner",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B69C4A07-C3DA-4B14-AA8C-B2022F6FA3DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:10:14.6253719Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Original Winner",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Is Original Winner",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

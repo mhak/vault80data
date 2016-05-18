@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/LocationDescription",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E8FA62D2-13FC-4C5C-91E5-71D615591420}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:14:51.6507835Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "LocationDescription",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/LocationDescription",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

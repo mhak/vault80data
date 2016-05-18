@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel",
     "commandType": "Item",
     "template": "Outcome Type",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D21A54A-195A-45FF-A034-05F4D9C9A9AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:06:57.7386332Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Lead Management Funnel",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel",
+    "commandType": "Item",
+    "template": "Outcome Type",
     "sourceControlRevisionId": null
   }
 ]

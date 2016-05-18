@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder",
     "commandType": "Item",
     "template": "Header",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFB5AD90-D005-4BFC-BEE6-0A0B178BB3D9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:09.3314180Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Headers Folder",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder",
+    "commandType": "Item",
+    "template": "Header",
     "sourceControlRevisionId": null
   }
 ]

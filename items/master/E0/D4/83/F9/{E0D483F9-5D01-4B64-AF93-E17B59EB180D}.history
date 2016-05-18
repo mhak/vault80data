@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow",
     "commandType": "Item",
     "template": "Workflow",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0D483F9-5D01-4B64-AF93-E17B59EB180D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:11:45.2542666Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social Marketer Message Workflow",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow",
+    "commandType": "Item",
+    "template": "Workflow",
     "sourceControlRevisionId": null
   }
 ]

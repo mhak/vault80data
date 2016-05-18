@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Savings",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{596E6487-B3C5-4EDD-AE2B-7D82920A6CA8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:16.4683044Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business-Savings",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Savings",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

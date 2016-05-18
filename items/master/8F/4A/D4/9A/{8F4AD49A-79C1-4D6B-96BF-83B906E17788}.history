@@ -77,6 +77,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Checking",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "127d4c4255584e7e14574ecb5cc2145e86155688"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F4AD49A-79C1-4D6B-96BF-83B906E17788}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-18T19:04:16.3148167Z",
+    "label": "Snapshot - Post Healthy Wealthy",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business-Checking",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Checking",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]
