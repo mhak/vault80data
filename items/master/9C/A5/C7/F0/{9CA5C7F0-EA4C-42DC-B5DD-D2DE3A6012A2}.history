@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Thank-You",
     "commandType": "Item",
     "template": "HealthWealthPage",
-    "sourceControlRevisionId": "92764b3e41731ffaee48d84af60627d9e8a77c9d"
+    "sourceControlRevisionId": "34012016b09171dbcb7ca6a9031dbac8ef37b225"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9CA5C7F0-EA4C-42DC-B5DD-D2DE3A6012A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:25:31.4694906Z",
+    "label": "Installed from package - Matt Demo Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Thank-You",
+    "itemPath": "[orphan]/Thank-You",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
+    "sourceControlRevisionId": null
   }
 ]
