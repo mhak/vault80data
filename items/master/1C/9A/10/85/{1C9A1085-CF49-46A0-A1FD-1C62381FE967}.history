@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Checking",
     "commandType": "Item",
     "template": "HealthWealthPage",
-    "sourceControlRevisionId": "78584446d1e671fb573d00101b9ab1cc59fd38d3"
+    "sourceControlRevisionId": "c9921df1ae92e829a351b5dd51bf9d5be7026f6f"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1C9A1085-CF49-46A0-A1FD-1C62381FE967}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:25:28.9735437Z",
+    "label": "Installed from package - Matt Demo Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Checking",
+    "itemPath": "[orphan]/Checking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
+    "sourceControlRevisionId": null
   }
 ]
