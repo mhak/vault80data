@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Sign-Up",
     "commandType": "Item",
     "template": "HealthWealthPage",
-    "sourceControlRevisionId": "e66e3ef1431f0f10be5eb85682eae09ee866af11"
+    "sourceControlRevisionId": "7691a1164fde543e35e5e2adbf6c22d6e6ce7056"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{476EDB7F-AC85-48A7-A591-04494B3BAF6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:25:31.0806294Z",
+    "label": "Installed from package - Matt Demo Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign-Up",
+    "itemPath": "[orphan]/Sign-Up",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
+    "sourceControlRevisionId": null
   }
 ]
