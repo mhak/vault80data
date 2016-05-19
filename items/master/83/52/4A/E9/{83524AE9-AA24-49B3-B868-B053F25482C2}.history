@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Offer",
     "commandType": "Item",
     "template": "HealthWealthPage",
-    "sourceControlRevisionId": "5748cb563e7cac6cdf836426b67627a84f919029"
+    "sourceControlRevisionId": "72864c423e615336ed30b63ee18b3a046835df69"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{83524AE9-AA24-49B3-B868-B053F25482C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:25:30.7181884Z",
+    "label": "Installed from package - Matt Demo Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Offer",
+    "itemPath": "[orphan]/Offer",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
+    "sourceControlRevisionId": null
   }
 ]
