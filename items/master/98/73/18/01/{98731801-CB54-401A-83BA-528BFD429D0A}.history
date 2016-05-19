@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking",
     "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": "d35f79a16cd428bc6f288047d2d2b6c58ff8faf8"
+    "sourceControlRevisionId": "ddcc5f44c12a1c288d6eec16682339c87f99c60d"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{98731801-CB54-401A-83BA-528BFD429D0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-19T17:25:28.7229155Z",
+    "label": "Installed from package - Matt Demo Release",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free-Checking",
+    "itemPath": "[orphan]/Free-Checking",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
