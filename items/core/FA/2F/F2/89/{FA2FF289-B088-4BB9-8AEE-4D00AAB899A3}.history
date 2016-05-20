@@ -189,6 +189,22 @@
     "itemPath": "/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Vault/Vault",
     "commandType": "Label",
     "template": "LaunchPad-Button",
+    "sourceControlRevisionId": "511a2bd1215f4456df38ebd7e6f0ab108146bb9b"
+  },
+  {
+    "eventType": "Saved",
+    "database": "core",
+    "itemId": "{FA2FF289-B088-4BB9-8AEE-4D00AAB899A3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:20:56.7100475Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Vault",
+    "itemPath": "/sitecore/client/Applications/Launchpad/PageSettings/Buttons/Vault/Vault",
+    "commandType": "Item",
+    "template": "LaunchPad-Button",
     "sourceControlRevisionId": null
   }
 ]
