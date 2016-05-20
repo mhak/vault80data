@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Folder",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3C73488B-1A47-4B9E-8522-27E059B31533}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:54.5539313Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Search Folder",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Folder",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

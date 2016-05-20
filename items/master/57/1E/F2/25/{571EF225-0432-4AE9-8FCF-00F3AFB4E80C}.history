@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Account/Information",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{571EF225-0432-4AE9-8FCF-00F3AFB4E80C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:58.1046781Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Information",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Information",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

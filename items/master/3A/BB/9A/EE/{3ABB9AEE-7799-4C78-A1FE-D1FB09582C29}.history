@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Campaigns/Actions/Set Workflow State",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3ABB9AEE-7799-4C78-A1FE-D1FB09582C29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:18.6603417Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Set Workflow State",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Campaigns/Actions/Set Workflow State",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

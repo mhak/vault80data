@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Type and Assembly",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7F996007-3DFE-4792-8628-C98DE3B0F20D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:01.1350032Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Type and Assembly",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Type and Assembly",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

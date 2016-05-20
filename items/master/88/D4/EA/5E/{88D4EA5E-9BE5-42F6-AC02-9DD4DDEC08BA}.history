@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Path Analyzer Map Groups/Campaign Maps",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{88D4EA5E-9BE5-42F6-AC02-9DD4DDEC08BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:52.9845841Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign Maps",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Path Analyzer Map Groups/Campaign Maps",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

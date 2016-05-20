@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona",
     "commandType": "Item",
     "template": "Profile",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5BDEE45-C945-476F-9EE6-3B8A9255C17E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:33.6324438Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Persona",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona",
+    "commandType": "Item",
+    "template": "Profile",
     "sourceControlRevisionId": null
   }
 ]

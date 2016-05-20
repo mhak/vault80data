@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Federated Experience Manager - Domain Tracking",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B11C5F0-3580-4908-BA57-A0A11A0FB935}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:33.5412288Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Federated Experience Manager - Domain Tracking",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Federated Experience Manager - Domain Tracking",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

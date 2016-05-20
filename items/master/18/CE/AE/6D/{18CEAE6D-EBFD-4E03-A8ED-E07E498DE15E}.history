@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Indexing and Search/Visibility",
     "commandType": "Item",
     "template": "Visibility",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{18CEAE6D-EBFD-4E03-A8ED-E07E498DE15E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:45.9650305Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Indexing and Search/Visibility",
+    "commandType": "Item",
+    "template": "Visibility",
     "sourceControlRevisionId": null
   }
 ]

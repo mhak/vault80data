@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Goal was Triggered",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77C1E4A9-6B2C-4996-A681-09570884E0C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:28.7717763Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Goal was Triggered",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Goal was Triggered",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

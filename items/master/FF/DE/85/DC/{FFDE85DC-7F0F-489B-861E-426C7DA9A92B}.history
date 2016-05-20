@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Advertising/Out of home advertising",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFDE85DC-7F0F-489B-861E-426C7DA9A92B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:06.3325571Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Out of home advertising",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Advertising/Out of home advertising",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

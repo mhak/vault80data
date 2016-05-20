@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cacheable",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9409DA1-2614-4CFF-AD9B-6ED1A1688B33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:49.2365803Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cacheable",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Caching/Cacheable",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

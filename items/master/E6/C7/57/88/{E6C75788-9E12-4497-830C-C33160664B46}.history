@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata/Copyright",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6C75788-9E12-4497-830C-C33160664B46}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:49.0178140Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Copyright",
+    "itemPath": "/sitecore/templates/System/Feeds/RSS Feed/Additional Metadata/Copyright",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

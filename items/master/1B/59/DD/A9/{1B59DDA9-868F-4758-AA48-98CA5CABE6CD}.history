@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Campaigns Categories/Campaign Goal Conversions/ByDay",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B59DDA9-868F-4758-AA48-98CA5CABE6CD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:58.2052445Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ByDay",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Campaigns Categories/Campaign Goal Conversions/ByDay",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

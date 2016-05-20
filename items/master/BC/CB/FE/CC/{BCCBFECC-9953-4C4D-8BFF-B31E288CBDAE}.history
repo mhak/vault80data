@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCCBFECC-9953-4C4D-8BFF-B31E288CBDAE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:17.8000120Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Information Architecture",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

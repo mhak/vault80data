@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Latest Failures",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0898AB8C-87D4-4639-88E7-4E1C81E7F84C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:02.2277091Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Latest Failures",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Latest Failures",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Viewer/TagsViewerDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3BE09CF4-C736-4EA4-8811-501A6BB95BE2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:46.7835216Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TagsViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Tags/Viewer/TagsViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

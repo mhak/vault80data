@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Logo",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{76DFB871-AE33-4FEC-97D9-685DF9E47DB2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:39.7155197Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Logo",
+    "itemPath": "/sitecore/media library/Images/Demo/Logo",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]

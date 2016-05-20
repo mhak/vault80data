@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bangladesh",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F73D7D39-84C6-4BAC-8928-347AB8E4D91C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:06.0011384Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bangladesh",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bangladesh",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

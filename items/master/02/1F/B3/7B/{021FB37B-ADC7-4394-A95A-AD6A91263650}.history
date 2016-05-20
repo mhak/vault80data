@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Common/Conditions/Security",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{021FB37B-ADC7-4394-A95A-AD6A91263650}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:19.5743794Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Security",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Common/Conditions/Security",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

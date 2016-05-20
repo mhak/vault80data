@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/Home",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7C4DD1E-B04F-49A9-94D3-0C63BC08BBF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:10.3116826Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/Home",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

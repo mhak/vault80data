@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{397CD422-1173-4F7B-87B1-29E483D0EE8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:11.0599665Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Search Filter Control Types",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

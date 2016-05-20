@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Login",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{66722F52-2D13-4DCC-90FC-EA7117CF2298}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:12.1603466Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Login",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Login",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Geo IP",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA741626-9EFE-4500-845D-8094C662CB8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:28.6573919Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Geo IP",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Geo IP",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

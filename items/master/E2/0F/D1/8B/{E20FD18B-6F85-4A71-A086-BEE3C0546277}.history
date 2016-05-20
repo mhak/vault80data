@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Security/User/Data/Wallpaper",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E20FD18B-6F85-4A71-A086-BEE3C0546277}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:53.1789543Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Wallpaper",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Wallpaper",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

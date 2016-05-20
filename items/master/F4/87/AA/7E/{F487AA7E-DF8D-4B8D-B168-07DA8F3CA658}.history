@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Only Evaluate on Timeout",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F487AA7E-DF8D-4B8D-B168-07DA8F3CA658}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:33.8420822Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Only Evaluate on Timeout",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Only Evaluate on Timeout",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

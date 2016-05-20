@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Test Types",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4F270176-1CA4-474C-9259-01B5250F730E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:56.0441668Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Test Types",
+    "itemPath": "/sitecore/system/Settings/Analytics/Test Types",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

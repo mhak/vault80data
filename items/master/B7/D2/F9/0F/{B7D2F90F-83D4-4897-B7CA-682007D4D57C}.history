@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Federated Experience Manager - Domain Matching",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7D2F90F-83D4-4897-B7CA-682007D4D57C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:33.4182020Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Federated Experience Manager - Domain Matching",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Federated Experience Manager - Domain Matching",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

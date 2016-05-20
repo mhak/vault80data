@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/925 - Bot - Auto Detected",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7762E82D-9E2C-48F0-8B50-D6477113ABC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:58.0831756Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "925 - Bot - Auto Detected",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/925 - Bot - Auto Detected",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Country",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{331C6356-630C-4F5B-AF4B-7B21DBDAA3D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:44.3078064Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Country",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Country",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

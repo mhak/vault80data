@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cyprus",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75368A5E-4BE9-4997-9EC7-B034CF4B9088}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:10.6730732Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cyprus",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cyprus",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

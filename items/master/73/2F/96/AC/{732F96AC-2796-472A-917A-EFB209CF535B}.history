@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Order",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{732F96AC-2796-472A-917A-EFB209CF535B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:21.8870186Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Order",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Order",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

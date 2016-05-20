@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/Facet",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC16160D-E557-4A96-B7A0-76705860A6DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:55.1163748Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Facet",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/Facet",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

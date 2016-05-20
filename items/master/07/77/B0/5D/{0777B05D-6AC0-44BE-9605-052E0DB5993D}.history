@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Renderings/System/WebEdit/Hidden Rendering",
     "commandType": "Item",
     "template": "Xsl Rendering",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0777B05D-6AC0-44BE-9605-052E0DB5993D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:24.4142166Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Hidden Rendering",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit/Hidden Rendering",
+    "commandType": "Item",
+    "template": "Xsl Rendering",
     "sourceControlRevisionId": null
   }
 ]

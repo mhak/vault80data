@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Telemarketing",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EB3AA94-F6F1-4908-ADE3-4E474221BDD4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:05.5759439Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Telemarketing",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Telemarketing",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

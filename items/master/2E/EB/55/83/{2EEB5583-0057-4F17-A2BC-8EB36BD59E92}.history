@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Move Visitor to Another State",
     "commandType": "Item",
     "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2EEB5583-0057-4F17-A2BC-8EB36BD59E92}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:01.9288806Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Move Visitor to Another State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Move Visitor to Another State",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
     "sourceControlRevisionId": null
   }
 ]

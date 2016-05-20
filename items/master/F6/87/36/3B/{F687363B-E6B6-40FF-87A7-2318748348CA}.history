@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Social/Facebook Account",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F687363B-E6B6-40FF-87A7-2318748348CA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:32.7972865Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Facebook Account",
+    "itemPath": "/sitecore/templates/Branches/System/Social/Facebook Account",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

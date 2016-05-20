@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Country",
     "commandType": "Item",
     "template": "Dimension",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{988A1D00-9D00-4F05-97EC-DF3391F8CCE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:19.8195678Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "By Country",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Country",
+    "commandType": "Item",
+    "template": "Dimension",
     "sourceControlRevisionId": null
   }
 ]

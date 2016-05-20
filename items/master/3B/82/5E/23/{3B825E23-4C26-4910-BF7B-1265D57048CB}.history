@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Hotkey",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B825E23-4C26-4910-BF7B-1265D57048CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:04.3810221Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Hotkey",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Hotkey",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

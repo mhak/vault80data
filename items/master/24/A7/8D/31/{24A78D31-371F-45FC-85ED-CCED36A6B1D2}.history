@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Entire sub-tree",
     "commandType": "Item",
     "template": "Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24A78D31-371F-45FC-85ED-CCED36A6B1D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:22.2687207Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Entire sub-tree",
+    "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Entire sub-tree",
+    "commandType": "Item",
+    "template": "Item",
     "sourceControlRevisionId": null
   }
 ]

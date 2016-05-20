@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Decrease the Profile Value",
     "commandType": "Item",
     "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{56C24BA4-EF6A-4E96-A028-507C6B18313A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:01.6446931Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Decrease the Profile Value",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Decrease the Profile Value",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
     "sourceControlRevisionId": null
   }
 ]

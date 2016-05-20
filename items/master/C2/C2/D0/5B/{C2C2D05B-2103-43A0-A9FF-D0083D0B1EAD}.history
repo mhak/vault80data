@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012/11/14/09/48/Test Tag",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C2C2D05B-2103-43A0-A9FF-D0083D0B1EAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:21.0851362Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Test Tag",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012/11/14/09/48/Test Tag",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

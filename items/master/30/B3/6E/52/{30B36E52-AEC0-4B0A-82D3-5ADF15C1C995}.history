@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Argentina",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30B36E52-AEC0-4B0A-82D3-5ADF15C1C995}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:05.0460866Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Argentina",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Argentina",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

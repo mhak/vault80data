@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Path Analyzer/CampaignMap",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4FEF4CE0-56D9-4D4B-92CD-3681AA5DFAF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:15.3137049Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign Map",
+    "itemPath": "/sitecore/templates/System/Path Analyzer/CampaignMap",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

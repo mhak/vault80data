@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder/$name/Visibility",
     "commandType": "Item",
     "template": "Visibility",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{283F6CD6-EFB8-47AC-946A-ABB17FA45ECB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:31.6947240Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder/$name/Visibility",
+    "commandType": "Item",
+    "template": "Visibility",
     "sourceControlRevisionId": null
   }
 ]

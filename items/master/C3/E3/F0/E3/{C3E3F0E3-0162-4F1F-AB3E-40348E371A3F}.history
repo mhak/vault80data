@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Subitems Sorting/Reverse",
     "commandType": "Item",
     "template": "Child Sorting",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3E3F0E3-0162-4F1F-AB3E-40348E371A3F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:55.0188331Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reverse",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Reverse",
+    "commandType": "Item",
+    "template": "Child Sorting",
     "sourceControlRevisionId": null
   }
 ]

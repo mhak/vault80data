@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/San Marino",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3B0AFE59-35C9-4CDA-8C4C-C9A22A3DD540}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:26.6603183Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "San Marino",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/San Marino",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

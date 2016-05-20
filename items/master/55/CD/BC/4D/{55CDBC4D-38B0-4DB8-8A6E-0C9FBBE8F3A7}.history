@@ -173,6 +173,22 @@
     "itemPath": "/sitecore/media library/Experience Explorer",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55CDBC4D-38B0-4DB8-8A6E-0C9FBBE8F3A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:37.1691849Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Experience Explorer",
+    "itemPath": "/sitecore/media library/Experience Explorer",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

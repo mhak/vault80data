@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Visits",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CEEDD0D-8F50-4CE7-8240-CBC1831D5F01}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:23.9288801Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Visits",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

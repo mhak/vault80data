@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Script Cache",
     "commandType": "Item",
     "template": "Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61F081A0-229F-4E95-8748-37B41540893D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:48.7902074Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Clear Script Cache",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted/Rules/Clear Script Cache",
+    "commandType": "Item",
+    "template": "Rule",
     "sourceControlRevisionId": null
   }
 ]

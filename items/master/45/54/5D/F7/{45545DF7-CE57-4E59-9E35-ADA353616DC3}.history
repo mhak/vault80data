@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Local Searches Leading to this Page",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45545DF7-CE57-4E59-9E35-ADA353616DC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:59.0226249Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Local Searches Leading to this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Local Searches Leading to this Page",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

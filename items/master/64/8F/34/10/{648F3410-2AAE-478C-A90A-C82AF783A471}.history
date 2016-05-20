@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bhutan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{648F3410-2AAE-478C-A90A-C82AF783A471}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:06.8595360Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bhutan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bhutan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

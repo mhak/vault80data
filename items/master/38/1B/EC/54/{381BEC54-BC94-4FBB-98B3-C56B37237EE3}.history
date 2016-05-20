@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Media/Upload Files - Advanced",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{381BEC54-BC94-4FBB-98B3-C56B37237EE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:30.8002956Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Upload Files - Advanced",
+    "itemPath": "/sitecore/templates/Branches/System/Media/Upload Files - Advanced",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

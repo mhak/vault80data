@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uzbekistan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4DDAA344-B1D3-4B44-9033-B3150460E9CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:32.1505457Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Uzbekistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uzbekistan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

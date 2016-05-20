@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Togo",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AE61218A-7D51-4D5B-8E35-915022F989C3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:29.9455327Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Togo",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Togo",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Traffic Overview",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB3D6A37-FE64-4A2E-A138-047606241C4D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:58.9874895Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Traffic Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Overview/Traffic Overview",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

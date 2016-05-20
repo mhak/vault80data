@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Monaco",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DDD8B972-91A8-4E56-BE9D-63E154D4A3F8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:21.1495986Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Monaco",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Monaco",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

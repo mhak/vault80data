@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Domain Tracking/Assign Default Language Code",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3338883C-C430-448C-9B30-56888E39405D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:41.7679758Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Assign Default Language Code",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Domain Tracking/Assign Default Language Code",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

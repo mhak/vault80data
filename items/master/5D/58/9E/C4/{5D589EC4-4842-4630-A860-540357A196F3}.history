@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/Latitude",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5D589EC4-4842-4630-A860-540357A196F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:49.6212896Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Latitude",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/File/Location/Latitude",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

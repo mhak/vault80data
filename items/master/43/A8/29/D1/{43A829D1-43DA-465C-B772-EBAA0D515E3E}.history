@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Data/Type",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{43A829D1-43DA-465C-B772-EBAA0D515E3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:42.4252730Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/System/Validation/Validation Rule/Data/Type",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

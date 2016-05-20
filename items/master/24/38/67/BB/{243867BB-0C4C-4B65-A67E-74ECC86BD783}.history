@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/040 - Press",
     "commandType": "Item",
     "template": "Visitor Identification",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{243867BB-0C4C-4B65-A67E-74ECC86BD783}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:57.1535452Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "040 - Press",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identifications/040 - Press",
+    "commandType": "Item",
+    "template": "Visitor Identification",
     "sourceControlRevisionId": null
   }
 ]

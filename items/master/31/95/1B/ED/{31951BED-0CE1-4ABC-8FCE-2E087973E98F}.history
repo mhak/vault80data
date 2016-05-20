@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Home/Logout",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{31951BED-0CE1-4ABC-8FCE-2E087973E98F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T18:59:56.7418163Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Logout",
+    "itemPath": "/sitecore/content/Home/Logout",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

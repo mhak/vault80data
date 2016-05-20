@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Activity",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84C5007A-DF57-4215-A4B9-77A13212F1E3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:00.9485258Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Top Leads by Activity",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Activity",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

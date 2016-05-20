@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is greater than or equal to",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{814EF7D0-1639-44FD-AEEF-735B5AC14425}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:30.7814404Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "is greater than or equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is greater than or equal to",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

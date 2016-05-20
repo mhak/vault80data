@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Visitor Information/Tags",
     "commandType": "Item",
     "template": "Control",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{194BE1EA-8014-45F4-BE05-B2D549DD4BAD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:52.0607091Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Visitor Information/Tags",
+    "commandType": "Item",
+    "template": "Control",
     "sourceControlRevisionId": null
   }
 ]

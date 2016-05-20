@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Stop Test Force Experience",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4BB3CF9B-B25D-4C33-95C8-54F6F13E20DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:06.1838125Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Stop Test Force Experience",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Stop Test Force Experience",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

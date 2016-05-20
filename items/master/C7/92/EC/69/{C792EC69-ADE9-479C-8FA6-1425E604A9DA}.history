@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Content Messages",
     "commandType": "Item",
     "template": "Campaign",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C792EC69-ADE9-479C-8FA6-1425E604A9DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:15.3803291Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Twitter Content Messages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Content Messages",
+    "commandType": "Item",
+    "template": "Campaign",
     "sourceControlRevisionId": null
   }
 ]

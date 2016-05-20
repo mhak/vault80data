@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Layouts",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AFBEA3A2-A2FE-410A-8952-2C7BA59E5D51}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:53.3146520Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/system/Settings/Layouts",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

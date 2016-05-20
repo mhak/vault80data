@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Geo IP/Latitude Condition",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AEED6CD4-95C3-4309-B19C-88E13D6E7B5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:25.2999686Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Latitude Condition",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Geo IP/Latitude Condition",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

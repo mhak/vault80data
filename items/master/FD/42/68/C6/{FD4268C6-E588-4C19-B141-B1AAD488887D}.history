@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder/$name/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD4268C6-E588-4C19-B141-B1AAD488887D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:31.6027366Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Element Folder/$name/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Location/Geo Longitude",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{237CE51B-22F3-4421-913C-768F9DC2C6C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:10.5997983Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Geo Longitude",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Location/Geo Longitude",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

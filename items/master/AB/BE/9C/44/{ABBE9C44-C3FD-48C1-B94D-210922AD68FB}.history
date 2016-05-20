@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/MV Test Visits By Test Id",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABBE9C44-C3FD-48C1-B94D-210922AD68FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:48.2112525Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MV Test Visits By Test Id",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/MV Test Visits By Test Id",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

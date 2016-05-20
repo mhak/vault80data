@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn",
     "commandType": "Item",
     "template": "Campaign Category",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EEE1033E-B3EB-4267-89D5-96682EF25539}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:13.2267458Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "LinkedIn",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/LinkedIn",
+    "commandType": "Item",
+    "template": "Campaign Category",
     "sourceControlRevisionId": null
   }
 ]

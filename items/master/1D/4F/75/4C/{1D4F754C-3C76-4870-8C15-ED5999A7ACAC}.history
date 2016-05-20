@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Events",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D4F754C-3C76-4870-8C15-ED5999A7ACAC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:23.2091581Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Events",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Events",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

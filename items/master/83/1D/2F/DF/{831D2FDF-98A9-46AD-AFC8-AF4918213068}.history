@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Begin Transaction",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{831D2FDF-98A9-46AD-AFC8-AF4918213068}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:53.9593364Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Begin Transaction",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Begin Transaction",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy/Parent Template",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF2FBD9A-DED2-42B5-B38D-BAC45D301296}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:48.7247675Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Parent Template",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy/Parent Template",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

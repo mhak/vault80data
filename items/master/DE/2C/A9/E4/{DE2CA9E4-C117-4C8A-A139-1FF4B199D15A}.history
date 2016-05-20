@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Height",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DE2CA9E4-C117-4C8A-A139-1FF4B199D15A}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:51.5881907Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Height",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Height",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

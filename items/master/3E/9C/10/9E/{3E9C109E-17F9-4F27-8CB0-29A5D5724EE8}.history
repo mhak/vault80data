@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-basket",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E9C109E-17F9-4F27-8CB0-29A5D5724EE8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:45.0552436Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-basket",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-basket",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Experience Analytics",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF670895-C767-423B-870B-ACC4D960EE83}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:23.1700831Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Experience Analytics",
+    "itemPath": "/sitecore/system/Settings/Rules/Experience Analytics",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

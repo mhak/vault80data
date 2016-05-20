@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Money-Markets",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{57EFD1C0-89EE-4F12-A45F-5D5143E1CEE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:14.0685805Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personal-Money-Markets",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Money-Markets",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

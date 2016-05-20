@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close All",
     "commandType": "Item",
     "template": "Tab Option",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A26CAF92-CE90-4756-887D-BAF8736975F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:19.9640340Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Close All",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options/Close All",
+    "commandType": "Item",
+    "template": "Tab Option",
     "sourceControlRevisionId": null
   }
 ]

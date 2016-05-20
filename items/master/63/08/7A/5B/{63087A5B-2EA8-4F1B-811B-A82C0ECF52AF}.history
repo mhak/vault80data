@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Recipients",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{63087A5B-2EA8-4F1B-811B-A82C0ECF52AF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:43.8773710Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Recipients",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Recipients",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

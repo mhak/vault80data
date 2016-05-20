@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Form Header",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7816AD7B-90BC-4F57-8804-464FEA06224B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:05.6534817Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Form Header",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Form Header",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

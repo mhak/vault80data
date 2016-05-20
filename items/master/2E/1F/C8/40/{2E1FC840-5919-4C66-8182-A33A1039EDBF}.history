@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is less than or equal to",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2E1FC840-5919-4C66-8182-A33A1039EDBF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:30.9963157Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "is less than or equal to",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Operators/is less than or equal to",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

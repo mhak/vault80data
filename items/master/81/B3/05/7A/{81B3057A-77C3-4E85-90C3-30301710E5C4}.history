@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Malaysia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81B3057A-77C3-4E85-90C3-30301710E5C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:19.8625775Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Malaysia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Malaysia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-customer-service",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93908DE9-A075-4096-BBE5-0E8117926A68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:46.2697776Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-customer-service",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-customer-service",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

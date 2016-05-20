@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DF3F3111-FED3-41FC-A4F4-8BA9744E2B65}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:56.6713116Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Social",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

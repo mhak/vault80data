@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Author",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{16156647-DE5D-4E6A-A6AE-5B8D4A3A40BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:08.8322935Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Author",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Author",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

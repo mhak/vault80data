@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Banking",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D9D6766F-4C4A-4155-8D07-6AAF41C3C504}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:12.3227008Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business-Banking",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Business-Banking",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

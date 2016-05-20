@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0CDEAD62-A62C-4E87-88FB-D1078375EF11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:27.8039723Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Conditions",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

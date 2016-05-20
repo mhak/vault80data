@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tag",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1A9B6300-4652-477C-A4B5-B2A64E86B29F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:47.1431363Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tag",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Tag",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-3rd-party",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC5E0128-CC07-40AC-A7DD-50334A801A47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:44.2630591Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-3rd-party",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-3rd-party",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

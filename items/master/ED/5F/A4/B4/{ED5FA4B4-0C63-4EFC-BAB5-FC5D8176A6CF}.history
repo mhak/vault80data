@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking/Checking",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ED5FA4B4-0C63-4EFC-BAB5-FC5D8176A6CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T18:59:59.1671536Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Checking",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking/Checking",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

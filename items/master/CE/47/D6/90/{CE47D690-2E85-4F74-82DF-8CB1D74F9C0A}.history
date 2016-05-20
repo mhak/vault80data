@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Yemen",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE47D690-2E85-4F74-82DF-8CB1D74F9C0A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:33.3116798Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Yemen",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Yemen",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Wealth-Transfer",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5BE9FBBB-AA57-47F3-BDB8-BFE0FD6B0676}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T18:59:59.6925682Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Wealth-Transfer",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Investment/Wealth-Transfer",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

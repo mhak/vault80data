@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Size",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7DA705D-BD91-4DB0-A0AD-A9A05FE6F4AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:00.3732128Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Image Size",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Image Size",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

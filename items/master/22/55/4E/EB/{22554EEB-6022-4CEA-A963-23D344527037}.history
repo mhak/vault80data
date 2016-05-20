@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Page Configuration",
     "commandType": "Item",
     "template": "Accordion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22554EEB-6022-4CEA-A963-23D344527037}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:51.0939209Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page Configuration",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Page Configuration",
+    "commandType": "Item",
+    "template": "Accordion",
     "sourceControlRevisionId": null
   }
 ]

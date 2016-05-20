@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/Repeat Visitor Promotion",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05B3C268-5806-4256-84A9-9B290E37EB38}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:15.6936471Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Repeat Visitor Promotion",
+    "itemPath": "/sitecore/content/Global/Promotions/Repeat Visitor Promotion",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

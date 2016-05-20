@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder/FDA/Referrers",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3F6C23D3-331B-49D8-B51B-5385970DC5D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:43.5490932Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referrers",
+    "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder/FDA/Referrers",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

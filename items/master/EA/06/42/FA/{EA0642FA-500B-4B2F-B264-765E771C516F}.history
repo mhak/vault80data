@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Anonymous User",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA0642FA-500B-4B2F-B264-765E771C516F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:57.2101264Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Anonymous User",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Anonymous User",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

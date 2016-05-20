@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Andorra",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{08E9CECD-30D7-4237-A48E-305ECFC166FB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:04.2983675Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Andorra",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Andorra",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

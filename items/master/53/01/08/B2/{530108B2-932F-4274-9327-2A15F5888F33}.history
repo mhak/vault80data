@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Traffic Type",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{530108B2-932F-4274-9327-2A15F5888F33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:54.4748235Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Traffic Type",
+    "itemPath": "/sitecore/templates/System/Analytics/Traffic Type",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

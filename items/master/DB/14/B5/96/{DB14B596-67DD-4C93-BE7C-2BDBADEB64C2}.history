@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Tab Options",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB14B596-67DD-4C93-BE7C-2BDBADEB64C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:05.8683358Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tab Options",
+    "itemPath": "/sitecore/system/Settings/Buckets/Tab Options",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

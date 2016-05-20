@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on save",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD43A1C4-3ADF-4097-9265-897369A113CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:53.8851709Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tidy on save",
+    "itemPath": "/sitecore/templates/System/Html editor/HTML Tidy/Data/Tidy on save",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Email action/Data/To",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{424DF68D-CA9F-4B95-8C9C-C3D37862E420}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:46.5384556Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "To",
+    "itemPath": "/sitecore/templates/System/Workflow/Email action/Data/To",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

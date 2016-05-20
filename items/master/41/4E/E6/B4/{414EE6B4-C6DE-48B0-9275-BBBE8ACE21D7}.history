@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Zimbabwe",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{414EE6B4-C6DE-48B0-9275-BBBE8ACE21D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:33.5404614Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Zimbabwe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Zimbabwe",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

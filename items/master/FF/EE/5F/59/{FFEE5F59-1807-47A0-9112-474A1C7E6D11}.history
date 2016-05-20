@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saudi Arabia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FFEE5F59-1807-47A0-9112-474A1C7E6D11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:27.0177779Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Saudi Arabia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Saudi Arabia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

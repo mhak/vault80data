@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include upper value",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BFD3DF4-0156-426F-82A5-29CD1C09457A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:13.7463010Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "include upper value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include upper value",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Facet/Facet/Minimum Number of Items",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A3AC1B8-8CC1-4DD4-8766-9803F1601741}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:09.5782914Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Minimum Number of Items",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Facet/Facet/Minimum Number of Items",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

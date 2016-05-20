@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Duration/StartDate",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD4720D7-9ED6-4438-959B-7B1C5C32C10B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:04.0804013Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "StartDate",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Duration/StartDate",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

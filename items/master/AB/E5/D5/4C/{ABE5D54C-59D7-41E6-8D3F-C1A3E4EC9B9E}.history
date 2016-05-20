@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Reminder date",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ABE5D54C-59D7-41E6-8D3F-C1A3E4EC9B9E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:32.1642781Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Reminder date",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tasks/Tasks/__Reminder date",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

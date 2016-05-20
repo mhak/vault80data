@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators/descending",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0260CED-4D4B-4FCC-92D4-BFC38EECF6B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:31.3292597Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "descending",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators/descending",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Resolve Item Name Based Path",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F091DB35-8784-44D7-A7FA-0729984188DF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:32.3546800Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Resolve Item Name Based Path",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Resolve Item Name Based Path",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

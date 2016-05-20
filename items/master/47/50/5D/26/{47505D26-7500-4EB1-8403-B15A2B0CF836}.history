@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gabon",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47505D26-7500-4EB1-8403-B15A2B0CF836}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:13.0900078Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Gabon",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Gabon",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

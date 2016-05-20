@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Content Editor Warnings/Actions",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7915E95-EC30-479F-9C5F-503A8CEAFBD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:21.7713318Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Actions",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Content Editor Warnings/Actions",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

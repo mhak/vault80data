@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Checkbox",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{861F1312-64F9-49E3-8880-8FA1082F98AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:04.1867919Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Checkbox",
+    "itemPath": "/sitecore/templates/System/Menus/Menu item/Data/Checkbox",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

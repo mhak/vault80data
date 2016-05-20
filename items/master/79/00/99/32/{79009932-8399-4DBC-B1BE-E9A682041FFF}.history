@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jersey",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{79009932-8399-4DBC-B1BE-E9A682041FFF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:17.1427371Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Jersey",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jersey",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

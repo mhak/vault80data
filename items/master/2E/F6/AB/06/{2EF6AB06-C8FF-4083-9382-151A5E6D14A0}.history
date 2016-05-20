@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-CDs",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2EF6AB06-C8FF-4083-9382-151A5E6D14A0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:13.6018198Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personal-CDs",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-CDs",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

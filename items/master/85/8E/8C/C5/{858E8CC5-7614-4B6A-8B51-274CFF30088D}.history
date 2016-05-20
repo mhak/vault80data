@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy/Item Level",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{858E8CC5-7614-4B6A-8B51-274CFF30088D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:48.4328838Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Level",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy/Item Level",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

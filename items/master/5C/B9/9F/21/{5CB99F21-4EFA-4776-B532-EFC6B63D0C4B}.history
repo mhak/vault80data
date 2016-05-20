@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Indexing and Search/Item Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CB99F21-4EFA-4776-B532-EFC6B63D0C4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:45.3107054Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Indexing and Search/Item Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

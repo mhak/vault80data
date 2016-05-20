@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{80BF814A-E84B-4544-9A48-6BFC467617AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:54.9809744Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MongoDb",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MongoDb",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

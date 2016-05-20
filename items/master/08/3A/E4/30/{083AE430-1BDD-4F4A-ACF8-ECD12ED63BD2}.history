@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{083AE430-1BDD-4F4A-ACF8-ECD12ED63BD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:25.8771168Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Macros",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

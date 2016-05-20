@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Validation Action",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{419F8FFB-2713-4CEC-86A7-7585A727FE25}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:44.4534456Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Validation Action",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

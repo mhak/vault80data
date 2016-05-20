@@ -221,6 +221,22 @@
     "itemPath": "/sitecore/media library/Images",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{15451229-7534-44EF-815D-D93D6170BFCB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:37.9484253Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Images",
+    "itemPath": "/sitecore/media library/Images",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]

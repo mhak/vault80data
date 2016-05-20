@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B37C44BB-AB02-4DB1-AC5B-E0A28D47184F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:49.0265285Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Ribbon",
+    "itemPath": "/sitecore/templates/System/Ribbon",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Proxies/Proxy type",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EAE2BB8-F01C-44F9-9877-6431C7DD7C9E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:22.1487954Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Proxy type",
+    "itemPath": "/sitecore/system/Settings/Proxies/Proxy type",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

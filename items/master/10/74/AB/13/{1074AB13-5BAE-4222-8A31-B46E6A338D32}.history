@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Profile",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1074AB13-5BAE-4222-8A31-B46E6A338D32}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:14.9337586Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Profile",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Profile",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

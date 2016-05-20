@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Channel/Current Interaction is on channel group condition",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{001BD3B4-A6CA-4C08-95A9-CC3D35A86974}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:33.4161811Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Current Interaction is on channel group condition",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Channel/Current Interaction is on channel group condition",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

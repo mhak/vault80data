@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Must be Upper Case/Upper Case",
     "commandType": "Item",
     "template": "Menu item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{97B180D4-DDA8-4C92-A237-882325BEB9D3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:02.1742668Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Upper Case",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Must be Upper Case/Upper Case",
+    "commandType": "Item",
+    "template": "Menu item",
     "sourceControlRevisionId": null
   }
 ]

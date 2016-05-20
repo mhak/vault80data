@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register failed",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D98AAED9-CF5F-41D6-8A6E-109F60F1E950}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:37.9474333Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Register failed",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Register failed",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Social/Applications",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7D1340C0-7C54-4437-BF3D-E1D65C2EC661}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:08.5978885Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Applications",
+    "itemPath": "/sitecore/system/Social/Applications",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

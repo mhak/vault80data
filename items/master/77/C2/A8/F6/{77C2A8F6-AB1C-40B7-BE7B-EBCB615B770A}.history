@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Value/Data/Datasource",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77C2A8F6-AB1C-40B7-BE7B-EBCB615B770A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:30.4455072Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Datasource",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Multivariate Test Value/Data/Datasource",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

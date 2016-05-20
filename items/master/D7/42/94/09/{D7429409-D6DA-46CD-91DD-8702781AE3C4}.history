@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Social/Networks/Facebook",
     "commandType": "Item",
     "template": "Network",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7429409-D6DA-46CD-91DD-8702781AE3C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:09.2853689Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/system/Social/Networks/Facebook",
+    "commandType": "Item",
+    "template": "Network",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Referrers",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F10A77EC-071A-4562-9B61-24FCB3019378}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:23.7082925Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referrers",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Referrers",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Engagement Automation/Visibility",
     "commandType": "Item",
     "template": "Visibility",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62B886B7-09B2-44EE-85AF-86898C9A30D4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:40.7091457Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visibility",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Engagement Automation/Visibility",
+    "commandType": "Item",
+    "template": "Visibility",
     "sourceControlRevisionId": null
   }
 ]

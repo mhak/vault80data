@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business Banking Title",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1EBB1D8C-5696-47E3-BA62-A0E4C692A4D6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:05.5226161Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business Banking Title",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business Banking Title",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

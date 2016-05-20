@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Random",
     "commandType": "Item",
     "template": "Multivariate Test Strategy",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CFCFC60-F4BA-4876-8824-A2659DD4030D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:34.1529764Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Random",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies/Random",
+    "commandType": "Item",
+    "template": "Multivariate Test Strategy",
     "sourceControlRevisionId": null
   }
 ]

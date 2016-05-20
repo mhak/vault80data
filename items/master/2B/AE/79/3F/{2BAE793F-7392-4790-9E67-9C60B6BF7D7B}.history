@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow",
     "commandType": "Item",
     "template": "Workflow",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BAE793F-7392-4790-9E67-9C60B6BF7D7B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:12.0968402Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Analytics Testing Workflow",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow",
+    "commandType": "Item",
+    "template": "Workflow",
     "sourceControlRevisionId": null
   }
 ]

@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Simulators/HD TV",
     "commandType": "Item",
     "template": "Simulator",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{69B47A34-D529-4245-90C0-0858C66582BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:33.6148980Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "HD TV",
+    "itemPath": "/sitecore/layout/Simulators/HD TV",
+    "commandType": "Item",
+    "template": "Simulator",
     "sourceControlRevisionId": null
   }
 ]

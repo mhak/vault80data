@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Color Picker",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC4B9F51-63D2-499B-9F13-C261906354C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:16.7892550Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Color Picker",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Color Picker",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social Community",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B869646E-F584-412F-8DC4-FC613451CA19}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:54.1604492Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social Community",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social Community",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

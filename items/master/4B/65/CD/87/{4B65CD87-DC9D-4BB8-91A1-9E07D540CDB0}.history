@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Average",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B65CD87-DC9D-4BB8-91A1-9E07D540CDB0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:40.2451197Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Average",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Average",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

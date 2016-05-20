@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/Fields",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9FF5A1CD-5E9E-4AFB-B30D-FEAD645A3D8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:55.3781447Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Fields",
+    "itemPath": "/sitecore/templates/System/Services/Item Service/Search/Search Definition/Data/Fields",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

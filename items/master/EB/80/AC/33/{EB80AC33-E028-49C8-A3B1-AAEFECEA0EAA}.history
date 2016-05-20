@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB80AC33-E028-49C8-A3B1-AAEFECEA0EAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T18:59:57.5462934Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "My-Banking2",
+    "itemPath": "/sitecore/content/Home/My-Banking2",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

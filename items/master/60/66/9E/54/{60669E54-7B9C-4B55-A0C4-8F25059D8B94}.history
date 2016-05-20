@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Language/Data/Dictionary",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60669E54-7B9C-4B55-A0C4-8F25059D8B94}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:14.8068726Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dictionary",
+    "itemPath": "/sitecore/templates/System/Language/Data/Dictionary",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

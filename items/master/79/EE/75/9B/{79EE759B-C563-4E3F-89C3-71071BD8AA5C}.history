@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{79EE759B-C563-4E3F-89C3-71071BD8AA5C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:49.1231447Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ExpEditor",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

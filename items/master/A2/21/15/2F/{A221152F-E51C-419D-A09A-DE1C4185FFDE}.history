@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Share Buttons",
     "commandType": "Item",
     "template": "Campaign",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A221152F-E51C-419D-A09A-DE1C4185FFDE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:15.6989866Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Twitter Share Buttons",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Share Buttons",
+    "commandType": "Item",
+    "template": "Campaign",
     "sourceControlRevisionId": null
   }
 ]

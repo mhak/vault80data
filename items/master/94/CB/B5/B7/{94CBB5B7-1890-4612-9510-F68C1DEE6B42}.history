@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/List Manager/Contact List/Data/PredefinedSourceType",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94CBB5B7-1890-4612-9510-F68C1DEE6B42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:43.5891176Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PredefinedSourceType",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/PredefinedSourceType",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Djibouti",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BE61D33-A4BD-4209-AE38-4E7BE5650740}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:11.0578347Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Djibouti",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Djibouti",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

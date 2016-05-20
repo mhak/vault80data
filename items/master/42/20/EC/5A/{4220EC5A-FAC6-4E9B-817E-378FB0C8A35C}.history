@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Bad Pages/Visits",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4220EC5A-FAC6-4E9B-817E-378FB0C8A35C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:04.2680857Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Bad Pages/Visits",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

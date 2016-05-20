@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Item Buckets/Item Buckets",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8CD28288-DAFB-439B-B9B0-F33044794D6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:27.0805166Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Buckets",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Item Buckets/Item Buckets",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

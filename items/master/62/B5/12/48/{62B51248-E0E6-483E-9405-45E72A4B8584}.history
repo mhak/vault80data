@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Matching/Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62B51248-E0E6-483E-9405-45E72A4B8584}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:44.0936418Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Federated Experience Manager - Domain Matching/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

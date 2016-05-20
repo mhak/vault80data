@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Calculate Statistical Relevancy",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6A79C206-0CD2-4DDD-9DFF-5BF21E002931}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:10.1971317Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Calculate Statistical Relevancy",
+    "itemPath": "/sitecore/system/Tasks/Commands/Content Testing/Calculate Statistical Relevancy",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/ends with",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{22E1F05F-A17A-4D0C-B376-6F7661500F03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:32.3215900Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ends with",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/ends with",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

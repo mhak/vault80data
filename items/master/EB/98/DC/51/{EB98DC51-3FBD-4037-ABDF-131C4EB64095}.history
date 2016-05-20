@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-bing-search",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB98DC51-3FBD-4037-ABDF-131C4EB64095}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:45.1985300Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-bing-search",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-bing-search",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

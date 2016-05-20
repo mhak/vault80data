@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Custom",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5BE1E6C7-2900-42BC-B381-67C55BEFA18B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:09.0335165Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Custom",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Custom",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

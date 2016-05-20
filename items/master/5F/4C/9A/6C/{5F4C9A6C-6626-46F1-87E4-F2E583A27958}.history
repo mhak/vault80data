@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Niger",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F4C9A6C-6626-46F1-87E4-F2E583A27958}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:22.8381657Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Niger",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Niger",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

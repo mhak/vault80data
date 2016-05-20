@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/OrderByOperator",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC4C0089-BD10-4411-8BE0-6E2A0929443E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:14.6095423Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "OrderByOperator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/OrderByOperator",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

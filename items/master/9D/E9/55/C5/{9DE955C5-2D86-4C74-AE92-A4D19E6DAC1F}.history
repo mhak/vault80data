@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Page - Goals and Events",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9DE955C5-2D86-4C74-AE92-A4D19E6DAC1F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:59.2443847Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page - Goals and Events",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Page - Goals and Events",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

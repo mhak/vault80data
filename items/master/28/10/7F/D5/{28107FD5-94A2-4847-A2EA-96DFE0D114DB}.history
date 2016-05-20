@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Blog",
     "commandType": "Item",
     "template": "Traffic Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{28107FD5-94A2-4847-A2EA-96DFE0D114DB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:53.5431349Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referred - Blog",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Referred - Blog",
+    "commandType": "Item",
+    "template": "Traffic Type",
     "sourceControlRevisionId": null
   }
 ]

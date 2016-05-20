@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Workflows/Final Workflow State",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10C40F12-C2D6-4540-92B9-D4957A1EDBE0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:11.3949896Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Final Workflow State",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Workflows/Final Workflow State",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

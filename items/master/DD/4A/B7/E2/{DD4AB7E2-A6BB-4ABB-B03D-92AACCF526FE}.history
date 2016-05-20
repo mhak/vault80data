@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Item Deleted",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD4AB7E2-A6BB-4ABB-B03D-92AACCF526FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:17.4786916Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Deleted",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Item Deleted",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

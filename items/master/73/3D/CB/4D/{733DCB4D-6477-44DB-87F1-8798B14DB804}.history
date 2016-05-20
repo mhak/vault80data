@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Only Evaluate for Subscribed Events",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{733DCB4D-6477-44DB-87F1-8798B14DB804}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:34.0042648Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Only Evaluate for Subscribed Events",
+    "itemPath": "/sitecore/system/Settings/Analytics/Marketing Automation Evaluation/Only Evaluate for Subscribed Events",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

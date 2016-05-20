@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Has Email",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{10DC9B65-3C17-43BA-ABD1-5A5A0DE7FE7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:57.4884769Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Has Email",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/Has Email",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

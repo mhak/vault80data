@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Page with disclosure in name",
     "commandType": "Item",
     "template": "Disclosure Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{829FA896-C1D3-4B04-A437-D026DA66BA47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:02.2356193Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page with disclosure in name",
+    "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Page with disclosure in name",
+    "commandType": "Item",
+    "template": "Disclosure Item",
     "sourceControlRevisionId": null
   }
 ]

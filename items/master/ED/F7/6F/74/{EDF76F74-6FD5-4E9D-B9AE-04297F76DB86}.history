@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/France Metropolitan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EDF76F74-6FD5-4E9D-B9AE-04297F76DB86}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:12.6564393Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "France Metropolitan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/France Metropolitan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

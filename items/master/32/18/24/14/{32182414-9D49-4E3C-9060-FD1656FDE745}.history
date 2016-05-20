@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Settings/Editor/SettingsEditorTitle",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32182414-9D49-4E3C-9060-FD1656FDE745}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:45.5500730Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "SettingsEditorTitle",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Settings/Editor/SettingsEditorTitle",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

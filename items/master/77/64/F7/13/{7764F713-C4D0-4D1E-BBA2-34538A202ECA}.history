@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages Visits",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7764F713-C4D0-4D1E-BBA2-34538A202ECA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:43.7384430Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Pages Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Pages Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

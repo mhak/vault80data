@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Resolve Create Date Based Path",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9EDB000-4C7C-4770-AD29-BEC226213AFC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:32.1506309Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Resolve Create Date Based Path",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing/Resolve Create Date Based Path",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

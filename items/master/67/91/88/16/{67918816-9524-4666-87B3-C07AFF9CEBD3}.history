@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Role Name",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67918816-9524-4666-87B3-C07AFF9CEBD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:45.2893809Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Role Name",
+    "itemPath": "/sitecore/templates/System/Workflow/Auto Submit Action/Data/Role Name",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

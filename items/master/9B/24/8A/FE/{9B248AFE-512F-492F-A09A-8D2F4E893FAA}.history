@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Valid From Valid To Date Range",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B248AFE-512F-492F-A09A-8D2F4E893FAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:07.0694965Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Valid From Valid To Date Range",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Item/Valid From Valid To Date Range",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

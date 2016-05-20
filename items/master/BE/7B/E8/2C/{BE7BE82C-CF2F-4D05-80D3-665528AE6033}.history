@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visitors Classification",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE7BE82C-CF2F-4D05-80D3-665528AE6033}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:45.6945486Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visitors Classification",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Visitors Classification",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

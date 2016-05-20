@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Layouts/System/App Center Sync/App Center Placeholder/App Center Placeholder Layout",
     "commandType": "Item",
     "template": "Layout",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{599E02ED-D6AB-4F87-9542-34F6C39F5D15}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:19.5697082Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "App Center Placeholder Layout",
+    "itemPath": "/sitecore/layout/Layouts/System/App Center Sync/App Center Placeholder/App Center Placeholder Layout",
+    "commandType": "Item",
+    "template": "Layout",
     "sourceControlRevisionId": null
   }
 ]

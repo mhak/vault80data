@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Analytics Campaigns",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{229BADDC-59D2-4294-BF2A-08E5B2BF6B29}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:45.8585661Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Analytics Campaigns",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Analytics Campaigns",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

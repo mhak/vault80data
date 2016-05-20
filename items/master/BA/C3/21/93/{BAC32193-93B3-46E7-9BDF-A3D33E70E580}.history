@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Song Title",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAC32193-93B3-46E7-9BDF-A3D33E70E580}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:02.3664563Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Song Title",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Song Title",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

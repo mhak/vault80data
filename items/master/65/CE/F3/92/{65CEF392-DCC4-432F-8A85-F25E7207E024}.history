@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/UK",
     "commandType": "Item",
     "template": "Predefined Filter Value",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65CEF392-DCC4-432F-8A85-F25E7207E024}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:39.8683495Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "UK",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country/UK",
+    "commandType": "Item",
+    "template": "Predefined Filter Value",
     "sourceControlRevisionId": null
   }
 ]

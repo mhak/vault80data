@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6768BE32-A142-4BA4-A02F-01D810FBF7FE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:28.2277538Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Maps",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

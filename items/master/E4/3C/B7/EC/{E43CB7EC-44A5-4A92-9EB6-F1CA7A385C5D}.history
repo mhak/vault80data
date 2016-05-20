@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Remove Tests Action",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E43CB7EC-44A5-4A92-9EB6-F1CA7A385C5D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:36.7756036Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Remove Tests Action",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Remove Tests Action",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

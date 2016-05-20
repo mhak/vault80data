@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tuvalu",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FEBD913-CEC8-43EE-9911-4B2CEC124646}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:30.9495394Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tuvalu",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tuvalu",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

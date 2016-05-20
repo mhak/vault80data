@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Indonesia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DC67C5C0-17F2-4022-9CA2-913A26ABF456}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:16.1749700Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Indonesia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Indonesia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Home/Disclosure1",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{564DB132-02A4-49CA-BCBD-62B9AA42ED88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T18:59:56.3991108Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Disclosure1",
+    "itemPath": "/sitecore/content/Home/Disclosure1",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

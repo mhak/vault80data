@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Tag Repository/Repository Details/Enabled",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{11D1D923-00F9-4CB4-BDD9-421FB11C47C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:13.1322073Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Enabled",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Tag Repository/Repository Details/Enabled",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

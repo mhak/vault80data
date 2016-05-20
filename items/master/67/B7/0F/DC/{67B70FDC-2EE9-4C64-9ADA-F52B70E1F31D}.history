@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Banking Overview",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67B70FDC-2EE9-4C64-9ADA-F52B70E1F31D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:04.8019209Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Banking Overview",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Banking Overview",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

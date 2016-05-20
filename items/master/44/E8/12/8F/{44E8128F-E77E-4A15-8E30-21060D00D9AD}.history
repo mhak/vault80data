@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow",
     "commandType": "Item",
     "template": "Template Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44E8128F-E77E-4A15-8E30-21060D00D9AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:27.8992822Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow",
+    "commandType": "Item",
+    "template": "Template Folder",
     "sourceControlRevisionId": null
   }
 ]

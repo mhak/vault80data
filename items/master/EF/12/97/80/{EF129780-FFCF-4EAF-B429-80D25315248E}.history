@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email/By Email Manager",
     "commandType": "Item",
     "template": "Dimension",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF129780-FFCF-4EAF-B429-80D25315248E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:16.6506506Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "By Email Manager",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Email/By Email Manager",
+    "commandType": "Item",
+    "template": "Dimension",
     "sourceControlRevisionId": null
   }
 ]

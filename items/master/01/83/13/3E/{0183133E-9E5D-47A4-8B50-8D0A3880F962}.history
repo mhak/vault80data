@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Menus",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0183133E-9E5D-47A4-8B50-8D0A3880F962}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:47.5730778Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Menus",
+    "itemPath": "/sitecore/templates/System/Menus",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

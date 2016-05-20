@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EB8D187-5BB9-4F2C-B10D-1F8035CAF240}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:27.6154282Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Date",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

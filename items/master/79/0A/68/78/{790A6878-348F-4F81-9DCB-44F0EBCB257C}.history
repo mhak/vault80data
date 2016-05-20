@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/MVC Controllers",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{790A6878-348F-4F81-9DCB-44F0EBCB257C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:46.9210877Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MVC Controllers",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/MVC Controllers",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

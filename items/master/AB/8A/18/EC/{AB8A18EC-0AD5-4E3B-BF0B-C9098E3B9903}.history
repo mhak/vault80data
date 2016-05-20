@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include lower value",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB8A18EC-0AD5-4E3B-BF0B-C9098E3B9903}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:13.5900387Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "include lower value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Inclusion Operators/include lower value",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

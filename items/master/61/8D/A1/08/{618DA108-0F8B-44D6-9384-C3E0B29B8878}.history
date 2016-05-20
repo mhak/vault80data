@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Simulators/Windows Phone",
     "commandType": "Item",
     "template": "Simulator",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{618DA108-0F8B-44D6-9384-C3E0B29B8878}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:34.0540552Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Windows Phone",
+    "itemPath": "/sitecore/layout/Simulators/Windows Phone",
+    "commandType": "Item",
+    "template": "Simulator",
     "sourceControlRevisionId": null
   }
 ]

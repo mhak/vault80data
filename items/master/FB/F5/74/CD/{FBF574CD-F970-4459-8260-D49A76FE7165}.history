@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Overview/Business Overview",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FBF574CD-F970-4459-8260-D49A76FE7165}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:04.3926661Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business Overview",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Business Overview/Business Overview",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

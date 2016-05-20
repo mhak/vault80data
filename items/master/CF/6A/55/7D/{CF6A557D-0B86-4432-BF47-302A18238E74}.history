@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/Submit",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CF6A557D-0B86-4432-BF47-302A18238E74}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:15.6496180Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Submit",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/Submit",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

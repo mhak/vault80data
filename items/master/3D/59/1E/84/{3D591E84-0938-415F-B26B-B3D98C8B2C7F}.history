@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Is in Engagement Plan",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3D591E84-0938-415F-B26B-B3D98C8B2C7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:28.9768065Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is in Engagement Plan",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Is in Engagement Plan",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

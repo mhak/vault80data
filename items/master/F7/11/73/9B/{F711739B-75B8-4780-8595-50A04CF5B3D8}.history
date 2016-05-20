@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu",
     "commandType": "Item",
     "template": "Banking Menu",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F711739B-75B8-4780-8595-50A04CF5B3D8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:00.9495313Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personal Banking Menu",
+    "itemPath": "/sitecore/content/Global/Banking Settings/Personal Banking Menu",
+    "commandType": "Item",
+    "template": "Banking Menu",
     "sourceControlRevisionId": null
   }
 ]

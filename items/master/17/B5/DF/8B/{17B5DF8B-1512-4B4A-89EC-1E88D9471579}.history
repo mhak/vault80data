@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Oman",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{17B5DF8B-1512-4B4A-89EC-1E88D9471579}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:23.5616873Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Oman",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Oman",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

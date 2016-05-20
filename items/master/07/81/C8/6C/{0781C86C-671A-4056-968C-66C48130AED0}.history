@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Alt Required",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0781C86C-671A-4056-968C-66C48130AED0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:59.1915632Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Alt Required",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Alt Required",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

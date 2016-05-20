@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Information/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ECAE40DA-91E0-4BF6-9452-B4BE916A0677}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:49.4602009Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Information/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

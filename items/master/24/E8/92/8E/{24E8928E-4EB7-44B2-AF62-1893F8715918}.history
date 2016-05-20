@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy/Ancestor or Self",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24E8928E-4EB7-44B2-AF62-1893F8715918}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:48.2278622Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Ancestor or Self",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy/Ancestor or Self",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

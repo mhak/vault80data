@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Every Page",
     "commandType": "Item",
     "template": "Disclosure Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{86EBC5CB-DC70-4252-A1A8-17E288D95B96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:02.0187619Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Every Page",
+    "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Every Page",
+    "commandType": "Item",
+    "template": "Disclosure Item",
     "sourceControlRevisionId": null
   }
 ]

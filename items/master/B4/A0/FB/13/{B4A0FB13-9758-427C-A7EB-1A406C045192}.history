@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Renderings/System/WebEdit",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4A0FB13-9758-427C-A7EB-1A406C045192}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:23.4964952Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "WebEdit",
+    "itemPath": "/sitecore/layout/Renderings/System/WebEdit",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

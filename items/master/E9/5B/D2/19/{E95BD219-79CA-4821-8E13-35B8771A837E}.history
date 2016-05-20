@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Klout Score",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E95BD219-79CA-4821-8E13-35B8771A837E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:02.3302881Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Klout Score",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Klout Score",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

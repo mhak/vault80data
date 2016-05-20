@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost Base",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4533AAD8-B0D5-443D-9315-B2D06B56BC48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:04.4689168Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cost Base",
+    "itemPath": "/sitecore/templates/System/Analytics/Campaign/Cost/Cost Base",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

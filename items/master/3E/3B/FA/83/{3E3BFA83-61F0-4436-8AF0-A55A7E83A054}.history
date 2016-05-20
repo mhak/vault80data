@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lithuania",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3E3BFA83-61F0-4436-8AF0-A55A7E83A054}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:19.1292946Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Lithuania",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Lithuania",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Campaigns Categories/Campaign Search Keywords/ByDay",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{29D1F26E-DCA2-4ABD-A0FD-6F9C8CB475BC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:58.5451000Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ByDay",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Campaigns Categories/Campaign Search Keywords/ByDay",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

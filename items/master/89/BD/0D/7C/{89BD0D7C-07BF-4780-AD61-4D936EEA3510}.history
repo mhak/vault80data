@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Method Rendering/$name",
     "commandType": "Item",
     "template": "Method Rendering",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{89BD0D7C-07BF-4780-AD61-4D936EEA3510}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:29.3889578Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Method Rendering/$name",
+    "commandType": "Item",
+    "template": "Method Rendering",
     "sourceControlRevisionId": null
   }
 ]

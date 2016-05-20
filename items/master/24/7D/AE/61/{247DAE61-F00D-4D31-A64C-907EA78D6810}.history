@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MSSQL",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{247DAE61-F00D-4D31-A64C-907EA78D6810}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:55.0951814Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MSSQL",
+    "itemPath": "/sitecore/system/Settings/Analytics/Vendor Specific Filters/MSSQL",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

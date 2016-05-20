@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information/Device",
     "commandType": "Item",
     "template": "Control",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FD59DF07-5B0F-4DAC-B132-93CB217C2393}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:50.2747008Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Device",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Visitor Information/Device",
+    "commandType": "Item",
+    "template": "Control",
     "sourceControlRevisionId": null
   }
 ]

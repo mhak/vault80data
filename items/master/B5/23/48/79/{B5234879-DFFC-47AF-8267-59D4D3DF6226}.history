@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Paid Search/Other ads",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5234879-DFFC-47AF-8267-59D4D3DF6226}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:00.1556351Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Other ads",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Paid Search/Other ads",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-catalogue",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0DE9CD4F-D0A0-44FE-A9D4-741D08B88F47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:45.5431389Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-catalogue",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-catalogue",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

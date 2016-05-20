@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Device/Viewer",
     "commandType": "Item",
     "template": "Dictionary folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6201B681-3DFC-4ECD-B1AD-32D1CAC1C388}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:15.3331714Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Viewer",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Device/Viewer",
+    "commandType": "Item",
+    "template": "Dictionary folder",
     "sourceControlRevisionId": null
   }
 ]

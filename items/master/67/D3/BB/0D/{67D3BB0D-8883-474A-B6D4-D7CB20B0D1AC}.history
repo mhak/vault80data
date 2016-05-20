@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Conditional Renderings",
     "commandType": "Item",
     "template": "Tag",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{67D3BB0D-8883-474A-B6D4-D7CB20B0D1AC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:32.7570009Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Conditional Renderings",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Tags/Conditional Renderings",
+    "commandType": "Item",
+    "template": "Tag",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Contact Classification",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{058AA3D0-0749-47FA-9908-EE93A5233203}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:00.0157850Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Contact Classification",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/Contact Classification",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

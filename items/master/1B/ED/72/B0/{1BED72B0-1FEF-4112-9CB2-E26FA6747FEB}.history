@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Resources/Giveaways",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BED72B0-1FEF-4112-9CB2-E26FA6747FEB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:09.1552158Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Giveaways",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Resources/Giveaways",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

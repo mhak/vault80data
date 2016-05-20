@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/Auto Publish",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F4C23B39-27A6-4D14-AF0F-0BC17040B1BA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:13.6545619Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Auto Publish",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/Auto Publish",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

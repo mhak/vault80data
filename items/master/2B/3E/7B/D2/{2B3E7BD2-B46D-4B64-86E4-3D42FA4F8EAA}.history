@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Add to Favorites",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2B3E7BD2-B46D-4B64-86E4-3D42FA4F8EAA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:12.5857063Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Add to Favorites",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Add to Favorites",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

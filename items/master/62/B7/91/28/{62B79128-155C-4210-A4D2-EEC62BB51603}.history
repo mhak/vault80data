@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{62B79128-155C-4210-A4D2-EEC62BB51603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:15.7807000Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__OnSave",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Draft/__OnSave",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

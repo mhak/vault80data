@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Common Mistakes",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{512C1C49-5AD2-4AE7-BEC6-0CE9F1A9932A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:02.0822741Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Common Mistakes",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Common Mistakes",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

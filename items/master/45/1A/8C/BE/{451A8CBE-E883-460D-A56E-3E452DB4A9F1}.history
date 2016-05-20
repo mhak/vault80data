@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Remove Tests Action/Settings/Delete Test Definition",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{451A8CBE-E883-460D-A56E-3E452DB4A9F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:39.2463098Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Delete Test Definition",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Workflow/Remove Tests Action/Settings/Delete Test Definition",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

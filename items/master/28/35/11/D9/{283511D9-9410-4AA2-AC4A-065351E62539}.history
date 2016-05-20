@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Session end",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{283511D9-9410-4AA2-AC4A-065351E62539}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:38.6730185Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Session end",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Session end",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

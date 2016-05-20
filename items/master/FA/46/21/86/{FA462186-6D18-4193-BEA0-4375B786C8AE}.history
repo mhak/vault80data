@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/RSS",
     "commandType": "Item",
     "template": "Traffic Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA462186-6D18-4193-BEA0-4375B786C8AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:54.4504793Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "RSS",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/RSS",
+    "commandType": "Item",
+    "template": "Traffic Type",
     "sourceControlRevisionId": null
   }
 ]

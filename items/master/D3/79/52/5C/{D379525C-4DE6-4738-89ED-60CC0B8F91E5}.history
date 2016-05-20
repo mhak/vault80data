@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Campaign was Triggered",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D379525C-4DE6-4738-89ED-60CC0B8F91E5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:07.3157859Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign was Triggered",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Campaign was Triggered",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

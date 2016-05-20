@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/DMS",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3071A91E-77BA-40BC-929B-58E1E8205281}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:00.6125010Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "DMS",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Flow Type/DMS",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

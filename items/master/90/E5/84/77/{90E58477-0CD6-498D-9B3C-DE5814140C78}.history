@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder/FDA",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{90E58477-0CD6-498D-9B3C-DE5814140C78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:43.3088663Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "FDA",
+    "itemPath": "/sitecore/templates/System/WebDAV/FDAMediaFolder/FDA",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Lists/Contact Reason",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8A248B91-2B9E-4C93-94E8-FE5735348635}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:11.9181969Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Contact Reason",
+    "itemPath": "/sitecore/content/Global/Lists/Contact Reason",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

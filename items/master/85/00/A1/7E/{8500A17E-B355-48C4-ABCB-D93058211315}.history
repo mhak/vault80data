@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-mobile-app",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8500A17E-B355-48C4-ABCB-D93058211315}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:50.2512409Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-mobile-app",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-mobile-app",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

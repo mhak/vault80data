@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country",
     "commandType": "Item",
     "template": "Filter",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{582C9DD5-8E92-4B15-873F-CB8AE43B867E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:37.0226266Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Country",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Analytics Filters/Report Filters/Country",
+    "commandType": "Item",
+    "template": "Filter",
     "sourceControlRevisionId": null
   }
 ]

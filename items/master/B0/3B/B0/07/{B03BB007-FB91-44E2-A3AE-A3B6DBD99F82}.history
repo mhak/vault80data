@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Activity - Unclassified",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B03BB007-FB91-44E2-A3AE-A3B6DBD99F82}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:44.6183322Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Top Leads By Activity - Unclassified",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Leads By Activity - Unclassified",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

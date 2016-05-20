@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Somalia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{501EDCEF-3588-4EBD-B1A0-2C1AE44D4607}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:27.9903999Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Somalia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Somalia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

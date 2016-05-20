@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Referral/Other referrals",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44DD9FF5-44B2-4C59-8DF8-849E400F4B6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:00.9065566Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Other referrals",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Referral/Other referrals",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

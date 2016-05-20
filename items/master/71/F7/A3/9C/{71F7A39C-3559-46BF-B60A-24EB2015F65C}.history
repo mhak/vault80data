@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Search Keyword/All visits By Search Keyword",
     "commandType": "Item",
     "template": "Segment",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71F7A39C-3559-46BF-B60A-24EB2015F65C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:23.2023346Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "All visits By Search Keyword",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Search Keyword/All visits By Search Keyword",
+    "commandType": "Item",
+    "template": "Segment",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules/Workflow",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAE1F484-EFFA-4F4D-910E-0180FB8B53C5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:39.4288729Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Workflow",
+    "itemPath": "/sitecore/templates/System/Validation/Field Type Validation Rules/Validation Rules/Workflow",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

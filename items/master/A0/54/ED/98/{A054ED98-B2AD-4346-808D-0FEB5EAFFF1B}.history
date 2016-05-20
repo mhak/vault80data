@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contacts In State",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A054ED98-B2AD-4346-808D-0FEB5EAFFF1B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:41.0734699Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Contacts In State",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Contacts In State",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

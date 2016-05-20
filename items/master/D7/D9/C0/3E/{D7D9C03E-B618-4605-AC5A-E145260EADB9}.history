@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7D9C03E-B618-4605-AC5A-E145260EADB9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:26.1837781Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Order By Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Order By Operators",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

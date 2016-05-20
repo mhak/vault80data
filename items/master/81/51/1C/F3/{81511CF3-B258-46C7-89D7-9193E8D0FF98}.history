@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook",
     "commandType": "Item",
     "template": "Campaign Category",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81511CF3-B258-46C7-89D7-9193E8D0FF98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:12.8820294Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook",
+    "commandType": "Item",
+    "template": "Campaign Category",
     "sourceControlRevisionId": null
   }
 ]

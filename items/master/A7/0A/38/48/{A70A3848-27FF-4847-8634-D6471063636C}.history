@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Goals",
     "commandType": "Item",
     "template": "MapGroup",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A70A3848-27FF-4847-8634-D6471063636C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:29.0540094Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Goals",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Maps/Path Experience Maps/Goals",
+    "commandType": "Item",
+    "template": "MapGroup",
     "sourceControlRevisionId": null
   }
 ]

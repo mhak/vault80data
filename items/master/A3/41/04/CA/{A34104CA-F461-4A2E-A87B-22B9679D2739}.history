@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Maps Coordinates",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A34104CA-F461-4A2E-A87B-22B9679D2739}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:42.7746077Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Organization Maps Coordinates",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Maps Coordinates",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Benin",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{27BE440A-4803-4FD4-A0CC-F6DA87C4DCA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:06.5890774Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Benin",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Benin",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

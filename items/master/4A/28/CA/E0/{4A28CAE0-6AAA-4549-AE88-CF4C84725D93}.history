@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/__Layout Preset/$name",
     "commandType": "Item",
     "template": "Layout Preset",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4A28CAE0-6AAA-4549-AE88-CF4C84725D93}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:30.3235931Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/__Layout Preset/$name",
+    "commandType": "Item",
+    "template": "Layout Preset",
     "sourceControlRevisionId": null
   }
 ]

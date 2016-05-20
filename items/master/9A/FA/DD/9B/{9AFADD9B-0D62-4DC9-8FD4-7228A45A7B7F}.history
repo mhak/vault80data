@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Newsletter Removed",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AFADD9B-0D62-4DC9-8FD4-7228A45A7B7F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:57.1506367Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Newsletter Removed",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Newsletter Removed",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

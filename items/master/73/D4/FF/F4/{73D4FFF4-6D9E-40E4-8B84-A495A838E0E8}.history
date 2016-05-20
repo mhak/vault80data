@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Simulators/Feature Phone",
     "commandType": "Item",
     "template": "Simulator",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{73D4FFF4-6D9E-40E4-8B84-A495A838E0E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:33.4555291Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Feature Phone",
+    "itemPath": "/sitecore/layout/Simulators/Feature Phone",
+    "commandType": "Item",
+    "template": "Simulator",
     "sourceControlRevisionId": null
   }
 ]

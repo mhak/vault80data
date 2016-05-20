@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mongolia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B52F80C1-0B2E-4E31-A6A1-2FD9846C9856}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:21.2433351Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Mongolia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mongolia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/SMS Campaigns/SMS sent",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FC3C8ED-0F72-45BF-BFC6-36F6F9193F60}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:02.2050392Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "SMS sent",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/SMS Campaigns/SMS sent",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

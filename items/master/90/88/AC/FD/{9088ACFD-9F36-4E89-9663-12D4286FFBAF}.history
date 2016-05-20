@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Media/Media Size Too Big",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9088ACFD-9F36-4E89-9663-12D4286FFBAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:07.3937196Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Media Size Too Big",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Media/Media Size Too Big",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

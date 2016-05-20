@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Campaigns/Viewer/CampaignsViewerDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2FBE7F13-B909-41B9-8C28-54C25647D000}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:13.5294544Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "CampaignsViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Campaigns/Viewer/CampaignsViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

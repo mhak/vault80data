@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Eritrea",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4E5AB7CA-FB40-49BD-849E-7BFF28BB16F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:11.7218783Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Eritrea",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Eritrea",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

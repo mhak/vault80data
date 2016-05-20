@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Palestinian Territory",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2F587046-DDC6-4C38-AC92-BF847940233A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:24.0529293Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Palestinian Territory",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Palestinian Territory",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

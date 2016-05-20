@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Scheduling/MinDuration",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A023B285-3FF4-423C-B6D2-AEB6F7993F70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:34.3722713Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MinDuration",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Scheduling/MinDuration",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

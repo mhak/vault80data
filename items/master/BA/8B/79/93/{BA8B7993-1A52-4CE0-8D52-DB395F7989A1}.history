@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Event/Customer events hospitality",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BA8B7993-1A52-4CE0-8D52-DB395F7989A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:07.4614491Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Customer events hospitality",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Event/Customer events hospitality",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

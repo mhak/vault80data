@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Tags/Remove Tags",
     "commandType": "Item",
     "template": "Menu item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{06BB0352-BB3E-4586-8AEC-3E39E92B4F04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:02.4734663Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Remove Tags",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/No Tags/Remove Tags",
+    "commandType": "Item",
+    "template": "Menu item",
     "sourceControlRevisionId": null
   }
 ]

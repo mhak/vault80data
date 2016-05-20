@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Critical Error",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{202F2A2C-6274-467F-A9C8-3EC4585A3060}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:49.0881391Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Critical Error",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Critical Error",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Advertising/Print advertising",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFC249EF-3010-405F-80D4-D265F27BDDDB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:06.6869731Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Print advertising",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Advertising/Print advertising",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

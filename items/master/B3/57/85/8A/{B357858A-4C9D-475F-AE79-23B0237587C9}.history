@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jordan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B357858A-4C9D-475F-AE79-23B0237587C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:17.2491817Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Jordan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jordan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

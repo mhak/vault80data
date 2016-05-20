@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Automation State/Has Automation",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{610DAB8E-EC1E-4CA2-8D62-E9AAA9952171}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:24.1438730Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Has Automation",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Marketing Workflows/Conditions/Automation State/Has Automation",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

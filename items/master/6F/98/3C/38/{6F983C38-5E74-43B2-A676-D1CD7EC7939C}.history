@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/Watch List",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6F983C38-5E74-43B2-A676-D1CD7EC7939C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:33.7941149Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Watch List",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/Watch List",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

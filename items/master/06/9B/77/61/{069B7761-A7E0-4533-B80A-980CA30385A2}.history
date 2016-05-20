@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page Index",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{069B7761-A7E0-4533-B80A-980CA30385A2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:08.0490233Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page Index",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page Index",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

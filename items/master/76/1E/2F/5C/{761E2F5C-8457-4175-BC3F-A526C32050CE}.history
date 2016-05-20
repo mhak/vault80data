@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Longitude",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{761E2F5C-8457-4175-BC3F-A526C32050CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:44.8195606Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Longitude",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Longitude",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

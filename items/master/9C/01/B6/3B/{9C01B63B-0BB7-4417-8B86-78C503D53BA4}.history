@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Lists",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C01B63B-0BB7-4417-8B86-78C503D53BA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:00.5441119Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Lists",
+    "itemPath": "/sitecore/content/Global/Lists",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

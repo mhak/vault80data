@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C0DA66F8-4371-412B-B716-648DA4657459}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:14.5356549Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Initializing",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BCD8EB24-4D10-4A47-ACF8-64F93A0F3740}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:25.8215226Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Layouts",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

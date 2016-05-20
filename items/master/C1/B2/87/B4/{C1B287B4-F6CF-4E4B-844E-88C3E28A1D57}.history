@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Indexing",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1B287B4-F6CF-4E4B-844E-88C3E28A1D57}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:17.2179419Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Indexing",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Indexing",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

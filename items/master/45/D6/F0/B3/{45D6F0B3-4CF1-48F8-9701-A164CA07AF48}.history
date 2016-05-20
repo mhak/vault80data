@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{45D6F0B3-4CF1-48F8-9701-A164CA07AF48}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:56.1593702Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "IP",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/IP",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

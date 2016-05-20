@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Expired/Renew/Renew Account",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{47C49DE9-9789-4E1D-BECF-2137B490320E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:18.2912085Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Renew Account",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Expired/Renew/Renew Account",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

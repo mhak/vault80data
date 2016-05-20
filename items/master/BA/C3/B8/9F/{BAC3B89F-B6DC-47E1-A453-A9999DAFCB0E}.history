@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Preset/Viewer/PresetViewerFamily",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BAC3B89F-B6DC-47E1-A453-A9999DAFCB0E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:36.2517370Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PresetViewerFamily",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Preset/Viewer/PresetViewerFamily",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

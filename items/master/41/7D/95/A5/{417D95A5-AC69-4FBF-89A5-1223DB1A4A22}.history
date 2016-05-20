@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Properties/Dimensions",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{417D95A5-AC69-4FBF-89A5-1223DB1A4A22}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:59.4875681Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dimensions",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Flash/Properties/Dimensions",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

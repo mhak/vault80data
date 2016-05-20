@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Draft/Edit",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04D9DBC1-0C56-449D-8B52-459B397CF23D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:20.1701180Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Edit",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow/Draft/Edit",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

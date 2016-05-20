@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Portal/Portlet",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BEEBC988-14CE-441A-B9E2-2A38D6E4A87D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:20.9308297Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Portlet",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

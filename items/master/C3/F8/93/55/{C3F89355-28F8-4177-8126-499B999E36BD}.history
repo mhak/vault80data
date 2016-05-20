@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uruguay",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C3F89355-28F8-4177-8126-499B999E36BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:32.0392980Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Uruguay",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Uruguay",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

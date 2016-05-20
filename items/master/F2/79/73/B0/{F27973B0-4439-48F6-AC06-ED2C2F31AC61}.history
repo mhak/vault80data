@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F27973B0-4439-48F6-AC06-ED2C2F31AC61}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:36.9337600Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Month of Year",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

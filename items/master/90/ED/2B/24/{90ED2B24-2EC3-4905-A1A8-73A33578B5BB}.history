@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Sum",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{90ED2B24-2EC3-4905-A1A8-73A33578B5BB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:40.5558483Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sum",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Sum",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

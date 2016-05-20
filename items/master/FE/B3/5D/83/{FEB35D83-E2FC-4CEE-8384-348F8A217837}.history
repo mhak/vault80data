@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Validation/Set Validation Result",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FEB35D83-E2FC-4CEE-8384-348F8A217837}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:06.8148924Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Set Validation Result",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Validation/Set Validation Result",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

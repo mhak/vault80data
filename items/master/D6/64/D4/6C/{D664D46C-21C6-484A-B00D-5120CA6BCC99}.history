@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Spellcheck",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D664D46C-21C6-484A-B00D-5120CA6BCC99}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:57.6603169Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Spellcheck",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Spellcheck",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

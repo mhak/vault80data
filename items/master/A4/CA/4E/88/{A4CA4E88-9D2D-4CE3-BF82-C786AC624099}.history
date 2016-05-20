@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Slow Pages",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4CA4E88-9D2D-4CE3-BF82-C786AC624099}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:03.7619904Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Slow Pages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Slow Pages",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Goal Messages",
     "commandType": "Item",
     "template": "Campaign",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C621EB54-310C-4DA2-ABB0-6792212B510E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:15.5519525Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Twitter Goal Messages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Twitter/Twitter Goal Messages",
+    "commandType": "Item",
+    "template": "Campaign",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Conditional Renderings/Tags/Social",
     "commandType": "Item",
     "template": "Tags Definition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE313A6D-213C-4A2A-B90A-7ADBA362C395}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:43.3283127Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social",
+    "itemPath": "/sitecore/system/Settings/Rules/Conditional Renderings/Tags/Social",
+    "commandType": "Item",
+    "template": "Tags Definition",
     "sourceControlRevisionId": null
   }
 ]

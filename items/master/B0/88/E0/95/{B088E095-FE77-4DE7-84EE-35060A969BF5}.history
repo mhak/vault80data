@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/What Interests You",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B088E095-FE77-4DE7-84EE-35060A969BF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:07.2052269Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "What Interests You",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/What Interests You",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

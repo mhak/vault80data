@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Free Checking Campaign",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32618A77-4B6D-4FFE-BFC3-AE681BF4844B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:05.8372290Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Free Checking Campaign",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Free Checking Campaign",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Referral Information/Campaigns",
     "commandType": "Item",
     "template": "Control",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{23B8BA9D-F316-4FC9-B6B8-1A8AF701506D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:50.4884685Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpEditor/Referral Information/Campaigns",
+    "commandType": "Item",
+    "template": "Control",
     "sourceControlRevisionId": null
   }
 ]

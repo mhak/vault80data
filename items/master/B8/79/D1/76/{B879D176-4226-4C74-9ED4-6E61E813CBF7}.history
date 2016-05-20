@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps",
     "commandType": "Item",
     "template": "Workflow",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B879D176-4226-4C74-9ED4-6E61E813CBF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:12.3077863Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Path Analyzer Maps",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps",
+    "commandType": "Item",
+    "template": "Workflow",
     "sourceControlRevisionId": null
   }
 ]

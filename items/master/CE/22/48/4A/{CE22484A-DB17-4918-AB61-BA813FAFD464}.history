@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Form submitted",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE22484A-DB17-4918-AB61-BA813FAFD464}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:36.0636679Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Form submitted",
+    "itemPath": "/sitecore/system/Settings/Analytics/Page Events/Form submitted",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

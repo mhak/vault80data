@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Single",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C4960DD5-8B07-4025-8E48-57C3BC578CE1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:39.1901429Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Single",
+    "itemPath": "/sitecore/system/Settings/Analytics/Preset Types/Single",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

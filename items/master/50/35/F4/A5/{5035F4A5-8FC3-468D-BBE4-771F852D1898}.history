@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Statistics",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5035F4A5-8FC3-468D-BBE4-771F852D1898}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:49.8859039Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Test Statistics",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Statistics",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

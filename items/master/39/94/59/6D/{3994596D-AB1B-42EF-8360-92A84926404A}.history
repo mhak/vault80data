@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Percentage",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3994596D-AB1B-42EF-8360-92A84926404A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:40.4211655Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Percentage",
+    "itemPath": "/sitecore/system/Settings/Analytics/Profile Types/Percentage",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

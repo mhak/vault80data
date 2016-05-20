@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Toolbox/Renderings",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C25AB35-96B4-4DDC-BC9B-BCF63C667D23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:11.5334952Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Renderings",
+    "itemPath": "/sitecore/system/Toolbox/Renderings",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Wealth Overview",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E72148BA-9ED5-4434-AE71-BCEE1554091F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:09.1422591Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Wealth Overview",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Wealth Overview",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD987A31-A2EF-4309-B3FC-2060451694B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:28.4415690Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Reports",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

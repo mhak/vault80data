@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Page Editor",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32F344EE-3C38-4173-A0C4-7BE248A96C35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:13.8849429Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page Editor",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Page Editor",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

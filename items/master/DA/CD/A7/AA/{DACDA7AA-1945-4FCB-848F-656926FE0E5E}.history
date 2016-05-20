@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Path Analyzer/Duplicate Map",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DACDA7AA-1945-4FCB-848F-656926FE0E5E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:07.5392613Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Duplicate Map",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Path Analyzer/Duplicate Map",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

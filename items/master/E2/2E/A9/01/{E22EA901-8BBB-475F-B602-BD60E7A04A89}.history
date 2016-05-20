@@ -1261,6 +1261,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E22EA901-8BBB-475F-B602-BD60E7A04A89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:31.5696495Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "XCentium Vault",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Serialize Items",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{19A763F5-5540-4096-9CF6-43E79B678907}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:19.1720638Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Serialize Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Information Architecture/Serialize Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

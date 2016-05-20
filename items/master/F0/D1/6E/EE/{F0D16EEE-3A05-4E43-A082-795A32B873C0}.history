@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Condition",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0D16EEE-3A05-4E43-A082-795A32B873C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:40.4230708Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Condition",
+    "itemPath": "/sitecore/templates/System/Rules/Condition",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

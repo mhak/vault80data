@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Call to Action",
     "commandType": "Item",
     "template": "Profile Key",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9581F4A4-B83D-4F37-9814-59226398566F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:34.9806229Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Call to Action",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Function/Call to Action",
+    "commandType": "Item",
+    "template": "Profile Key",
     "sourceControlRevisionId": null
   }
 ]

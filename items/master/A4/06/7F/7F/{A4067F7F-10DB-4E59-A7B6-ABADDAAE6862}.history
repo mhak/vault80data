@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A4067F7F-10DB-4E59-A7B6-ABADDAAE6862}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:29.0023120Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Hierarchy",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Hierarchy",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

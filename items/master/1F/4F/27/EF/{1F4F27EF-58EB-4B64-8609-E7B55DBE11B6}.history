@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Common/Conditions/Attributes",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F4F27EF-58EB-4B64-8609-E7B55DBE11B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:19.3361947Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Attributes",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Common/Conditions/Attributes",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

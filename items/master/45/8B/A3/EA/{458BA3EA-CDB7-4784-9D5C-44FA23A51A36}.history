@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Western Sahara",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{458BA3EA-CDB7-4784-9D5C-44FA23A51A36}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:33.1956581Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Western Sahara",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Western Sahara",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

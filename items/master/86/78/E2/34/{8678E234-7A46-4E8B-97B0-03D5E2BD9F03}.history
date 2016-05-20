@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Engagement Automation/Time in Automation State",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8678E234-7A46-4E8B-97B0-03D5E2BD9F03}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:40.3839569Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Time in Automation State",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Engagement Automation/Time in Automation State",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

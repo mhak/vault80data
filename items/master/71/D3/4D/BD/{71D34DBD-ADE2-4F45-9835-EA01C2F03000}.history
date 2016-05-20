@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve without Test/Remove Tests",
     "commandType": "Item",
     "template": "Remove Tests Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{71D34DBD-ADE2-4F45-9835-EA01C2F03000}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:16.5734542Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Remove Tests",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve without Test/Remove Tests",
+    "commandType": "Item",
+    "template": "Remove Tests Action",
     "sourceControlRevisionId": null
   }
 ]

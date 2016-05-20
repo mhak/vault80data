@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Health Overview",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B80FF247-2CBA-4D7B-8A39-B17448CC9773}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:07.5218216Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Health Overview",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Health Overview",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

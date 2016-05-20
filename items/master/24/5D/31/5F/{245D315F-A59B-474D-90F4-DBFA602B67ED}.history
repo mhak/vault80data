@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/User Agent",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{245D315F-A59B-474D-90F4-DBFA602B67ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:56.2540879Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "User Agent",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/User Agent",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

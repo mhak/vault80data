@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nigeria",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{32886F6F-7EEE-4269-90B9-0D9D39A74739}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:23.0032599Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Nigeria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Nigeria",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

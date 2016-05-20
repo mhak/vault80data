@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/StateProvince",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F40305C2-3624-4DE3-AA21-92D4916ECAED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:00.8869462Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "StateProvince",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder/StateProvince",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

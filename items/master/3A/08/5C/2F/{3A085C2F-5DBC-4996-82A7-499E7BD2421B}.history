@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/VisitDuration",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A085C2F-5DBC-4996-82A7-499E7BD2421B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:09.0660033Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "VisitDuration",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/VisitDuration",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Audio",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E19A2758-F802-4FDC-B497-5FF7B3BAC54B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:54.2824602Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Audio",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Audio",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

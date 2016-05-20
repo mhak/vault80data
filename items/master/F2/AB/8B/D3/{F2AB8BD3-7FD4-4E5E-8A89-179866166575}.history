@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is competitor",
     "commandType": "Item",
     "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F2AB8BD3-7FD4-4E5E-8A89-179866166575}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:31.5841969Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "visitor is competitor",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is competitor",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
     "sourceControlRevisionId": null
   }
 ]

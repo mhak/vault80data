@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Northern Mariana Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96D4DFC3-9257-4E6A-B8C4-DC708A33171E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:23.3439677Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Northern Mariana Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Northern Mariana Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

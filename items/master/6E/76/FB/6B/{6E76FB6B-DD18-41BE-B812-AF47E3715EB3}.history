@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E76FB6B-DD18-41BE-B812-AF47E3715EB3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:26.3116840Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "String Operators",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

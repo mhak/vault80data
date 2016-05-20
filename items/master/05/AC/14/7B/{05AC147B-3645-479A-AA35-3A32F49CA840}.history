@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-social-media-mentions",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05AC147B-3645-479A-AA35-3A32F49CA840}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:52.4495345Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-social-media-mentions",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-social-media-mentions",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

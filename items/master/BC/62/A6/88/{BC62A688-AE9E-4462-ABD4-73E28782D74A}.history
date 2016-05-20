@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Send E-Mail Message",
     "commandType": "Item",
     "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BC62A688-AE9E-4462-ABD4-73E28782D74A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:02.5685231Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Send E-Mail Message",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Send E-Mail Message",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
     "sourceControlRevisionId": null
   }
 ]

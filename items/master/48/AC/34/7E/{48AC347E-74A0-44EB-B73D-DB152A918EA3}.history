@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recently Opened Tabs",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{48AC347E-74A0-44EB-B73D-DB152A918EA3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:15.2316166Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Recent Tabs",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Recently Opened Tabs",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

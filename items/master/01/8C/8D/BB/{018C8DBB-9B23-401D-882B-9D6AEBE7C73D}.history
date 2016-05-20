@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kiribati",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{018C8DBB-9B23-401D-882B-9D6AEBE7C73D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:17.5451061Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Kiribati",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Kiribati",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

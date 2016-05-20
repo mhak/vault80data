@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/Comment/Comments",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C4F65F2-4012-4E96-BCE7-ADEB98F1C62C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:47.6111950Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Comments",
+    "itemPath": "/sitecore/templates/System/Workflow/Standard Comment Template/Comment/Comments",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

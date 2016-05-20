@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Referring Site",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7A067AB-0AC0-410B-82E2-4AC0879B3E9A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:29.9270857Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referring Site",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Segment Builder/Conditions/Referring Site",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

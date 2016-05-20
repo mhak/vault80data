@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Location/Geo Latitude",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F7E32680-68A4-4820-87A9-A1C8DD7AE2F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:10.4933331Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Geo Latitude",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Location/Geo Latitude",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

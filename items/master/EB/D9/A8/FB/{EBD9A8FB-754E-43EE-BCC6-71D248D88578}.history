@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Map Settings/Google",
     "commandType": "Item",
     "template": "Map Provider",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EBD9A8FB-754E-43EE-BCC6-71D248D88578}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:52.5821977Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Google",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Map Settings/Google",
+    "commandType": "Item",
+    "template": "Map Provider",
     "sourceControlRevisionId": null
   }
 ]

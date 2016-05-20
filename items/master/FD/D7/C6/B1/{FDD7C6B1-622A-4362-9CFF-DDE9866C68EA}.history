@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/starts with",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FDD7C6B1-622A-4362-9CFF-DDE9866C68EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:32.4288763Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "starts with",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/String Operators/starts with",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

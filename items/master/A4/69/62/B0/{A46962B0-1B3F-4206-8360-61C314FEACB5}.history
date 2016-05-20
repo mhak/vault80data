@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Profile Cards",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A46962B0-1B3F-4206-8360-61C314FEACB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:47.7472679Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Profile Cards",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Profile Cards",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

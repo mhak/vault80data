@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EA83E778-E0F5-4C36-9EC6-D50D2ED9AE5A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:26.6848043Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bucketing",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Bucketing",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

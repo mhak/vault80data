@@ -125,6 +125,22 @@
     "itemPath": "[orphan]/Free-Checking-Landing",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1CA5D071-33B6-4F1F-9C48-59D4E0FF4BD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T18:59:58.0738080Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Free-Checking-Landing",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking-Landing",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

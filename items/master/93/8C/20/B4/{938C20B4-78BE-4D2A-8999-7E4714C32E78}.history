@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{938C20B4-78BE-4D2A-8999-7E4714C32E78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:54.8439388Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Multivariate Test Strategies",
+    "itemPath": "/sitecore/system/Settings/Analytics/Multivariate Test Strategies",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

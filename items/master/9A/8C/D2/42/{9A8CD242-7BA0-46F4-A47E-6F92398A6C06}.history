@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Heard Island and McDonald Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9A8CD242-7BA0-46F4-A47E-6F92398A6C06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:15.2729422Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Heard Island and McDonald Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Heard Island and McDonald Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

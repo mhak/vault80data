@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Referral/PR referrals",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AAF21F18-C413-44B1-A01B-CA79F83E1438}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:01.3780916Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PR referrals",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Referral/PR referrals",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

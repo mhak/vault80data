@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Simulators/Android Phone",
     "commandType": "Item",
     "template": "Simulator",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51378BDE-D05B-4B97-9907-A62CB5585F50}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:32.5718735Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Android Phone",
+    "itemPath": "/sitecore/layout/Simulators/Android Phone",
+    "commandType": "Item",
+    "template": "Simulator",
     "sourceControlRevisionId": null
   }
 ]

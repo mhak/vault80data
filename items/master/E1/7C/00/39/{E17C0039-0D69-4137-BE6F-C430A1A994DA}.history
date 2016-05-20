@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Search Operations",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E17C0039-0D69-4137-BE6F-C430A1A994DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:16.3615507Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Search Operations",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Box Dropdown/Search Operations",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

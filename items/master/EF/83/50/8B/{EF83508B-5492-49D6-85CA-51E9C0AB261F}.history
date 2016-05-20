@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Start Date",
     "commandType": "Item",
     "template": "Field Search Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF83508B-5492-49D6-85CA-51E9C0AB261F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:09.9825891Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Start Date",
+    "itemPath": "/sitecore/system/Settings/Buckets/Search Types/Start Date",
+    "commandType": "Item",
+    "template": "Field Search Type",
     "sourceControlRevisionId": null
   }
 ]

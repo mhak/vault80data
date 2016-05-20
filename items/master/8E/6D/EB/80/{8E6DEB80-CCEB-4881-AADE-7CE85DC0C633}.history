@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-usage",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8E6DEB80-CCEB-4881-AADE-7CE85DC0C633}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:53.3626201Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-usage",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-usage",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

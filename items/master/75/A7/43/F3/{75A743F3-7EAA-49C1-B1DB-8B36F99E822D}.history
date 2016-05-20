@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cameroon",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{75A743F3-7EAA-49C1-B1DB-8B36F99E822D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:08.5578376Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cameroon",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cameroon",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

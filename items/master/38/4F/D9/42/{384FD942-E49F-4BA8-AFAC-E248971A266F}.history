@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Rules/Viewer/RulesViewerDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{384FD942-E49F-4BA8-AFAC-E248971A266F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:44.7814214Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "RulesViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Rules/Viewer/RulesViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

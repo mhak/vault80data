@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/System/List Manager",
     "commandType": "Item",
     "template": "Media folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A0621CA-94E6-4474-ACA1-64D67F3976EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:43.6331648Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "List Manager",
+    "itemPath": "/sitecore/media library/System/List Manager",
+    "commandType": "Item",
+    "template": "Media folder",
     "sourceControlRevisionId": null
   }
 ]

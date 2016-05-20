@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/Default Website/cover",
     "commandType": "Item",
     "template": "Jpeg",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{04DAD0FD-DB66-4070-881F-17264CA257E1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:38.2405174Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "cover",
+    "itemPath": "/sitecore/media library/Default Website/cover",
+    "commandType": "Item",
+    "template": "Jpeg",
     "sourceControlRevisionId": null
   }
 ]

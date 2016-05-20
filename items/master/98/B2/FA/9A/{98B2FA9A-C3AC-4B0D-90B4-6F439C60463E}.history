@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98B2FA9A-C3AC-4B0D-90B4-6F439C60463E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:05.8546530Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Set Winner",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Testing/Set Winner",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Sublayouts",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB443C0B-F923-409E-85F3-E7893C8C30C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:17.2424492Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sublayouts",
+    "itemPath": "/sitecore/layout/Sublayouts",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

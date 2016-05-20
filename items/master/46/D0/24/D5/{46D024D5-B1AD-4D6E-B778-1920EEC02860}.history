@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guatemala",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46D024D5-B1AD-4D6E-B778-1920EEC02860}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:14.4846121Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Guatemala",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Guatemala",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

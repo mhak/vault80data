@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Spain",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DD9430CB-848E-4E9C-87A6-1A081E2FE977}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:28.2843434Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Spain",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Spain",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

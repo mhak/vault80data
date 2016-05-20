@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Credit Cards",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5023195C-1DC5-4F3F-B407-9E9511664A59}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:12.9044703Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Credit Cards",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Credit Cards",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

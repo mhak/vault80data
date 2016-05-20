@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve without Test/Validation Action",
     "commandType": "Item",
     "template": "Validation Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF08C672-D960-4AAD-ACE9-5F6B8BFE1A91}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:16.8146479Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Validation Action",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve without Test/Validation Action",
+    "commandType": "Item",
+    "template": "Validation Action",
     "sourceControlRevisionId": null
   }
 ]

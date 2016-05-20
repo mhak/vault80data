@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal - Testimonial",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FC71A69D-C09B-4BC0-96CF-D8A10D7ADE7C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:06.4583091Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personal - Testimonial",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal - Testimonial",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

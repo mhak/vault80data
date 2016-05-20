@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Traffic Assets",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4EF57DE7-5370-4795-BF88-0D441DF1CCF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:59.3498601Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Traffic Assets",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Traffic Assets",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

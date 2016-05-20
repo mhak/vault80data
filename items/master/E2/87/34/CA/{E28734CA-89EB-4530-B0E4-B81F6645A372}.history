@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Social/Message/Twitter Message",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E28734CA-89EB-4530-B0E4-B81F6645A372}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:05.2941064Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Twitter Message",
+    "itemPath": "/sitecore/templates/System/Social/Message/Twitter Message",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

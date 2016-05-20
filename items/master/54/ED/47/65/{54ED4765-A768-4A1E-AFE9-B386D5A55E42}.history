@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Onsite Behavior/PageEvents",
     "commandType": "Item",
     "template": "Control",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54ED4765-A768-4A1E-AFE9-B386D5A55E42}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:51.5442812Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PageEvents",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Onsite Behavior/PageEvents",
+    "commandType": "Item",
+    "template": "Control",
     "sourceControlRevisionId": null
   }
 ]

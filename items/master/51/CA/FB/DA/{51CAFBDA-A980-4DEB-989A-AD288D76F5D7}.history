@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Experience",
     "commandType": "Item",
     "template": "Accordion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51CAFBDA-A980-4DEB-989A-AD288D76F5D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:50.7042683Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Experience",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Experience",
+    "commandType": "Item",
+    "template": "Accordion",
     "sourceControlRevisionId": null
   }
 ]

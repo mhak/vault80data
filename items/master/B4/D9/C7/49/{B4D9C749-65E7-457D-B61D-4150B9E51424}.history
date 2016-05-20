@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Close - Lost",
     "commandType": "Item",
     "template": "Outcome Definition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B4D9C749-65E7-457D-B61D-4150B9E51424}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:27.3031466Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Close - Lost",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Outcomes/Lead Management Funnel/Close - Lost",
+    "commandType": "Item",
+    "template": "Outcome Definition",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/United Arab Emirates",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{55B73DC1-10BD-41C2-9D2A-329170C8D633}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:31.3557432Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "United Arab Emirates",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/United Arab Emirates",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

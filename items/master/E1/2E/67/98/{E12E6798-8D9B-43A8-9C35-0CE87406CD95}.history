@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Macao",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E12E6798-8D9B-43A8-9C35-0CE87406CD95}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:19.3488921Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Macao",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Macao",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

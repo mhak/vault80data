@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Track Number",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FA58C2D1-DD4B-41B0-A503-7D9FCB96D04D}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:02.4825851Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Track Number",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Mp3/ID3/Track Number",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

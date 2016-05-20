@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Role",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B88D5A83-A909-4BC5-90E7-7A8804348CFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:58.4250710Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "User Role",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Role",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

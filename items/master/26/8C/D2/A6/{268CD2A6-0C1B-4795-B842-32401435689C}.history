@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/End Test",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{268CD2A6-0C1B-4795-B842-32401435689C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:13.7923267Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "End Test",
+    "itemPath": "/sitecore/system/Workflows/Analytics Testing Workflow/Deployed/End Test",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

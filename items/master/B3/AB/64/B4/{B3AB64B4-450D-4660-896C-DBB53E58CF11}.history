@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-callcenter",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B3AB64B4-450D-4660-896C-DBB53E58CF11}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:45.3458615Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-callcenter",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-callcenter",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/TagRepository",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:06.0998764Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TagRepository",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

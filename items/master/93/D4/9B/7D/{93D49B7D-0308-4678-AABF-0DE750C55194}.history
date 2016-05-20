@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Download Brochure",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{93D49B7D-0308-4678-AABF-0DE750C55194}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:55.2059667Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Download Brochure",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Download Brochure",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

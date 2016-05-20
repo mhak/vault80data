@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Viewer/NoPageEventsTriggered",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77FB0AFD-613F-47A8-B1E0-FA4647094E47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:33.1320844Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "NoPageEventsTriggered",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/PageEvents/Viewer/NoPageEventsTriggered",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

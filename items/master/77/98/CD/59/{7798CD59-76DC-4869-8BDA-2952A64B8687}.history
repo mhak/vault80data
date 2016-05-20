@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Make",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7798CD59-76DC-4869-8BDA-2952A64B8687}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:52.4552433Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Make",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Jpeg/Exif/Make",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

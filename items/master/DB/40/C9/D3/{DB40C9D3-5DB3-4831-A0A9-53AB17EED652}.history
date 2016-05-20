@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DB40C9D3-5DB3-4831-A0A9-53AB17EED652}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:31.2159839Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

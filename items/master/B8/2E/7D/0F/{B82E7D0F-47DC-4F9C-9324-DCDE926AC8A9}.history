@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Account/Review",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B82E7D0F-47DC-4F9C-9324-DCDE926AC8A9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:57.8831480Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Review",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Review",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

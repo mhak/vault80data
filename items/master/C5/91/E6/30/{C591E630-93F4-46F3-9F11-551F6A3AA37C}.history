@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C591E630-93F4-46F3-9F11-551F6A3AA37C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:16.0070039Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Approve with Test",
+    "itemPath": "/sitecore/system/Workflows/Sample Workflow/Awaiting Approval/Approve with Test",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

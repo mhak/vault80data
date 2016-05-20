@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tunisia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{981723C2-61F9-472F-A481-16DB7B9D53A7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:30.4181367Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tunisia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tunisia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Bucket",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADB6CA4F-03EF-4F47-B9AC-9CE2BA53FF97}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:03.7134666Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bucket",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Bucket",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/City",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F314DAF-96BA-4A86-913A-5B97A8635AC2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:23.9093611Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "City",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/City",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

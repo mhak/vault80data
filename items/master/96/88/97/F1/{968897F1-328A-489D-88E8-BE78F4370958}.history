@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Brochures Request",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{968897F1-328A-489D-88E8-BE78F4370958}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:11.6300446Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Brochures Request",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Brochures Request",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

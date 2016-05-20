@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Promotions",
     "commandType": "Item",
     "template": "Promotion Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1D38AD9E-E2A5-470B-92D3-4D85D1D56D8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:00.8203467Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Promotions",
+    "itemPath": "/sitecore/content/Global/Promotions",
+    "commandType": "Item",
+    "template": "Promotion Folder",
     "sourceControlRevisionId": null
   }
 ]

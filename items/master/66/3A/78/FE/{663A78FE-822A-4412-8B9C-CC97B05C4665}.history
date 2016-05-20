@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sweden",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{663A78FE-822A-4412-8B9C-CC97B05C4665}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:29.0275334Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sweden",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sweden",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

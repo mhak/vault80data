@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Simulators/iPad",
     "commandType": "Item",
     "template": "Simulator",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3637C97-404C-4CCD-9745-F795190D298B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:33.7873020Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "iPad",
+    "itemPath": "/sitecore/layout/Simulators/iPad",
+    "commandType": "Item",
+    "template": "Simulator",
     "sourceControlRevisionId": null
   }
 ]

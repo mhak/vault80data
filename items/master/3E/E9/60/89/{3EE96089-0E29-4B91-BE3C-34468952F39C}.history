@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/ElementGroups",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3EE96089-0E29-4B91-BE3C-34468952F39C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:25.5060833Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ElementGroups",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/ElementGroups",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/IP Address",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D941FE54-0798-49D6-A403-D36537FC4661}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:44.5129900Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "IP Address",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/IP Address",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

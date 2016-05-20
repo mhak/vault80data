@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Media/Upload File",
     "commandType": "Item",
     "template": "Command Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0FBEBDBC-55B4-4883-90DF-29906DB4EB47}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:30.6115897Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Upload File",
+    "itemPath": "/sitecore/templates/Branches/System/Media/Upload File",
+    "commandType": "Item",
+    "template": "Command Template",
     "sourceControlRevisionId": null
   }
 ]

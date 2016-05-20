@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Register",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8FFB183B-DA1A-4C74-8F3A-9729E9FCFF6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:12.4386636Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Register",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Register",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

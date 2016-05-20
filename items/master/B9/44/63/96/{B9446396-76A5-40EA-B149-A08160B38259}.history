@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Secure Map",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B9446396-76A5-40EA-B149-A08160B38259}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:15.0265469Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Secure Map",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Secure Map",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

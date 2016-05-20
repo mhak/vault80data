@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Rules Categories",
     "commandType": "Item",
     "template": "Insert Options Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77514661-2275-475F-9957-3B19EFA3F8B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:47.9982112Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules Categories",
+    "itemPath": "/sitecore/system/Settings/Rules/Insert Options/Rules/Rules Categories",
+    "commandType": "Item",
+    "template": "Insert Options Rule",
     "sourceControlRevisionId": null
   }
 ]

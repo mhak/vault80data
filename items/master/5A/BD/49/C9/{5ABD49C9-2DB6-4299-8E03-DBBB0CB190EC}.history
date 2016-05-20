@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Data/Details",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5ABD49C9-2DB6-4299-8E03-DBBB0CB190EC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:08.9855138Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Details",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Data/Details",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Fatal Error",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A50D7933-F230-4434-9538-29C802F0CE23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:49.2522516Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Fatal Error",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Fatal Error",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

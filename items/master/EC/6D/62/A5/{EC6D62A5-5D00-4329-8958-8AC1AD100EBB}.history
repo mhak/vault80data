@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Ribbon/Strip",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC6D62A5-5D00-4329-8958-8AC1AD100EBB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:25.5216506Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Strip",
+    "itemPath": "/sitecore/templates/System/Ribbon/Strip",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

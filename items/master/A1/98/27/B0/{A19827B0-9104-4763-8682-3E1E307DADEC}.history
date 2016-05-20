@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Banking",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A19827B0-9104-4763-8682-3E1E307DADEC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:10.7661275Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "My Banking",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Banking",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

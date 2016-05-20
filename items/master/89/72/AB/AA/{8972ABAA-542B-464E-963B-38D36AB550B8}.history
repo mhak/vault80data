@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/social",
     "commandType": "Item",
     "template": "Main section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8972ABAA-542B-464E-963B-38D36AB550B8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T18:59:55.2034284Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social",
+    "itemPath": "/sitecore/social",
+    "commandType": "Item",
+    "template": "Main section",
     "sourceControlRevisionId": null
   }
 ]

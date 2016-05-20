@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal - Carousel",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A4B5604-7717-4E0C-8759-46958B66473E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:06.2134749Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personal - Carousel",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal - Carousel",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

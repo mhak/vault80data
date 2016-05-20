@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan State/Data/Page Event Subscription",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{575A25C8-5C6F-4530-A48F-F38E23E9DBD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:09.4806770Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page Event Subscription",
+    "itemPath": "/sitecore/templates/System/Analytics/Engagement Automation/Engagement Plan State/Data/Page Event Subscription",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

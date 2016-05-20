@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Switzerland",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2BDF196F-065E-4778-8F9D-610B23B3224E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:29.1437445Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Switzerland",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Switzerland",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

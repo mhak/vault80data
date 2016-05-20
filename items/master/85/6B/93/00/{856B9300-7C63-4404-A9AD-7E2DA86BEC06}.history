@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Deploy Map",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{856B9300-7C63-4404-A9AD-7E2DA86BEC06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:14.9279305Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Deploy Map",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Deploy Map",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

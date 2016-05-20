@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Profile Value",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3BC1CC2-0724-4F7C-82A1-832F138431B3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:08.2501600Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Profile Value",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Profile Value",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

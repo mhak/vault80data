@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Security/User/Data/Email",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F8EA6802-85A0-4FCD-B90A-FC06F1672E9D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:52.2297303Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Email",
+    "itemPath": "/sitecore/templates/System/Security/User/Data/Email",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

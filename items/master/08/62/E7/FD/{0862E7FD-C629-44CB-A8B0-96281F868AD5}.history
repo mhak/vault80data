@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/WebDAV",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0862E7FD-C629-44CB-A8B0-96281F868AD5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:50.2189432Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "WebDAV",
+    "itemPath": "/sitecore/templates/System/WebDAV",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

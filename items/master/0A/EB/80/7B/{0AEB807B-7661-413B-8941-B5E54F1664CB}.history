@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0AEB807B-7661-413B-8941-B5E54F1664CB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:18.3966470Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Draft",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Draft",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

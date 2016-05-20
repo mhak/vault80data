@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Paid Search/Facebook ads",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC74A09A-7FA7-4A5A-874A-6B5CA9E05773}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:59.5070203Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Facebook ads",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Paid Search/Facebook ads",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

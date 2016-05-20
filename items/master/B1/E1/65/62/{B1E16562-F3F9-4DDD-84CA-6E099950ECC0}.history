@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Last run",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B1E16562-F3F9-4DDD-84CA-6E099950ECC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:18.8107315Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Last run",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Last run",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

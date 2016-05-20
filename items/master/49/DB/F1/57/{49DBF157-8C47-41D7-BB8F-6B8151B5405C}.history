@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Owner",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49DBF157-8C47-41D7-BB8F-6B8151B5405C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:43.0851843Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Owner",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Owner",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

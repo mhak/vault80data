@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/ReportQuery",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A90F48C4-4D4F-41D7-8497-070A9A50304E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:54.8536814Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ReportQuery",
+    "itemPath": "/sitecore/templates/System/Analytics/ReportQuery",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

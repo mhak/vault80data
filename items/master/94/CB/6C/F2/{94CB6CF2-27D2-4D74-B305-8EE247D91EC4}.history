@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Campaigns",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94CB6CF2-27D2-4D74-B305-8EE247D91EC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:16.6290682Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaigns",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Campaigns",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

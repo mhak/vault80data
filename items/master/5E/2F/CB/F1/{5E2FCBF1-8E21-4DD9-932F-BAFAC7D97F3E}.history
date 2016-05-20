@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Configure Standard Values",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5E2FCBF1-8E21-4DD9-932F-BAFAC7D97F3E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:12.9397384Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Configure Standard Values",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Configure Standard Values",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

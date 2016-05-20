@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Common/Conditions/Workflows",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AEA78AB8-91CA-43E1-97A9-E95C485002A5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:19.8741843Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Workflows",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Common/Conditions/Workflows",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

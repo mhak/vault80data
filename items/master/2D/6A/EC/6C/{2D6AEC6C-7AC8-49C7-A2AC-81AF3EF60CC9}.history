@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/File Exists",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D6AEC6C-7AC8-49C7-A2AC-81AF3EF60CC9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:59.7452833Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "File Exists",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/File Exists",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

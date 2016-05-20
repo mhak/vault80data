@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{063EC868-948C-40F7-AA5F-0D3850DBE420}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:28.6232077Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Insert Options",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Insert Options",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

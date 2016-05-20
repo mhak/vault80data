@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PWM Sidebar Test",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9021DA54-FD6D-4E08-972A-C99FF4B0A478}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:15.5041166Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PWM Sidebar Test",
+    "itemPath": "/sitecore/content/Global/Promotions/PWM Sidebar Test",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

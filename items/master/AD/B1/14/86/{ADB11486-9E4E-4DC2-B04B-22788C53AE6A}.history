@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Root item only",
     "commandType": "Item",
     "template": "Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ADB11486-9E4E-4DC2-B04B-22788C53AE6A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:22.4103167Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Root item only",
+    "itemPath": "/sitecore/system/Settings/Proxies/Proxy type/Root item only",
+    "commandType": "Item",
+    "template": "Item",
     "sourceControlRevisionId": null
   }
 ]

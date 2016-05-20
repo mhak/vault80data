@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Turkmenistan",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D411609-D2FF-4D4E-B7D7-0B3AD1A37493}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:30.6798492Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Turkmenistan",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Turkmenistan",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Albania",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E201120C-0218-4396-A0F5-2BFDEDDB7414}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:03.7356616Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Albania",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Albania",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

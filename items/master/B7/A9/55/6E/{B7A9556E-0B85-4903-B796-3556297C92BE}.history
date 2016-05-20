@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Units Business Visits/Units Business Visits",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B7A9556E-0B85-4903-B796-3556297C92BE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:05.1495824Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Units Business Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Units Business Visits/Units Business Visits",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

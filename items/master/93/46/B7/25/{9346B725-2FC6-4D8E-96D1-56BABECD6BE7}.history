@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/Sign In/Sign In Hero",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9346B725-2FC6-4D8E-96D1-56BABECD6BE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:09.5363321Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sign In Hero",
+    "itemPath": "/sitecore/content/Global/HealthWealth/Sign In/Sign In Hero",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

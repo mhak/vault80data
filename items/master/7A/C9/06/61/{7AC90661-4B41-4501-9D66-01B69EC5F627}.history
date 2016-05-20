@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Child Sorting/Data/Type",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7AC90661-4B41-4501-9D66-01B69EC5F627}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:45.0538702Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Type",
+    "itemPath": "/sitecore/templates/System/Child Sorting/Data/Type",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

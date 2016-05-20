@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5DF71D39-22AA-4DEB-AEEA-EB9D00C4E4EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:17.9298813Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Marketing",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

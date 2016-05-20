@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder",
     "commandType": "Item",
     "template": "Element Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2562A247-05A4-463C-8B8D-80050F139693}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:30.5767996Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Segment Builder",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Segment Builder",
+    "commandType": "Item",
+    "template": "Element Folder",
     "sourceControlRevisionId": null
   }
 ]

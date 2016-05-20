@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Newsletter Signup",
     "commandType": "Item",
     "template": "Page Event",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1779CC42-EF7A-4C58-BF19-FA85D30755C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:12.2905981Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Newsletter Signup",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Newsletter Signup",
+    "commandType": "Item",
+    "template": "Page Event",
     "sourceControlRevisionId": null
   }
 ]

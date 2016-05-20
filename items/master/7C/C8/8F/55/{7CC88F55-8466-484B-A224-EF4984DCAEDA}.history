@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Integer",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7CC88F55-8466-484B-A224-EF4984DCAEDA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:57.3322162Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Integer",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Common/Is Integer",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

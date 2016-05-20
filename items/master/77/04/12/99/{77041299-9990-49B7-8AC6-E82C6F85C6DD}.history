@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Campaigns Categories/Campaign Site Search",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{77041299-9990-49B7-8AC6-E82C6F85C6DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:57.8702855Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign Site Search",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Campaigns Categories/Campaign Site Search",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

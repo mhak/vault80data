@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook/Facebook Share Buttons",
     "commandType": "Item",
     "template": "Campaign",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F01366D9-2BAC-4C65-9A47-D8F66A56615D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:14.3673995Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Facebook Share Buttons",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook/Facebook Share Buttons",
+    "commandType": "Item",
+    "template": "Campaign",
     "sourceControlRevisionId": null
   }
 ]

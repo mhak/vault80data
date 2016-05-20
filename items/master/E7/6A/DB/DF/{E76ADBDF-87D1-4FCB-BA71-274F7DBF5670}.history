@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Movie",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E76ADBDF-87D1-4FCB-BA71-274F7DBF5670}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:46.8810505Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Movie",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Movie",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

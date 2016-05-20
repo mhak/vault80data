@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Pattern",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3621D33B-96AC-48AA-BED0-80FB93A76B4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:14.7062425Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Pattern",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Pattern",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

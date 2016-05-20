@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Send Associated Messages",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25B23CFD-0897-4FE3-9D41-EAA3E64B5C8F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:02.5343687Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Send Associated Messages",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Social/Send Associated Messages",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

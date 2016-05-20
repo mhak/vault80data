@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cambodia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92FCD8A1-4E1B-4F43-A555-9441D40C86DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:08.4514616Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Cambodia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cambodia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

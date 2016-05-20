@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Locked",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{84E910D4-B236-4570-9626-79FDB262E97A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:47.2921902Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Locked",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Attributes/Locked",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

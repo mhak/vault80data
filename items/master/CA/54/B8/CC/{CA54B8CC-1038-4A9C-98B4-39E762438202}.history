@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Goals/Viewer/GoalViewerDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CA54B8CC-1038-4A9C-98B4-39E762438202}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:30.1710804Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "GoalViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Goals/Viewer/GoalViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

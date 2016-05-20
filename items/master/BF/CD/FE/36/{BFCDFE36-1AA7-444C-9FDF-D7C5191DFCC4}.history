@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Domain Tracking/Check Request Domain",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BFCDFE36-1AA7-444C-9FDF-D7C5191DFCC4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:42.0548835Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Check Request Domain",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Domain Tracking/Check Request Domain",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

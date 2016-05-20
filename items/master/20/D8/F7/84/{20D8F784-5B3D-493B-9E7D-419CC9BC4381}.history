@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking/Savings",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{20D8F784-5B3D-493B-9E7D-419CC9BC4381}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T18:59:59.2639520Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Savings",
+    "itemPath": "/sitecore/content/Home/My-Banking2/Business-Banking/Savings",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

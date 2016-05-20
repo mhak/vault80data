@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/NetworkProperty",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AB82EAC5-3A9A-47FF-956A-5D79E31EAFD9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:16.3664359Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "NetworkProperty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Social/NetworkProperty",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

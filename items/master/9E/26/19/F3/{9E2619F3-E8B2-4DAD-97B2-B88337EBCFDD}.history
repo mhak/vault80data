@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jamaica",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9E2619F3-E8B2-4DAD-97B2-B88337EBCFDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:16.9210643Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Jamaica",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Jamaica",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

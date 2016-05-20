@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Insert Options",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5CC23346-679C-42CB-B1AC-C36B673BC508}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:17.3537095Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Insert Options",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Insert Options",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

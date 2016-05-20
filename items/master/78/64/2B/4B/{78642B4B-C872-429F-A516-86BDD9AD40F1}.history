@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Suggestion",
     "commandType": "Item",
     "template": "Validation Result",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{78642B4B-C872-429F-A516-86BDD9AD40F1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:42.1134449Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Suggestion",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Suggestion",
+    "commandType": "Item",
+    "template": "Validation Result",
     "sourceControlRevisionId": null
   }
 ]

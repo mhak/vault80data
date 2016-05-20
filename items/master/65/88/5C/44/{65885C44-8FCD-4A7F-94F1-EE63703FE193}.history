@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Alt",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65885C44-8FCD-4A7F-94F1-EE63703FE193}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:51.3254450Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Alt",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Image/Image/Alt",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

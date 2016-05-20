@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/February",
     "commandType": "Item",
     "template": "Standard template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F6CD10B-494F-423D-9925-79A51C40DDEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:38.6935194Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "February",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Date/Month of Year/Month List/February",
+    "commandType": "Item",
+    "template": "Standard template",
     "sourceControlRevisionId": null
   }
 ]

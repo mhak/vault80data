@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Commercial Loans",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C04945AD-936F-4963-8693-DEC1D9112B33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:12.7618837Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Commercial Loans",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Commercial Loans",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

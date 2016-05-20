@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Israel",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1BD60DFB-34E9-4A72-B593-631EFF6C53EE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:16.7267267Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Israel",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Israel",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

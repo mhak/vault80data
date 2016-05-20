@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is press",
     "commandType": "Item",
     "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{378694DB-683D-4DFF-83E2-2F4202664001}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:32.2152083Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "visitor is press",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is press",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
     "sourceControlRevisionId": null
   }
 ]

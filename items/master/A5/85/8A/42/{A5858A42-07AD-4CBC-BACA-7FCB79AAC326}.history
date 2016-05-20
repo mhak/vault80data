@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/US Social Security Number",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A5858A42-07AD-4CBC-BACA-7FCB79AAC326}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:58.4611016Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "US Social Security Number",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Sample/US Social Security Number",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

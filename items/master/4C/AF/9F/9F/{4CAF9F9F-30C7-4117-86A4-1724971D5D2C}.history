@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Onsite Behavior/Profiles",
     "commandType": "Item",
     "template": "Control",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4CAF9F9F-30C7-4117-86A4-1724971D5D2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:51.2950800Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Profiles",
+    "itemPath": "/sitecore/system/Modules/Experience Explorer/Components/ExpViewer/Onsite Behavior/Profiles",
+    "commandType": "Item",
+    "template": "Control",
     "sourceControlRevisionId": null
   }
 ]

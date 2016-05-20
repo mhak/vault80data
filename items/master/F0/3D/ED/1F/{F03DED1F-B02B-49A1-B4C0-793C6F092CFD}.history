@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/User Defined",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F03DED1F-B02B-49A1-B4C0-793C6F092CFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:25.3566146Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "User Defined",
+    "itemPath": "/sitecore/templates/Branches/User Defined",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

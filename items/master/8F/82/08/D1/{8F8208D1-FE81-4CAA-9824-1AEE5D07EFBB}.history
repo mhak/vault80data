@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Postal Code",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F8208D1-FE81-4CAA-9824-1AEE5D07EFBB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:45.0470454Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Postal Code",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/GeoIP/Postal Code",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

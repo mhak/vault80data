@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab",
     "commandType": "Item",
     "template": "Open Result Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9EF07D53-DC1E-4542-9466-543EA7F58603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:19.7374932Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "New Tab",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Result Options/New Tab",
+    "commandType": "Item",
+    "template": "Open Result Type",
     "sourceControlRevisionId": null
   }
 ]

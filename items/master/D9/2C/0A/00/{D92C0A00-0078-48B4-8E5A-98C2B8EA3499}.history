@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Savings",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D92C0A00-0078-48B4-8E5A-98C2B8EA3499}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:14.2589698Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personal-Savings",
+    "itemPath": "/sitecore/content/Global/Navigation/Banking Navigation/Personal-Savings",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

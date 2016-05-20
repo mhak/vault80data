@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0B7249F4-A85E-4768-8537-7C9798985764}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:54.4240002Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Engagement Automation",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

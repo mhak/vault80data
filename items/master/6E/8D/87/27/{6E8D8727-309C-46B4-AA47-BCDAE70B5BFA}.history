@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - Google",
     "commandType": "Item",
     "template": "Filter",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6E8D8727-309C-46B4-AA47-BCDAE70B5BFA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:25.3380547Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Paid search - Google",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search/Paid search - Google",
+    "commandType": "Item",
+    "template": "Filter",
     "sourceControlRevisionId": null
   }
 ]

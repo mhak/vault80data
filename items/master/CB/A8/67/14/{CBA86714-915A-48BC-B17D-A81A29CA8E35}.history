@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Rules Context Folder/$name",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBA86714-915A-48BC-B17D-A81A29CA8E35}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:31.8917890Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "$name",
+    "itemPath": "/sitecore/templates/Branches/System/Rules/Taxonomy/Rules Context Folder/$name",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

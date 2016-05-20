@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Long Running Request",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE7F936A-351C-417C-A3CF-A1771C549084}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:56.8704129Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Long Running Request",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Long Running Request",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

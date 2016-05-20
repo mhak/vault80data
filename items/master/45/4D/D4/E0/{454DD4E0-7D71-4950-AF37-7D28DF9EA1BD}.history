@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Modules",
     "commandType": "Item",
     "template": "Node",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{454DD4E0-7D71-4950-AF37-7D28DF9EA1BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:47.7327825Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Modules",
+    "itemPath": "/sitecore/templates/System/Modules",
+    "commandType": "Item",
+    "template": "Node",
     "sourceControlRevisionId": null
   }
 ]

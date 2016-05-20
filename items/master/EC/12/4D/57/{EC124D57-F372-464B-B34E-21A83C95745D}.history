@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Bad Pages",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EC124D57-F372-464B-B34E-21A83C95745D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:02.9982987Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bad Pages",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Bad Pages",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

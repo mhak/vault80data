@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset",
     "commandType": "Item",
     "template": "Asset Taxonomy",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{733CECC5-1A6D-4C81-8267-D52A80349EE4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:49.8322482Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Asset",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Asset",
+    "commandType": "Item",
+    "template": "Asset Taxonomy",
     "sourceControlRevisionId": null
   }
 ]

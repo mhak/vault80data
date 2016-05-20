@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Conditional Renderings/Actions/Process Multivariate Test",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC6ACEFF-0D76-475B-B956-056D75ACDBE3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:20.4025204Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Process Multivariate Test",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Conditional Renderings/Actions/Process Multivariate Test",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

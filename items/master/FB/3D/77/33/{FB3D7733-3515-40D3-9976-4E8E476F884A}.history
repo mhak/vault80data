@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/PositiveInteger",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB3D7733-3515-40D3-9976-4E8E476F884A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:14.8389544Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PositiveInteger",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/PositiveInteger",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

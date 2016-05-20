@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Media",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2D11C58C-D267-4348-8356-2C7C0FE0196C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:25.9309004Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Media",
+    "itemPath": "/sitecore/templates/Branches/System/Media",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/layout/Renderings/Demo/PromotionView",
     "commandType": "Item",
     "template": "View rendering",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C5D627D3-064F-4086-B307-DA0E51C439AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:25.9875166Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PromotionView",
+    "itemPath": "/sitecore/layout/Renderings/Demo/PromotionView",
+    "commandType": "Item",
+    "template": "View rendering",
     "sourceControlRevisionId": null
   }
 ]

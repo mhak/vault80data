@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is analyst",
     "commandType": "Item",
     "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C242C23-CB68-4D26-B794-CAB3327E3422}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:31.3175468Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "visitor is analyst",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Conditions/visitor is analyst",
+    "commandType": "Item",
+    "template": "Conditional Rendering Rule",
     "sourceControlRevisionId": null
   }
 ]

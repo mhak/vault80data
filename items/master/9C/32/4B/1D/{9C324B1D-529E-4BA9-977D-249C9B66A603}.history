@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Path Analyzer/Referenced Item Is Invalid",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9C324B1D-529E-4BA9-977D-249C9B66A603}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:58.0128569Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referenced Item Is Invalid",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Path Analyzer/Referenced Item Is Invalid",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Async",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A2C0C7A2-697D-40E2-9516-54E0C2D6028E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:19.0647699Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Async",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Async",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

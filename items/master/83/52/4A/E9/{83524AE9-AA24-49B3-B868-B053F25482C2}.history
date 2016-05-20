@@ -125,6 +125,22 @@
     "itemPath": "[orphan]/Offer",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{83524AE9-AA24-49B3-B868-B053F25482C2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T18:59:58.4515275Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Offer",
+    "itemPath": "/sitecore/content/Home/My-Banking/Free-Checking/Offer",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]

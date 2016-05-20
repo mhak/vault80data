@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Versioned/File/Location/CountryCode",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5A3DEDAA-C9BC-490B-B2A1-C79E0EA83151}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:58.0841448Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "CountryCode",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/File/Location/CountryCode",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

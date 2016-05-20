@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessToken",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{893CA71D-2CC2-42C0-AAD5-02609D9E8200}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:59.2667817Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "AccessToken",
+    "itemPath": "/sitecore/templates/System/Social/Account/Network Account/Data/AccessToken",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

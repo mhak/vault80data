@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Flag List",
     "commandType": "Item",
     "template": "Search Control Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B5075101-E254-41B2-B761-797314159F0F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:16.9054371Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Flag List",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Filter Control Types/Flag List",
+    "commandType": "Item",
+    "template": "Search Control Type",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D151B8B-BD5F-4479-A35F-EE740F6387E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:03.5470642Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Log Message",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

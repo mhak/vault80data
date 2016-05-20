@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/Skip",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B46D4D4A-9DEC-4DE2-92F4-AEB5A57C33FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:56.2814154Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Skip",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Search Query Builder/Skip",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

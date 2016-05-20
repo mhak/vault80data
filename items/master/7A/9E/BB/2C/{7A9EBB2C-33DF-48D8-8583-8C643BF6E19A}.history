@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Top External Keywords Leading to this Page",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7A9EBB2C-33DF-48D8-8583-8C643BF6E19A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:59.3557069Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Top External Keywords Leading to this Page",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Item Reports/Top External Keywords Leading to this Page",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

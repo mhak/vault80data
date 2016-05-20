@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Item Buckets/Quick Action/Command",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0ED28DA0-E802-436E-BB0C-1943F62B1407}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:12.1935497Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Command",
+    "itemPath": "/sitecore/templates/System/Item Buckets/Quick Action/Command",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test/Winner found/New Winner",
     "commandType": "Item",
     "template": "Rule Container",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{ACB1014B-213C-4BDF-9D92-E91F61C465FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:52.5422552Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "New Winner",
+    "itemPath": "/sitecore/system/Settings/Analytics/Testing/End Test Behavior/Is Content Test/Winner found/New Winner",
+    "commandType": "Item",
+    "template": "Rule Container",
     "sourceControlRevisionId": null
   }
 ]

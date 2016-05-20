@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Unpublish",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7EAD6FD6-6CF1-4ACA-AC6B-B200E7BAFE88}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:30.0978314Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Unpublish",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Publishing/Publishing/__Unpublish",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

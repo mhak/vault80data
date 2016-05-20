@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Remove rule element from rendering",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EDDE9129-8CF8-4630-A625-56BA8E38489E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:53.6378869Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Remove rule element from rendering",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Rule Visibility/Remove rule element from rendering",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

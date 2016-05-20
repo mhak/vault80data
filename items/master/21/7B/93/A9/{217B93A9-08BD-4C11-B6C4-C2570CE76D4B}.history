@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Visited Entry Path",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{217B93A9-08BD-4C11-B6C4-C2570CE76D4B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:30.5099360Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Most Visited Entry Path",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Path Analyzer/Reports/Most Visited Entry Path",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

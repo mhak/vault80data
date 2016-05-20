@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Page Event Images/Update Profile",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6FE9EC7-09DC-45DD-BE4E-1599583E46D1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:00.4914007Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Update Profile",
+    "itemPath": "/sitecore/media library/System/Page Event Images/Update Profile",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Services",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BCFEBA0-30E5-47E5-8D0F-70ED4D847EEF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:49.4552305Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Services",
+    "itemPath": "/sitecore/templates/System/Services",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

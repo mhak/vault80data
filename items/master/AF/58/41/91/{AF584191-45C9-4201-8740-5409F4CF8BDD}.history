@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/system/Languages/en",
     "commandType": "Item",
     "template": "Language",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AF584191-45C9-4201-8740-5409F4CF8BDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:47.2314121Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "en",
+    "itemPath": "/sitecore/system/Languages/en",
+    "commandType": "Item",
+    "template": "Language",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Awaiting Post Review/Accept",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CE9A2971-55C5-4614-8F8E-B0A304A585B2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:19.3898135Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Accept",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Awaiting Post Review/Accept",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

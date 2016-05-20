@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Marshall Islands",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{065E69F1-2AE5-4048-976D-4EAD30611D96}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:20.3419661Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Marshall Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Marshall Islands",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

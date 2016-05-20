@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal",
     "commandType": "Item",
     "template": "State",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{30EB29CF-7DAD-41E8-A14A-B33384F312F6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:17.4172008Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Needs Renewal",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal",
+    "commandType": "Item",
+    "template": "State",
     "sourceControlRevisionId": null
   }
 ]

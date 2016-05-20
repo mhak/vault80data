@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EF2D7FDA-0687-4C1B-901F-849BC1FA7F6B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:59.6945081Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Site Health",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

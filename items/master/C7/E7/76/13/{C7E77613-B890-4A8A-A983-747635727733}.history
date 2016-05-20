@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Paid",
     "commandType": "Item",
     "template": "Traffic Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C7E77613-B890-4A8A-A983-747635727733}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:54.7423516Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Paid",
+    "itemPath": "/sitecore/system/Settings/Analytics/Traffic Type/Paid",
+    "commandType": "Item",
+    "template": "Traffic Type",
     "sourceControlRevisionId": null
   }
 ]

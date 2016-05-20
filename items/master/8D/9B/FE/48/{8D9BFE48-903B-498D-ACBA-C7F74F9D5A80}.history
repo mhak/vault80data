@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PB Landing Sidebar",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8D9BFE48-903B-498D-ACBA-C7F74F9D5A80}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:14.6886425Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PB Landing Sidebar",
+    "itemPath": "/sitecore/content/Global/Promotions/PB Landing Sidebar",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

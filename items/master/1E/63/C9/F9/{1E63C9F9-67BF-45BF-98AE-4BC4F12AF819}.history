@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Profile Cards",
     "commandType": "Item",
     "template": "Profile Cards",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1E63C9F9-67BF-45BF-98AE-4BC4F12AF819}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:35.9982581Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Profile Cards",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Profiles/Persona/Profile Cards",
+    "commandType": "Item",
+    "template": "Profile Cards",
     "sourceControlRevisionId": null
   }
 ]

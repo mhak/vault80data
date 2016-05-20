@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Value/Classified Organizations - Daily",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61F29F03-2E43-4F91-99D5-684B729BA8CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:01.6418578Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Classified Organizations - Daily",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Value/Classified Organizations - Daily",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

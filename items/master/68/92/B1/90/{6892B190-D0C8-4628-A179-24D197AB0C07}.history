@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Conditional Renderings/Global Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6892B190-D0C8-4628-A179-24D197AB0C07}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:43.0024117Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Global Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Conditional Renderings/Global Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

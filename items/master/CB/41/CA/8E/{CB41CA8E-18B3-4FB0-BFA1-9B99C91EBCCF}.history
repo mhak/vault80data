@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Referral Information/Referrer",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB41CA8E-18B3-4FB0-BFA1-9B99C91EBCCF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:10.7404013Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Referrer",
+    "itemPath": "/sitecore/templates/System/Modules/Experience Explorer/Preset/Referral Information/Referrer",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

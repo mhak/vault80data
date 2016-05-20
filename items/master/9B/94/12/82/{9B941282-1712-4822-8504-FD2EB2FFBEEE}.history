@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/Dns",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9B941282-1712-4822-8504-FD2EB2FFBEEE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:56.0587851Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dns",
+    "itemPath": "/sitecore/system/Settings/Analytics/Visitor Identification Types/Dns",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

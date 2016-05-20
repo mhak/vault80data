@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing/Apply Profile Score to All Items",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F695124-3C59-4196-9FD6-ACC32F24AC52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:19.3947407Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Apply Profile Score to All Items",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Marketing/Apply Profile Score to All Items",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

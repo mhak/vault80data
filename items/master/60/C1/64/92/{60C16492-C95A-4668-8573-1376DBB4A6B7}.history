@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Parameters",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{60C16492-C95A-4668-8573-1376DBB4A6B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:22.2551059Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Parameters",
+    "itemPath": "/sitecore/templates/System/Portal/Portlet/Data/Parameters",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

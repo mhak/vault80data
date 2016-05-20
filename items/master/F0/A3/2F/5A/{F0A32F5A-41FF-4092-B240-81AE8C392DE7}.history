@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Url Rendering",
     "commandType": "Item",
     "template": "Branch",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F0A32F5A-41FF-4092-B240-81AE8C392DE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:28.8528564Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "__Url Rendering",
+    "itemPath": "/sitecore/templates/Branches/System/Layouts/Renderings/__Url Rendering",
+    "commandType": "Item",
+    "template": "Branch",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version CM/Version Count",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{105D5494-5EB1-498D-83BB-6AC63A3AA69B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:51.7189288Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Version Count",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Version CM/Version Count",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/AsiaPacific Region",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3CB8DBCA-1ABC-4C3E-802D-1B369E09A4F0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:05.3439250Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "AsiaPacific Region",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/AsiaPacific Region",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

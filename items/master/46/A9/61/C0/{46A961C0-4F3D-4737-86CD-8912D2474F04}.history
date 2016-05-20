@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Bottom",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{46A961C0-4F3D-4737-86CD-8912D2474F04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:04.9562207Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business - Bottom",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Bottom",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

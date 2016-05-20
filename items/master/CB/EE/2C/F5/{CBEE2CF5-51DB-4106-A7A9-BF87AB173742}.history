@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Local Search Keyword",
     "commandType": "Item",
     "template": "Dimension",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CBEE2CF5-51DB-4106-A7A9-BF87AB173742}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:20.3098159Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "By Local Search Keyword",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Local Search Keyword",
+    "commandType": "Item",
+    "template": "Dimension",
     "sourceControlRevisionId": null
   }
 ]

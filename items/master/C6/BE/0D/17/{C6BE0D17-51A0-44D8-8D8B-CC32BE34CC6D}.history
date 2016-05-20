@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Health",
     "commandType": "Item",
     "template": "Navigation Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6BE0D17-51A0-44D8-8D8B-CC32BE34CC6D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:10.4152044Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "My Health",
+    "itemPath": "/sitecore/content/Global/Home Settings/Headers Folder/Navigation Top/My Health",
+    "commandType": "Item",
+    "template": "Navigation Item",
     "sourceControlRevisionId": null
   }
 ]

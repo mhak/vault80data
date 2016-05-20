@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Template",
     "commandType": "Item",
     "template": "Macro",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4EE39EA2-8E2B-4998-95A5-4F6FD8C0105E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:15.5743780Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Template",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros/Template",
+    "commandType": "Item",
+    "template": "Macro",
     "sourceControlRevisionId": null
   }
 ]

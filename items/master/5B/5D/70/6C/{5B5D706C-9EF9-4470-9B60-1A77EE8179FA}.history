@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Group",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5B5D706C-9EF9-4470-9B60-1A77EE8179FA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:46.6183274Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Group",
+    "itemPath": "/sitecore/templates/System/Rules/Taxonomy/Group",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

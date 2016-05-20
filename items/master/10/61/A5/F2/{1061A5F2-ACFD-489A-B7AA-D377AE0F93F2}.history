@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/Branches/System/Globalization",
     "commandType": "Item",
     "template": "Branch Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1061A5F2-ACFD-489A-B7AA-D377AE0F93F2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:25.6603185Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Globalization",
+    "itemPath": "/sitecore/templates/Branches/System/Globalization",
+    "commandType": "Item",
+    "template": "Branch Folder",
     "sourceControlRevisionId": null
   }
 ]

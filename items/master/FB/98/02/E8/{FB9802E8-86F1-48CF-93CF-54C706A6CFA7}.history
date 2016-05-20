@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Security/Item Renameable",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FB9802E8-86F1-48CF-93CF-54C706A6CFA7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:50.1700805Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Renameable",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Item Security/Item Renameable",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

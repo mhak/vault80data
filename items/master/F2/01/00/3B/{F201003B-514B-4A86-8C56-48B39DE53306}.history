@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search",
     "commandType": "Item",
     "template": "DimensionFolder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F201003B-514B-4A86-8C56-48B39DE53306}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:24.7063803Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Paid search",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Filters/Paid search",
+    "commandType": "Item",
+    "template": "DimensionFolder",
     "sourceControlRevisionId": null
   }
 ]

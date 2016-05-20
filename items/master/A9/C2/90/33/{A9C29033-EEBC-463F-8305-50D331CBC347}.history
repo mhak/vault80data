@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Activity/Unclassified Organizations",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A9C29033-EEBC-463F-8305-50D331CBC347}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:01.3761366Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Unclassified Organizations",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Sales/Top Leads by Activity/Unclassified Organizations",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

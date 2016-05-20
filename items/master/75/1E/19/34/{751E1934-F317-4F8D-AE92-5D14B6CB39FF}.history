@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Templates/Sections/Tagging/Tagging",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{751E1934-F317-4F8D-AE92-5D14B6CB39FF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:31.5665924Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tagging",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Tagging/Tagging",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

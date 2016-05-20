@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Message Workflow",
     "commandType": "Item",
     "template": "Workflow",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D7545D99-5DF2-4BE6-872B-2E66D8DFEE8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:12.9398326Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social Message Workflow",
+    "itemPath": "/sitecore/system/Workflows/Social Message Workflow",
+    "commandType": "Item",
+    "template": "Workflow",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Display",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{066F5D7E-C237-461A-96DF-9EB58AAF8582}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:53.1623100Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Display",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Display",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

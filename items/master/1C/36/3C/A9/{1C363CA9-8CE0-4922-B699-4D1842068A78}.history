@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Path Analyzer Maps/Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1C363CA9-8CE0-4922-B699-4D1842068A78}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:50.7443074Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Path Analyzer Maps/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

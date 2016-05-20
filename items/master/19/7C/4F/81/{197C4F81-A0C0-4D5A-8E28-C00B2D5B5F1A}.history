@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Page Matching/Check Request Path",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{197C4F81-A0C0-4D5A-8E28-C00B2D5B5F1A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:42.6828234Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Check Request Path",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Page Matching/Check Request Path",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

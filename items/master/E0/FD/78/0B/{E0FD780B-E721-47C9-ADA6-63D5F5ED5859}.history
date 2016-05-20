@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sao Tome and Principe",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E0FD780B-E721-47C9-ADA6-63D5F5ED5859}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:26.7667614Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Sao Tome and Principe",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sao Tome and Principe",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

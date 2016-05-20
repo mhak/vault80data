@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Item Deleted",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{948235C2-D1AF-461E-AFFF-F4A0504F5145}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:23.8487959Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Deleted",
+    "itemPath": "/sitecore/system/Settings/Rules/Item Deleted",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

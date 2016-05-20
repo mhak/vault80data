@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Add Tag",
     "commandType": "Item",
     "template": "Dropdown List",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F813CF67-7E37-445E-A105-F7C3F478DD2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:18.1388243Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Add Tag",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Search Operations/Fields/Add Tag",
+    "commandType": "Item",
+    "template": "Dropdown List",
     "sourceControlRevisionId": null
   }
 ]

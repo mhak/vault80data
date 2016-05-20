@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Filter",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB0254B1-D6E9-468E-A805-6A1E0FD5E2C0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:52.2642956Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Filter",
+    "itemPath": "/sitecore/templates/System/Analytics/Filter",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

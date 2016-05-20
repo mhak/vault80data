@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Luxembourg",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6FE5270-40AE-4102-9C20-9EC7B2D9E573}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:19.2482408Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Luxembourg",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Luxembourg",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Number of Sessions Above Average Value",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5217BE5-859D-494D-8A16-56DBD70F319D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:48.4757741Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Number of Sessions Above Average Value",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Number of Sessions Above Average Value",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

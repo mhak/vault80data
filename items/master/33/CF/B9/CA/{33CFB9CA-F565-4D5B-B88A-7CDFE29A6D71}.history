@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33CFB9CA-F565-4D5B-B88A-7CDFE29A6D71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:06.7478716Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Marketing Control Panel",
+    "itemPath": "/sitecore/system/Marketing Control Panel",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

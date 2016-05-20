@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Colombia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CFC715C7-2019-48E2-BB77-59AB9BD82E8E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:09.7111359Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Colombia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Colombia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

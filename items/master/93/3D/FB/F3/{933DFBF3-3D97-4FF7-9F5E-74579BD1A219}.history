@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Segment",
     "commandType": "Item",
     "template": "Workflow",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{933DFBF3-3D97-4FF7-9F5E-74579BD1A219}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:12.5812219Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Experience Analytics Segment",
+    "itemPath": "/sitecore/system/Workflows/Segment",
+    "commandType": "Item",
+    "template": "Workflow",
     "sourceControlRevisionId": null
   }
 ]

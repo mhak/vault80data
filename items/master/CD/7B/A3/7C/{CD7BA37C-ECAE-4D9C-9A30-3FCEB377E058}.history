@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Zip/Properties",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CD7BA37C-ECAE-4D9C-9A30-3FCEB377E058}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:54.0027431Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Properties",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Zip/Properties",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

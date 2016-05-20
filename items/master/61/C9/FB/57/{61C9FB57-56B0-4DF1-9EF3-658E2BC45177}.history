@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-direct",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61C9FB57-56B0-4DF1-9EF3-658E2BC45177}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:46.6437142Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-direct",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-direct",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

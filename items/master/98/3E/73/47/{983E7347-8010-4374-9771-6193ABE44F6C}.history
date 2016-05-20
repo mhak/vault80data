@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Lock for Editing",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{983E7347-8010-4374-9771-6193ABE44F6C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:13.6466718Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Lock for Editing",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Lock for Editing",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

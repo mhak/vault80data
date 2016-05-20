@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Serbia",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E70E5215-9C2B-4316-8567-D6366EAB6280}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:27.2023542Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Serbia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Serbia",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

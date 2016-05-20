@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online",
     "commandType": "Item",
     "template": "Channel Type",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D07286FA-67CE-4D66-8783-0140B8B91EF1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:51.9772281Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Online",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online",
+    "commandType": "Item",
+    "template": "Channel Type",
     "sourceControlRevisionId": null
   }
 ]

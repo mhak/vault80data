@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Traffic Sources",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98F1E142-D0E3-40C2-B998-365C905551EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:45.0382604Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Top Traffic Sources",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Traffic Sources",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

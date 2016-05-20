@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Traffic Search Keywords",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0C8443A4-D667-4463-B840-FFC8C263024E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:59.9687209Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Traffic Search Keywords",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Traffic Search Keywords",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

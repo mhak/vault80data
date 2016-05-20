@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Store",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E4E2CB38-A27E-4434-B64A-4139308B4065}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:05.3733723Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Store",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Store",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

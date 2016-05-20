@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Source Value Per Visits",
     "commandType": "Item",
     "template": "Dashboard Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7557C2AA-3193-4D37-93DC-681FC7E6C78A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:59.2326058Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Source Value Per Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Dashboard Reports/Traffic Type/Source Value Per Visits",
+    "commandType": "Item",
+    "template": "Dashboard Report",
     "sourceControlRevisionId": null
   }
 ]

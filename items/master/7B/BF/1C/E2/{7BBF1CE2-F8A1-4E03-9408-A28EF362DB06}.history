@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal/Expire",
     "commandType": "Item",
     "template": "Command",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7BBF1CE2-F8A1-4E03-9408-A28EF362DB06}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:17.7491888Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Expire",
+    "itemPath": "/sitecore/system/Workflows/Social Account Renewal/Needs Renewal/Expire",
+    "commandType": "Item",
+    "template": "Command",
     "sourceControlRevisionId": null
   }
 ]

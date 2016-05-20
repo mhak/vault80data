@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Testing/Rules",
     "commandType": "Item",
     "template": "Rules Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{61D46FAE-DED3-48CE-9D2F-550BA17C3D40}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:52.0304329Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Rules",
+    "itemPath": "/sitecore/system/Settings/Rules/Testing/Rules",
+    "commandType": "Item",
+    "template": "Rules Folder",
     "sourceControlRevisionId": null
   }
 ]

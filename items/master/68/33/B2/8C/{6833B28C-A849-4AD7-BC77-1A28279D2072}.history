@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Views/ID View",
     "commandType": "Item",
     "template": "View",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6833B28C-A849-4AD7-BC77-1A28279D2072}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:21.1886351Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ID View",
+    "itemPath": "/sitecore/system/Settings/Buckets/Views/ID View",
+    "commandType": "Item",
+    "template": "View",
     "sourceControlRevisionId": null
   }
 ]

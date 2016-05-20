@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/TestChannelType/TestChannelGroup/TestChannel",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{9AF02959-C624-48AD-8181-167C182801E7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:11.5128615Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TestChannel",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/TestChannelType/TestChannelGroup/TestChannel",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

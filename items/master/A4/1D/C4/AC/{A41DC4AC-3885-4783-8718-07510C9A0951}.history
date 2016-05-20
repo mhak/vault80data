@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Warning",
     "commandType": "Item",
     "template": "Validation Result",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A41DC4AC-3885-4783-8718-07510C9A0951}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:42.3292684Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Warning",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Validation Results/Warning",
+    "commandType": "Item",
+    "template": "Validation Result",
     "sourceControlRevisionId": null
   }
 ]

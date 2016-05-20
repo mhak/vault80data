@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4821E43A-D235-48C3-BCC1-936A29265481}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:32.3564660Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Tasks/Rebuild Index Command/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

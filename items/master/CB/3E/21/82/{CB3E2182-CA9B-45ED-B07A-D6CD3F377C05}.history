@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Christmas Island",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CB3E2182-CA9B-45ED-B07A-D6CD3F377C05}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:09.5099587Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Christmas Island",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Christmas Island",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

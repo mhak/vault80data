@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Anonymous",
     "commandType": "Item",
     "template": "Preset Persona",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6A1AEA0-E515-4B77-950B-5B19F317BBF3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:36.6398877Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Anonymous",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Explorer/Presets/Anonymous",
+    "commandType": "Item",
+    "template": "Preset Persona",
     "sourceControlRevisionId": null
   }
 ]

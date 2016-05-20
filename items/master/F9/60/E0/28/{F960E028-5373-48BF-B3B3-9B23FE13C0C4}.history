@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F960E028-5373-48BF-B3B3-9B23FE13C0C4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:05.5440222Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Dashboard Report",
+    "itemPath": "/sitecore/templates/System/Analytics/Dashboard/Dashboard Report",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]

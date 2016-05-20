@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor/Administrator",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{33D5F360-CA8F-4193-AA5A-B52BEA2C84B4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:59.0845169Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Administrator",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security Editor/Administrator",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

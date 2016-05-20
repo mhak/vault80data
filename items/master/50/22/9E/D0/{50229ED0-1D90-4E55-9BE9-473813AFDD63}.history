@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Is Xml",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50229ED0-1D90-4E55-9BE9-473813AFDD63}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:00.5060294Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Is Xml",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/System/Is Xml",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

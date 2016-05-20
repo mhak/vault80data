@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Domain Matching/Match Request Domain",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1411557E-EB7F-4150-A369-1E89E6FAC133}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:41.1019903Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Match Request Domain",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Federated Experience Manager - Domain Matching/Match Request Domain",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

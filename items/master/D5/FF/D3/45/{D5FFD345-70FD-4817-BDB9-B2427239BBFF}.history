@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Social Marketer",
     "commandType": "Item",
     "template": "Campaign Category",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D5FFD345-70FD-4817-BDB9-B2427239BBFF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:13.3781156Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Social Marketer",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Social Marketer",
+    "commandType": "Item",
+    "template": "Campaign Category",
     "sourceControlRevisionId": null
   }
 ]

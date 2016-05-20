@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing/Campaign",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C60E2EBD-8870-4323-89D2-4B755C1CB108}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:15.1740327Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign",
+    "itemPath": "/sitecore/templates/System/Social/Sharing/SharingControlParameters/Sharing/Campaign",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

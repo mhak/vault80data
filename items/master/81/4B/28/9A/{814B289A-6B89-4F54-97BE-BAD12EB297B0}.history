@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Start with a Capital Letter and End with a Dot",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{814B289A-6B89-4F54-97BE-BAD12EB297B0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:01.8908154Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Start with a Capital Letter and End with a Dot",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Field Rules/Text/Start with a Capital Letter and End with a Dot",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{3A53B5A1-04F5-42F3-8FD6-CD506DED5E68}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:41.6253518Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Latest Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Latest Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

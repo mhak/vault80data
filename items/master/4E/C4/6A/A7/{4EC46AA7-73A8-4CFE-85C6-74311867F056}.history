@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Viewer/ReferralViewerDescription",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4EC46AA7-73A8-4CFE-85C6-74311867F056}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:43.4455759Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ReferralViewerDescription",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Referral/Viewer/ReferralViewerDescription",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

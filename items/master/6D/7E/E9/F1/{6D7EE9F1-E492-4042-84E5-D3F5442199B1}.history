@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Version Removed/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6D7EE9F1-E492-4042-84E5-D3F5442199B1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:53.0011362Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Version Removed/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

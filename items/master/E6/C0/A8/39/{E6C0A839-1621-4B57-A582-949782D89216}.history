@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Pages that Report Errors",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E6C0A839-1621-4B57-A582-949782D89216}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:02.4923503Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Pages that Report Errors",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Pages that Report Errors",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

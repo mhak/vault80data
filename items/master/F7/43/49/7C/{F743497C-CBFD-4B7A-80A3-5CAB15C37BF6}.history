@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/Home/test2",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F743497C-CBFD-4B7A-80A3-5CAB15C37BF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:04.6906065Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "test2",
+    "itemPath": "/sitecore/content/Global/HealthWealth/Home/test2",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

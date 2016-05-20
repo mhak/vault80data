@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/Ryland Pacific",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4B9B3A1F-AE44-4B61-8C83-2609038FAAB5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:16.2171321Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Ryland Pacific",
+    "itemPath": "/sitecore/content/Global/Promotions/PB Campaign/Ryland Pacific",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

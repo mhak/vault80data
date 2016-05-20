@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahrain",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A18FD5D9-1C1E-4729-8F4F-82CEC0E968F3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:05.8761929Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bahrain",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bahrain",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

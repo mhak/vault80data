@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012",
     "commandType": "Item",
     "template": "Bucket",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{54C48BE2-7532-4343-B4CA-8B6D65C18AD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:20.5812230Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "2012",
+    "itemPath": "/sitecore/system/Settings/Buckets/TagRepository/2012",
+    "commandType": "Item",
+    "template": "Bucket",
     "sourceControlRevisionId": null
   }
 ]

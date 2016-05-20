@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Workflow/Command/Data",
     "commandType": "Item",
     "template": "Template section",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7FF9F0AE-A9D1-49D2-984D-BFD68E9031D7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:45.5325733Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Data",
+    "itemPath": "/sitecore/templates/System/Workflow/Command/Data",
+    "commandType": "Item",
+    "template": "Template section",
     "sourceControlRevisionId": null
   }
 ]

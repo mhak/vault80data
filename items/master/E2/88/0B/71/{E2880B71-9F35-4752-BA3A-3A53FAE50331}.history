@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Development/Not Serialized",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E2880B71-9F35-4752-BA3A-3A53FAE50331}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:05.8000223Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Not Serialized",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Development/Not Serialized",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

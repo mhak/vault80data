@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PB Campaign",
     "commandType": "Item",
     "template": "Promotion Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92F26BF2-F775-4F5B-A528-0D094665B7A1}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:14.5343978Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PB Campaign",
+    "itemPath": "/sitecore/content/Global/Promotions/PB Campaign",
+    "commandType": "Item",
+    "template": "Promotion Folder",
     "sourceControlRevisionId": null
   }
 ]

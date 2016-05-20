@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Delete Children",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1F02DF72-6CC8-4319-A6C4-5B4C841B6251}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:13.2414290Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Delete Children",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Delete Children",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

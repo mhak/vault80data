@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Validate Map",
     "commandType": "Item",
     "template": "Validation Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C30F981F-F91C-44F8-8E57-EA9985C7E89B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:14.8323186Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Validate Map",
+    "itemPath": "/sitecore/system/Workflows/Path Analyzer Maps/Initializing/Deploy/Validate Map",
+    "commandType": "Item",
+    "template": "Validation Action",
     "sourceControlRevisionId": null
   }
 ]

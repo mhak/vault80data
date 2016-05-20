@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/layout/Simulators/Android Tablet",
     "commandType": "Item",
     "template": "Simulator",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2DE5862D-5053-4F3C-9115-1F06A09091FD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:32.7294639Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Android Tablet",
+    "itemPath": "/sitecore/layout/Simulators/Android Tablet",
+    "commandType": "Item",
+    "template": "Simulator",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Google Plus One",
     "commandType": "Item",
     "template": "Goal",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{CC2CC47C-8CC8-469D-B8C6-C11F202FD20A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:11.7268658Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Google +1",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Goals/Google Plus One",
+    "commandType": "Item",
+    "template": "Goal",
     "sourceControlRevisionId": null
   }
 ]

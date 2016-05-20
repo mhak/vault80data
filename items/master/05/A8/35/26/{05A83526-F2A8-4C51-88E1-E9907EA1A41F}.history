@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bulgaria",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05A83526-F2A8-4C51-88E1-E9907EA1A41F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:07.9975812Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Bulgaria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Bulgaria",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

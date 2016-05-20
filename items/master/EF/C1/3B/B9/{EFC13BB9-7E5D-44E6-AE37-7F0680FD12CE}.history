@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Promotions/PWM Sidebar",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EFC13BB9-7E5D-44E6-AE37-7F0680FD12CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:15.3068842Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "PWM Sidebar",
+    "itemPath": "/sitecore/content/Global/Promotions/PWM Sidebar",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

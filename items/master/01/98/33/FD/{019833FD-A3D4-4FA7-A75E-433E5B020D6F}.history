@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Slow Pages/Visits",
     "commandType": "Item",
     "template": "Report",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{019833FD-A3D4-4FA7-A75E-433E5B020D6F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:05.0226241Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Subreports/Slow Pages/Visits",
+    "commandType": "Item",
+    "template": "Report",
     "sourceControlRevisionId": null
   }
 ]

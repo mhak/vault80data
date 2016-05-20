@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Experience Analytics/Branches/Dimension/$name/All",
     "commandType": "Item",
     "template": "Segment",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96F737F3-067B-4798-A009-3E9F126E72B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:51.2218553Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "All",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Branches/Dimension/$name/All",
+    "commandType": "Item",
+    "template": "Segment",
     "sourceControlRevisionId": null
   }
 ]

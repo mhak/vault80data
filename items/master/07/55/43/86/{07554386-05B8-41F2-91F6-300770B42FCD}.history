@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Social/Account/Account/Review/Roles",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{07554386-05B8-41F2-91F6-300770B42FCD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:09:58.3280755Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Roles",
+    "itemPath": "/sitecore/templates/System/Social/Account/Account/Review/Roles",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

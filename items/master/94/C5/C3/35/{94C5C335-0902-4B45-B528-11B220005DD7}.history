@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Run Script",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{94C5C335-0902-4B45-B528-11B220005DD7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:54.5158555Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Run Script",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Script/Run Script",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

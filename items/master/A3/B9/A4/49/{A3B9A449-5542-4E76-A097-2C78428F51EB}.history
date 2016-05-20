@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Germany",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A3B9A449-5542-4E76-A097-2C78428F51EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:13.4044570Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Germany",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Germany",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

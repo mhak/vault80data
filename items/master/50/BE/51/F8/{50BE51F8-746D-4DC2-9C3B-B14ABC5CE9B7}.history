@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Schedule",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{50BE51F8-746D-4DC2-9C3B-B14ABC5CE9B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:10:18.5574856Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Schedule",
+    "itemPath": "/sitecore/templates/System/Tasks/Schedule/Data/Schedule",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

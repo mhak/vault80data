@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Facets/Image Dimensions",
     "commandType": "Item",
     "template": "Facet",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{05EF282C-54DE-49B5-9EF3-0EB3008080C6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:07.3918436Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Image Dimensions",
+    "itemPath": "/sitecore/system/Settings/Buckets/Facets/Image Dimensions",
+    "commandType": "Item",
+    "template": "Facet",
     "sourceControlRevisionId": null
   }
 ]

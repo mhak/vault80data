@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/CountryTabTitle",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1B89D959-6F53-4593-8BA1-19C149CBCCC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:01:24.9068968Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "CountryTabTitle",
+    "itemPath": "/sitecore/system/Dictionary/ExperienceExplorer/Geo/Common/CountryTabTitle",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

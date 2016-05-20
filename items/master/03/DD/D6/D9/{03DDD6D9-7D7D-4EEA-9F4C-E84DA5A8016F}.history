@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Campaigns/Actions/Campaign Enrollment",
     "commandType": "Item",
     "template": "Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{03DDD6D9-7D7D-4EEA-9F4C-E84DA5A8016F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:18.5480939Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Campaign Enrollment",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Obsolete/Campaigns/Actions/Campaign Enrollment",
+    "commandType": "Item",
+    "template": "Action",
     "sourceControlRevisionId": null
   }
 ]

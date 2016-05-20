@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks/sort",
     "commandType": "Item",
     "template": "Clientside Hook",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A1B3B270-7006-4F3B-84F2-3D3239FB47B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:12.1546252Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "sort",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Client Side Hooks/sort",
+    "commandType": "Item",
+    "template": "Clientside Hook",
     "sourceControlRevisionId": null
   }
 ]

@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page was Visited",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BE334DF8-9A0F-4FF3-A6D8-C396EC713809}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:08.1456691Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Page was Visited",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Page was Visited",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

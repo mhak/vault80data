@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Add Points",
     "commandType": "Item",
     "template": "Engagement Automation Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5875586B-3A08-4213-A452-14F8E2C2C330}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:01.4376609Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Add Points",
+    "itemPath": "/sitecore/system/Settings/Analytics/Engagement Automation/Predefined items/Actions/Add Points",
+    "commandType": "Item",
+    "template": "Engagement Automation Action",
     "sourceControlRevisionId": null
   }
 ]

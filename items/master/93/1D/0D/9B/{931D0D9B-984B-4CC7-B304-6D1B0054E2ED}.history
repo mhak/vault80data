@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Campaign Group/All visits by Campaign Group",
     "commandType": "Item",
     "template": "Segment",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{931D0D9B-984B-4CC7-B304-6D1B0054E2ED}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:21.4588460Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{3C70E8B1-D6D2-42CC-8E21-1AE8EC72A0FB}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "All visits by Campaign Group",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Experience Analytics/Dimensions/Visits/By Campaign Group/All visits by Campaign Group",
+    "commandType": "Item",
+    "template": "Segment",
     "sourceControlRevisionId": null
   }
 ]

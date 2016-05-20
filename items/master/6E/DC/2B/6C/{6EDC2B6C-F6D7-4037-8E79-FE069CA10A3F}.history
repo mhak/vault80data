@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Direct Marketing",
     "commandType": "Item",
     "template": "Channel Group",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6EDC2B6C-F6D7-4037-8E79-FE069CA10A3F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:04.4913778Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Direct Marketing",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Offline/Direct Marketing",
+    "commandType": "Item",
+    "template": "Channel Group",
     "sourceControlRevisionId": null
   }
 ]

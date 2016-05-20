@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Outcome Count After Date",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0678C6C6-A741-49AF-AD6A-F5FF683F4798}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:49.4484112Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Test Outcome Count After Date",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Content Testing/Test Outcome Count After Date",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

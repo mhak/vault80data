@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Healthy Page",
     "commandType": "Item",
     "template": "Disclosure Item",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49288563-A9D4-4FB2-B694-2A02CB8269DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:02.1243060Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Healthy Page",
+    "itemPath": "/sitecore/content/Global/Disclosures/Disclosure Folder A/Healthy Page",
+    "commandType": "Item",
+    "template": "Disclosure Item",
     "sourceControlRevisionId": null
   }
 ]

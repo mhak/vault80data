@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business Banking Content",
     "commandType": "Item",
     "template": "Promotion",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0A76F5CE-8B89-4694-BF46-F2BFC08D96B6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:05.3956640Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Business Banking Content",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business Banking Content",
+    "commandType": "Item",
+    "template": "Promotion",
     "sourceControlRevisionId": null
   }
 ]

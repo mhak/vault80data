@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mali",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D4E8A2CF-65B7-4100-B8F6-C6DCC418203F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:20.0861780Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Mali",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mali",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

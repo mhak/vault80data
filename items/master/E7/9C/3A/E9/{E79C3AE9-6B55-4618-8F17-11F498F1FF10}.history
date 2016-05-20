@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules/Profiles",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E79C3AE9-6B55-4618-8F17-11F498F1FF10}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:33.0763315Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Profiles",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules/Profiles",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]

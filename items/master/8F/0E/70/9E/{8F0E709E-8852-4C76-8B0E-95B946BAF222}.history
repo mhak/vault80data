@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mauritius",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8F0E709E-8852-4C76-8B0E-95B946BAF222}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:20.6838755Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Mauritius",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mauritius",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

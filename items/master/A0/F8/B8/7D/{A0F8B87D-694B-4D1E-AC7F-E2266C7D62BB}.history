@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/Properties/Artist",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A0F8B87D-694B-4D1E-AC7F-E2266C7D62BB}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-20T19:08:53.6955593Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Artist",
+    "itemPath": "/sitecore/templates/System/Media/Unversioned/Mp3/Properties/Artist",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

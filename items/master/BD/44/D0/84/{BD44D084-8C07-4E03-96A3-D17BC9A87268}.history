@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security/Owned By Non Existing User",
     "commandType": "Item",
     "template": "Validation Rule",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD44D084-8C07-4E03-96A3-D17BC9A87268}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:07.9952770Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Owned By Non Existing User",
+    "itemPath": "/sitecore/system/Settings/Validation Rules/Item Rules/Security/Owned By Non Existing User",
+    "commandType": "Item",
+    "template": "Validation Rule",
     "sourceControlRevisionId": null
   }
 ]

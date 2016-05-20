@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iraq",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7613BD5B-7A53-41B7-96BA-7F836F1D0F6E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:16.4152841Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Iraq",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Iraq",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

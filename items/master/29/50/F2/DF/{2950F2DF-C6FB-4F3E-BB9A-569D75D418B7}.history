@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Personalize",
     "commandType": "Item",
     "template": "Quick Action",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{2950F2DF-C6FB-4F3E-BB9A-569D75D418B7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:13.9894193Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Personalize",
+    "itemPath": "/sitecore/system/Settings/Buckets/Settings/Quick Actions/Personalize",
+    "commandType": "Item",
+    "template": "Quick Action",
     "sourceControlRevisionId": null
   }
 ]

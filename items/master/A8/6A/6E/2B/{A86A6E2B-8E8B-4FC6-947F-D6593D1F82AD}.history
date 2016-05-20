@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Content Editor Warnings",
     "commandType": "Item",
     "template": "Rules Context Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A86A6E2B-8E8B-4FC6-947F-D6593D1F82AD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:23.0314227Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Content Editor Warnings",
+    "itemPath": "/sitecore/system/Settings/Rules/Content Editor Warnings",
+    "commandType": "Item",
+    "template": "Rules Context Folder",
     "sourceControlRevisionId": null
   }
 ]

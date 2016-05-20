@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/TrackWithEngagement",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{8C0F9980-5A09-4874-A96E-468C13853B3A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:33.5910947Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "TrackWithEngagement",
+    "itemPath": "/sitecore/templates/System/Analytics/Testing/Test Definition/Data/TrackWithEngagement",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

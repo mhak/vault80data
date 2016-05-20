@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Light",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{1002F6EA-0666-454B-95DC-22A7222D3196}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:41.7579804Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Logo-Light",
+    "itemPath": "/sitecore/media library/Images/Demo/Logo/Logo-Light",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

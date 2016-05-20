@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsFailure",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{BD5D2A52-027F-4CC8-9606-C5CE6CBBF437}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:17.3625310Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "IsFailure",
+    "itemPath": "/sitecore/templates/System/Analytics/Page Event/Options/IsFailure",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

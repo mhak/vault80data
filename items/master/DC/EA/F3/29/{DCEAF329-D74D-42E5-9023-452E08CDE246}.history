@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Visit language",
     "commandType": "Item",
     "template": "Condition",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DCEAF329-D74D-42E5-9023-452E08CDE246}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:05:09.4210563Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Visit language",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Visit/Visit language",
+    "commandType": "Item",
+    "template": "Condition",
     "sourceControlRevisionId": null
   }
 ]

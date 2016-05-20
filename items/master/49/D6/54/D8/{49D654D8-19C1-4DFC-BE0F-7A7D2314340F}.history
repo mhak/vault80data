@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Workflow/Check in",
     "commandType": "Item",
     "template": "Dictionary entry",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{49D654D8-19C1-4DFC-BE0F-7A7D2314340F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:06:08.3440362Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Check in",
+    "itemPath": "/sitecore/system/Settings/Workflow/Check in",
+    "commandType": "Item",
+    "template": "Dictionary entry",
     "sourceControlRevisionId": null
   }
 ]

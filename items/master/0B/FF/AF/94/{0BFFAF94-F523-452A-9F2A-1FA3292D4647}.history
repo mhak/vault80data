@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook/Facebook Content Messages",
     "commandType": "Item",
     "template": "Campaign",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0BFFAF94-F523-452A-9F2A-1FA3292D4647}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:13.9650154Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "{EDCBB550-BED3-490F-82B8-7B2F14CCD26E}",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Facebook Content Messages",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook/Facebook Content Messages",
+    "commandType": "Item",
+    "template": "Campaign",
     "sourceControlRevisionId": null
   }
 ]

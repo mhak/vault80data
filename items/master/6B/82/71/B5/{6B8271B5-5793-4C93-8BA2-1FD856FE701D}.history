@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6B8271B5-5793-4C93-8BA2-1FD856FE701D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:50.9436587Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Analytics/Rules/Session End/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]

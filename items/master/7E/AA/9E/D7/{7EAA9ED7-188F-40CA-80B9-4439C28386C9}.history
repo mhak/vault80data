@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social Mentions/Blogs",
     "commandType": "Item",
     "template": "Channel",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{7EAA9ED7-188F-40CA-80B9-4439C28386C9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:02:03.2141211Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Blogs",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Taxonomies/Channel/Online/Social Mentions/Blogs",
+    "commandType": "Item",
+    "template": "Channel",
     "sourceControlRevisionId": null
   }
 ]

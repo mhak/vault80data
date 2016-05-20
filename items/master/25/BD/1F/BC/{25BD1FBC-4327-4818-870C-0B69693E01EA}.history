@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/El Salvador",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{25BD1FBC-4327-4818-870C-0B69693E01EA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:11.5226242Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "El Salvador",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/El Salvador",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

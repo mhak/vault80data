@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/media library/System/Channel Images/ch-twitter-post",
     "commandType": "Item",
     "template": "Image",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{24E39479-6BB1-4E83-B4A5-AD1A1D6B7498}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:53.2198855Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "ch-twitter-post",
+    "itemPath": "/sitecore/media library/System/Channel Images/ch-twitter-post",
+    "commandType": "Item",
+    "template": "Image",
     "sourceControlRevisionId": null
   }
 ]

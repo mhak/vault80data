@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visits",
     "commandType": "Item",
     "template": "ReportQuery",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F3776FD4-C9F5-45C6-9EEE-25D34B898695}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:47.0480136Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Organization Visits",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Organization Visits",
+    "commandType": "Item",
+    "template": "ReportQuery",
     "sourceControlRevisionId": null
   }
 ]

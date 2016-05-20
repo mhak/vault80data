@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tokelau",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{6474477E-1F7F-4F97-A14D-7664C8F875D2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:30.0607147Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tokelau",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Tokelau",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]

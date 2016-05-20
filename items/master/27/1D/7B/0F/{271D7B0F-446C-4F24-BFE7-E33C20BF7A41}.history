@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/templates/System/Analytics/Profile Key/Data/MinValue",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{271D7B0F-446C-4F24-BFE7-E33C20BF7A41}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:07:23.3693028Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "MinValue",
+    "itemPath": "/sitecore/templates/System/Analytics/Profile Key/Data/MinValue",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]

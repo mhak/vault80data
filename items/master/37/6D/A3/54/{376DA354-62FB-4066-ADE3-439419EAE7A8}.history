@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Buckets/Item Buckets Settings",
     "commandType": "Item",
     "template": "Item Buckets Settings",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{376DA354-62FB-4066-ADE3-439419EAE7A8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:04:06.3859334Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Item Buckets Settings",
+    "itemPath": "/sitecore/system/Settings/Buckets/Item Buckets Settings",
+    "commandType": "Item",
+    "template": "Item Buckets Settings",
     "sourceControlRevisionId": null
   }
 ]

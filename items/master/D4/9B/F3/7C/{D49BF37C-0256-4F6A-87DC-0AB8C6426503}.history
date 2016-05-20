@@ -93,6 +93,22 @@
     "itemPath": "/sitecore/content/Global/Home Settings",
     "commandType": "Item",
     "template": "Settings",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D49BF37C-0256-4F6A-87DC-0AB8C6426503}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:00:00.4347413Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Home Settings",
+    "itemPath": "/sitecore/content/Global/Home Settings",
+    "commandType": "Item",
+    "template": "Settings",
     "sourceControlRevisionId": null
   }
 ]

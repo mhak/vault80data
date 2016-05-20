@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Montserrat",
     "commandType": "Item",
     "template": "Country",
+    "sourceControlRevisionId": "40df9c714d6b4fab37fe31715db91025c4c31f68"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{99DB1959-E3E3-4CD0-B7D1-90D64CE4C32D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-20T19:03:21.4621531Z",
+    "label": "Snapshot - Presentation",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Montserrat",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Montserrat",
+    "commandType": "Item",
+    "template": "Country",
     "sourceControlRevisionId": null
   }
 ]
