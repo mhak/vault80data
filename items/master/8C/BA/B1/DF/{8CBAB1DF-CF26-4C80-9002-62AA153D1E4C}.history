@@ -157,6 +157,22 @@
     "itemPath": "/sitecore/templates/System/Alias/Data/Linked item",
     "commandType": "Item",
     "template": "Template field",
+    "sourceControlRevisionId": "f0711bd2194c138628037192119416945bd52dd5"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{8CBAB1DF-CF26-4C80-9002-62AA153D1E4C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-23T17:44:23.2850858Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Linked item",
+    "itemPath": "/sitecore/templates/System/Alias/Data/Linked item",
+    "commandType": "Item",
+    "template": "Template field",
     "sourceControlRevisionId": null
   }
 ]
