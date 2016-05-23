@@ -525,6 +525,22 @@
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "c24a4db93fb78ce8f7d76f593f61acd1b6226c5b"
+  },
+  {
+    "eventType": "CheckedIn",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-23T17:44:14.1753300Z",
+    "label": "Checked in",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Home",
+    "itemPath": "/sitecore/content/Home",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
