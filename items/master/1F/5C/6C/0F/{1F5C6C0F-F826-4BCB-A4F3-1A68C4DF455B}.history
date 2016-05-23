@@ -77,6 +77,22 @@
     "itemPath": "[orphan]/subfolder",
     "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "499e7a9df43ae50e1cd9d5f21004c5d9a794a215"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{1F5C6C0F-F826-4BCB-A4F3-1A68C4DF455B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-23T18:54:33.7185784Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "subfolder",
+    "itemPath": "/sitecore/content/restored/20160523/subfolder",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": "499e7a9df43ae50e1cd9d5f21004c5d9a794a215"
   }
 ]
