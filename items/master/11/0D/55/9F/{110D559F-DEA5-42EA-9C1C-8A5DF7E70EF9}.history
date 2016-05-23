@@ -573,6 +573,22 @@
     "itemPath": "/sitecore/content/Home old",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "70dedda11c71039df39646feb9aaf5c13aa9086f"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-23T17:45:15.3932795Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Home old",
+    "itemPath": "/sitecore/content/Home old",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
