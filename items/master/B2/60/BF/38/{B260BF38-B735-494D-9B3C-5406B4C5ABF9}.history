@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/content/Home/Tert Section",
     "commandType": "Item",
     "template": "Folder",
-    "sourceControlRevisionId": "bebe79767513650aa00b2aaee683813f3347f6b5"
+    "sourceControlRevisionId": "e45012ca7fe09cbc06352628b5d341440db3747e"
+  },
+  {
+    "eventType": "VaultRestored",
+    "database": "master",
+    "itemId": "{B260BF38-B735-494D-9B3C-5406B4C5ABF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-23T18:16:39.0254555Z",
+    "label": "Restored",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Tert Section",
+    "itemPath": "/sitecore/content/Home old/Tert Section",
+    "commandType": "Item",
+    "template": "Folder",
+    "sourceControlRevisionId": null
   }
 ]
