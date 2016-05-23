@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Home old/Folder",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "97e57b6d7fd64ed76b3922e1019d864a66ec3091"
+  },
+  {
+    "eventType": "VersionAdded",
+    "database": "master",
+    "itemId": "{3E640B42-B933-4331-95E8-01BF01CA5940}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-23T18:19:03.4236856Z",
+    "label": "Version 1 Added",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Folder",
+    "itemPath": "/sitecore/content/Home old/Folder",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
