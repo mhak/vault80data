@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {D20C3339-0473-4413-8EA5-B1FB5D538204}
+database: master
+path: /sitecore/content/Micah sucks/My-Banking2/Investment
+parent: {F28DD7B9-D75F-4C68-90F2-081FA7AA375C}
+name: Investment
+master: {00000000-0000-0000-0000-000000000000}
+template: {99595FA3-1836-4333-9B99-B650273820B9}
+templatekey: HealthWealthPage
+
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 3
+
+200
+----field----
+field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
+name: __Renderings
+key: __renderings
+content-length: 1576
+
+<r xmlns:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" l="{987C139E-88C5-450C-A3EB-E9726915EF9B}"><r ds="{EFB5AD90-D005-4BFC-BEE6-0A0B178BB3D9}" id="{F8478A12-F095-4EB0-A529-1615251F7EAE}" par="" ph="header" uid="{39029125-28C0-4FDD-83CF-965ECB4C21BB}" /><r ds="{8E624FEC-6A2C-46A4-AE8B-F267D2713FBA}" id="{D283C5F1-ADBC-4D58-9CFA-66AC5B51EAAF}" par="" ph="footer" uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}" /><r uid="{0F7EC932-57A0-487F-979B-3E5F7A68E8BC}" ds="{CE7F1B57-AC7E-4C15-8019-11012BF5389D}" id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" par="" ph="" /><r uid="{9ED1507B-B360-4E95-A399-649B6AF6ADDF}" ds="{4CCD4849-0D64-4B73-ABC5-7A65FFB71CA2}" id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" par="" ph="" /><r uid="{4708DE3D-C5AB-4E6A-8D52-A61BBC99A5C5}" ds="{E72148BA-9ED5-4434-AE71-BCEE1554091F}" id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" par="" ph="" /><r uid="{D40D9273-64C7-42BB-B5B1-88B948E1C3E7}" ds="{4910D8A7-1054-448E-88E6-EEF3F279C880}" id="{F802C8D3-B327-4FE4-A9AC-D01694FCE9FF}" par="Disclosures Header=Important%20Disclosures%2C%20Please%20Read&amp;Disclosures Source=%7BEF17CC13-143C-42A2-8544-CC33CF2EF5FE%7D%7C%7B477DB3B4-FFEC-4ECA-A3FF-7D90ADCC6CD2%7D" ph="" /><r uid="{93476C4D-D5EB-46A7-99BE-D03AA137638C}" ds="{556540E4-8D32-4BED-A33B-4DFC7F9EC744}" id="{F802C8D3-B327-4FE4-A9AC-D01694FCE9FF}" par="Disclosures Header=Yields%20%26%20Distribution%20Footnotes%20%26%20Disclosures&amp;Disclosures Source=%7BEF17CC13-143C-42A2-8544-CC33CF2EF5FE%7D%7C%7B2F8861A7-5860-49F6-B7D1-AC776D7B3580%7D" ph="" /></d></r>
+----version----
+language: en
+version: 1
+revision: e942a0bd-dee0-43ed-aec3-f1d58daea947
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160407T225551Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+e942a0bd-dee0-43ed-aec3-f1d58daea947
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160513T192933Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
