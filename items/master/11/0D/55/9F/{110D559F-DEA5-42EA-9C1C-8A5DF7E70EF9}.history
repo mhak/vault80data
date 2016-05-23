@@ -541,6 +541,22 @@
     "itemPath": "/sitecore/content/Home",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "176e6ab222750fac15c7db751fcebec3c8965875"
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2016-05-23T17:44:23.0622903Z",
+    "label": "Renamed Home to Home old",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "Home old",
+    "itemPath": "/sitecore/content/Home old",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
