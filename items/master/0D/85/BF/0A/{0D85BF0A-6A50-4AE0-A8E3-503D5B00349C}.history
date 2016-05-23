@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/New Child Sorting",
     "commandType": "Item",
     "template": "Child Sorting",
-    "sourceControlRevisionId": "9e534d99bdf96f17a914a24baa76e2bf1be3823f"
+    "sourceControlRevisionId": "bf6e40a356bad9150215411ad4ad405735bd9e84"
+  },
+  {
+    "eventType": "VaultRestored",
+    "database": "master",
+    "itemId": "{0D85BF0A-6A50-4AE0-A8E3-503D5B00349C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-23T18:16:33.4236180Z",
+    "label": "Restored",
+    "workflowState": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "New Child Sorting",
+    "itemPath": "/sitecore/content/New Child Sorting",
+    "commandType": "Item",
+    "template": "Child Sorting",
+    "sourceControlRevisionId": null
   }
 ]

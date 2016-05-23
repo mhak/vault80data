@@ -2,10 +2,57 @@
 version: 1
 id: {0D85BF0A-6A50-4AE0-A8E3-503D5B00349C}
 database: master
-path: /New Child Sorting
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/New Child Sorting
+parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
 name: New Child Sorting
 master: {00000000-0000-0000-0000-000000000000}
 template: {F0CBFD8C-D5EF-43E1-A4D7-8B386C77B9E4}
 templatekey: Child Sorting
 
+----version----
+language: en
+version: 1
+revision: abee277f-864d-4e9f-8f5f-ed7ae0e441bf
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160427T215828Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+abee277f-864d-4e9f-8f5f-ed7ae0e441bf
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160427T215828Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
