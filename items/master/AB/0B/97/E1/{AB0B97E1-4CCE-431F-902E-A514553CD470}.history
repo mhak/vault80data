@@ -29,6 +29,22 @@
     "itemPath": "/sitecore/content/Micah sucks",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "d3569a1f74b5610bb7668074ddfe30487d776620"
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{AB0B97E1-4CCE-431F-902E-A514553CD470}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-23T18:54:45.2228391Z",
+    "label": "Renamed Micah sucks to Other Home",
+    "workflowState": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "Other Home",
+    "itemPath": "/sitecore/content/Other Home",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
