@@ -55,9 +55,9 @@ FormTemplate=/sitecore modules/web/Web Forms for Marketers/Control/SitecoreSimpl
 field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
 name: Datasource Location
 key: datasource location
-content-length: 22
+content-length: 26
 
-/sitecore/content/Home
+/sitecore/content/Home old
 ----field----
 field: {A2F5D9DF-8CBA-4A1D-99EB-51ACB94CB057}
 name: Page Editor Buttons
@@ -237,7 +237,7 @@ extranet\Anonymous
 ----version----
 language: en
 version: 1
-revision: c5dda61c-bd50-4b65-95ee-c86bc8b5c1d3
+revision: 885eb160-f85a-4d60-9860-aa9a928fc987
 
 ----field----
 field: {4A7F5F08-125D-47A4-B849-9EC366D51928}
@@ -288,21 +288,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-c5dda61c-bd50-4b65-95ee-c86bc8b5c1d3
+885eb160-f85a-4d60-9860-aa9a928fc987
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160513T192945Z
+20160523T174423Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 13
 
-extranet\Anonymous
+sitecore\meng
 ----version----
 language: ja-JP
 version: 1
