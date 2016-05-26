@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Sign-Up-Content",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "e35a56054df464fbc6f03bce80e51ce48759420d"
+    "sourceControlRevisionId": "b2f750f57bb5aeea118b34a8b6d0a32288df8bb3"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{8786970B-61B9-4E52-B339-121DEB7624AE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:57.6761361Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign-Up-Content",
+    "itemPath": "[orphan]/Sign-Up-Content",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
