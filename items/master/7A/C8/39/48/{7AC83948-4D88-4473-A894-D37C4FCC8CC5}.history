@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Testimonial",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "c245a122b1e6def332f660cb9967d6bfcb2699e3"
+    "sourceControlRevisionId": "fa5415311a96d68c911cc0c2f7f5cff11be612ed"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7AC83948-4D88-4473-A894-D37C4FCC8CC5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:51.9842465Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business - Testimonial",
+    "itemPath": "[orphan]/Business - Testimonial",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]

@@ -2,10 +2,80 @@
 version: 1
 id: {7AC83948-4D88-4473-A894-D37C4FCC8CC5}
 database: master
-path: /Business - Testimonial
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/Global/HealthWealth/My Banking/Business - Testimonial
+parent: {7E2CDE4E-A9CD-4512-81BB-A58250169E54}
 name: Business - Testimonial
 master: {00000000-0000-0000-0000-000000000000}
 template: {CFB6BB46-C6A8-44F9-977D-63C0A765B698}
 templatekey: Promotion
 
+----version----
+language: en
+version: 1
+revision: 4e376b73-2abc-4b5c-89f1-f0a26e7b556a
+
+----field----
+field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
+name: Promotion Text
+key: promotion text
+content-length: 1013
+
+
+
+<section class="component">
+    <div class="component__inner" style="background-image: url(/assets/images/business/testimonial_img.png);color:#FAFAFA;padding:0;">
+		<div style="padding:30px 0 30px 36px;background:linear-gradient(to right, rgba(0,0 ,0, 1), rgba(0,0,0,0));height:100%;width:70%;">
+		<h2 style="font-size:40px;line-height:40px;padding-top:">SMALL BUSINESS <br>SOLUTIONS. REAL RESULTS</h2>
+		<h4 style="max-width: 350px; margin-top: 40px;color:#FAFAFA;font-size:22px;line-height:24px;" class="quote-component__quote"><em>Healthy + Wealthy helped us get the added capital to expand to our next location.</em></h4>
+		<p style="margin-left:239px; max-width:190px;font-size:14px;line-height:17px;">Karen Oakwood - Bon Bakery
+Healthy + Wealthy since 2015</p>
+		<a style="line-height:24px;display:inline-block;margin-top:10px;background-color: #04ADC1; border-radius:30px;font-size:20px;color:#242424;padding:7px 22px 9px 23px;height:40px;width:200px;">Watch the Video</a>
+		</div>
+	</div>
+</section>
+
+
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160415T232050Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+4e376b73-2abc-4b5c-89f1-f0a26e7b556a
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160526T183951Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
