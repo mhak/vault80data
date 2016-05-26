@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal - Carousel",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "17181b222b3ad44c5772178346b1e1da8efca1e0"
+    "sourceControlRevisionId": "f20230938d32cbfc8d56edadd6380a00ee45a540"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7A4B5604-7717-4E0C-8759-46958B66473E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:55.8491449Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal - Carousel",
+    "itemPath": "[orphan]/Personal - Carousel",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
