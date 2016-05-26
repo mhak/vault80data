@@ -141,6 +141,22 @@
     "itemPath": "/sitecore/content/Home/My-Wealth",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "bbb2d64f901fe54c1ec79b30d3bbaadb4d5861db"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{20BC4793-D65C-4EBD-B222-C07C5E509C89}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T17:49:45.8090808Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "My-Wealth",
+    "itemPath": "/sitecore/content/Home/My-Wealth",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
