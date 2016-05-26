@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/What Interests You",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "d0571569d78e89ec8cfc5a73ac6d5708fc15840f"
+    "sourceControlRevisionId": "763f201b410a921bb58234cd44870d5a21b08c85"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B088E095-FE77-4DE7-84EE-35060A969BF5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:58.3591771Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "What Interests You",
+    "itemPath": "[orphan]/What Interests You",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
