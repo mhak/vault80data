@@ -2,10 +2,92 @@
 version: 1
 id: {54B6C191-3EBB-4559-BBEF-44AA04451BDB}
 database: master
-path: /Hero
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/Global/HealthWealth/Home/Hero
+parent: {02436C2F-546F-409E-9F07-CB81398D8D1A}
 name: Hero
 master: {00000000-0000-0000-0000-000000000000}
 template: {CFB6BB46-C6A8-44F9-977D-63C0A765B698}
 templatekey: Promotion
 
+----version----
+language: en
+version: 1
+revision: 1b6816c2-15f3-4b29-8fb6-c224ee9d1536
+
+----field----
+field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
+name: Promotion Text
+key: promotion text
+content-length: 1008
+
+<style>
+    @media screen and (min-width: 768px) {
+    .hero {
+    height: 532px; } }
+    @media screen and (max-width: 1439px) {
+    .hero {
+    background-image: url("/Assets/images/heroes/old/Hero.png"); } }
+    @media screen and (min-width: 1440px) {
+    .hero {
+    background-image: url("/Assets/images/heroes/old/Hero@2x.png"); } }
+</style>
+<!-- Begin: Hero Component -->
+<section class="hero component">
+<!-- <img src="/Assets/images/heroes/Hero.png" srcset="/Assets/images/heroes/Hero@2x.png 2x" width="1440" height="532" alt="healthy + wealthy" class="hero__image" /> -->
+<div class="hero__inner">
+<div class="hero__overlay light-text">
+<div class="hero__overlay--inner">
+<h1 class="hero__title">★★★★★ Rated by Morningstar</h1>
+<div class="hero__description">
+<p>Our investment portfolio was recognized by Morningstar as top a performer.</p>
+</div>
+<div class="hero__buttons">
+<a href="#" class="btn btn--green">Show me more</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- End:   Hero Component -->
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+sitecore\jim
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160328T024600Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+sitecore\jim
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+1b6816c2-15f3-4b29-8fb6-c224ee9d1536
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160526T183949Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
