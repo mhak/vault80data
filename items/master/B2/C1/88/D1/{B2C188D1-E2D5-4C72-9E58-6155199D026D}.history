@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Title",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "bd03dd96bcdc491747fd4fdd990a44280fd39a65"
+    "sourceControlRevisionId": "12ffcf756893d8ebca987bb53459cd72fe905ec3"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{B2C188D1-E2D5-4C72-9E58-6155199D026D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:57.3881068Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal Banking Title",
+    "itemPath": "[orphan]/Personal Banking Title",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
