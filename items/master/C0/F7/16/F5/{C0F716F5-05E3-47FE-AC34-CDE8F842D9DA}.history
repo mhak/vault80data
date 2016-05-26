@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Health",
     "commandType": "Item",
     "template": "Promotion Folder",
-    "sourceControlRevisionId": "6b49cf37a4056e2394714000c6cca0f8d1f17b49"
+    "sourceControlRevisionId": "3f231e14e74aa9004e634eb628b36a590a59b759"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{C0F716F5-05E3-47FE-AC34-CDE8F842D9DA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:48.7358770Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "My Health",
+    "itemPath": "[orphan]/My Health",
+    "commandType": "Item",
+    "template": "Promotion Folder",
+    "sourceControlRevisionId": null
   }
 ]
