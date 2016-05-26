@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Carousel",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "df922fa747cef3491d5dda48211168720c5e0208"
+    "sourceControlRevisionId": "ad06ddf5eb94c977953300090e462b3426f1b364"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2ADB595F-3035-4354-AE72-E735CF47EB26}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:51.5377792Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business - Carousel",
+    "itemPath": "[orphan]/Business - Carousel",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
