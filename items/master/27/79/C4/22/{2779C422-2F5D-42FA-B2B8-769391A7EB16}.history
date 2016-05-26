@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/Home/Quotes Component",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "f567c58401969ab11d223b34bd49f5bcb0687467"
+    "sourceControlRevisionId": "6a6cfa2bcb2c0836ac8a9d7fc3d7ec1719d4472b"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{2779C422-2F5D-42FA-B2B8-769391A7EB16}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:50.1773740Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Quotes Component",
+    "itemPath": "[orphan]/Quotes Component",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
