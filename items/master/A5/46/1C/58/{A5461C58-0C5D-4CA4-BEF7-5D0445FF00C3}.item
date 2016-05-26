@@ -2,90 +2,10 @@
 version: 1
 id: {A5461C58-0C5D-4CA4-BEF7-5D0445FF00C3}
 database: master
-path: /sitecore/content/Global/HealthWealth/My Banking/Personal - Logged In
-parent: {7E2CDE4E-A9CD-4512-81BB-A58250169E54}
+path: /Personal - Logged In
+parent: {00000000-0000-0000-0000-000000000000}
 name: Personal - Logged In
 master: {00000000-0000-0000-0000-000000000000}
 template: {CFB6BB46-C6A8-44F9-977D-63C0A765B698}
 templatekey: Promotion
 
-----version----
-language: en
-version: 1
-revision: 2511b623-b018-4541-90db-4ef6bb915e4f
-
-----field----
-field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
-name: Promotion Text
-key: promotion text
-content-length: 1160
-
-<style>
-    .btn-profile {
-        line-height: 20px;
-        display: inline-block;
-        margin-top: 10px;
-        border: 1px solid black;
-        border-radius: 30px;
-        font-size: 16px;
-        color: #484848;
-        height: 30px;
-        padding: 3px 30px;
-        height: 30px;
-        min-width: 165px;
-    }
-</style>
-   <div class="featured-box" style="width: 74%;background-image: url(/assets/images/personal/promo_img.png);color:#FAFAFA;padding:0; background-size:cover; height:400px;">
-		<div style=" padding:30px 0 30px 36px;background:linear-gradient(to right, rgba(0,0 ,0, 1), rgba(0,0,0,0));height:100%;width:70%;">        
-
-		<h2 style="margin-top: 180px;font-size:40px;line-height:40px;max-width: 500px;">SAVE MORE. PLAY MORE</h2>
-		<h4 style="max-width: 500px;color:#FAFAFA;font-size:22px;line-height:24px;">With F&M financial tools, you can focus more on having fun and enjoying your savings.</h4>
-		<a style="line-height:24px;display:inline-block;margin-top:10px;background-color: #DA5A6A; border-radius:30px;font-size:20px;color:#242424;padding:7px 47px 9px 48px;height:40px;width:200px;">Get Started</a>
-		
-		
-		
-		</div>
-
-</div>
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 14
-
-sitecore\admin
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160420T170610Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 14
-
-sitecore\admin
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-2511b623-b018-4541-90db-4ef6bb915e4f
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160513T192907Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 18
-
-extranet\Anonymous
