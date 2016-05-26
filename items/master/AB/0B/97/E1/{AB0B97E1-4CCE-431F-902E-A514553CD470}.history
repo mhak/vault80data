@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Other Home",
     "commandType": "Item",
     "template": "HealthWealthPage",
+    "sourceControlRevisionId": "0e20975ddea81462156dd1d1b4be97658742ef27"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{AB0B97E1-4CCE-431F-902E-A514553CD470}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T17:49:43.0285179Z",
+    "label": "Saved",
+    "workflowState": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "Other Home",
+    "itemPath": "/sitecore/content/Other Home",
+    "commandType": "Item",
+    "template": "HealthWealthPage",
     "sourceControlRevisionId": null
   }
 ]
