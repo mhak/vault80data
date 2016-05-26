@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Form Header",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "31e7869ab9f81fa5f98830a6915f8db2ad9ad65e"
+    "sourceControlRevisionId": "0dc4db07a9251f07b153cc0200c95a27f242e7fd"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{7816AD7B-90BC-4F57-8804-464FEA06224B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:53.9379051Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Form Header",
+    "itemPath": "[orphan]/Form Header",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
