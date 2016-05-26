@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Content",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "b933a38c130874643537d471759127bf5fcf33bf"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{3E58D2A3-335A-495E-8945-28BFDA4EBCE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T17:49:51.8496194Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "Personal Banking Content",
+    "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Content",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": "b933a38c130874643537d471759127bf5fcf33bf"
   }
 ]
