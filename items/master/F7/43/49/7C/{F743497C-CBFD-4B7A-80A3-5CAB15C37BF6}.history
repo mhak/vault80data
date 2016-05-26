@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/Home/test2",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "57dd78dfc44543177c2b9980408ae6836e247804"
+    "sourceControlRevisionId": "b6dc2025f3d922d25b095ef2b1cfc1204d914fb2"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{F743497C-CBFD-4B7A-80A3-5CAB15C37BF6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:50.6276027Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "test2",
+    "itemPath": "[orphan]/test2",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
