@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Business - Bottom",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "51e4842c939fc9652b9533201a6b83b001c0af13"
+    "sourceControlRevisionId": "20a92724f7589eab2ae89b1af7c1c380db054e7a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{46A961C0-4F3D-4737-86CD-8912D2474F04}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:51.0839014Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Business - Bottom",
+    "itemPath": "[orphan]/Business - Bottom",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
