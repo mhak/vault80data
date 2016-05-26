@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Wealth Overview",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "84934d1a0ba3b863a26444355acd2b3005b48f93"
+    "sourceControlRevisionId": "e54146eea5c52d96ecbcf2589f90b72c930a8d59"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{E72148BA-9ED5-4434-AE71-BCEE1554091F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:40:00.2682328Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Wealth Overview",
+    "itemPath": "[orphan]/Wealth Overview",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
