@@ -2,10 +2,114 @@
 version: 1
 id: {556540E4-8D32-4BED-A33B-4DFC7F9EC744}
 database: master
-path: /Yields
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/Global/HealthWealth/My Wealth/Yields
+parent: {D6156E42-2D7C-4F6F-A2D3-9DC525E35A57}
 name: Yields
 master: {00000000-0000-0000-0000-000000000000}
 template: {CFB6BB46-C6A8-44F9-977D-63C0A765B698}
 templatekey: Promotion
 
+----version----
+language: en
+version: 1
+revision: f832127d-54c6-4a69-be49-4edf0f56003d
+
+----field----
+field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
+name: Promotion Text
+key: promotion text
+content-length: 920
+
+    <div class="component__inner yields__inner">
+		<ul class="yields-list">
+			<li class="yields-item">
+				<div class="yields-item__name">Distribution Yield (At NAV) as of 1/31/2016</div>
+
+				<div class="yields-item__value">
+					<a href="#">2.67%</a>
+				</div>
+			</li>
+			
+			<li class="yields-item">
+				<div class="yields-item__name">30-Day SEC yield as of 2/26/2016</div>
+				
+				<div class="yields-item__value">
+					<a href="#">2.02%</a>
+				</div>
+			</li>
+
+			<li class="yields-item">
+				<div class="yields-item__name">Latest Dividend Distribution ($ share) as of 1/29/2016</div>
+				
+				<div class="yields-item__value">
+					<a href="#">$0.021997038</a>
+				</div>
+			</li>
+
+			<li class="yields-item">
+				<div class="yields-item__name">Dividend Distribution (YTD) as of 1/29/2016</div>
+				
+				<div class="yields-item__value">
+					<a href="#">$0.021997038</a>
+				</div>
+			</li>
+		</ul>
+    </div>
+
+
+----field----
+field: {D1FD4061-7CF4-4C2E-B37B-C667FE829CF8}
+name: Component Title
+key: component title
+content-length: 21
+
+Yields & Distibutions
+----field----
+field: {FB8B8297-38B7-4385-A0EB-2771D58DC63C}
+name: Css Class
+key: css class
+content-length: 6
+
+yields
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+sitecore\jim
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160328T025558Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+sitecore\jim
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f832127d-54c6-4a69-be49-4edf0f56003d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160526T184000Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous

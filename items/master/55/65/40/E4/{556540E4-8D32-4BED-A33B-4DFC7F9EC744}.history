@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Yields",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "06a4d5a4c0292786c3413bfafaf564107fb4a2ca"
+    "sourceControlRevisionId": "ce246f8435267e125ed13e5693db483a652cf32b"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{556540E4-8D32-4BED-A33B-4DFC7F9EC744}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:40:00.4743202Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Yields",
+    "itemPath": "[orphan]/Yields",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
