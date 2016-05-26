@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Banking Overview",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "64d186efb887a56035fa3d36107eb0b84eece8d2"
+    "sourceControlRevisionId": "458a21ec3521f8ea5bece502124aff95bd1c0bde"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{67B70FDC-2EE9-4C64-9ADA-F52B70E1F31D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:50.8373857Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Banking Overview",
+    "itemPath": "[orphan]/Banking Overview",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
