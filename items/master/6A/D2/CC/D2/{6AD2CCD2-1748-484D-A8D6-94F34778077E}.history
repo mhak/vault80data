@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Health Hero",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "23d02429a1592f47f95b288c9b3388d8a5769d81"
+    "sourceControlRevisionId": "70b76b6f501ec4c33458a814d3e03b2f998c7010"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{6AD2CCD2-1748-484D-A8D6-94F34778077E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:58.7076555Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Health Hero",
+    "itemPath": "[orphan]/Health Hero",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
