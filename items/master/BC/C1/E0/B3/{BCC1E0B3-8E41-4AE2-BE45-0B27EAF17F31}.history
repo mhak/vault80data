@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Investor Banking Title",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "e40932544a08b82a1d7642b4fa5e550b341617bd"
+    "sourceControlRevisionId": "7b36288605ded2bdd3a2a235d00b97de763174a5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BCC1E0B3-8E41-4AE2-BE45-0B27EAF17F31}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:55.0952812Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Investor Banking Title",
+    "itemPath": "[orphan]/Investor Banking Title",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]

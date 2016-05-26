@@ -2,10 +2,96 @@
 version: 1
 id: {BCC1E0B3-8E41-4AE2-BE45-0B27EAF17F31}
 database: master
-path: /Investor Banking Title
-parent: {00000000-0000-0000-0000-000000000000}
+path: /sitecore/content/Global/HealthWealth/My Banking/Investor Banking Title
+parent: {7E2CDE4E-A9CD-4512-81BB-A58250169E54}
 name: Investor Banking Title
 master: {00000000-0000-0000-0000-000000000000}
 template: {CFB6BB46-C6A8-44F9-977D-63C0A765B698}
 templatekey: Promotion
 
+----version----
+language: en
+version: 1
+revision: 6e2fd520-f846-4665-b3ff-dd1e96046782
+
+----field----
+field: {58AD30CD-F302-46E5-A3B8-94D02A7C9B57}
+name: Promotion Text
+key: promotion text
+content-length: 867
+
+<style>
+  .page-titles--healthy {
+    background: url("/Assets/images/personal/Top_IMG.png") center top no-repeat;
+    background-color: white; 
+   background-size:cover;
+}
+.splBtn{
+    height:40px;
+    width:240px;
+    display:inline-block;
+    border-radius:20px;
+    border: 1px solid #484848;
+    line-height:20px;
+    font-size:16px;
+    line-height:36px;
+        margin:10px;
+   text-align:center;
+   vertical-align:middle;
+    }
+    a.splBtn{
+    color:#484848;
+    }
+.page-titles{padding:20px 0;}
+
+</style>
+<section class="page-titles page-titles--healthy component">
+    <div class="component__inner">
+        <h1 class="page-titles__main">Investor Banking</h1>
+        <h2 class="page-titles__sub">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h2>
+        <a class="splBtn" href="/splash?type=change">INVESTOR BANKING</a>
+    </div>
+</section>
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 12
+
+sitecore\jim
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160328T025045Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 12
+
+sitecore\jim
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+6e2fd520-f846-4665-b3ff-dd1e96046782
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160526T183955Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 18
+
+extranet\Anonymous
