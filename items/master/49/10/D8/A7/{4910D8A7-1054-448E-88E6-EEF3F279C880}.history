@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Performance",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "a9ddd22acf74ead8915d7c726a7e40a7b173ebf5"
+    "sourceControlRevisionId": "4065b6b41f8e2f9d71d3294067a8e60600aaecb1"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4910D8A7-1054-448E-88E6-EEF3F279C880}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:59.8964074Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Performance",
+    "itemPath": "[orphan]/Performance",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
