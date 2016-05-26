@@ -109,6 +109,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/Home/test",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "66a3fc884fc2d81a4a9f2fa9a5fa00f8e02a4895"
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{6BA1012E-D6EE-4302-BD79-DD97C3008570}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T17:49:49.5832455Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "test",
+    "itemPath": "/sitecore/content/Global/HealthWealth/Home/test",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": "66a3fc884fc2d81a4a9f2fa9a5fa00f8e02a4895"
   }
 ]
