@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Personal Banking Content",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "b933a38c130874643537d471759127bf5fcf33bf"
+    "sourceControlRevisionId": "fb2cdc987a7ccba176a22d6671aa91f25af576b5"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{3E58D2A3-335A-495E-8945-28BFDA4EBCE9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:57.1705490Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal Banking Content",
+    "itemPath": "[orphan]/Personal Banking Content",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
