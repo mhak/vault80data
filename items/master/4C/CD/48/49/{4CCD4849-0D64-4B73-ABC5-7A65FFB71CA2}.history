@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Wealth/Wealth Hero",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "d8bee3dbde63f1e3f726357e1d251270ed49fc00"
+    "sourceControlRevisionId": "410e6c00cad3d65fdc93a5f73ca3dabfa09b4bf8"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4CCD4849-0D64-4B73-ABC5-7A65FFB71CA2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:40:00.0768316Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Wealth Hero",
+    "itemPath": "[orphan]/Wealth Hero",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
