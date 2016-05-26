@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Wakitol Trials",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "b22ce79f3cf6bc836d99ecec3a62efeb3ac0187a"
+    "sourceControlRevisionId": "b3336895e5f2a69df647900a6f41c6f592b06bf8"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{894E54E3-7127-4E9C-8B50-A002133CFFAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:59.4978656Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Wakitol Trials",
+    "itemPath": "[orphan]/Wakitol Trials",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
