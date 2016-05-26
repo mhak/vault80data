@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/Sign In/Sign In Hero",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "18b21ad90b901efccf648a52930eac57ab52189e"
+    "sourceControlRevisionId": "a5390b1e06b07b3cf7640dc92c964e3e477432a4"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9346B725-2FC6-4D8E-96D1-56BABECD6BE7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:40:00.9307340Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Sign In Hero",
+    "itemPath": "[orphan]/Sign In Hero",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
