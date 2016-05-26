@@ -1293,6 +1293,22 @@
     "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Tags",
     "commandType": "Item",
     "template": "Tags Definitions Folder",
+    "sourceControlRevisionId": "135019de282bb6f3f9a6d628b3cf28da31b030c7"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{83FC20EE-DD53-47FE-98D5-154743E49AD3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T01:22:13.3183007Z",
+    "label": "Installed from package - Vault",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Tags",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/XCentium Vault/Tags",
+    "commandType": "Item",
+    "template": "Tags Definitions Folder",
     "sourceControlRevisionId": null
   }
 ]
