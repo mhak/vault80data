@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Banking/Free Checking Campaign",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "9de6450f5e0264c3533348d6a50908a72c9c9683"
+    "sourceControlRevisionId": "bc0ada5af5a3181703d189245830fd4b9d80b892"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{32618A77-4B6D-4FFE-BFC3-AE681BF4844B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:54.3342358Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free Checking Campaign",
+    "itemPath": "[orphan]/Free Checking Campaign",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
