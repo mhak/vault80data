@@ -36,13 +36,13 @@ content-length: 3
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 1228
+content-length: 1190
 
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}"><p:d /></r><r uid="{EEA72042-A50D-4CDF-B463-2919AE848E12}" p:before="r[@uid='{AD9ED71C-94CE-4D9D-99B2-E1883C61EDE7}']" s:ds="{896058D3-7EA2-4694-AD25-56613461A74F}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{AD9ED71C-94CE-4D9D-99B2-E1883C61EDE7}" p:before="r[@uid='{4FE4D74A-C02B-42F0-BD0E-90CF04E432C0}']" s:ds="" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{4FE4D74A-C02B-42F0-BD0E-90CF04E432C0}" p:before="r[@uid='{9C025B48-FEDC-40BC-87F4-DE474FF26353}']" s:ds="" s:id="{F802C8D3-B327-4FE4-A9AC-D01694FCE9FF}" s:par="Disclosures Source=%7bEF17CC13-143C-42A2-8544-CC33CF2EF5FE%7d&amp;Disclosures Header=Important+Wakitol+Information" s:ph="" /><r uid="{9C025B48-FEDC-40BC-87F4-DE474FF26353}" p:before="r[@uid='{1EB50F75-7FBB-4244-A403-C0BC6D9B5E8C}']" s:ds="{894E54E3-7127-4E9C-8B50-A002133CFFAF}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{1EB50F75-7FBB-4244-A403-C0BC6D9B5E8C}" s:ds="{8E624FEC-6A2C-46A4-AE8B-F267D2713FBA}" s:id="{D283C5F1-ADBC-4D58-9CFA-66AC5B51EAAF}" s:par="" s:ph="footer" /></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}"><p:d /></r><r uid="{EEA72042-A50D-4CDF-B463-2919AE848E12}" p:before="r[@uid='{AD9ED71C-94CE-4D9D-99B2-E1883C61EDE7}']" s:ds="" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{AD9ED71C-94CE-4D9D-99B2-E1883C61EDE7}" p:before="r[@uid='{4FE4D74A-C02B-42F0-BD0E-90CF04E432C0}']" s:ds="" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{4FE4D74A-C02B-42F0-BD0E-90CF04E432C0}" p:before="r[@uid='{9C025B48-FEDC-40BC-87F4-DE474FF26353}']" s:ds="" s:id="{F802C8D3-B327-4FE4-A9AC-D01694FCE9FF}" s:par="Disclosures Source=%7bEF17CC13-143C-42A2-8544-CC33CF2EF5FE%7d&amp;Disclosures Header=Important+Wakitol+Information" s:ph="" /><r uid="{9C025B48-FEDC-40BC-87F4-DE474FF26353}" p:before="r[@uid='{1EB50F75-7FBB-4244-A403-C0BC6D9B5E8C}']" s:ds="{894E54E3-7127-4E9C-8B50-A002133CFFAF}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{1EB50F75-7FBB-4244-A403-C0BC6D9B5E8C}" s:ds="{8E624FEC-6A2C-46A4-AE8B-F267D2713FBA}" s:id="{D283C5F1-ADBC-4D58-9CFA-66AC5B51EAAF}" s:par="" s:ph="footer" /></d></r>
 ----version----
 language: en
 version: 1
-revision: 0271fbe6-bacb-4469-bef3-bb8e60b9ed39
+revision: cb959672-f8c0-4d3b-b455-0cf530a5ee60
 
 ----field----
 field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
@@ -100,7 +100,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-0271fbe6-bacb-4469-bef3-bb8e60b9ed39
+cb959672-f8c0-4d3b-b455-0cf530a5ee60
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
