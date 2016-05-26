@@ -125,6 +125,22 @@
     "itemPath": "/sitecore/content/Global/HealthWealth/My Health/Page Titles",
     "commandType": "Item",
     "template": "Promotion",
-    "sourceControlRevisionId": "f42840aa706db58db7815a26765db615b6190008"
+    "sourceControlRevisionId": "360fdd234073eff310cc1375e6afe286a700e000"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{896058D3-7EA2-4694-AD25-56613461A74F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-26T18:39:59.2751347Z",
+    "label": "Installed from package - Sprint Deployment 4 QA",
+    "workflowState": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Page Titles",
+    "itemPath": "[orphan]/Page Titles",
+    "commandType": "Item",
+    "template": "Promotion",
+    "sourceControlRevisionId": null
   }
 ]
