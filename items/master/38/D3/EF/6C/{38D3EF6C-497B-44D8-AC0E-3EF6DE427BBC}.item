@@ -13,34 +13,41 @@ templatekey: Simulator Rotated State
 field: {89E13671-A39E-432B-BD99-CF27B7F0F90D}
 name: Background Image
 key: background image
-content-length: 182
+content-length: 58
 
-<image mediaid="{5217AD9F-7E79-44CA-8FD1-6B7389C48125}" mediapath="/System/Simulator Backgrounds/iPhone landscape" src="~/media/System/Simulator Backgrounds/iPhone landscape.ashx" />
+<image mediaid="{5217AD9F-7E79-44CA-8FD1-6B7389C48125}" />
 ----field----
 field: {82E5E42D-B707-4BC2-87BB-319497BD6C93}
 name: Screen Width
 key: screen width
 content-length: 3
 
-480
+667
 ----field----
 field: {E03FC568-58B8-44E7-A410-A25208602DB4}
 name: Screen Height
 key: screen height
 content-length: 3
 
-268
+375
 ----field----
 field: {A820E106-A624-4E1A-8F50-D672446CDF92}
 name: Screen Offset
 key: screen offset
 content-length: 6
 
-127,53
+107,30
+----field----
+field: {AB6934AF-A322-4BBE-AC3E-91F4A66BFBF5}
+name: Scale
+key: scale
+content-length: 38
+
+{85C66A5B-220A-48A2-89D1-51412B3B4124}
 ----version----
 language: da
 version: 1
-revision: 3fe983dd-9012-46c0-b3d3-a75b91f26498
+revision: f1915d66-ba6e-4c10-82be-4f01f7a867d9
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -62,7 +69,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T120212Z
+20151003T031138Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -76,25 +83,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3fe983dd-9012-46c0-b3d3-a75b91f26498
+f1915d66-ba6e-4c10-82be-4f01f7a867d9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T120212Z
+20160531T205332Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: de-DE
 version: 1
-revision: 4413d1f5-d9c8-451f-a82b-1163f3d12d73
+revision: 969acbc9-6dc5-4601-a6c4-2488e7d132f0
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -116,7 +123,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T115759Z
+20151003T030852Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -130,25 +137,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-4413d1f5-d9c8-451f-a82b-1163f3d12d73
+969acbc9-6dc5-4601-a6c4-2488e7d132f0
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115759Z
+20160531T205332Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: en
 version: 1
-revision: 2e65e5e6-b545-4304-a15d-f570b2d4bb65
+revision: cdd893cc-67fd-4361-9205-b1de9cde076d
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -161,9 +168,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20110913T193100
+20110913T173100Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -177,25 +184,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-2e65e5e6-b545-4304-a15d-f570b2d4bb65
+cdd893cc-67fd-4361-9205-b1de9cde076d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20120406T142936:634693193763493935
+20160531T205332Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 03b6a9af-67bd-4702-8853-1bef5124307e
+revision: f072c19e-80f6-401b-84fe-f0b6e117f35d
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -217,7 +224,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T115354Z
+20151003T031017Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -231,18 +238,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-03b6a9af-67bd-4702-8853-1bef5124307e
+f072c19e-80f6-401b-84fe-f0b6e117f35d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115354Z
+20160531T205333Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
