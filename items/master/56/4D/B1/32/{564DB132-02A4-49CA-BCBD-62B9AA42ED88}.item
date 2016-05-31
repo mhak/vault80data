@@ -2,9 +2,9 @@
 version: 1
 id: {564DB132-02A4-49CA-BCBD-62B9AA42ED88}
 database: master
-path: /sitecore/content/Home/Disclosure1
+path: /sitecore/content/Home/Disclosures
 parent: {9AC2DEEB-F849-49E4-96A9-ADD3FB6E88DC}
-name: Disclosure1
+name: Disclosures
 master: {00000000-0000-0000-0000-000000000000}
 template: {99595FA3-1836-4333-9B99-B650273820B9}
 templatekey: HealthWealthPage
@@ -26,7 +26,7 @@ content-length: 317
 ----version----
 language: en
 version: 1
-revision: 77a36a76-771b-4c8c-8441-4b0860f461c9
+revision: 7fe10456-da36-4db5-8428-4b9731bc2048
 
 ----field----
 field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
@@ -55,18 +55,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-77a36a76-771b-4c8c-8441-4b0860f461c9
+7fe10456-da36-4db5-8428-4b9731bc2048
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160519T165027Z
+20160531T191845Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 15
 
-extranet\Anonymous
+sitecore\martin
