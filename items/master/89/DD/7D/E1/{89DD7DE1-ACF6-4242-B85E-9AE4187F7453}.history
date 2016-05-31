@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/Griffin 2/login",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "d10d0165cba357990a3c568bbca9424f109863be"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{89DD7DE1-ACF6-4242-B85E-9AE4187F7453}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:52:50.7942668Z",
+    "label": "Installed from package",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "login",
+    "itemPath": "/sitecore/content/Griffin 2/login",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
