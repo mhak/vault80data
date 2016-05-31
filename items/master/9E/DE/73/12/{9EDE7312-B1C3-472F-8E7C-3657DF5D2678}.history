@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/Griffin 2/Personal/Free Checking",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "510de5aa4186c6e5432f29148d97ad3c41e58c90"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{9EDE7312-B1C3-472F-8E7C-3657DF5D2678}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:52:51.2195671Z",
+    "label": "Installed from package",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Free Checking",
+    "itemPath": "/sitecore/content/Griffin 2/Personal/Free Checking",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
