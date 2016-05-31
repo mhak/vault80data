@@ -2,9 +2,9 @@
 version: 1
 id: {1875D4AC-A81F-4558-B26A-D61D96F80C9C}
 database: master
-path: /sitecore/layout/Simulators/Large Android Phone/Large Android Phone Landscape
+path: /sitecore/layout/Simulators/Android Phablet/Android Phablet Landscape
 parent: {C158AB86-AAEE-420A-A40E-3B25DC92F218}
-name: Large Android Phone Landscape
+name: Android Phablet Landscape
 master: {00000000-0000-0000-0000-000000000000}
 template: {5CACE390-E862-4ACC-BFD5-2F26C5883F45}
 templatekey: Simulator Rotated State
@@ -15,28 +15,35 @@ name: Background Image
 key: background image
 content-length: 182
 
-<image mediaid="{DF1D83F8-D813-4445-A94F-1DB2067DAF2A}" mediapath="/System/Simulator Backgrounds/Large Android phone_landscape" src="~/media/DF1D83F8D8134445A94F1DB2067DAF2A.ashx" />
+<image src="~/media/DF1D83F8D8134445A94F1DB2067DAF2A.ashx" mediaid="{3C4269AD-19FE-4378-A51D-2690396B85C4}" mediapath="/System/Simulator Backgrounds/Large Android phone_landscape" />
 ----field----
 field: {82E5E42D-B707-4BC2-87BB-319497BD6C93}
 name: Screen Width
 key: screen width
-content-length: 4
+content-length: 3
 
-1280
+732
 ----field----
 field: {E03FC568-58B8-44E7-A410-A25208602DB4}
 name: Screen Height
 key: screen height
 content-length: 3
 
-800
+412
 ----field----
 field: {A820E106-A624-4E1A-8F50-D672446CDF92}
 name: Screen Offset
 key: screen offset
-content-length: 6
+content-length: 7
 
-181,52
+111, 90
+----field----
+field: {AB6934AF-A322-4BBE-AC3E-91F4A66BFBF5}
+name: Scale
+key: scale
+content-length: 38
+
+{85C66A5B-220A-48A2-89D1-51412B3B4124}
 ----field----
 field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
 name: __Thumbnail
@@ -47,7 +54,7 @@ content-length: 0
 ----version----
 language: da
 version: 1
-revision: 8947ca39-e209-400e-9154-944c36917322
+revision: 9eaed6b4-1cfd-4af2-b81d-af70f06a4bf1
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -69,7 +76,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T120202Z
+20151003T031136Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -83,25 +90,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-8947ca39-e209-400e-9154-944c36917322
+9eaed6b4-1cfd-4af2-b81d-af70f06a4bf1
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T120202Z
+20160531T205328Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: de-DE
 version: 1
-revision: 69be2018-ee09-421f-8144-d8574cce4a09
+revision: 290d5401-ad2d-4646-a7d4-ecdf1eb1b428
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -123,7 +130,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T115750Z
+20151003T030849Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -137,25 +144,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-69be2018-ee09-421f-8144-d8574cce4a09
+290d5401-ad2d-4646-a7d4-ecdf1eb1b428
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115750Z
+20160531T205329Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: en
 version: 1
-revision: fa627e93-7f79-49eb-aa4c-ecb71993602b
+revision: f6d3ac6e-0297-4c3b-bb7b-aaed34de70da
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -168,9 +175,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20120406T121100
+20120406T101100Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -184,25 +191,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-fa627e93-7f79-49eb-aa4c-ecb71993602b
+f6d3ac6e-0297-4c3b-bb7b-aaed34de70da
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20120816T163713:634807318337213362
+20160531T205329Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: 671f7a62-833c-4ab6-b845-936d2d2cbe9d
+revision: 22032756-2e23-47e8-8045-6627c5a43c95
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -224,7 +231,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T115351Z
+20151003T031014Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -238,18 +245,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-671f7a62-833c-4ab6-b845-936d2d2cbe9d
+22032756-2e23-47e8-8045-6627c5a43c95
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115351Z
+20160531T205329Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
