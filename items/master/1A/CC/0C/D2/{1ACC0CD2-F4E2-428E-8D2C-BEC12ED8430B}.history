@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/Griffin 2/Personal",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "aeee5a55116ad26a2aece47ec67c9c76795289e7"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{1ACC0CD2-F4E2-428E-8D2C-BEC12ED8430B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:52:49.7911245Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Personal",
+    "itemPath": "/sitecore/content/Griffin 2/Personal",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
