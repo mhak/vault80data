@@ -19,7 +19,7 @@ content-length: 2
 ----version----
 language: da
 version: 1
-revision: e204e302-f905-4c07-b969-c7cbb28ee49c
+revision: 4d1e1972-6b2d-4950-91c5-7387a309d388
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -55,25 +55,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e204e302-f905-4c07-b969-c7cbb28ee49c
+4d1e1972-6b2d-4950-91c5-7387a309d388
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T120255Z
+20160531T205308Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: de-DE
 version: 1
-revision: 721aab34-7aa0-4f20-8248-4b85c0a93897
+revision: c1bdd054-a339-44ca-a3fb-958b8cb8d407
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -109,21 +109,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-721aab34-7aa0-4f20-8248-4b85c0a93897
+c1bdd054-a339-44ca-a3fb-958b8cb8d407
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115842Z
+20160531T205308Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: en
 version: 1
@@ -174,7 +174,7 @@ sitecore\admin
 ----version----
 language: ja-JP
 version: 1
-revision: 5558d3f1-e1f8-41ca-a695-0f25be1e896e
+revision: 6818fd79-6821-440c-a25c-cecd416aca2d
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -210,18 +210,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5558d3f1-e1f8-41ca-a695-0f25be1e896e
+6818fd79-6821-440c-a25c-cecd416aca2d
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115425Z
+20160531T205308Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
