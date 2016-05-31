@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/Griffin 2/form",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "c5bb5c5bd044ca17d1e69e0d9317258b1503089a"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{4A544D07-145F-400B-BC27-BDD5C202E705}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:52:48.3565002Z",
+    "label": "Installed from package",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "form",
+    "itemPath": "/sitecore/content/Griffin 2/form",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
