@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/Griffin 2/Personal/College Savings",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "1d48a380d707d5cd07b9954487295aed90125c22"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{FC3E8E32-55A9-4F21-9054-5C004FFD0B8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:52:51.0594825Z",
+    "label": "Installed from package",
+    "workflowState": "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}",
+    "workflowStateName": "Approved",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "College Savings",
+    "itemPath": "/sitecore/content/Griffin 2/Personal/College Savings",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
