@@ -13,44 +13,51 @@ templatekey: Simulator
 field: {4E678FC0-8D35-4AB7-BB49-156F33C8B955}
 name: User agent
 key: user agent
-content-length: 141
+content-length: 136
 
-Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_0 like Mac OS X) AppleWebKit/600.1.3 (KHTML, like Gecko) Version/8.0 Mobile/12A4345d Safari/600.1.4
 ----field----
 field: {89E13671-A39E-432B-BD99-CF27B7F0F90D}
 name: Background Image
 key: background image
-content-length: 162
+content-length: 121
 
-<image mediaid="{C19E9164-FF99-4A05-B8C0-E9C931DA111F}" mediapath="/System/Simulator Backgrounds/iPhone" src="~/media/System/Simulator Backgrounds/iPhone.ashx" />
+<image mediaid="{C19E9164-FF99-4A05-B8C0-E9C931DA111F}" height="" hspace="" width="" alt="iPhone 6 Vertical" vspace="" />
 ----field----
 field: {82E5E42D-B707-4BC2-87BB-319497BD6C93}
 name: Screen Width
 key: screen width
 content-length: 3
 
-320
+375
 ----field----
 field: {E03FC568-58B8-44E7-A410-A25208602DB4}
 name: Screen Height
 key: screen height
 content-length: 3
 
-416
+650
 ----field----
 field: {A820E106-A624-4E1A-8F50-D672446CDF92}
 name: Screen Offset
 key: screen offset
 content-length: 7
 
-35, 147
+29, 125
+----field----
+field: {AB6934AF-A322-4BBE-AC3E-91F4A66BFBF5}
+name: Scale
+key: scale
+content-length: 38
+
+{85C66A5B-220A-48A2-89D1-51412B3B4124}
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
 key: __icon
-content-length: 33
+content-length: 27
 
-BusinessV2/16x16/mobilephone3.png
+Office/32x32/smartphone.png
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
@@ -62,13 +69,13 @@ content-length: 3
 field: {C7C26117-DBB1-42B2-AB5E-F7223845CCA3}
 name: __Thumbnail
 key: __thumbnail
-content-length: 162
+content-length: 58
 
-<image mediaid="{C19E9164-FF99-4A05-B8C0-E9C931DA111F}" mediapath="/System/Simulator Backgrounds/iPhone" src="~/media/System/Simulator Backgrounds/iPhone.ashx" />
+<image mediaid="{C19E9164-FF99-4A05-B8C0-E9C931DA111F}" />
 ----version----
 language: da
 version: 1
-revision: 621a2d0f-da82-4f49-bf77-53fadbc2d17c
+revision: 56cb588f-dfd3-464a-a505-ad2fa660a996
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -90,7 +97,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T120234Z
+20151003T031144Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -104,25 +111,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-621a2d0f-da82-4f49-bf77-53fadbc2d17c
+56cb588f-dfd3-464a-a505-ad2fa660a996
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T120234Z
+20160531T205325Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: de-DE
 version: 1
-revision: 5ca5b640-1213-41e6-bcc4-c06c59b93ae4
+revision: 4e0aa29f-0bf5-4265-b451-ad90fa3b2943
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -144,7 +151,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T115822Z
+20151003T030858Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -158,26 +165,33 @@ name: __Revision
 key: __revision
 content-length: 36
 
-5ca5b640-1213-41e6-bcc4-c06c59b93ae4
+4e0aa29f-0bf5-4265-b451-ad90fa3b2943
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115822Z
+20160531T205325Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: en
 version: 1
-revision: 84694667-7571-4d91-8e44-8bf4202506fa
+revision: 9b65f238-2288-46ae-a02e-b90a24a9c469
 
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 7
+
+iPhone™
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -189,9 +203,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 15
+content-length: 16
 
-20110719T155800
+20110719T135800Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -205,25 +219,25 @@ name: __Revision
 key: __revision
 content-length: 36
 
-84694667-7571-4d91-8e44-8bf4202506fa
+9b65f238-2288-46ae-a02e-b90a24a9c469
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20120406T144551:634693203512228711
+20160531T205325Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
 ----version----
 language: ja-JP
 version: 1
-revision: f17198e6-3829-48d2-a8ec-a86a8328f245
+revision: eda72703-96cb-4e32-ad40-2568bfe3ae79
 
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
@@ -245,7 +259,7 @@ name: __Created
 key: __created
 content-length: 16
 
-20150812T115411Z
+20151003T031023Z
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -259,18 +273,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-f17198e6-3829-48d2-a8ec-a86a8328f245
+eda72703-96cb-4e32-ad40-2568bfe3ae79
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20150812T115411Z
+20160531T205325Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 18
 
-sitecore\admin
+extranet\Anonymous
