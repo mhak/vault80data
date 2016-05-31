@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/Griffin 2/About Us",
     "commandType": "Item",
     "template": "Folder",
+    "sourceControlRevisionId": "8824d9fd8bc6be6b1f2b61f193b63325030de659"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{BCA475B8-0588-4158-8B61-6466385FE0AB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:52:48.5395960Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "About Us",
+    "itemPath": "/sitecore/content/Griffin 2/About Us",
+    "commandType": "Item",
+    "template": "Folder",
     "sourceControlRevisionId": null
   }
 ]
