@@ -711,6 +711,23 @@
     "itemPath": "/sitecore/content/Griffin 2",
     "commandType": "Item",
     "template": "Sample Item",
+    "sourceControlRevisionId": "863cbdc79875731b6ac33f8e69d9c95cab593318"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:52:47.9872406Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Griffin 2",
+    "itemPath": "/sitecore/content/Griffin 2",
+    "commandType": "Item",
+    "template": "Sample Item",
     "sourceControlRevisionId": null
   }
 ]
