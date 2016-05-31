@@ -133,6 +133,23 @@
     "itemPath": "/sitecore/content/Global/Home Settings",
     "commandType": "Item",
     "template": "Settings",
+    "sourceControlRevisionId": "39b7ed6f62a2235d7548efda13850ebe37aafc75"
+  },
+  {
+    "eventType": "PackageInstall",
+    "database": "master",
+    "itemId": "{D49BF37C-0256-4F6A-87DC-0AB8C6426503}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-05-31T20:52:54.0594844Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "Home Settings",
+    "itemPath": "/sitecore/content/Global/Home Settings",
+    "commandType": "Item",
+    "template": "Settings",
     "sourceControlRevisionId": null
   }
 ]
