@@ -20,51 +20,48 @@ Network/16x16/home.png
 field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
 name: __Renderings
 key: __renderings
-content-length: 1141
+content-length: 1255
 
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{39029125-28C0-4FDD-83CF-965ECB4C21BB}"><p:d /></r><r uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}"><p:d /></r><r uid="{86609FCA-1040-43D0-8088-972E9C4C38C1}" p:before="r[@uid='{A5F86069-2D1E-4C5A-A723-7349CC68DC93}']" s:ds="{EFB5AD90-D005-4BFC-BEE6-0A0B178BB3D9}" s:id="{F8478A12-F095-4EB0-A529-1615251F7EAE}" s:par="" s:ph="header" /><r uid="{A5F86069-2D1E-4C5A-A723-7349CC68DC93}" p:before="r[@uid='{A68646DF-B586-4F2E-9BBD-A742F8925FF4}']" s:ds="" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{A68646DF-B586-4F2E-9BBD-A742F8925FF4}" p:before="r[@uid='{487CD04A-95B7-4403-9CE2-7917A26C8981}']" s:ds="" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{487CD04A-95B7-4403-9CE2-7917A26C8981}" p:before="r[@uid='{A3526BA1-D046-4390-B71D-88155A243B9E}']" s:ds="" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{A3526BA1-D046-4390-B71D-88155A243B9E}" s:ds="{8E624FEC-6A2C-46A4-AE8B-F267D2713FBA}" s:id="{D283C5F1-ADBC-4D58-9CFA-66AC5B51EAAF}" s:par="" s:ph="footer" /></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{39029125-28C0-4FDD-83CF-965ECB4C21BB}"><p:d /></r><r uid="{1317256E-C6FB-40A9-BD06-5E10F4351BDA}"><p:d /></r><r uid="{86609FCA-1040-43D0-8088-972E9C4C38C1}" p:before="r[@uid='{A5F86069-2D1E-4C5A-A723-7349CC68DC93}']" s:ds="{EFB5AD90-D005-4BFC-BEE6-0A0B178BB3D9}" s:id="{F8478A12-F095-4EB0-A529-1615251F7EAE}" s:par="" s:ph="header" /><r uid="{A5F86069-2D1E-4C5A-A723-7349CC68DC93}" p:before="r[@uid='{A68646DF-B586-4F2E-9BBD-A742F8925FF4}']" s:ds="{54B6C191-3EBB-4559-BBEF-44AA04451BDB}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{A68646DF-B586-4F2E-9BBD-A742F8925FF4}" p:before="r[@uid='{487CD04A-95B7-4403-9CE2-7917A26C8981}']" s:ds="{CA877142-81CB-4C2A-AEA2-DF5737F25C48}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{487CD04A-95B7-4403-9CE2-7917A26C8981}" p:before="r[@uid='{A3526BA1-D046-4390-B71D-88155A243B9E}']" s:ds="{2779C422-2F5D-42FA-B2B8-769391A7EB16}" s:id="{C5D627D3-064F-4086-B307-DA0E51C439AD}" s:par="" s:ph="" /><r uid="{A3526BA1-D046-4390-B71D-88155A243B9E}" s:ds="{8E624FEC-6A2C-46A4-AE8B-F267D2713FBA}" s:id="{D283C5F1-ADBC-4D58-9CFA-66AC5B51EAAF}" s:par="" s:ph="footer" /></d></r>
 ----version----
 language: en
 version: 1
-revision: dd4d18e8-6e71-455f-b181-7e7797a24ff6
+revision: 2f7b87e6-8688-44af-9742-a4d9168a7285
 
 ----field----
 field: {AF561690-7884-4B53-98C4-0BC5DC293E7B}
 name: Header
 key: header
-content-length: 1280
+content-length: 2218
 
-Earlier today, EUR/USD sentiment flipped positive for the 5th time this calendar year. The previous 4 flips resulted in bursts higher on the exchange rate. Will this 5th time follow the previous patterns?
-<p><span style="font-weight: lighter;">Fed Funds futures for July have just tipped the 150% mark today for probabilities on a rate hike at a 52% chance. Retail traders are not impressed as EURUSD has been trading in a tight range for the past 3 days.&nbsp;</span></p>
-<p>Though sentiment, measured through the Speculative Sentiment Index, shifts aggressively towards bulls, this large shift would typically be seen as a bearish backdrop for prices. However, the previous 4 instances of a bulls cracking 50% resulted in the bullish sentiment.&nbsp;</p>
-<p>This may initially seem to run against the intent of the SSI readings which can be a good contrarian indicator.
-Upon closer inspection, each of the previous 4 instances occurred in an environment where traders participating in short positions plummeted (see purple arrows on the chart below).&nbsp;</p>
-<p>It was the evaporation of short traders that caused the aggressive shift higher in the SSI ratio. As a result, the market correction seemed to shake out the traders positioned short so it could take off higher.</p>
+<div class="el__leafmedia el__leafmedia--sourced-paragraph" style="box-sizing: border-box; color: #262626; font-family: CNN, 'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif; font-size: 15px; line-height: 24px; background-color: #fefefe;">
+<p class="zn-body__paragraph" style="box-sizing: border-box; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; -webkit-font-smoothing: antialiased; font-size: 1.2rem; line-height: 1.66667;"><cite class="el-editorial-source" style="box-sizing: border-box; font-family: CNN, 'Helvetica Neue', Verdana, Geneva, sans-serif; font-style: normal; font-weight: 700;">(CNN)</cite>U.S. military officials are closely watching social media and news reports that say ISIS believes it may soon come under siege in Raqqa, Syria, its self-declared capital.</p>
+</div>
+<p class="zn-body__paragraph" style="box-sizing: border-box; margin-bottom: 15px; font-family: CNN, 'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif; -webkit-font-smoothing: antialiased; font-size: 1.2rem; line-height: 1.66667; margin-right: 0px; color: #262626; background-color: #fefefe;"><span style="font-size: 1.2rem; line-height: 1.66667; font-weight: lighter;">"We have seen this declaration of emergency in Raqqa, whatever that means," Col. Steve Warren, the spokesman for the U.S.-led anti-ISIS coalition, told reporters Friday. "We know this enemy feels threatened, as they should."<br>
+<span style="font-size: 1.2rem; font-weight: lighter; line-height: 1.66667;">Media reports have indicated that ISIS is moving personnel around the city and trying to put up covers in certain areas to shield potential targets from airstrikes and ground attacks.</span><br>
+</span></p>
+<div class="zn-body__paragraph" style="box-sizing: border-box; margin-bottom: 15px; font-family: CNN, 'Helvetica Neue', Helvetica, Arial, Utkal, sans-serif; -webkit-font-smoothing: antialiased; font-size: 1.2rem; line-height: 1.66667; margin-right: 0px; color: #262626; background-color: #fefefe;"><a href="http://www.cnn.com/2016/05/05/middleeast/syria-palmyra-russia-concert/index.html" target="_blank" style="box-sizing: border-box; color: #006598; transition: color 0.2s;">Concert in the city recovered from ISIS</a></div>
 ----field----
 field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
 name: Title
 key: title
-content-length: 3
+content-length: 8
 
-FED
+New Page
 ----field----
 field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
 name: Body
 key: body
-content-length: 1088
+content-length: 26
 
-<p>It is worth noting that just because this pattern occurred in the past, doesn&rsquo;t mean it will continue moving forward. Correlations move into and out of the market without the market sending you a text it is changing!
-Also, this morning&rsquo;s flip in price isn&rsquo;t as clear cut as the previous 4 flips. Yes, the number of traders positioned short have shrank 13.7% since last week. Last week&rsquo;s figures were 10% lower than the previous week so participation is decreasing week over week for multiple weeks in a row. However, the number of bullish traders are on the rise and is close to surpassing previous high water marks on March 1, January 29, January 22, and January 5.
-See how traders are currently positioned by viewing real time SSI.
-Will a 5th EUR/USD Sentiment Flip Follow the Path of Previous 4?
-Looking into Elliott Wave Theory, we have a couple of patterns we are watching. The higher probability pattern we are following at this point is an A-B-C larger degree flat pattern which we opened the door to on December 11, 2015. On this A-B-C flat pattern.</p>
+<p>update at 4:30 4-19</p>
 ----field----
 field: {30F053C4-4168-4FF9-BFE5-B9743B9DAB08}
 name: Bottom
 key: bottom
-content-length: 581
+content-length: 0
 
-Blue ‘A’ and blue ‘B’ are already complete (see image 2 above). That leaves blue ‘C’ in process. ‘C’ waves unfold as a motive wave except for in triangles. Therefore, we are anticipating this ‘C’ wave to unfold as a diagonal type of pattern. In the idealized diagonal pattern below, it appears like we are putting the finishing touches on the 4th wave of the 5 wave structure. Using ratio analysis, we are anticipating this 4th wave to terminate in the 1.1050-1.1200 price zone then turn higher. A material breach below 1.10 will be cause for us to reconsider our alternate counts.
+
 ----field----
 field: {6ACE2616-03A1-47F6-9700-179B07C5AFA3}
 name: Footer
@@ -92,21 +89,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-dd4d18e8-6e71-455f-b181-7e7797a24ff6
+2f7b87e6-8688-44af-9742-a4d9168a7285
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160531T201207Z
+20160531T205248Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 15
+content-length: 18
 
-sitecore\martin
+extranet\Anonymous
 ----field----
 field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
 name: __Lock
