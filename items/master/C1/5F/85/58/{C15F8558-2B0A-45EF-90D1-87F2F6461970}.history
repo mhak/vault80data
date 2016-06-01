@@ -133,6 +133,23 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
+    "sourceControlRevisionId": "b358c95fd8c3b8501b352b954e7e022e71866a27"
+  },
+  {
+    "eventType": "Renamed",
+    "database": "master",
+    "itemId": "{C15F8558-2B0A-45EF-90D1-87F2F6461970}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T20:19:23.9159040Z",
+    "label": "Renamed NEB to NEB - renamed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "NEB - renamed",
+    "itemPath": "/sitecore/content/Martin/NEB - renamed",
+    "commandType": "Item",
+    "template": "My Test Template",
     "sourceControlRevisionId": null
   }
 ]
