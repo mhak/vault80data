@@ -915,6 +915,23 @@
     "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
     "commandType": "Item",
     "template": "Schedule",
+    "sourceControlRevisionId": "efd9d20500dacb10906a50c5676d1d625c642712"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{5A507736-A0A2-46F7-BE59-7324E584796E}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T06:23:06.7240082Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\Anonymous",
+    "itemName": "Try Finish Test",
+    "itemPath": "/sitecore/system/Tasks/Schedules/Content Testing/Try Finish Test",
+    "commandType": "Item",
+    "template": "Schedule",
     "sourceControlRevisionId": null
   }
 ]
