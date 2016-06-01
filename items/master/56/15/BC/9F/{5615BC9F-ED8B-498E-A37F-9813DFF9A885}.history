@@ -65,6 +65,23 @@
     "itemPath": "/sitecore/content/Martin",
     "commandType": "Item",
     "template": "Site Section",
-    "sourceControlRevisionId": "58e041dcabf5917fd06b0b3d329fd91d0ca0f17b"
+    "sourceControlRevisionId": "e72333afa071454b70993fa3fe1f9fba6d10d1d3"
+  },
+  {
+    "eventType": "VaultRestored",
+    "database": "master",
+    "itemId": "{5615BC9F-ED8B-498E-A37F-9813DFF9A885}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T20:17:50.7410396Z",
+    "label": "Restored",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "Martin",
+    "itemPath": "/sitecore/content/Martin",
+    "commandType": "Item",
+    "template": "Site Section",
+    "sourceControlRevisionId": null
   }
 ]
