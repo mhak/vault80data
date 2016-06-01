@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/templates/Test/My Test Template",
     "commandType": "Item",
     "template": "Template",
+    "sourceControlRevisionId": "75c830261a6e1608fecf3a612e711b5011234613"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{A64B302E-ACB8-472B-B72C-AE2FCA5E251C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T19:56:55.1770283Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "My Test Template",
+    "itemPath": "/sitecore/templates/Test/My Test Template",
+    "commandType": "Item",
+    "template": "Template",
     "sourceControlRevisionId": null
   }
 ]
