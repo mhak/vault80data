@@ -184,6 +184,23 @@
     "itemPath": "/sitecore/content/Martin/NEB - renamed",
     "commandType": "Item",
     "template": "My Test Template",
+    "sourceControlRevisionId": "48659c4b9a4bb3ab1e7453484736845cc1e2c045"
+  },
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C15F8558-2B0A-45EF-90D1-87F2F6461970}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T20:22:29.6240145Z",
+    "label": "Snapshot - Martin",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "NEB - renamed",
+    "itemPath": "/sitecore/content/Martin/NEB - renamed",
+    "commandType": "Item",
+    "template": "My Test Template",
     "sourceControlRevisionId": null
   }
 ]
