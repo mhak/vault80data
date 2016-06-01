@@ -14,6 +14,23 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
+    "sourceControlRevisionId": "07747288f3774987b8cd14d971aa5090be3ad4b3"
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{C15F8558-2B0A-45EF-90D1-87F2F6461970}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-01T20:08:53.8776039Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\martin",
+    "itemName": "NEB",
+    "itemPath": "/sitecore/content/Martin/NEB",
+    "commandType": "Item",
+    "template": "My Test Template",
     "sourceControlRevisionId": null
   }
 ]
