@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{71931565-21BA-4951-A829-AA3B8DA59F9C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-13T17:13:38.4876973Z",
+    "label": "Deployed from Sprint 2 QA release",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "workflowStateName": "Draft",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "delete demo",
+    "itemPath": "/sitecore/content/New Sample Item/delete demo",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.140"
+  }
+]
