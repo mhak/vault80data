@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Deployed",
+    "database": "master",
+    "itemId": "{251F2EA1-0A60-4CD4-BAED-372E6D8DFF55}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-13T17:13:38.0797925Z",
+    "label": "Deployed from Sprint 2 QA release",
+    "workflowState": "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}",
+    "workflowStateName": "Draft",
+    "activeUser": "extranet\\Anonymous",
+    "itemName": "New Sample Item",
+    "itemPath": "/sitecore/content/New Sample Item",
+    "commandType": "Item",
+    "template": "Sample Item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.140"
+  }
+]
