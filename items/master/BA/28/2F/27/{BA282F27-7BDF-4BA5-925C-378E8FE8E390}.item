@@ -56,15 +56,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 40aa2a2c-c08f-4522-9055-3c274bc23ca8
+revision: 4229059f-22aa-42b4-a85c-890e7739bc4f
 
 ----field----
 field: {83DC9BCD-62D5-4EA9-BC01-AB3E8EE9F24F}
 name: Body
 key: body
-content-length: 19
+content-length: 0
 
-<p>My test text</p>
+
 ----field----
 field: {991A82A6-0C6A-41BC-AD0C-81153B04EDC6}
 name: Head
@@ -114,14 +114,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-40aa2a2c-c08f-4522-9055-3c274bc23ca8
+4229059f-22aa-42b4-a85c-890e7739bc4f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160614T162149Z
+20160614T162236Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
