@@ -14,7 +14,9 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "07747288f3774987b8cd14d971aa5090be3ad4b3"
+    "sourceControlRevisionId": "07747288f3774987b8cd14d971aa5090be3ad4b3",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -31,7 +33,9 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "935cc1349f0e9799ac1ab717308a73e3c2db0942"
+    "sourceControlRevisionId": "935cc1349f0e9799ac1ab717308a73e3c2db0942",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "VersionAdded",
@@ -48,7 +52,9 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "46edc731f881c5cf8e7289d92d15190a4a7656ac"
+    "sourceControlRevisionId": "46edc731f881c5cf8e7289d92d15190a4a7656ac",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -65,7 +71,9 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "00738d74ce22206d9560851f05f0adcf757096ed"
+    "sourceControlRevisionId": "00738d74ce22206d9560851f05f0adcf757096ed",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Deleted",
@@ -82,7 +90,9 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "ed06fec11602612e538fb0518e5f22144016eee6"
+    "sourceControlRevisionId": "ed06fec11602612e538fb0518e5f22144016eee6",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "VaultRestored",
@@ -99,7 +109,9 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "013dd5225ea8f141e027cbb723a2776b5ba43c3d"
+    "sourceControlRevisionId": "013dd5225ea8f141e027cbb723a2776b5ba43c3d",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Deleted",
@@ -116,7 +128,9 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "a084339efe71d0ed7f738597ccd2babd1b127074"
+    "sourceControlRevisionId": "a084339efe71d0ed7f738597ccd2babd1b127074",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "VaultRestored",
@@ -133,7 +147,9 @@
     "itemPath": "/sitecore/content/Martin/NEB",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "b358c95fd8c3b8501b352b954e7e022e71866a27"
+    "sourceControlRevisionId": "b358c95fd8c3b8501b352b954e7e022e71866a27",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Renamed",
@@ -150,7 +166,9 @@
     "itemPath": "/sitecore/content/Martin/NEB - renamed",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "498432ac030b6a163ae92940c6bd244c83455278"
+    "sourceControlRevisionId": "498432ac030b6a163ae92940c6bd244c83455278",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -167,7 +185,9 @@
     "itemPath": "/sitecore/content/Martin/NEB - renamed",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "836ab57384996c92e819c1349f08f8a3b6ddaaa5"
+    "sourceControlRevisionId": "836ab57384996c92e819c1349f08f8a3b6ddaaa5",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Saved",
@@ -184,7 +204,9 @@
     "itemPath": "/sitecore/content/Martin/NEB - renamed",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": "48659c4b9a4bb3ab1e7453484736845cc1e2c045"
+    "sourceControlRevisionId": "48659c4b9a4bb3ab1e7453484736845cc1e2c045",
+    "sitecoreVersion": null,
+    "vaultVersion": null
   },
   {
     "eventType": "Snapshot",
@@ -201,6 +223,27 @@
     "itemPath": "/sitecore/content/Martin/NEB - renamed",
     "commandType": "Item",
     "template": "My Test Template",
-    "sourceControlRevisionId": null
+    "sourceControlRevisionId": "2a93b783f4abe26b674cafa2d0544296acd64bb6",
+    "sitecoreVersion": null,
+    "vaultVersion": null
+  },
+  {
+    "eventType": "Deleted",
+    "database": "master",
+    "itemId": "{C15F8558-2B0A-45EF-90D1-87F2F6461970}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2016-06-16T21:15:56.4725392Z",
+    "label": "Deleted",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\meng",
+    "itemName": "NEB - renamed",
+    "itemPath": "/sitecore/content/Martin/NEB - renamed",
+    "commandType": "Item",
+    "template": "My Test Template",
+    "sourceControlRevisionId": "2a93b783f4abe26b674cafa2d0544296acd64bb6",
+    "sitecoreVersion": "8.0.150812",
+    "vaultVersion": "1.0.140"
   }
 ]
