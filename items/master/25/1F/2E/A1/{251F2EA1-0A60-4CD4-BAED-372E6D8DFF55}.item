@@ -2,9 +2,9 @@
 version: 1
 id: {251F2EA1-0A60-4CD4-BAED-372E6D8DFF55}
 database: master
-path: /sitecore/content/New Sample Item
+path: /sitecore/content/Products
 parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
-name: New Sample Item
+name: Products
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
@@ -19,15 +19,15 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 90dc2d06-3e6f-4483-8b39-7459e05adec9
+revision: 2459616c-3de0-4831-b335-5f9456400314
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
 name: Title
 key: title
-content-length: 11
+content-length: 8
 
-Sample Item
+Products
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -48,14 +48,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-90dc2d06-3e6f-4483-8b39-7459e05adec9
+2459616c-3de0-4831-b335-5f9456400314
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160613T171337Z
+20160620T204933Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
