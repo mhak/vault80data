@@ -2,94 +2,10 @@
 version: 1
 id: {F4ED4AB7-F6FB-4FBD-95BB-4329861321AC}
 database: master
-path: /sitecore/content/Products/Toy
-parent: {251F2EA1-0A60-4CD4-BAED-372E6D8DFF55}
+path: /Toy
+parent: {00000000-0000-0000-0000-000000000000}
 name: Toy
 master: {00000000-0000-0000-0000-000000000000}
 template: {CDE8271E-D3C4-4859-9A8C-6E9315A28CBF}
 templatekey: toy
 
-----version----
-language: en
-version: 1
-revision: 9d1b3b73-a3d3-4f54-b024-e8a7c4921a6f
-
-----field----
-field: {08923DF6-B4E7-4391-8F0D-EBFA59AD6B78}
-name: Name
-key: name
-content-length: 13
-
-Action Figure
-----field----
-field: {5FE81C70-6A95-42B7-B6F8-445B0D8765EB}
-name: Description
-key: description
-content-length: 580
-
-They are all different style.The figures are randomly assigned, there must be some different from the picture shows. You may receive some Duplicate style. please understand.
-
-These are toys. Great fun toys. And kids will enjoy the high articulation and great sculpts. Adult collectors enjoy those as well. The action gimmicks are a bit much but kids will enjoy playing with them.
-
-This is for boys and girls and is specially designed for simple assembly. Manufactured with non-toxic materials comes with a kid-friendly colors and has extremely stable handling characteristics.
-----field----
-field: {BA7D9A3E-EB23-4F55-B389-64EAB4B75D65}
-name: Features
-key: features
-content-length: 201
-
-<ul>
-    <li>Height:Approx 4-5cm/1.6-2inch</li>
-    <li>Material:PVC Plastic</li>
-    <li>Great gift for children or movie fans</li>
-    <li>Package include 24 pvc dolls With OPP Plastic Bag</li>
-</ul>
-----field----
-field: {AF6D3278-C3C9-42FE-B1C6-65C6FFFC8646}
-name: Price
-key: price
-content-length: 4
-
-5.00
-----field----
-field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
-name: __Owner
-key: __owner
-content-length: 13
-
-sitecore\meng
-----field----
-field: {25BED78C-4957-4165-998A-CA1B52F67497}
-name: __Created
-key: __created
-content-length: 16
-
-20160613T171009Z
-----field----
-field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
-name: __Created by
-key: __created by
-content-length: 13
-
-sitecore\meng
-----field----
-field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
-name: __Revision
-key: __revision
-content-length: 36
-
-9d1b3b73-a3d3-4f54-b024-e8a7c4921a6f
-----field----
-field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
-name: __Updated
-key: __updated
-content-length: 16
-
-20160622T003945Z
-----field----
-field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
-name: __Updated by
-key: __updated by
-content-length: 18
-
-extranet\Anonymous
