@@ -2,9 +2,9 @@
 version: 1
 id: {251F2EA1-0A60-4CD4-BAED-372E6D8DFF55}
 database: master
-path: /sitecore/content/Products
+path: /sitecore/content/Products YO
 parent: {0DE95AE4-41AB-4D01-9EB0-67441B7C2450}
-name: Products
+name: Products YO
 master: {00000000-0000-0000-0000-000000000000}
 template: {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}
 templatekey: Sample Item
@@ -19,7 +19,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 285a5127-9dcf-44aa-a361-6bfa3f244bf9
+revision: 891c3d09-a3e0-4a93-8dc1-a0b6c7a7766f
 
 ----field----
 field: {75577384-3C97-45DA-A847-81B00500E250}
@@ -48,21 +48,21 @@ name: __Revision
 key: __revision
 content-length: 36
 
-285a5127-9dcf-44aa-a361-6bfa3f244bf9
+891c3d09-a3e0-4a93-8dc1-a0b6c7a7766f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160621T202155Z
+20160627T231631Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 15
 
-extranet\Anonymous
+sitecore\martin
 ----field----
 field: {3E431DE1-525E-47A3-B6B0-1CCBEC3A8C98}
 name: __Workflow state
