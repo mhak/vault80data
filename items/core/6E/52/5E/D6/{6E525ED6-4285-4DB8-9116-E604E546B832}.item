@@ -2,9 +2,9 @@
 version: 1
 id: {6E525ED6-4285-4DB8-9116-E604E546B832}
 database: core
-path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/TimeCreated
+path: /sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/PageSettings/Lists/DeplomentItems/Last Modified
 parent: {9E71A576-906D-464E-9F87-C8A997F4BB98}
-name: TimeCreated
+name: Last Modified
 master: {00000000-0000-0000-0000-000000000000}
 template: {D3CEFE6E-E51B-4A84-B92E-AAF8AA8E8DC8}
 templatekey: ColumnField
@@ -13,9 +13,9 @@ templatekey: ColumnField
 field: {E67F1B1F-3488-4CF4-80AE-BE285C918C2E}
 name: DataField
 key: datafield
-content-length: 13
+content-length: 18
 
-CreatedString
+LastModifiedString
 ----field----
 field: {B2A46AE4-38F9-4538-A2B3-8021083E0E40}
 name: Sortable
@@ -47,15 +47,15 @@ content-length: 3
 ----version----
 language: en
 version: 1
-revision: 102913f1-73bd-49f6-9daa-ccaf9b87ab16
+revision: 67400cfa-5f58-411f-86a7-10e4a331a52f
 
 ----field----
 field: {2E9FD749-0F47-4397-8BA2-C56C65366BF0}
 name: HeaderText
 key: headertext
-content-length: 7
+content-length: 13
 
-Created
+Last Modified
 ----field----
 field: {75388012-D191-4561-8074-5340E149C0A5}
 name: SortField
@@ -90,14 +90,75 @@ name: __Revision
 key: __revision
 content-length: 36
 
-102913f1-73bd-49f6-9daa-ccaf9b87ab16
+67400cfa-5f58-411f-86a7-10e4a331a52f
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160408T184712Z
+20160505T231352Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 13
+
+sitecore\mhak
+----version----
+language: en
+version: 2
+revision: 67400cfa-5f58-411f-86a7-10e4a331a52f
+
+----field----
+field: {2E9FD749-0F47-4397-8BA2-C56C65366BF0}
+name: HeaderText
+key: headertext
+content-length: 13
+
+Last Modified
+----field----
+field: {75388012-D191-4561-8074-5340E149C0A5}
+name: SortField
+key: sortfield
+content-length: 0
+
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20150803T183418Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+67400cfa-5f58-411f-86a7-10e4a331a52f
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160505T231352Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
