@@ -73,15 +73,15 @@ extranet\Anonymous
 ----version----
 language: en
 version: 2
-revision: 91f50c77-5c14-4826-8f87-4da0d3ca892e
+revision: 9ad3392b-2b91-4ec4-aea5-34ca1e4c2ae4
 
 ----field----
 field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
 name: Title
 key: title
-content-length: 12
+content-length: 28
 
-Disclosure 1
+Disclosure 1 GO MESS AROUND!
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
@@ -109,18 +109,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-91f50c77-5c14-4826-8f87-4da0d3ca892e
+9ad3392b-2b91-4ec4-aea5-34ca1e4c2ae4
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160531T205251Z
+20160630T205141Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 15
 
-extranet\Anonymous
+sitecore\martin
