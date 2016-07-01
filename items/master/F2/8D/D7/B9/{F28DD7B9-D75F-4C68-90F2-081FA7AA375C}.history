@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "Created",
-    "database": "master",
-    "itemId": "{F28DD7B9-D75F-4C68-90F2-081FA7AA375C}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-05-23T18:04:53.7891117Z",
-    "label": "Created",
-    "workflowState": "",
-    "activeUser": "sitecore\\meng",
-    "itemName": "My-Banking2",
-    "itemPath": "/sitecore/content/Micah sucks/My-Banking2",
-    "commandType": "Item",
-    "template": "HealthWealthPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"Created","database":"master","itemId":"{F28DD7B9-D75F-4C68-90F2-081FA7AA375C}","version":1,"language":"en","timestamp":"2016-05-23T18:04:53.7891117Z","label":"Created","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\meng","itemName":"My-Banking2","itemPath":"/sitecore/content/Micah sucks/My-Banking2","template":"HealthWealthPage","sourceControlRevisionId":"c0d3a46a4ccfa3bffc57003e883ca6481f7a1ee6","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Published","database":"master","itemId":"{F28DD7B9-D75F-4C68-90F2-081FA7AA375C}","version":1,"language":"en","timestamp":"2016-07-01T19:04:34.2897650Z","label":"Published(SingleItem)","workflowState":"","workflowStateName":"","activeUser":"sitecore\\admin","itemName":"My-Banking2","itemPath":"/sitecore/content/Other Home/My-Banking2","template":"HealthWealthPage","sourceControlRevisionId":null,"sitecoreVersion":"8.0.150812","vaultVersion":"1.0.140","deploymentId":null}]
