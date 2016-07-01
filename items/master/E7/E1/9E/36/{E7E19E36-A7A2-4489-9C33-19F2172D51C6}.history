@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "Created",
-    "database": "master",
-    "itemId": "{E7E19E36-A7A2-4489-9C33-19F2172D51C6}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-05-23T18:04:53.6415667Z",
-    "label": "Created",
-    "workflowState": "",
-    "activeUser": "sitecore\\meng",
-    "itemName": "Logout",
-    "itemPath": "/sitecore/content/Micah sucks/Logout",
-    "commandType": "Item",
-    "template": "HealthWealthPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"Created","database":"master","itemId":"{E7E19E36-A7A2-4489-9C33-19F2172D51C6}","version":1,"language":"en","timestamp":"2016-05-23T18:04:53.6415667Z","label":"Created","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\meng","itemName":"Logout","itemPath":"/sitecore/content/Micah sucks/Logout","template":"HealthWealthPage","sourceControlRevisionId":"e48d5ac157394e9b0e449f6e04d7cca8cf66972b","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Published","database":"master","itemId":"{E7E19E36-A7A2-4489-9C33-19F2172D51C6}","version":1,"language":"en","timestamp":"2016-07-01T19:04:33.8647637Z","label":"Published(SingleItem)","workflowState":"","workflowStateName":"","activeUser":"sitecore\\admin","itemName":"Logout","itemPath":"/sitecore/content/Other Home/Logout","template":"HealthWealthPage","sourceControlRevisionId":null,"sitecoreVersion":"8.0.150812","vaultVersion":"1.0.140","deploymentId":null}]
