@@ -1,18 +1,1 @@
-[
-  {
-    "eventType": "Created",
-    "database": "master",
-    "itemId": "{1C180699-5001-4CD1-81C7-D96A48A74726}",
-    "version": 1,
-    "language": "en",
-    "timestamp": "2016-05-23T18:04:53.7091229Z",
-    "label": "Created",
-    "workflowState": "",
-    "activeUser": "sitecore\\meng",
-    "itemName": "TestVault",
-    "itemPath": "/sitecore/content/Micah sucks/TestVault",
-    "commandType": "Item",
-    "template": "HealthWealthPage",
-    "sourceControlRevisionId": null
-  }
-]
+[{"eventType":"Created","database":"master","itemId":"{1C180699-5001-4CD1-81C7-D96A48A74726}","version":1,"language":"en","timestamp":"2016-05-23T18:04:53.7091229Z","label":"Created","workflowState":"","workflowStateName":null,"activeUser":"sitecore\\meng","itemName":"TestVault","itemPath":"/sitecore/content/Micah sucks/TestVault","template":"HealthWealthPage","sourceControlRevisionId":"33e69a149487519024220e5b8e77e36f09026b4c","sitecoreVersion":null,"vaultVersion":null,"deploymentId":null},{"eventType":"Published","database":"master","itemId":"{1C180699-5001-4CD1-81C7-D96A48A74726}","version":1,"language":"en","timestamp":"2016-07-01T19:04:34.7282955Z","label":"Published(SingleItem)","workflowState":"","workflowStateName":"","activeUser":"sitecore\\admin","itemName":"TestVault","itemPath":"/sitecore/content/Other Home/TestVault","template":"HealthWealthPage","sourceControlRevisionId":null,"sitecoreVersion":"8.0.150812","vaultVersion":"1.0.140","deploymentId":null}]
