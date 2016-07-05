@@ -26,15 +26,15 @@ content-length: 279
 ----version----
 language: en
 version: 1
-revision: a6b0b6ad-29e1-410d-948b-78334609b415
+revision: 956badf7-c891-410c-a682-aae3d74c5df5
 
 ----field----
 field: {CC45B3FB-4DDB-4C7D-8FD0-9CAC3BD67156}
 name: Title
 key: title
-content-length: 11
+content-length: 10
 
-Disclosure2
+Disclosure
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -55,18 +55,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-a6b0b6ad-29e1-410d-948b-78334609b415
+956badf7-c891-410c-a682-aae3d74c5df5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160531T205252Z
+20160705T185039Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 18
+content-length: 15
 
-extranet\Anonymous
+sitecore\martin
