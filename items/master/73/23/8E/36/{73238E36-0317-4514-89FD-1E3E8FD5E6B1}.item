@@ -12,15 +12,15 @@ templatekey: Site Section
 ----version----
 language: en
 version: 1
-revision: d0c4ad90-d70a-4a2f-96e4-5b9802c6a64b
+revision: 3aa8f93d-2701-4d04-9fa8-30dad1a15b59
 
 ----field----
 field: {8055A9D0-9E1D-4326-8579-4E22624CB0DE}
 name: Active
 key: active
-content-length: 22
+content-length: 8
 
-Vux skal snart i seng!
+lige nu!
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -34,18 +34,18 @@ name: __Revision
 key: __revision
 content-length: 36
 
-d0c4ad90-d70a-4a2f-96e4-5b9802c6a64b
+3aa8f93d-2701-4d04-9fa8-30dad1a15b59
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160718T075223Z
+20160718T080901Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
 key: __updated by
-content-length: 14
+content-length: 15
 
-sitecore\admin
+sitecore\martin
