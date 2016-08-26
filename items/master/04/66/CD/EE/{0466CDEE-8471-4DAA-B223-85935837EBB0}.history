@@ -412,8 +412,27 @@
     "itemName": "Description",
     "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Description",
     "template": "Template field",
-    "sourceControlRevisionId": null,
+    "sourceControlRevisionId": "fd9b4714b92966dbb603759cf2b2c37741b5495c",
     "sitecoreVersion": "8.1.151207",
+    "vaultVersion": "1.0.144",
+    "deploymentId": null
+  },
+  {
+    "eventType": "Saved",
+    "database": "master",
+    "itemId": "{0466CDEE-8471-4DAA-B223-85935837EBB0}",
+    "version": 1,
+    "language": "da",
+    "timestamp": "2016-08-26T17:59:28.7657729Z",
+    "label": "Saved",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Description",
+    "itemPath": "/sitecore/templates/List Manager/Contact List/Data/Description",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.0.150812",
     "vaultVersion": "1.0.144",
     "deploymentId": null
   }
